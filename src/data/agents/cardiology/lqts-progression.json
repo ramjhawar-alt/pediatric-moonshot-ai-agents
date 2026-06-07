@@ -1,0 +1,110 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "Long QT Syndrome  |  100-Point Adverse Prognostic Score  |  HRS/EHRA/APHRS 2013 Channelopathy Guidelines / AHA/ACC 2017 Ventricular Arrhythmia Guidelines / ESC 2022 Ventricular Arrhythmia Guidelines  |  SCD and Arrhythmia Risk Trajectory: Fast / Moderate / Slow",
+  "sections": [
+    {
+      "heading": "Prior Cardiac Arrest / Aborted SCA",
+      "sectionPoints": 0,
+      "questions": [
+        {
+          "domain": "Prior Cardiac Arrest / Aborted SCA",
+          "question": "Is there a history of resuscitated cardiac arrest or documented ventricular fibrillation attributed to LQTS?",
+          "confirmingAnswer": "Yes — aborted SCA confirmed; highest-risk LQTS subgroup; ICD implantation Class I regardless of QTc; recurrent SCA risk ~10%/year without ICD; immediate ICD implantation and beta-blocker required",
+          "points": 20,
+          "cost": "Small"
+        },
+        {
+          "domain": "Documented Torsades de Pointes",
+          "question": "Is there documented torsades de pointes (TdP) or polymorphic VT on telemetry, Holter, or event monitor?",
+          "confirmingAnswer": "Yes — confirmed TdP; direct mechanism of syncope and SCA in LQTS; establishes high-risk classification; ICD strongly recommended; left cardiac sympathetic denervation (LCSD) consideration",
+          "points": 15,
+          "cost": "Small"
+        },
+        {
+          "domain": "Markedly Prolonged QTc",
+          "question": "Is QTc ≥500 ms on resting 12-lead ECG (Bazett correction, average of 3–5 beats)?",
+          "confirmingAnswer": "Yes — QTc ≥500 ms confirmed; >10-fold increased SCD risk vs. general population; independent high-risk marker per HRS/EHRA/APHRS; ICD consideration even in asymptomatic patients",
+          "points": 15,
+          "cost": "Small"
+        },
+        {
+          "domain": "QTc 480–499 ms with Risk Features",
+          "question": "Is QTc 480–499 ms with accompanying syncope history, high-risk genotype (LQT2/LQT3), or family SCD history?",
+          "confirmingAnswer": "Yes — moderately prolonged QTc with compounding risk features confirmed; cumulative risk exceeds isolated QTc threshold; ICD discussion warranted",
+          "points": 7,
+          "cost": "Small"
+        },
+        {
+          "domain": "T-Wave Alternans or 2:1 AV Block",
+          "question": "Is there T-wave alternans (beat-to-beat alternation in T-wave amplitude or polarity) or 2:1 AV block on ECG or Holter?",
+          "confirmingAnswer": "Yes — T-wave alternans or 2:1 AV block confirmed; markers of severe repolarization instability; 2:1 AV block in neonatal LQTS (LQT3) carries very high mortality without pacing",
+          "points": 3,
+          "cost": "Small"
+        },
+        {
+          "domain": "Jervell and Lange-Nielsen Syndrome",
+          "question": "Is there confirmed Jervell and Lange-Nielsen syndrome (biallelic KCNQ1 loss-of-function + congenital sensorineural deafness)?",
+          "confirmingAnswer": "Yes — JLN syndrome confirmed; most severe LQTS phenotype; near-universal arrhythmia events without treatment; ICD implantation in virtually all patients; LCSD adjunct strongly recommended",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "LQT2 or LQT3 High-Risk Genotype",
+          "question": "Is the genotype LQT2 (KCNH2 pathogenic variant) or LQT3 (SCN5A gain-of-function), particularly with pore-region or dominant-negative mutations?",
+          "confirmingAnswer": "Yes — LQT2/LQT3 high-risk genotype confirmed; LQT2 pore mutations and LQT3 SCN5A variants carry higher arrhythmia rates than LQT1; genotype-specific therapy (mexiletine for LQT3) available",
+          "points": 8,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Recurrent Syncope",
+          "question": "Has the patient had ≥2 syncopal episodes on beta-blocker therapy, or syncope with a clearly identified LQTS trigger (swimming, auditory startle, sleep)?",
+          "confirmingAnswer": "Yes — recurrent or breakthrough syncope on therapy confirmed; beta-blocker failure; ICD implantation or LCSD escalation required; nadolol dose optimization before ICD if not yet maximized",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "High-Risk Trigger Exposure",
+          "question": "Is the patient regularly exposed to confirmed high-risk genotype-specific triggers without adequate precautions (competitive swimming for LQT1; alarm clocks / sudden noise for LQT2; bradycardia during sleep for LQT3)?",
+          "confirmingAnswer": "Yes — ongoing high-risk trigger exposure confirmed; immediate lifestyle modification counseling required; activity restrictions per genotype; QTc-prolonging drug avoidance (CredibleMeds review)",
+          "points": 4,
+          "cost": "Small"
+        },
+        {
+          "domain": "Family SCD Under Age 40",
+          "question": "Is there unexplained sudden cardiac death at age <40 years or unexplained drowning in a first- or second-degree relative?",
+          "confirmingAnswer": "Yes — family SCD or drowning history confirmed; consistent with lethal LQTS event; raises risk classification; triggers cascade screening of all first-degree relatives",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Multiple Affected Family Members",
+          "question": "Are there ≥2 first-degree relatives with confirmed LQTS or pathogenic variant in the same gene?",
+          "confirmingAnswer": "Yes — high-penetrance familial LQTS confirmed; indicates severe mutation with strong expressivity; higher likelihood of recurrent events across the family; genetic counseling required",
+          "points": 2,
+          "cost": "Small"
+        },
+        {
+          "domain": "QTc-Prolonging Drug Exposure",
+          "question": "Is the patient currently taking one or more QTc-prolonging medications (antiemetics, antibiotics, antidepressants, antifungals) identified on CredibleMeds review?",
+          "confirmingAnswer": "Yes — drug-induced QT prolongation risk confirmed; immediate medication reconciliation required; substitute non-QT-prolonging alternatives wherever possible; electrolyte correction (K⁺ ≥4.0, Mg²⁺ ≥0.85)",
+          "points": 2,
+          "cost": "Small"
+        },
+        {
+          "domain": "Electrolyte Depletion",
+          "question": "Is there documented hypokalemia (K⁺ <3.5 mEq/L) or hypomagnesemia (Mg²⁺ <0.75 mmol/L) on labs?",
+          "confirmingAnswer": "Yes — electrolyte depletion confirmed; potassium and magnesium are critical for cardiac repolarization; replaces electrolytes promptly; high-potassium diet and supplementation as needed",
+          "points": 1,
+          "cost": "Small"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {},
+  "guidelinesCitation": "HRS/EHRA/APHRS 2013 Channelopathy Expert Consensus (Priori et al.)  |  AHA/ACC/HRS 2017 Ventricular Arrhythmia Guidelines (Al-Khatib et al.)  |  ESC 2022 Ventricular Arrhythmia Guidelines (Zeppenfeld et al.)  |  Schwartz et al. Circulation 1993/2006 (Schwartz score)  |  Priori et al. Circulation 2003 (genotype-risk stratification)  |  Moss et al. NEJM 2000 (beta-blocker efficacy)  |  Dorostkar et al. JACC 1999 (LCSD outcomes)",
+  "conditionId": 59,
+  "conditionName": "Long QT Syndrome",
+  "specialty": "cardiology",
+  "agentType": "progression"
+}

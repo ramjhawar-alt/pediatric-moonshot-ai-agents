@@ -1,0 +1,143 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "Secondary FSGS  |  Adaptive glomerular response to hyperfiltration from obesity, reduced nephron mass, sickle cell, reflux, or prior renal injury  |  Points reflect diagnostic weight. Cost: Small = standard labs/exam  |  Medium = targeted workup ($200–$1,500)  |  Large = renal biopsy ($3,000–$10,000+)  |  KEY DISTINCTION: sub-nephrotic proteinuria, perihilar variant on biopsy, focal foot process effacement on EM — immunosuppression NOT indicated.",
+  "sections": [
+    {
+      "heading": "Clinical Presentation",
+      "sectionPoints": 0,
+      "questions": [
+        {
+          "domain": "Clinical Presentation",
+          "question": "Is proteinuria in the sub-nephrotic range (urine PCR 0.5–3.0 mg/mg or 24-hr protein 1–3.5 g/day)?",
+          "confirmingAnswer": "Yes — sub-nephrotic proteinuria confirmed; typical of secondary FSGS from hyperfiltration rather than primary podocyte injury",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "Clinical Presentation",
+          "question": "Is serum albumin normal or only mildly reduced (≥3.0 g/dL) despite significant proteinuria?",
+          "confirmingAnswer": "Yes — preserved albumin with sub-nephrotic proteinuria; distinguishes secondary FSGS from primary nephrotic syndrome",
+          "points": 7,
+          "cost": "Small"
+        },
+        {
+          "domain": "Clinical Presentation",
+          "question": "Is onset insidious, discovered incidentally on routine urinalysis or labs rather than symptomatic nephrotic presentation?",
+          "confirmingAnswer": "Yes — gradual asymptomatic onset consistent with adaptive hyperfiltration injury rather than acute podocyte collapse",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Obesity",
+          "question": "Is there morbid obesity (BMI ≥35) or significant weight gain temporally associated with onset of proteinuria?",
+          "confirmingAnswer": "Yes — obesity-related FSGS confirmed as primary driver; most common cause of secondary FSGS worldwide",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "Reduced Nephron Mass",
+          "question": "Is there a documented history of solitary kidney, nephrectomy, prior renal transplant with reduced mass, renal dysplasia, or oligomeganephronia?",
+          "confirmingAnswer": "Yes — reduced nephron mass confirmed; compensatory hyperfiltration in remaining nephrons drives adaptive FSGS",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Sickle Cell / Hemoglobinopathy",
+          "question": "Is there sickle cell disease (HbSS, HbSC) or sickle trait with documented sickle cell nephropathy?",
+          "confirmingAnswer": "Yes — sickle cell nephropathy confirmed; medullary infarction + hyperfiltration drive glomerular injury and FSGS",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Vesicoureteral Reflux / Reflux Nephropathy",
+          "question": "Is there a history of vesicoureteral reflux (VUR Grade 3–5) or reflux nephropathy with renal scarring on imaging?",
+          "confirmingAnswer": "Yes — reflux nephropathy confirmed; focal renal scarring reduces functional nephron mass causing hyperfiltration FSGS",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Biopsy — LM",
+          "question": "Is focal segmental glomerulosclerosis confirmed on light microscopy (segmental sclerosis <50% of glomeruli)?",
+          "confirmingAnswer": "Yes — FSGS pattern on LM confirmed; histologic diagnosis established",
+          "points": 10,
+          "cost": "Large"
+        },
+        {
+          "domain": "Biopsy — Perihilar Variant",
+          "question": "Is the FSGS variant perihilar (sclerosis at the hilum with hyalinosis) on light microscopy? (perihilar is the hallmark of secondary/adaptive FSGS)",
+          "confirmingAnswer": "Yes — perihilar variant confirmed; PATHOGNOMONIC for adaptive hyperfiltration FSGS; strongly supports secondary etiology",
+          "points": 8,
+          "cost": "Large"
+        },
+        {
+          "domain": "Biopsy — EM Foot Process",
+          "question": "Is foot process effacement focal and partial (<50% of glomerular capillary surface) on electron microscopy?",
+          "confirmingAnswer": "Yes — focal/partial foot process effacement confirmed; distinguishes secondary FSGS (focal) from primary FSGS (diffuse >80%); key EM differentiator",
+          "points": 12,
+          "cost": "Large"
+        },
+        {
+          "domain": "Biopsy — Glomerulomegaly",
+          "question": "Is there glomerulomegaly (enlarged glomerular tuft area >2 standard deviations above normal for age) on light microscopy?",
+          "confirmingAnswer": "Yes — glomerulomegaly confirmed; reflects compensatory hypertrophy from reduced nephron mass; supports adaptive FSGS diagnosis",
+          "points": 3,
+          "cost": "Large"
+        },
+        {
+          "domain": "Renal Imaging",
+          "question": "Does renal ultrasound or CT show asymmetric kidney size, cortical thinning, or scarring consistent with reduced nephron mass?",
+          "confirmingAnswer": "Yes — structural renal abnormality confirmed on imaging; supports reduced nephron mass as driver of adaptive FSGS",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Labs",
+          "question": "Are serum C3 and C4 complement levels normal and autoimmune serology (ANA, ANCA, anti-GBM) negative?",
+          "confirmingAnswer": "Yes — immune-mediated GN excluded; supports non-immune adaptive etiology",
+          "points": 3,
+          "cost": "Small"
+        },
+        {
+          "domain": "Labs",
+          "question": "Is serum albumin ≥3.0 g/dL despite documented proteinuria (preserved synthetic function consistent with sub-nephrotic state)?",
+          "confirmingAnswer": "Yes — preserved albumin with sub-nephrotic proteinuria; reinforces secondary rather than primary FSGS pattern",
+          "points": 2,
+          "cost": "Small"
+        },
+        {
+          "domain": "Exclusion",
+          "question": "Is there no pathogenic podocyte gene variant identified on genetic testing (NPHS1, NPHS2, WT1, TRPC6, CD2AP, INF2, ACTN4)?",
+          "confirmingAnswer": "Yes — genetic primary FSGS excluded; podocyte gene panel negative",
+          "points": 3,
+          "cost": "Medium"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {
+    "high": {
+      "label": "🔴  80–100 High confidence",
+      "action": "Secondary adaptive FSGS confirmed; TREAT THE CAUSE not the kidney: weight loss program for obesity-FSGS (target BMI <30; bariatric surgery if BMI >40); ACE inhibitor or ARB mandatory (proteinuria reduction and glomerular pressure lowering); SGLT-2 inhibitor for additive renoprotection; DO NOT initiate corticosteroids or immunosuppression — harmful in secondary FSGS",
+      "min": 80,
+      "max": 100
+    },
+    "moderate": {
+      "label": "🟡  50–79 Moderate confidence",
+      "action": "Probable secondary FSGS; renal biopsy required to confirm perihilar variant and focal foot process effacement; identify and treat underlying cause before initiating any therapy; measure proteinuria response to RAS blockade over 3 months",
+      "min": 50,
+      "max": 79
+    },
+    "low": {
+      "label": "🟢  <50 Low confidence",
+      "action": "Secondary FSGS insufficiently supported; consider primary FSGS (diffuse FPE, nephrotic presentation, tip/cellular variant) or other glomerular diseases; ensure all secondary causes have been systematically evaluated before pursuing immunosuppression",
+      "max": 49,
+      "min": 0
+    }
+  },
+  "guidelinesCitation": "",
+  "conditionId": 3,
+  "conditionName": "FSGS — Secondary",
+  "specialty": "kidney",
+  "agentType": "diagnosis"
+}

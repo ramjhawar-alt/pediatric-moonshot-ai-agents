@@ -1,0 +1,103 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "IgA Nephropathy  |  100-Point Adverse Prognostic Score  |  KDIGO 2021 Glomerular Disease Guidelines / IgAN Risk Prediction Tool (IgAN-RPT) / Oxford MEST-C Score  |  Progression Trajectory: Fast / Moderate / Slow",
+  "sections": [
+    {
+      "heading": "Proteinuria Level",
+      "sectionPoints": 0,
+      "questions": [
+        {
+          "domain": "Proteinuria Level",
+          "question": "Is time-averaged proteinuria >1 g/day (urine PCR >1.0 mg/mg) over ≥6 months of follow-up?",
+          "confirmingAnswer": "Yes — sustained high-grade proteinuria confirmed; strongest independent predictor of ESRD in IgAN",
+          "points": 15,
+          "cost": "Small"
+        },
+        {
+          "domain": "Proteinuria on Therapy",
+          "question": "Is proteinuria >0.5 g/day despite ≥3 months of optimized RAS blockade (ACE inhibitor or ARB at maximum tolerated dose)?",
+          "confirmingAnswer": "Yes — proteinuria not controlled on optimal RAS therapy; high-risk marker; add-on therapy indicated",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "Proteinuria Trend",
+          "question": "Has proteinuria increased ≥50% from baseline on serial measurements over ≥6 months?",
+          "confirmingAnswer": "Yes — rising proteinuria trajectory; disease not in remission; treatment escalation required",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "eGFR Level",
+          "question": "Is eGFR <45 mL/min/1.73m² (CKD Stage 3b or worse) at presentation or follow-up?",
+          "confirmingAnswer": "Yes — significantly reduced eGFR; IgAN patients with eGFR <45 have 5-year ESRD risk >30%",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "eGFR Decline Rate",
+          "question": "Is annualized eGFR decline >3 mL/min/1.73m²/year on serial measurements over ≥12 months?",
+          "confirmingAnswer": "Yes — progressive CKD trajectory confirmed; below median IgAN decline rate; high ESRD risk",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Oxford T Score",
+          "question": "Is there significant tubular atrophy/interstitial fibrosis (Oxford T1: 26–50% or T2: >50% of cortical area)?",
+          "confirmingAnswer": "Yes — Oxford T1 or T2 confirmed; tubular atrophy is the strongest histologic predictor of ESRD in IgAN",
+          "points": 12,
+          "cost": "Large"
+        },
+        {
+          "domain": "Oxford M Score",
+          "question": "Is there mesangial hypercellularity (Oxford M1: >50% of glomeruli with mesangial score >2)?",
+          "confirmingAnswer": "Yes — Oxford M1 confirmed; active mesangial proliferation indicating ongoing immune injury",
+          "points": 6,
+          "cost": "Large"
+        },
+        {
+          "domain": "Oxford C Score",
+          "question": "Are crescents present (Oxford C1: ≥1 crescent in <25%; C2: crescents in ≥25% of glomeruli)?",
+          "confirmingAnswer": "Yes — crescentic IgAN confirmed; associated with rapid GFR decline; immunosuppression indicated",
+          "points": 7,
+          "cost": "Large"
+        },
+        {
+          "domain": "BP Control",
+          "question": "Is systolic BP persistently ≥130 mmHg despite antihypertensive therapy including RAS blockade?",
+          "confirmingAnswer": "Yes — uncontrolled hypertension confirmed; major modifiable progression driver in IgAN; target <120 mmHg per 2024 KDIGO",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "Galactose-Deficient IgA1",
+          "question": "Is galactose-deficient IgA1 (Gd-IgA1) elevated on serum testing? (elevated in ~60–70% of IgAN)",
+          "confirmingAnswer": "Yes — elevated Gd-IgA1 confirmed; underlying pathogenic mechanism active; predicts disease severity",
+          "points": 6,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Hematuria Persistence",
+          "question": "Is microscopic hematuria persistent on serial urinalysis (≥3 RBC/HPF on ≥3 separate UA reports over ≥12 months)?",
+          "confirmingAnswer": "Yes — persistent glomerular hematuria; correlates with ongoing endocapillary proliferation and disease activity",
+          "points": 4,
+          "cost": "Small"
+        },
+        {
+          "domain": "High-Risk Presentation",
+          "question": "Is the patient male with early-onset disease (<25 years), nephrotic-range proteinuria at presentation, or hypertension at diagnosis?",
+          "confirmingAnswer": "Yes — multiple baseline high-risk features confirmed; cumulative risk substantially elevated above IgAN average",
+          "points": 5,
+          "cost": "Small"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {},
+  "guidelinesCitation": "KDIGO 2021 Glomerular Disease Guidelines  |  Barbour et al. JASN 2017 (Oxford MEST-C validation)  |  Lv et al. JASN 2012 (proteinuria and ESRD in IgAN)  |  IgAN-RPT: Barbour et al. JASN 2019  |  TESTING Trial: Lv et al. JAMA 2017  |  PROTECT Trial: Heerspink et al. NEJM 2023 (sparsentan)  |  NeflgArd Trial: Barratt et al. NEJM 2023 (targeted budesonide)",
+  "conditionId": 6,
+  "conditionName": "IgA Nephropathy",
+  "specialty": "kidney",
+  "agentType": "progression"
+}

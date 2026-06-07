@@ -1,0 +1,2186 @@
+[
+  {
+    "id": 1,
+    "slug": "bicuspid-aortic-valve",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Bicuspid Aortic Valve",
+    "heredityTier": "dominant",
+    "description": "Two leaflets instead of three on the aortic valve. Leads to stenosis, regurgitation, and aortic root dilation over decades; often asymptomatic until adulthood.",
+    "frequency": {
+      "us": "~3.3M–4.4M total; ~1.4M–2.2M pediatric/adolescent",
+      "global": "~100M– 150M (all ages)",
+      "sources": "Siu & Silversides, JACC 2010; BAV prevalence 1–2% all ages"
+    },
+    "diagnosis": "Echocardiography (TTE/TEE); CT/MRI for aortic sizing. Often incidentally found.",
+    "treatment": {
+      "standardOfCare": "Surveillance echocardiography until\nintervention thresholds met. Surgical valve\nrepair or replacement; Ross procedure\npreferred in children and young adults.\nTAVR for adult patients with suitable\nanatomy and prior surgical/biological failure.",
+      "emerging": "Emerging:Transcatheter valve-in-valve\nTAVR for failed bioprostheses;\nNOTCH1/ROBO4 genotype-guided aortic\nsurveillance protocols; aortic root remodeling\ntechniques to delay replacement."
+    },
+    "hasAgent": true,
+    "agentSlug": "bav"
+  },
+  {
+    "id": 2,
+    "slug": "ventricular-septal-defect-vsd",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Ventricular Septal Defect (VSD)",
+    "heredityTier": "none",
+    "description": "Hole in the wall separating the two lower chambers. Blood shunts left to right, overloading the lungs. Small VSDs often close spontaneously.",
+    "frequency": {
+      "us": "~10,800– 14,400 new/yr; ~250,000–350,000 pediatric prevalent",
+      "global": "~420,000– 560,000 new/yr",
+      "sources": "van der Linde et al., JACC 2011; Liu et al., IJE 2019; 3–4/1,000 live births"
+    },
+    "diagnosis": "Echocardiography. Prenatal fetal echo. Cardiac catheterization for complex cases.",
+    "treatment": {
+      "standardOfCare": "Observation for small VSDs (70–80%\nclose spontaneously). Surgical patch closure\nfor large or symptomatic VSDs.\nTranscatheter device closure for muscular\nVSDs (Amplatzer Muscular VSD Occluder).",
+      "emerging": "Emerging:Transcatheter perimembranous\nVSD closure: Lifetech KONAR-MF device\n(CE-marked; US trials ongoing).\nPerventricular hybrid muscular VSD closure\nvia mini-sternotomy."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 3,
+    "slug": "atrial-septal-defect-asd",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Atrial Septal Defect (ASD)",
+    "heredityTier": "none",
+    "description": "Hole in the wall separating the upper chambers. Low- pressure shunt causes right heart enlargement and eventual pulmonary hypertension if untreated.",
+    "frequency": {
+      "us": "~3,600–7,200 new/yr; ~150,000– 300,000 pediatric prevalent",
+      "global": "~140,000– 280,000 new/yr",
+      "sources": "Liu et al., IJE 2019; ~1– 2/1,000 live births; prevalence increased 6-fold with echo era"
+    },
+    "diagnosis": "Echocardiography (TTE/TEE). Bubble study for PFO differentiation. Cardiac MRI for complex anatomy.",
+    "treatment": {
+      "standardOfCare": "Transcatheter device closure (Amplatzer Septal Occluder, Gore Cardioform) for secundum ASDs — >80% of cases. Surgical closure for primum, sinus venosus, or complex defects.",
+      "emerging": "Emerging:Transcatheter closure of sinus\nvenosus ASDs with partial anomalous\npulmonary venous return (Gore ASSURED\ndevice — US pivotal trial completed).\nFenestrated closure devices for borderline\npulmonary hypertension."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 4,
+    "slug": "patent-ductus-arteriosus-pda",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Patent Ductus Arteriosus (PDA)",
+    "heredityTier": "none",
+    "description": "Fetal vessel connecting pulmonary artery to aorta fails to close after birth. Blood shunts aorta to pulmonary, overloading lungs.",
+    "frequency": {
+      "us": "~1,800–3,600 new full-term cases/yr; ~100,000– 200,000 premature- related/yr",
+      "global": "~70,000– 140,000 new full- term cases/yr",
+      "sources": "van der Linde et al., JACC 2011; 1/2,000 full- term births; ~70% of infants <28 wks"
+    },
+    "diagnosis": "Echocardiography; continuous murmur, bounding pulses, widened pulse pressure.",
+    "treatment": {
+      "standardOfCare": "Indomethacin or ibuprofen (medical\nclosure, 70–80% in premature infants).\nTranscatheter closure: Amplatzer Piccolo\nOccluder (FDA 2019, down to 700g) for\nhemodynamically significant PDAs. Surgical\nligation for refractory cases.",
+      "emerging": "Emerging:Acetaminophen as alternative\nmedical closure agent. Catheter-based\nclosure in extremely premature infants <1 kg\nat specialized centers.\nConservative/expectant management\nstrategies for very premature infants gaining\nevidence."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 5,
+    "slug": "pulmonary-stenosis",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Pulmonary Stenosis",
+    "heredityTier": "associated",
+    "description": "Narrowing at the pulmonary valve or surrounding structures. Three subtypes: (1) Valvar PS (90%); (2) Subvalvar/Infundibular PS -- muscular/fibrous obstruction, requires surgical resection; (3) Supravalvar/Branch PA stenosis -- associated with Williams, Noonan, Alagille syndromes.",
+    "frequency": {
+      "us": "~2,900–3,600 new/yr; ~120,000– 150,000 pediatric prevalent",
+      "global": "~112,000– 140,000 new/yr",
+      "sources": "Liu et al., IJE 2019; ~8/10,000 births; 8–10% of all CHD"
+    },
+    "diagnosis": "Echo with Doppler gradient (distinguish valvar, subvalvar, supravalvar). Cardiac catheterization for intervention planning. CT/MRI for complex anatomy or supravalvar disease.",
+    "treatment": {
+      "standardOfCare": "Valvar PS: balloon valvuloplasty for\ngradient >40 mmHg (>90% success).\nSurgical repair for dysplastic valves (Noonan\nsyndrome). Subvalvar PS: surgical\nresection. Branch PA stenosis: transcatheter\nballoon dilation and stenting.",
+      "emerging": "Emerging:TPVR (Melody, SAPIEN 3,\nHarmony TPV) for RVOT dysfunction post-\nrepair. MEK inhibitor therapy (trametinib) for\nNoonan-associated RASopathy PS/HCM\n(FDA Breakthrough Designation)."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 6,
+    "slug": "coarctation-of-the-aorta",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Coarctation of the Aorta",
+    "heredityTier": "none",
+    "description": "Focal narrowing of the aorta distal to the left subclavian artery. Creates two-zone circulation: HTN upper body, hypotension below.",
+    "frequency": {
+      "us": "~1,440–2,160 new/yr; ~60,000– 90,000 pediatric prevalent",
+      "global": "~56,000– 84,000 new/yr",
+      "sources": "van der Linde et al., JACC 2011; 4–6/10,000 births; males 2×"
+    },
+    "diagnosis": "Echo, CT angiography, or MRI. BP differential between arms and legs is pathognomonic.",
+    "treatment": {
+      "standardOfCare": "Neonates: surgical resection with end-\nto-end anastomosis. Older children/adults:\ntranscatheter balloon dilation ± stenting\n(covered stents preferred). Prostaglandin E1\nto maintain ductal patency in critical\nneonatal coarctation.",
+      "emerging": "Emerging:Covered stent technology (Gore\nViabahn, NuMED CP stent) for de novo and\nrecurrent coarctation reducing aneurysm\nrisk. Surveillance MRI protocols for long-\nterm aortopathy after repair."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 7,
+    "slug": "atrioventricular-septal-defect-avsd",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Atrioventricular Septal Defect (AVSD)",
+    "heredityTier": "associated",
+    "description": "Combined atrial + ventricular hole with malformation of the central heart valves. Associated with Down syndrome in 40-50% of cases.",
+    "frequency": {
+      "us": "~1,080–1,800 new/yr; ~40,000– 70,000 pediatric prevalent",
+      "global": "~42,000– 70,000 new/yr",
+      "sources": "van der Linde et al., JACC 2011; ~3/10,000 births; Down syndrome in ~60% of AVSD cases"
+    },
+    "diagnosis": "Echocardiography. AVSD AI detection app available. Fetal echo for prenatal diagnosis.",
+    "treatment": {
+      "standardOfCare": "Complete surgical repair (double-patch\nclosure of both ASD and VSD + AV valve\nreconstruction) in first 3–6 months of life.\nPre-operative management of pulmonary\nhypertension.",
+      "emerging": "Emerging:Improved surgical techniques for\ncommon AV valve reconstruction; refined\ntiming protocols for partial vs. complete\nforms. Transcatheter AV valve repair\n(MitraClip, PASCAL) for recurrent post-\noperative MR in adults."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 8,
+    "slug": "partial-avsd-primum-asd",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Partial AVSD (Primum ASD)",
+    "heredityTier": "associated",
+    "description": "Incomplete form: only the atrial component present - - primum ASD in inferior atrial septum adjacent to AV valves -- without ventricular septal component. AV valves abnormal (left AV valve cleft causing MR) but no inlet VSD. Often misclassified as simple ASD; mitral valve pathology and surgical approach are fundamentally different.",
+    "frequency": {
+      "us": "~360–720 new/yr; ~15,000– 30,000 pediatric prevalent",
+      "global": "~14,000– 28,000 new/yr",
+      "sources": "Partial AVSD ~1–2/10,000 births; ~30% of all AVSDs; Down syndrome in ~20%"
+    },
+    "diagnosis": "Echo: primum ASD in inferior septum abutting AV valves; left AV valve cleft on short-axis; assess MR severity. Cardiac MRI. Catheterization for pulmonary pressure if MR severe or delayed presentation.",
+    "treatment": {
+      "standardOfCare": "Surgical repair: primum ASD closure + direct suture closure of left AV valve cleft. Timing: 3–6 months if significant MR; defer to 1–2 years if mild. Operative mortality <1% at experienced centers. Lifelong surveillance; late MR recurrence ~5–10%.",
+      "emerging": "Emerging:Transcatheter AV valve repair (MitraClip) for recurrent post-repair MR in\nadult patients not suitable for reoperation."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 9,
+    "slug": "tetralogy-of-fallot-tof",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Tetralogy of Fallot (TOF)",
+    "heredityTier": "associated",
+    "description": "Four defects: large VSD, overriding aorta, pulmonary stenosis, RV hypertrophy. Most common cyanotic CHD. Virtually all post-repair patients require lifelong follow-up for residual PR, RV dilation, and arrhythmia. Variant: TOF with Absent PV Syndrome (~3-5%) -- massive free PR with aneurysmal PA dilation compressing mainstem bronchi.",
+    "frequency": {
+      "us": "and Europe. US: ~1,080–2,160 new/yr; ~350,000 US total (children + adults with repaired TOF)",
+      "global": "~42,000– 84,000 new/yr",
+      "sources": "van der Linde et al., JACC 2011; 3–6/10,000 births; 22q11 deletion in ~15%"
+    },
+    "diagnosis": "Echocardiography. Cardiac MRI -- gold standard post-repair: RVEDVi >150-160 mL/m2 = PVR threshold. ECG: QRS >180 ms = independent SCD predictor. Holter. CT for absent PV variant PA anatomy.",
+    "treatment": {
+      "standardOfCare": "Complete intracardiac repair (VSD\nclosure + RVOT enlargement/transannular\npatch) in first year. Post-repair PVR when\nRVEDVi >150 mL/m² or RVEF <47%. TPVR:\nMelody (conduit), SAPIEN 3 (conduit/native\nRVOT), Harmony TPV (native RVOT, FDA\n2021). ICD for VT/VF risk.",
+      "emerging": "Emerging:Expanded Harmony TPV22\nindications for dilated native RVOT. Earlier\nPVR timing trials to prevent RV dysfunction.\nTOF with atretic PV: PA reduction plasty +\nVSD closure + valved conduit. RVOT\nsubstrate ablation for refractory VT."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 10,
+    "slug": "d-transposition-of-great-arteries-d-tga",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "D-Transposition of Great Arteries (D-TGA)",
+    "heredityTier": "none",
+    "description": "Aorta and pulmonary artery are switched -- oxygenated and deoxygenated blood circulate in parallel. Cardiac emergency at birth.",
+    "frequency": {
+      "us": "~1,080–1,800 new/yr; ~70,000– 100,000 US total (children + adults)",
+      "global": "~42,000– 70,000 new/yr",
+      "sources": "van der Linde et al., JACC 2011; 3–5/10,000 births; males 2–3:1"
+    },
+    "diagnosis": "Fetal echocardiography. Pulse oximetry screening at birth. Urgent echo for cyanotic newborn.",
+    "treatment": {
+      "standardOfCare": "Prostaglandin E1 to maintain PDA.\nBalloon atrial septostomy (Rashkind\nprocedure, bedside echo guidance) when\natrial communication restrictive — life-\nsaving. Arterial switch operation (ASO)\nwithin first 2 weeks of life.",
+      "emerging": "Emerging:Refined coronary reimplantation\ntechniques for complex coronary anatomy\npatterns. Long-term neoaortic root\nsurveillance protocols post-ASO; earlier\nintervention thresholds for neoaortic root\ndilation."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 11,
+    "slug": "congenital-aortic-stenosis",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Congenital Aortic Stenosis",
+    "heredityTier": "none",
+    "description": "Narrowing of the aortic valve present from birth. Critical neonatal form causes cardiogenic shock when ductus closes.",
+    "frequency": {
+      "us": "3-6 per 10,000 live",
+      "global": "",
+      "sources": ""
+    },
+    "diagnosis": "Echocardiography. Fetal echo for prenatal diagnosis. Cardiac catheterization for intervention planning.",
+    "treatment": {
+      "standardOfCare": "Balloon valvuloplasty (acute success",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 12,
+    "slug": "supravalvar-aortic-stenosis-svas",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Supravalvar Aortic Stenosis (SVAS)",
+    "heredityTier": "dominant",
+    "description": "Fixed obstruction of ascending aorta at/above sinotubular junction. Two forms: (1) Williams syndrome-associated (~75%) -- ELN deletion 7q11.23, bilateral PA stenosis co-exists; (2) Isolated/non-syndromic (~25%) -- ELN point mutations. Critical: commissures may adhere to supra-aortic ridge, obstructing coronary ostia and risking coronary ischemia -- mandatory intraoperative assessment. Doty three- patch aortoplasty (inverted Y incision, three patch inserts) is technique of choice.",
+    "frequency": {
+      "us": "~180–360 isolated SVAS cases/yr; ~720– 1,080 Williams- related cases/yr",
+      "global": "~7,000– 14,000 new isolated cases/yr",
+      "sources": "Morris et al., Pediatrics 2010; Williams syndrome 1/7,500–10,000 births; SVAS in ~75% of Williams"
+    },
+    "diagnosis": "Echo: gradient across sinotubular junction; bilateral PA pressures; coronary origins. CT/MRI: full anatomy of ascending aorta, arch, branch PAs, and coronary ostia relative to ridge. Cardiac catheterization: pressure gradient; coronary angiography if coronary ischemia suspected. FISH/CMA for 7q11.23 if Williams suspected.",
+    "treatment": {
+      "standardOfCare": "Surgical repair indicated for gradient\n>50 mmHg, symptoms, or LV dysfunction.\nDoty three-patch aortoplasty preferred.\nInspect coronary ostia for ridge adherence at\noperation. Branch PA stenosis: transcatheter\nstenting. Lifelong surveillance\nechocardiography.",
+      "emerging": "Emerging:Transcatheter approaches for\ndiscrete membranous SVAS. Elastin-\ntargeted therapies for Williams syndrome-\nrelated arteriopathy (preclinical). Coronary\nostial protection techniques to reduce\nperioperative SCD risk."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 13,
+    "slug": "hypoplastic-left-heart-syndrome-hlhs",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Hypoplastic Left Heart Syndrome (HLHS)",
+    "heredityTier": "none",
+    "description": "Entire left side of heart severely underdeveloped. RV must support both pulmonary and systemic circulation. Most severe CHD.",
+    "frequency": {
+      "us": "~720–1,080 new/yr; ~20,000– 30,000 US total (children + young adults)",
+      "global": "~28,000– 42,000 new/yr",
+      "sources": "CDC/CHOP; HLHS 2–3/10,000 births; 25–40% of cardiac deaths in week 1 of life"
+    },
+    "diagnosis": "Fetal echo (often 18-24 wks). Postnatal: echo, CT/MRI. Assess atrial septum size -- restrictive atrial septum (~5-10% of HLHS) carries significantly higher operative mortality.",
+    "treatment": {
+      "standardOfCare": "Prostaglandin E1 emergently. Balloon/stent atrial septostomy for restrictive atrial septum. Three-stage Norwood/Glenn/Fontan palliation or Hybrid Norwood. Interstage home pulse oximetry monitoring (reduces interstage mortality from ~15% to ~2–5%). Cardiac transplantation for selected patients.",
+      "emerging": "Emerging:Fetal cardiac intervention (balloon aortic valvuloplasty) for borderline HLHS to promote LV growth. Stem cell\ntherapy (cardiosphere-derived cells —\nTICAP, PERSEUS trials). Ventricular\nrecruitment strategies. Improved Fontan\noutcomes with fenestration and thoracic\nlymphatic interventions."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 14,
+    "slug": "ebstein-s-anomaly",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Ebstein's Anomaly",
+    "heredityTier": "none",
+    "description": "Tricuspid valve leaflets displaced downward into RV, 'atrializing' a portion of it. Associated WPW in 25- 30%.",
+    "frequency": {
+      "us": "~180–360 new/yr; ~8,000– 15,000 US total",
+      "global": "~7,000– 14,000 new/yr",
+      "sources": "van der Linde et al., JACC 2011; 1/20,000 births; wide severity spectrum"
+    },
+    "diagnosis": "Echocardiography. ECG for WPW. Cardiac MRI for RV function.",
+    "treatment": {
+      "standardOfCare": "Cone procedure (valve reconstruction\nusing native leaflet tissue) — procedure of\nchoice. ICD for WPW/arrhythmia risk.\nCatheter ablation for accessory pathway.\nBidirectional Glenn shunt for severe RV\ndysfunction.",
+      "emerging": "Emerging:Transcatheter tricuspid valve\ninterventions (CLASP TR, FORMA, TriClip)\nfor patients with residual TR not suitable for\nreoperation. Refined Cone technique\noutcomes driving earlier surgical referral."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 15,
+    "slug": "truncus-arteriosus",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Truncus Arteriosus",
+    "heredityTier": "associated",
+    "description": "Single great vessel exits the heart instead of two. Complete mixing of oxygenated and deoxygenated blood.",
+    "frequency": {
+      "us": "~360–720 new/yr; ~12,000– 20,000 US total",
+      "global": "~14,000– 28,000 new/yr",
+      "sources": "van der Linde et al., JACC 2011; 1/10,000 births; 22q11 deletion in ~35%"
+    },
+    "diagnosis": "Echocardiography; fetal echo for prenatal diagnosis. Catheterization for pulmonary artery anatomy.",
+    "treatment": {
+      "standardOfCare": "Surgical repair in neonatal period: VSD closure, separation of pulmonary arteries, RV-to-PA conduit placement. TPVR (Melody/SAPIEN 3/Harmony TPV) for conduit failure — defers or replaces surgical reintervention. Branch PA stenosis: catheter balloon dilation and stenting.",
+      "emerging": "Emerging:Tissue-engineered conduits (decellularized homografts, bioresorbable scaffolds) under investigation to reduce reintervention burden. Expanding transcatheter pulmonary valve options for native/dilated RVOT."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 16,
+    "slug": "interrupted-aortic-arch",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Interrupted Aortic Arch",
+    "heredityTier": "dominant",
+    "description": "Complete discontinuity of the aortic arch. Survival depends on PDA; cardiovascular collapse when ductus closes. Associated with 22q11 deletion in 50-70%.",
+    "frequency": {
+      "us": "~36–72 new/yr; ~2,000–4,000 US total",
+      "global": "~1,400– 2,800 new/yr",
+      "sources": ""
+    },
+    "diagnosis": "Fetal/neonatal echocardiography. CT angiography for arch anatomy. Genetic testing for 22q11 deletion.",
+    "treatment": {
+      "standardOfCare": "Prostaglandin E1 emergently. Surgical arch reconstruction connecting arch segments + simultaneous VSD closure.",
+      "emerging": "Emerging:Hybrid and staged approaches for high-risk neonates. Transcatheter management of recurrent arch obstruction post-repair. Genotype-guided counseling for 22q11.2 deletion (~50% of IAA)."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 17,
+    "slug": "pulmonary-vein-disease-tapvr-papvr",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Pulmonary Vein Disease (TAPVR/PAPVR)",
+    "heredityTier": "none",
+    "description": "Pulmonary veins drain anomalously -- not into left atrium. Obstructed forms are neonatal emergencies. Post-surgical pulmonary vein stenosis is a distinct, aggressive complication.",
+    "frequency": {
+      "us": "~360–720 new/yr; ~15,000– 25,000 US total",
+      "global": "~14,000– 28,000 new/yr",
+      "sources": "van der Linde et al., JACC 2011; TAPVR 1– 2/10,000 births; ~2% of CHD"
+    },
+    "diagnosis": "Echocardiography. CT/MRI for drainage anatomy. Fetal echo for complex forms.",
+    "treatment": {
+      "standardOfCare": "Urgent surgical repair for obstructed TAPVR (emergency). Elective repair in first weeks/months for unobstructed TAPVR. Sutureless repair technique reduces post- surgical PV stenosis risk. Serial echo surveillance every 3–6 months for ≥2 years post-repair.",
+      "emerging": "Emerging:Sutureless 'pericardium-in-situ' technique refinements for reoperations. Systemic antifibrotic therapy (sirolimus, imatinib) for post-operative PV stenosis — active trials. Drug-eluting balloon for transcatheter treatment of stenotic repaired veins."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 18,
+    "slug": "double-outlet-right-ventricle-dorv",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Double Outlet Right Ventricle (DORV)",
+    "heredityTier": "none",
+    "description": "Both great arteries arise from the RV. Four distinct surgical diagnoses by VSD position: (1) Subaortic VSD -- LV-to- aorta tunnel; (2) Subpulmonary VSD (Taussig-Bing) -- arterial switch; (3) Doubly- committed VSD -- tunnel repair; (4) Remote VSD -- often Fontan palliation. Incorrect anatomic classification leads to the wrong operation.",
+    "frequency": {
+      "us": "~360–720 new/yr; ~12,000– 20,000 US total",
+      "global": "~14,000– 28,000 new/yr",
+      "sources": "van der Linde et al., JACC 2011; DORV 1– 2/10,000 births; Taussig-Bing ~15% of DORV"
+    },
+    "diagnosis": "Echocardiography. Cardiac MRI -- essential for VSD position, great artery relationships, and coronary anatomy. Catheterization for pulmonary pressure assessment. 3D reconstruction for surgical planning.",
+    "treatment": {
+      "standardOfCare": "Surgery individualized by VSD location\nand great artery relationship: intraventricular\nLV-to-aorta tunnel (REV or Rastelli) for\nsubaortic VSD; arterial switch + VSD closure\n(Taussig-Bing); staged Fontan for remote\nVSD or complex anatomy.",
+      "emerging": "Emerging:3D printing and computational\nflow modeling for pre-operative surgical\nplanning in complex DORV. Hybrid\nstrategies for high-risk neonates. No single\nDORV repair strategy exists — anatomy\ndetermines operation."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 19,
+    "slug": "double-inlet-left-ventricle-dilv",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Double Inlet Left Ventricle (DILV)",
+    "heredityTier": "none",
+    "description": "Both atria connect to a single dominant left ventricle; RV absent or hypoplastic. Classic single-ventricle anatomy.",
+    "frequency": {
+      "us": "~360–720 new/yr; ~10,000– 20,000 US total",
+      "global": "~14,000– 28,000 new/yr",
+      "sources": "DILV"
+    },
+    "diagnosis": "Echocardiography. Cardiac catheterization before Fontan (includes APC mapping and embolization).",
+    "treatment": {
+      "standardOfCare": "Staged Fontan palliation (bidirectional Glenn → Fontan). Pre-Fontan catheterization: APC embolization (present in ~50–70% at Glenn stage). Heart transplantation for Fontan failure.",
+      "emerging": "Emerging:Thoracic lymphatic embolization for Fontan-related PLE and plastic bronchitis. Combined heart-liver"
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 20,
+    "slug": "l-transposition-l-tga-cctga",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "L-Transposition (L-TGA / ccTGA)",
+    "heredityTier": "none",
+    "description": "Both AV and VA connections discordant -- 'physiologically corrected' but morphologic RV supports systemic circulation it was not designed for.",
+    "frequency": {
+      "us": "~110–220 new/yr; ~3,000– 6,000 US total",
+      "global": "~4,200– 8,400 new/yr",
+      "sources": "L-TGA ~1/33,000 births; <1% of CHD; congenitally corrected TGA"
+    },
+    "diagnosis": "Echocardiography. ECG for heart block (develops ~2%/year). Cardiac MRI for RV function tracking.",
+    "treatment": {
+      "standardOfCare": "Observation if no associated defects and systemic RV function preserved. Double-switch operation (atrial switch + ASO or REV) to restore LV to systemic position. Permanent pacemaker for complete heart block.",
+      "emerging": "Emerging:Timing optimization for double- switch based on LV retraining protocols. Transcatheter approaches for associated lesions (VSD device closure, PS balloon dilation). Long-term systemic RV failure surveillance driving earlier double-switch referral."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 21,
+    "slug": "pulmonary-atresia-with-intact-vs-pa-ivs",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Pulmonary Atresia with Intact VS (PA-IVS)",
+    "heredityTier": "none",
+    "description": "Atretic (imperforate) pulmonary valve with intact septum; RV develops without normal outflow. RV-dependent coronary circulation in 30- 50%.",
+    "frequency": {
+      "us": "~360–720 new/yr; ~10,000– 18,000 US total",
+      "global": "~14,000– 28,000 new/yr",
+      "sources": "PA-IVS ~1/10,000 births; ~1% of CHD; spectrum from mild to severe RV hypoplasia"
+    },
+    "diagnosis": "Echocardiography. Cardiac catheterization essential to assess coronary anatomy. Fetal echo.",
+    "treatment": {
+      "standardOfCare": "Prostaglandin E1. RF perforation + balloon valvuloplasty for adequate RV (biventricular pathway if RV grows). Biventricular or single-ventricle (Fontan) pathway determined by RV size, tricuspid valve annulus z-score, and coronary anatomy (RVDCC).",
+      "emerging": "Emerging:Fetal cardiac intervention (in utero pulmonary valvuloplasty) to promote RV growth and potentially avoid univentricular palliation. Refined RV suitability criteria for biventricular vs. one- and-a-half ventricle repair."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 22,
+    "slug": "pulmonary-atresia-with-vsd-and-mapcas",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Pulmonary Atresia with VSD and MAPCAs",
+    "heredityTier": "none",
+    "description": "Atretic pulmonary valve + hypoplastic/absent pulmonary arteries; lungs supplied by major aortopulmonary collateral arteries (MAPCAs). Catheter-based MAPCA mapping and embolization is a core part of management.",
+    "frequency": {
+      "us": "~360–720 new/yr; ~8,000– 15,000 US total",
+      "global": "~14,000– 28,000 new/yr",
+      "sources": "PA/VSD/MAPCAs ~1–2/10,000 births; complete repair feasible in ~60–70%"
+    },
+    "diagnosis": "Echocardiography. CT angiography essential for MAPCA mapping. Catheterization for pressure assessment and collateral anatomy.",
+    "treatment": {
+      "standardOfCare": "Unifocalization surgery (consolidating all MAPCAs into one PA system) + complete intracardiac repair. Multiple staged operations and catheter reinterventions anticipated. Catheter-based MAPCA occlusion for non-unifocalized collaterals causing overcirculation.",
+      "emerging": "Emerging:One-stage complete unifocalization + repair (Hanley approach, Stanford) demonstrating improved outcomes over staged repair. Improved conduit options and TPVR to defer surgical reintervention. CT angiography with 3D reconstruction for MAPCA mapping."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 23,
+    "slug": "tricuspid-atresia",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Tricuspid Atresia",
+    "heredityTier": "none",
+    "description": "Complete absence of tricuspid valve; absent/hypoplastic RV. Left ventricle functions as the sole pump after Fontan palliation.",
+    "frequency": {
+      "us": "~360–720 new/yr; ~12,000– 20,000 US total",
+      "global": "~14,000– 28,000 new/yr",
+      "sources": "van der Linde et al., JACC 2011; tricuspid atresia 1–2/10,000 births; 1–3% of CHD"
+    },
+    "diagnosis": "Echocardiography. Cardiac catheterization before Fontan (hemodynamics, APC mapping, PA pressure assessment). Fetal echo.",
+    "treatment": {
+      "standardOfCare": "Staged Fontan palliation (BT shunt → bidirectional Glenn → Fontan). Pre-Fontan catheterization: APC coil embolization, branch PA stenting if needed. Post-Fontan serial catheterizations for APC surveillance and Fontan pathway assessment.",
+      "emerging": "Emerging:Fontan optimization with fenestration and thoracic lymphatic embolization for PLE/plastic bronchitis. Mechanical cavopulmonary assist devices (TCPC pump) under investigation. Heart transplantation remains definitive for Fontan failure."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 24,
+    "slug": "shone-s-complex",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Shone's Complex",
+    "heredityTier": "none",
+    "description": "Four left-sided obstructive lesions: supravalvar mitral ring, parachute mitral valve, subaortic stenosis, and coarctation of aorta.",
+    "frequency": {
+      "us": "~36–108 new/yr; ~600–1,800 US prevalent",
+      "global": "~1,400– 4,200 new/yr",
+      "sources": "Shone 1963; <1/100,000 births; 4 left-sided obstructive lesions as defining spectrum"
+    },
+    "diagnosis": "Echocardiography (serial). Cardiac catheterization for hemodynamics. CT/MRI for aortic anatomy.",
+    "treatment": {
+      "standardOfCare": "Staged surgical relief at each\nobstructive level (supramitral ring, parachute\nMV, aortic valve, coarctation). Transcatheter\nballoon dilation ± stenting of coarctation as\nbridge or primary treatment. High\nreintervention rates expected; lifelong\nsurveillance.",
+      "emerging": "Emerging:Transcatheter mitral interventions\n(balloon dilation of supramitral ring, MitraClip\nfor residual MR). Tissue-engineered valves\nfor mitral replacement in growing children\n(avoiding anticoagulation)."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 25,
+    "slug": "congenital-mitral-valve-anomalies",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Congenital Mitral Valve Anomalies",
+    "heredityTier": "none",
+    "description": "Spectrum: (1) Parachute Mitral Valve -- all chordae to single papillary muscle; functional MS; part of Shone's complex; (2) Double Orifice Mitral Valve -- two orifices separated by fibrous bridge; (3) Isolated Mitral Leaflet Cleft -- cleft without AVSD; (4) Mitral Atresia -- part of HLHS/single-ventricle spectrum.",
+    "frequency": {
+      "us": "~180–360 new/yr; ~6,000– 12,000 US total",
+      "global": "~7,000– 14,000 new/yr",
+      "sources": "Congenital MS ~0.5–1/10,000 births; parachute MV <1/100,000; often part of Shone complex"
+    },
+    "diagnosis": "Echocardiography (2D and 3D TEE essential for subtype distinction and surgical planning). Cardiac MRI for ventricular function. Catheterization for pulmonary pressure. Fetal echo.",
+    "treatment": {
+      "standardOfCare": "Repair preferred over replacement in\nchildren. Isolated mitral cleft: direct suture\nclosure (>90% success). Parachute MV and\ndouble-orifice MV: repair tailored to\ndominant anatomy; replacement often\nultimately required. Mitral atresia: Fontan\npalliation.",
+      "emerging": "Emerging:Transcatheter mitral valve repair\n(MitraClip, PASCAL) for recurrent MR post-\nsurgical repair in adolescents/adults. Tissue-\nengineered and expandable mitral\nprostheses to accommodate somatic growth."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 26,
+    "slug": "aortic-arch-abnormalities-vascular-rings",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Aortic Arch Abnormalities (Vascular Rings)",
+    "heredityTier": "none",
+    "description": "Developmental anomalies of aortic arch including double arch, right arch with aberrant subclavian, cervical arch. Vascular rings encircle trachea/esophagus.",
+    "frequency": {
+      "us": "~1,080–3,240 new/yr; ~40,000– 100,000 US total",
+      "global": "~42,000– 126,000 new/yr",
+      "sources": "Vascular rings ~1–3% of CHD; double aortic arch 40–60% of complete rings"
+    },
+    "diagnosis": "Echocardiography. CT angiography gold standard for ring anatomy. Bronchoscopy for tracheomalacia.",
+    "treatment": {
+      "standardOfCare": "Surgical ring division (ligating minor\narch/ligamentum arteriosum). Excellent\noutcomes at experienced centers.\nTracheobronchomalacia managed with\nairway stenting or aortopexy if persistent\npost-ring division.",
+      "emerging": "Emerging:Thoracoscopic (minimally\ninvasive) ring division — comparable\noutcomes to open surgery with faster\nrecovery. Pre-operative 3D CT\nreconstruction and virtual surgical planning\nfor complex double aortic arch."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 27,
+    "slug": "alcapa",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "ALCAPA",
+    "heredityTier": "none",
+    "description": "Left coronary artery arises from the pulmonary artery rather than the aorta, causing myocardial ischemia from birth. Presents with infantile heart failure or sudden death.",
+    "frequency": {
+      "us": "~12–36 new/yr; ~500–1,000 US total",
+      "global": "~470–940 new/yr",
+      "sources": "ALCAPA ~1/300,000 births; accounts for ~5% of infant cardiac deaths if unrepaired"
+    },
+    "diagnosis": "Echocardiography (retrograde coronary flow on Doppler). CT coronary angiography. ECG may show anterolateral ischemia.",
+    "treatment": {
+      "standardOfCare": "Surgical coronary reimplantation\n(transfer to aorta) — curative if performed\nearly. ECMO for hemodynamic instability. LV\nfunction often recovers substantially with\nunloading and revascularization.",
+      "emerging": "Emerging:Improved post-operative LV\nrecovery monitoring with cardiac MRI.\nVentricular assist devices as bridge to\nrecovery. Myocardial viability MRI to guide\nexpectation of LV functional recovery."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 28,
+    "slug": "aaoca-anomalous-aortic-origin-of-coronary-artery",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "AAOCA (Anomalous Aortic Origin of Coronary Artery)",
+    "heredityTier": "none",
+    "description": "Coronary artery arises from the wrong sinus or follows an interarterial course between aorta and pulmonary artery. Risk of sudden cardiac death, especially with exertion.",
+    "frequency": {
+      "us": "~3,600–10,800 US total all ages; ~1,000–3,000 pediatric",
+      "global": "~100,000– 300,000 global (all ages)",
+      "sources": "Davis et al., JACC 2016; AAOCA ~0.1–0.3% of general population"
+    },
+    "diagnosis": "Echocardiography (limited). CT coronary angiography -- gold standard. Exercise stress testing for ischemia.",
+    "treatment": {
+      "standardOfCare": "Surgical unroofing of interarterial\nsegment (preferred for high-risk anatomy).\nExercise restriction pre-operatively.\nCoronary reimplantation or bypass in select\ncases.",
+      "emerging": "Emerging:Risk stratification protocols (FFR-\nCT, stress perfusion MRI, exercise stress\necho) to refine surgical indications and\nidentify truly flow-limiting lesions. Watchful\nwaiting evidence expanding for low-risk\nanatomy."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 29,
+    "slug": "heterotaxy-syndrome-atrial-isomerism",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Heterotaxy Syndrome / Atrial Isomerism",
+    "heredityTier": "none",
+    "description": "Abnormal left-right organ arrangement combined with complex intracardiac defects. Right isomerism (asplenia) associated with severe cyanotic CHD; left isomerism (polysplenia) with heart block and interrupted IVC.",
+    "frequency": {
+      "us": "~360–720 new/yr; ~10,000– 18,000 US total",
+      "global": "~14,000– 28,000 new/yr",
+      "sources": "Heterotaxy ~1–2/10,000 births; ~3% of CHD; right isomerism ~50–70% mortality without intervention"
+    },
+    "diagnosis": "Fetal/neonatal echocardiography. CT/MRI for cardiac and visceral situs. Abdominal ultrasound for spleen. Genetic testing. ECG for heart block.",
+    "treatment": {
+      "standardOfCare": "Highly individualized: most require\nstaged Fontan palliation. Asplenia: lifelong\npenicillin prophylaxis ±\npneumococcal/meningococcal vaccines.\nPacemaker for complete heart block (left\nisomerism).",
+      "emerging": "Emerging:Improved AV valve repair\nstrategies for complex heterotaxy valve\nanatomy. Bilateral SVC management\noptimization. Liver laterality assessment for\nequitable hepatic flow distribution in Fontan.\nLymphatic interventions for post-Fontan\ncomplications."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 30,
+    "slug": "aortopulmonary-window",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Aortopulmonary Window",
+    "heredityTier": "none",
+    "description": "Rare communication between the ascending aorta and pulmonary artery, distinct from PDA. Causes massive left-to- right shunting and neonatal heart failure.",
+    "frequency": {
+      "us": "~36–72 new/yr; ~1,000–2,000 US total",
+      "global": "~1,400– 2,800 new/yr",
+      "sources": "Aortopulmonary window ~1/100,000 births; <1% of CHD"
+    },
+    "diagnosis": "Echocardiography. CT angiography for anatomy. Cardiac catheterization for pulmonary vascular resistance.",
+    "treatment": {
+      "standardOfCare": "Surgical repair (direct closure or patch)\nin neonatal period. Transcatheter device\nclosure for suitable anatomy (distant from\ncoronary ostia and pulmonary valves).",
+      "emerging": "Emerging:Expanded catheter-based\nclosure with Amplatzer Duct Occluder II and\ncustom devices for AP windows with suitable\nanatomy."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 31,
+    "slug": "cor-triatriatum",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Cor Triatriatum",
+    "heredityTier": "none",
+    "description": "A fibromuscular membrane divides the left atrium into two chambers, creating pulmonary venous obstruction mimicking mitral stenosis.",
+    "frequency": {
+      "us": "~36–144 new/yr; ~1,500– 4,000 US total",
+      "global": "~1,400– 5,600 new/yr",
+      "sources": "Cor triatriatum ~0.1– 0.4% of CHD; fibromuscular membrane obstructing left atrium"
+    },
+    "diagnosis": "Echocardiography (TTE/TEE: membrane in left atrium with gradient). Cardiac MRI for complex anatomy.",
+    "treatment": {
+      "standardOfCare": "Surgical membrane resection — curative in nearly all cases. Excellent outcomes with early repair before pulmonary hypertension develops.",
+      "emerging": "Emerging:Transcatheter balloon membrane dilation or perforation as bridge to surgery in high-risk neonates with obstructed cor triatriatum (very rare). Robot-assisted minimally invasive resection at specialized centers."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 32,
+    "slug": "discrete-subaortic-stenosis",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Discrete Subaortic Stenosis",
+    "heredityTier": "none",
+    "description": "Fibromuscular membrane or ridge immediately below the aortic valve in the LVOT causing fixed subvalvar obstruction. Progressive obstruction damages the aortic valve leaflets from the turbulent jet (causing AR). Recurrence after surgical resection ~10-20%. Strong male predominance.",
+    "frequency": {
+      "us": "~120–240 new/yr; ~5,000– 10,000 US total",
+      "global": "~4,700– 9,400 new/yr",
+      "sources": "DSS ~1/30,000 births; ~15–20% of all LVOT obstruction; fibromuscular ridge may form post-birth"
+    },
+    "diagnosis": "Echo: subvalvar membrane with peak LVOT gradient; assess aortic valve for secondary AR. Cardiac MRI: LVOT anatomy. Catheterization: LVOT pressure pullback. TEE for precise membrane localization.",
+    "treatment": {
+      "standardOfCare": "Surgical membrane resection ± septal\nmyectomy for gradient >30–40 mmHg or any\ndeveloping AR. Balloon dilation ineffective.\nPost-op surveillance every 1–2 years\nlifelong; 10–20% recurrence rate. AV\nrepair/replacement if secondary AR severe.",
+      "emerging": "Emerging:Earlier surgical intervention\nprotocols to prevent progressive AR —\nintervention before AR becomes significant.\nCardiac MRI tissue characterization to\ndistinguish fibrous vs. muscular/tunnel LVOT\nobstruction for surgical planning."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 33,
+    "slug": "sinus-of-valsalva-aneurysm",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Sinus of Valsalva Aneurysm",
+    "heredityTier": "none",
+    "description": "Congenital aneurysm of an aortic sinus (right coronary ~70%; non- coronary ~25%). Rupture causes acute left-to-right shunt, continuous murmur, rapid heart failure, and hemodynamic collapse. Right coronary sinus aneurysm ruptures most commonly into the RV. Associated with VSD in ~30-50% of cases.",
+    "frequency": {
+      "us": "~36–72 new/yr; ~2,000–5,000 US total (predominantly adult-diagnosed)",
+      "global": "~1,400– 2,800 new/yr",
+      "sources": "Sinus of Valsalva aneurysm ~0.09% of CHD; ~1/100,000; predominantly right coronary sinus"
+    },
+    "diagnosis": "Echo (TTE/TEE): aneurysmal sac; Doppler continuous high-velocity shunt on rupture. CT angiography: gold standard for anatomy. Cardiac catheterization: Qp/Qs, coronary anatomy.",
+    "treatment": {
+      "standardOfCare": "Surgical patch closure from both aortic\nroot and receiving cardiac chamber\nsimultaneously; associated VSD closed at\nsame operation. Emergency surgery for\nacute rupture with hemodynamic instability.",
+      "emerging": "Emerging:Transcatheter device closure\n(Amplatzer Duct Occluder, Vascular Plug)\nfor suitable non-ruptured anatomy.\nEndovascular stent-graft for selected high-\nsurgical-risk patients."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 34,
+    "slug": "scimitar-syndrome-pulmonary-venolobar-syndrome",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Scimitar Syndrome (Pulmonary Venolobar Syndrome)",
+    "heredityTier": "none",
+    "description": "Rare anomaly: entire right lung drains via large venous channel (the 'scimitar vein') into IVC rather than left atrium. Also includes: right lung hypoplasia and sequestration, dextroposition of heart, and in ~30% an aberrant systemic arterial supply to the right lower lobe. Distinct from TAPVR: involves only right lung, includes pulmonary hypoplasia, requires different surgical approach.",
+    "frequency": {
+      "us": "~36–108 new/yr; ~1,200– 3,000 US total",
+      "global": "~1,400– 4,200 new/yr",
+      "sources": "Scimitar syndrome ~1– 3/100,000 births; female predominance 2:1"
+    },
+    "diagnosis": "Chest X-ray: pathognomonic 'scimitar sign' -- curvilinear density paralleling right heart border. CT angiography: gold standard -- scimitar vein course, drainage site, anomalous aortic supply, right lung hypoplasia. Echo. Cardiac catheterization: PVR, selective aortography for anomalous arterial supply.",
+    "treatment": {
+      "standardOfCare": "Surgical redirection of scimitar vein to\nleft atrium via intra-atrial baffle or direct\nreimplantation; concurrent ligation of\naberrant aortic arteries. Observation for mild\nasymptomatic adult forms (Qp/Qs <1.5).",
+      "emerging": "Emerging:Transcatheter baffle creation with\nstent-based redirection of scimitar vein\n(avoids cardiopulmonary bypass in selected\ncases). Combined embolization of aberrant\naortic collaterals + transcatheter venous\nredirection."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 35,
+    "slug": "unroofed-coronary-sinus-plsvc-draining-to-left-atrium",
+    "specialty": "cardiology",
+    "category": "Structural Congenital Heart Disease",
+    "name": "Unroofed Coronary Sinus / PLSVC Draining to Left Atrium",
+    "heredityTier": "none",
+    "description": "Congenital absence of roof of coronary sinus creating communication with left atrium. Underlying anatomy: PLSVC drains into coronary sinus which then drains into LA, causing right-to-left shunt and cyanosis. Classic missed diagnosis at ASD repair: patching the ASD without recognizing unroofed coronary sinus causes persistent post- operative cyanosis. PLSVC itself (~3-10% of CHD) is usually benign but must be identified before any cardiac operation.",
+    "frequency": {
+      "us": "~1% of all CHD. PLSVC: ~3- 10% of CHD overall; ~0.3% of general population. Complete unroofing: ~0.1% of CHD. US: ~720–3,600 new cases/yr (PLSVC + unroofed CS combined); ~25,000–75,000 US total",
+      "global": "~28,000– 140,000 new/yr",
+      "sources": "PLSVC ~3– 10% of CHD; unroofed coronary sinus ~1% of CHD; often clinically silent FREQUENCY"
+    },
+    "diagnosis": "Echo: dilated coronary sinus; bubble contrast study -- microbubbles appear in LA from left arm injection (diagnostic for PLSVC-to-LA drainage). CT angiography: gold standard for PLSVC anatomy and coronary sinus continuity. Cardiac catheterization: O2 saturation step-up/step- down; selective venography.",
+    "treatment": {
+      "standardOfCare": "Surgical repair: (1) PLSVC ligation if\nright SVC present and bridging vein\nadequate + coronary sinus closure; (2)\nBaffling to redirect flow to RA; (3) PLSVC\nreimplantation to RA appendage if no right\nSVC. Pre-operative identification mandatory\nbefore any cardiac surgery.",
+      "emerging": "Emerging:Transcatheter occlusion of\nPLSVC in selected adult patients with\nadequate collateral drainage. Identification\nprotocols (routine pre-op echo screening) to\nprevent inadvertent PLSVC ligation."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 36,
+    "slug": "hypertrophic-cardiomyopathy-hcm",
+    "specialty": "cardiology",
+    "category": "Cardiomyopathies",
+    "name": "Hypertrophic Cardiomyopathy (HCM)",
+    "heredityTier": "dominant",
+    "description": "Abnormal LV wall thickening from sarcomere gene mutations. Obstructive form (HOCM) causes outflow obstruction. Leading cause of sudden death in young athletes.",
+    "frequency": {
+      "us": "~1,460,000 US total all ages; ~200,000–300,000 US pediatric/adolescent",
+      "global": "~50,000,000– 60,000,000 global (all ages)",
+      "sources": "Maron et al., JACC 2022; HCM ~1/500 individuals; ~700,000 Americans"
+    },
+    "diagnosis": "Echocardiography (septal thickness >=15mm or >=13mm with family history). Genetic testing. CMR for fibrosis (LGE). ECG screening.",
+    "treatment": {
+      "standardOfCare": "Beta blockers, calcium channel\nblockers for symptom management. Septal\nmyectomy (surgical gold standard for\nrefractory LVOTO). Alcohol septal ablation\nfor appropriate anatomy. ICD for high-risk\npatients (SCD prevention).",
+      "emerging": "Emerging:Mavacamten (Camzyos, FDA\n2022) — cardiac myosin inhibitor; first\ndisease-modifying drug for obstructive HCM.\nAficamten (Myqorzo, FDA 2025) — next-\ngeneration myosin inhibitor. Expanding use\nin pediatric/adolescent populations."
+    },
+    "hasAgent": true,
+    "agentSlug": "hcm"
+  },
+  {
+    "id": 37,
+    "slug": "dilated-cardiomyopathy-dcm",
+    "specialty": "cardiology",
+    "category": "Cardiomyopathies",
+    "name": "Dilated Cardiomyopathy (DCM)",
+    "heredityTier": "dominant",
+    "description": "LV (and often both ventricles) dilated with impaired contractility. Most common cardiomyopathy requiring pediatric transplantation.",
+    "frequency": {
+      "us": "~200–400 new pediatric cases/yr; ~5,000–10,000 US pediatric prevalent",
+      "global": "~7,700– 15,400 new pediatric cases/yr",
+      "sources": "Towbin et al., Circulation 2006; pediatric DCM 0.57– 1.13/100,000 children/yr"
+    },
+    "diagnosis": "Echocardiography (LVEF <55%, LV dilation). Cardiac MRI. Genetic panel. Endomyocardial biopsy if myocarditis suspected.",
+    "treatment": {
+      "standardOfCare": "ACE inhibitors/ARBs, beta blockers,\ndiuretics, aldosterone antagonists.\nSacubitril/valsartan (Entresto) for pediatric\nHF (FDA-approved ≥1 year). CRT for\ndyssynchrony. ICD. VAD as bridge to\ntransplantation (Berlin Heart EXCOR <15\nkg; continuous-flow for larger). Cardiac\ntransplantation.",
+      "emerging": "Emerging:SGLT2 inhibitors (dapagliflozin,\nempagliflozin) expanding to pediatric HF\nwith emerging evidence. Gene therapy for\ngenetic DCM subtypes (LMNA, TTN,\nRBM20) in early trials. Precision medicine\ngenotype-guided therapy."
+    },
+    "hasAgent": true,
+    "agentSlug": "dcm"
+  },
+  {
+    "id": 38,
+    "slug": "restrictive-cardiomyopathy-rcm",
+    "specialty": "cardiology",
+    "category": "Cardiomyopathies",
+    "name": "Restrictive Cardiomyopathy (RCM)",
+    "heredityTier": "none",
+    "description": "Stiff, non-compliant ventricles with elevated filling pressures. Systolic function initially preserved. Rarest and worst- prognosis pediatric cardiomyopathy.",
+    "frequency": {
+      "us": "~22–29 new pediatric cases/yr; ~500–1,000 US pediatric prevalent",
+      "global": "~840–1,120 new pediatric cases/yr",
+      "sources": "Colan et al., JACC 2007; RCM 0.03–0.04/100,000 children/yr; 2–5% of pediatric CMs"
+    },
+    "diagnosis": "Echocardiography (biatrial enlargement, normal LV size/EF, restrictive filling pattern). Cardiac MRI. Cardiac catheterization.",
+    "treatment": {
+      "standardOfCare": "Diuretics for symptomatic relief only.\nCardiac transplantation is the only effective\nlong-term treatment; early listing is standard\npractice.",
+      "emerging": "Emerging:mTOR pathway modulation for\nsarcomeric RCM. Gene therapy targeting\nMYH7, TNNI3 variants under investigation.\nRefined transplant listing criteria to optimize\ntiming."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 39,
+    "slug": "arvc-arrhythmogenic-right-ventricular-cardiomyopathy",
+    "specialty": "cardiology",
+    "category": "Cardiomyopathies",
+    "name": "ARVC (Arrhythmogenic Right Ventricular Cardiomyopathy)",
+    "heredityTier": "dominant",
+    "description": "Genetically defined (desmosomal gene mutations: PKP2, DSP, DSG2) cardiomyopathy with fibro-fatty replacement of RV myocardium. Causes ventricular arrhythmias triggered by exercise; leading cause of SCD in young athletes.",
+    "frequency": {
+      "us": "~14,600– 36,500 US total all ages; ~3,000–7,000 US pediatric",
+      "global": "~580,000– 1,460,000 global (all ages)",
+      "sources": "Corrado et al., Circulation 2017; ARVC ~1/2,000– 5,000; PKP2 most common mutation"
+    },
+    "diagnosis": "Task Force Criteria (revised 2020). Cardiac MRI (fibro-fatty infiltration, RV dilation, RVEF). ECG: epsilon waves, T-wave inversions V1-V3. Holter. Exercise stress test. Genetic panel (desmosomal genes). Endomyocardial biopsy.",
+    "treatment": {
+      "standardOfCare": "Exercise restriction — critical and\nmandatory. ICD for sustained VT, VF, or\nsyncope. Catheter ablation for refractory VT\n(epicardial approach often required). Beta\nblockers. Heart transplantation for advanced\nbiventricular failure.",
+      "emerging": "Emerging:Flecainide as add-on\nantiarrhythmic therapy. Gene-silencing\napproaches (ASO, siRNA) for PKP2\npathogenic variants in preclinical\ndevelopment. Sports cardiology risk\nstratification refinements for risk-stratified\nreturn-to-play decisions."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 40,
+    "slug": "left-ventricular-non-compaction-lvnc",
+    "specialty": "cardiology",
+    "category": "Cardiomyopathies",
+    "name": "Left Ventricular Non- Compaction (LVNC)",
+    "heredityTier": "dominant",
+    "description": "Distinct cardiomyopathy characterized by prominent trabeculations and a non-compacted inner myocardial layer. Associated with multiple genetic mutations (MYH7, MYBPC3, LMNA, TAZ). Causes heart failure, ventricular arrhythmias, and thromboembolic risk.",
+    "frequency": {
+      "us": "~36,500– 175,200 US total (echocardiographic); clinical LVNC ~10,000–30,000",
+      "global": "~1,150,000– 5,520,000 global (echocardiographic); clinical significantly lower",
+      "sources": "Towbin et al., JACC 2022; echocardiographic prevalence 0.05– 0.24%; significant diagnostic variability between Jenni and Petersen criteria"
+    },
+    "diagnosis": "Echo: Jenni criteria (NC/C ratio >2 in adults, >1.4 in children in systole). Cardiac MRI. Genetic panel. ECG (LBBB, WPW pattern).",
+    "treatment": {
+      "standardOfCare": "Standard heart failure therapy (ACEi/ARB, beta blocker, diuretics). Anticoagulation for LVEF <35% or thrombus. ICD for high-risk arrhythmia. Cardiac transplantation for refractory HF.",
+      "emerging": "Emerging:Genetic phenotype-specific management — reclassification of\npathological vs. physiological non-\ncompaction using refined MRI criteria\n(NCC/CC ratio, strain imaging). Emerging\nevidence that isolated LVNC may not require\ntherapy without LV dysfunction."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 41,
+    "slug": "duchenne-md-cardiomyopathy",
+    "specialty": "cardiology",
+    "category": "Cardiomyopathies",
+    "name": "Duchenne MD Cardiomyopathy",
+    "heredityTier": "strong",
+    "description": "Progressive dilated cardiomyopathy from dystrophin gene mutations. Cardiac involvement is nearly universal by age 18; now the leading cause of DMD death.",
+    "frequency": {
+      "us": "~1,000–1,400 new US male cases/yr; ~75,000– 100,000 US Duchenne total",
+      "global": "~40,000– 56,000 new global male cases/yr",
+      "sources": "Hoffman et al., NEJM 2019; DMD 1/3,500–5,000 male births; cardiomyopathy present virtually all by age 18"
+    },
+    "diagnosis": "Annual echocardiography + ECG from age 10 (or at diagnosis). Cardiac MRI with LGE for early fibrosis detection. LVEF monitoring.",
+    "treatment": {
+      "standardOfCare": "ACE inhibitors (cardioprotective even\npre-dysfunction — start by age 10). Beta\nblockers once cardiac dysfunction present.\nCorticosteroids (deflazacort preferred).\nVentilatory support. ICD consideration for\narrhythmia.",
+      "emerging": "Emerging:Delandistrogene moxeparvovec\n(Elevidys, Sarepta, FDA 2023/2024) —\nmicro-dystrophin gene therapy for\nambulatory patients ≥4 years. Exon-skipping\ntherapies (eteplirsen, golodirsen, viltolarsen,\ncasimersen) for applicable mutations.\nGivinostat (HDAC inhibitor, FDA 2024) for\nmuscle and cardiac preservation."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 42,
+    "slug": "emery-dreifuss-md-lmna-cardiomyopathy",
+    "specialty": "cardiology",
+    "category": "Cardiomyopathies",
+    "name": "Emery-Dreifuss MD / LMNA Cardiomyopathy",
+    "heredityTier": "strong",
+    "description": "Caused by LMNA or EMD gene mutations. Classic triad: early joint contractures, slowly progressive muscular dystrophy, and life- threatening cardiac conduction disease progressing to DCM. Highest SCD risk of any inherited condition.",
+    "frequency": {
+      "us": "~36–72 new/yr; ~600–1,200 US total",
+      "global": "~1,400– 2,800 new/yr",
+      "sources": "Emery- Dreifuss MD ~1/100,000; LMNA cardiac disease SCD risk >5%/yr without ICD"
+    },
+    "diagnosis": "ECG: atrial standstill, progressive heart block (pathognomonic for EDMD). Echocardiography (DCM). Holter for conduction disease and VT. Genetic testing (LMNA, EMD).",
+    "treatment": {
+      "standardOfCare": "Early and aggressive ICD implantation — mainstay even before significant DCM (LMNA mutations carry very high sudden death risk). Pacemaker for symptomatic bradycardia/heart block. Standard HF therapy. Cardiac transplantation for\nadvanced disease.",
+      "emerging": "Emerging:Temsirolimus (mTOR inhibitor) in\nearly trials for LMNA-DCM. SGLT2 inhibitors\nfor laminopathy-associated HF. Gene\ntherapy for LMNA haploinsufficiency in\npreclinical stage."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 43,
+    "slug": "myocarditis",
+    "specialty": "cardiology",
+    "category": "Cardiomyopathies",
+    "name": "Myocarditis",
+    "heredityTier": "none",
+    "description": "Inflammation of heart muscle, most commonly viral (enterovirus, adenovirus, parvovirus B19). Ranges from mild to fulminant cardiogenic shock.",
+    "frequency": {
+      "us": "~200–400 new US pediatric clinical cases/yr (true incidence ~5× higher)",
+      "global": "~7,700– 15,400 new pediatric cases/yr",
+      "sources": "Freedman et al., Circulation 2016; myocarditis ~1–2/100,000 children/yr; significantly underdiagnosed"
+    },
+    "diagnosis": "Echo (LV dysfunction). Cardiac MRI (gold standard: T2 edema, LGE fibrosis, Lake Louise criteria). Endomyocardial biopsy for definitive diagnosis.",
+    "treatment": {
+      "standardOfCare": "Supportive care. MCS: ECMO as\nrescue for fulminant cardiogenic shock; VAD\n(Berlin Heart EXCOR <15 kg or continuous-\nflow for larger) as bridge to recovery or\ntransplantation. Immunosuppression for\ngiant cell/eosinophilic/autoimmune\nmyocarditis. Heart transplantation.",
+      "emerging": "Emerging:Endomyocardial biopsy-guided\nand cardiac MRI-guided immunosuppression\nprotocols (corticosteroids + azathioprine for\nlymphocytic myocarditis per updated\nEuropean guidelines). Anakinra (IL-1\nantagonist) for immune-mediated\nmyocarditis with hemodynamic compromise.\nPembrolizumab discontinuation +\ncorticosteroids for immune checkpoint\ninhibitor myocarditis."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 44,
+    "slug": "pompe-disease-glycogen-storage-disease-type-ii",
+    "specialty": "cardiology",
+    "category": "Cardiomyopathies",
+    "name": "Pompe Disease (Glycogen Storage Disease Type II)",
+    "heredityTier": "strong",
+    "description": "Autosomal recessive lysosomal acid alpha- glucosidase (GAA) deficiency. Classic infantile form: massive hypertrophic cardiomyopathy + hypotonia + respiratory failure within first year.",
+    "frequency": {
+      "us": "~26–52 new US infantile cases/yr; ~90 new US all- forms cases/yr",
+      "global": "~1,000– 2,000 new infantile cases/yr globally",
+      "sources": "van Capelle et al., Orphanet 2016; classic infantile Pompe ~1/138,000 births; all forms ~1/40,000"
+    },
+    "diagnosis": "Newborn screening (GAA enzyme activity). GAA enzyme assay in leukocytes. GAA gene sequencing. Echo (massive HCM). ECG (giant QRS complexes, shortened PR interval). CK elevation.",
+    "treatment": {
+      "standardOfCare": "ERT: alglucosidase alfa (Myozyme/Lumizyme, Sanofi) — initiate as early as possible; cardiac function often normalizes with early treatment. Respiratory support. Newborn screening allows pre- symptomatic treatment.",
+      "emerging": "Emerging:Next-generation ERT: cipaglucosidase alfa + miglustat (Pombiliti + Opfolda, Amicus, FDA 2023) — improved glycan-independent cellular uptake, superior to alglucosidase alfa in late-onset disease.\nGene therapy: AAV-based approaches\n(AT845, Spark Therapeutics) in Phase 1/2\ntrials. mRNA replacement therapy under\ninvestigation."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 45,
+    "slug": "danon-disease",
+    "specialty": "cardiology",
+    "category": "Cardiomyopathies",
+    "name": "Danon Disease",
+    "heredityTier": "strong",
+    "description": "X-linked lysosomal storage disorder (LAMP2 gene mutations). Classic triad: HCM, skeletal myopathy, and intellectual disability. WPW syndrome in ~70% of males. Rapidly progressive HCM often requiring transplantation.",
+    "frequency": {
+      "us": "~180–360 US total all ages; ~50– 100 US pediatric cases",
+      "global": "~7,000– 14,000 global (all ages)",
+      "sources": "Danon disease ~1/40,000; X-linked LAMP2 mutation; ~1% of HCM referrals"
+    },
+    "diagnosis": "Echo (severe HCM, often massive). ECG: WPW pattern, extremely high voltage. Lysosomal enzyme panel (LAMP2 protein absent on immunostaining). Genetic testing (LAMP2). Muscle biopsy. Cardiac MRI (LGE fibrosis).",
+    "treatment": {
+      "standardOfCare": "ICD for SCD risk (combination of WPW\n+ severe HCM). Catheter ablation for WPW\naccessory pathway. Cardiac transplantation\n— often the only effective long-term therapy;\nmedian age at transplantation ~20 years in\nmales.",
+      "emerging": "Emerging:Gene therapy: AT845 (Astellas,\nAAV9-LAMP2B) in Phase 1/2 trials —\npromising early results for LAMP2 protein\nrestoration. Female carriers require close\ncardiac surveillance (later-onset, variable\npenetrance)."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 46,
+    "slug": "fabry-disease-cardiac",
+    "specialty": "cardiology",
+    "category": "Cardiomyopathies",
+    "name": "Fabry Disease (Cardiac)",
+    "heredityTier": "strong",
+    "description": "Lysosomal storage disorder (alpha- galactosidase A deficiency). Cardiac manifestations: HCM, arrhythmia, heart failure.",
+    "frequency": {
+      "us": "~1,800–8,700 US total (including late-onset variants); ~500–1,000 US pediatric",
+      "global": "~70,000– 340,000 global (all ages, including late- onset variants)",
+      "sources": "Mehta et al., Genet Med 2020; classical Fabry ~1/40,000; NBS studies suggest ~1/3,100 including late-onset variants"
+    },
+    "diagnosis": "Enzyme activity (alpha-gal A) in leukocytes. Genetic testing. Echo and cardiac MRI. Plasma/urine Gb3. Newborn screening in some states.",
+    "treatment": {
+      "standardOfCare": "ERT: agalsidase alfa (Replagal, EU) or\nagalsidase beta (Fabrazyme, Sanofi, US).\nTreat cardiac complications: beta\nblockers/CCBs for HCM, anticoagulation for\nstroke risk, ICD/pacemaker for arrhythmia\nand heart block.",
+      "emerging": "Emerging:Migalastat (Galafold, Amicus) —\noral pharmacological chaperone for patients\nwith amenable GLA mutations (~35–50% of\npatients); non-inferior to ERT. Next-\ngeneration ERT: pegunigalsidase alfa (PRX-\n102, Chiesi, EU approved) for superior\nstability and reduced immunogenicity. Gene\ntherapy trials: ST-920 (4D Molecular\nTherapeutics), 4D-310 in Phase 1/2."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 47,
+    "slug": "friedreich-s-ataxia-cardiac",
+    "specialty": "cardiology",
+    "category": "Cardiomyopathies",
+    "name": "Friedreich's Ataxia (Cardiac)",
+    "heredityTier": "strong",
+    "description": "GAA repeat expansion in frataxin gene causes mitochondrial iron accumulation. Cardiac involvement (HCM + arrhythmia) present in >90% and is the leading cause of death.",
+    "frequency": {
+      "us": "~730–1,460 US total with cardiac involvement; ~500– 1,000 US pediatric",
+      "global": "~29,000– 58,000 global",
+      "sources": "Durr, Lancet Neurol 2010; Friedreich's ataxia ~1/50,000; HCM in ~80% of patients"
+    },
+    "diagnosis": "Echocardiography (LV hypertrophy). Cardiac MRI. ECG (T-wave inversion common). Genetic testing (GAA repeat length).",
+    "treatment": {
+      "standardOfCare": "Beta blockers for symptomatic HCM. ACE inhibitors for heart failure. ICD consideration for malignant arrhythmia/sustained VT. Cardiac surveillance annual echo + ECG.",
+      "emerging": "Emerging:Omaveloxolone (Skyclarys, FDA 2023) — first disease-modifying therapy for FA (age ≥16); reduces neurological progression; cardiac effects under prospective evaluation. Frataxin replacement: mRNA therapy (Larimar, CTI- 1601) in Phase 2; AAV-FXN gene therapy in early Phase 1. Epigenetic reactivation of silenced frataxin allele (HDAC inhibitors)."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 48,
+    "slug": "barth-syndrome-cardiac",
+    "specialty": "cardiology",
+    "category": "Cardiomyopathies",
+    "name": "Barth Syndrome (Cardiac)",
+    "heredityTier": "strong",
+    "description": "X-linked disorder (tafazzin gene mutations) with abnormal cardiolipin metabolism. Presents with DCM, skeletal myopathy, neutropenia, and growth retardation.",
+    "frequency": {
+      "us": "~9–12 new US male cases/yr; ~200–500 US total",
+      "global": "~350–470 new global male cases/yr",
+      "sources": "Barth Syndrome Foundation; ~1/300,000– 400,000 male births; X-linked TAZ mutation; significantly underdiagnosed"
+    },
+    "diagnosis": "Echocardiography (DCM; occasionally non- compaction). Urine 3- methylglutaconic acid. Plasma/urine monolysocardiolipin ratio. Genetic testing (TAZ gene).",
+    "treatment": {
+      "standardOfCare": "Standard HF therapy (ACE inhibitors,\nbeta blockers, diuretics). Nutritional support\n(leucine supplementation). ICD for\nventricular arrhythmia. Cardiac\ntransplantation for refractory HF.",
+      "emerging": "Emerging:Elamipretide (SS-31,\nmitochondria-targeted peptide, Stealth\nBioTherapeutics) — Phase 2 trial in Barth\nsyndrome (TAZPOWER trial). TAZ gene\ntherapy (AAV-mediated tafazzin restoration)\nin preclinical stage."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 49,
+    "slug": "mucopolysaccharidoses-cardiac",
+    "specialty": "cardiology",
+    "category": "Cardiomyopathies",
+    "name": "Mucopolysaccharidoses (Cardiac)",
+    "heredityTier": "strong",
+    "description": "Lysosomal storage disorders (MPS I/Hurler, MPS II/Hunter, MPS IVA/Morquio, MPS VI) causing progressive glycosaminoglycan accumulation in cardiac valves, coronary arteries, and myocardium.",
+    "frequency": {
+      "us": "~120–144 new US cases/yr (all MPS combined); ~10,000–20,000 US total",
+      "global": "~4,700– 5,600 new global cases/yr",
+      "sources": "Khan et al., Orphanet 2017; combined MPS ~1/25,000–30,000 births; cardiac valvular involvement in virtually all MPS types"
+    },
+    "diagnosis": "Echocardiography (serial: valve thickening, regurgitation/stenosis progression). Urine glycosaminoglycans. Leukocyte enzyme activity assay. Genetic testing.",
+    "treatment": {
+      "standardOfCare": "ERT: laronidase (MPS I/Aldurazyme), idursulfase (MPS II/Elaprase), galsulfase (MPS VI/Naglazyme), elosulfase alfa (MPS IVA/Vimizim). HSCT for MPS I Hurler before age 2.5 years (prevents cognitive decline, cardiac benefit partial). Surgical valve repair/replacement for advanced valve\ndisease.",
+      "emerging": "Emerging:Intrathecal/intracerebroventricular\nERT to address CNS disease (not reached\nby IV ERT). Gene therapy: in vivo AAV and\nex vivo HSCT-gene therapy combinations\nfor MPS I, II, III (active Phase 1/2 trials).\nSubstrate reduction therapy (SRT) with\ngenistein, miglustat. Genome editing (ZFN,\nCRISPR) preclinical."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 50,
+    "slug": "mitochondrial-cardiomyopathy",
+    "specialty": "cardiology",
+    "category": "Cardiomyopathies",
+    "name": "Mitochondrial Cardiomyopathy",
+    "heredityTier": "strong",
+    "description": "Cardiomyopathy (most commonly HCM, less commonly DCM) caused by mutations in mitochondrial DNA or nuclear genes encoding mitochondrial proteins -- failure of oxidative phosphorylation in energy- demanding cardiomyocytes. Major syndromes: MELAS, Kearns-Sayre (complete heart block + HCM), Leigh syndrome (severe infantile HCM), MERRF. Unlike sarcomeric HCM, myectomy and septal reduction are rarely appropriate. Cardiac transplantation is controversial because multisystem disease continues after transplant.",
+    "frequency": {
+      "us": "~730–1,460 new US cases/yr; ~12,000–24,000 US total with cardiac involvement",
+      "global": "~28,000– 56,000 new global cases/yr",
+      "sources": "Mitochondrial disease ~1/5,000– 10,000; cardiac involvement in ~20– 40% of cases FREQUENCY"
+    },
+    "diagnosis": "Echo: HCM pattern most common. ECG: complete heart block, pre-excitation, or conduction defects (especially KSS). Serum and CSF lactate (elevated). Muscle biopsy: ragged red fibers. Mitochondrial DNA sequencing; nuclear gene panel. Brain MRI (Leigh: symmetric basal ganglia T2 hyperintensities).",
+    "treatment": {
+      "standardOfCare": "No disease-modifying therapy proven\nto alter cardiac course. Standard HF\ntherapy. Mandatory pacemaker for complete\nheart block (KSS — sudden death is a\nleading cause). ICD for sustained VT/VF.\nCoQ10 supplementation (widely used).\nAvoid valproate (complex I inhibitor).",
+      "emerging": "Emerging:NAD+ precursors (nicotinamide\nriboside, NMN) under investigation.\nVatiquinone (EPI-743) in pediatric\nmitochondrial disease trials. Idebenone for\nLHON-related mitochondrial disease.\nMitochondrial replacement therapy (MRT,\n'three-parent IVF') for maternal inheritance\nprevention — approved in UK, in use\nclinically. Cardiac transplantation after\ncareful multidisciplinary review; multisystem\ndisease progression continues post-\ntransplant."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 51,
+    "slug": "marfan-syndrome-cardiac",
+    "specialty": "cardiology",
+    "category": "Cardiomyopathies",
+    "name": "Marfan Syndrome (Cardiac)",
+    "heredityTier": "strong",
+    "description": "Autosomal dominant connective tissue disorder (FBN1 gene). Cardinal cardiac features: progressive aortic root dilation (risk of dissection and rupture), aortic valve regurgitation, and mitral valve prolapse.",
+    "frequency": {
+      "us": "~13,000– 15,000 US total; ~3,000–4,000 US pediatric",
+      "global": "~520,000– 600,000 global",
+      "sources": "De Paepe et al., Am J Med Genet 1996; Marfan ~1/5,000; ~65,000 Americans confirmed"
+    },
+    "diagnosis": "Ghent criteria 2010. Echocardiography (aortic root Z-score). Annual cardiac MRI/CT. Slit-lamp exam (ectopia lentis). Genetic testing (FBN1). Family screening.",
+    "treatment": {
+      "standardOfCare": "Losartan or atenolol — reduce aortic\nroot growth rate. Prophylactic aortic root\nreplacement when root >4.5–5.0 cm (or\naortic size index >2.75 cm/m²). Valve-\nsparing root repair preferred in young\npatients. Exercise restriction. Annual\nechocardiographic surveillance.",
+      "emerging": "Emerging:TGF-β pathway inhibitors beyond\nlosartan under investigation. Combined\nARNI (sacubitril/valsartan) for Marfan-\nassociated LV dysfunction. FBN1 genotype-\nspecific surgical thresholds; aortic size index\nand growth rate algorithms replacing\nabsolute diameter alone."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 52,
+    "slug": "loeys-dietz-syndrome",
+    "specialty": "cardiology",
+    "category": "Cardiomyopathies",
+    "name": "Loeys-Dietz Syndrome",
+    "heredityTier": "strong",
+    "description": "Autosomal dominant aortopathy (TGFBR1, TGFBR2, SMAD3, TGFB2/3 mutations). More aggressive aortic dilation and dissection at smaller diameters than Marfan syndrome.",
+    "frequency": {
+      "us": "~730–1,460 US total; ~200–400 US pediatric",
+      "global": "~29,000– 58,000 global",
+      "sources": "Loeys-Dietz syndrome ~1/50,000–100,000; TGFBR1/2, SMAD2/3, TGFB2/3 mutations"
+    },
+    "diagnosis": "Genetic testing (TGFBR1/2, SMAD3, TGFB2/3 panel). Echocardiography. Full aortic MRI/CT from head to pelvis -- LDS affects entire arterial tree. Annual surveillance imaging.",
+    "treatment": {
+      "standardOfCare": "Losartan — first-line therapy. Lower\nthreshold for prophylactic aortic surgery\n(~4.0–4.5 cm vs. 5.0 cm in Marfan). Pan-\narterial surveillance (head-to-pelvis MRA\nannually). Exercise restriction.",
+      "emerging": "Emerging:Genotype-specific thresholds:\nTGFBR1 vs. TGFBR2 vs. SMAD3 vs.\nTGFB2 variants have differing natural\nhistories. Targeted TGFBR pathway\ninhibitors under investigation. Cervical artery\nsurveillance protocols standardizing."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 53,
+    "slug": "turner-syndrome-cardiac",
+    "specialty": "cardiology",
+    "category": "Arrhythmias",
+    "name": "Turner Syndrome (Cardiac)",
+    "heredityTier": "strong",
+    "description": "Sex chromosome aneuploidy (45,X or mosaic). Cardiac findings in ~30-50%: bicuspid aortic valve (~16%), coarctation (~10%), aortic dilation. Dissection risk 6- 10x higher than general population despite relatively modest aortic dilation.",
+    "frequency": {
+      "us": "~29,000– 36,500 new US cases/yr (all Turner); ~12,000– 18,000 cardiac cases/yr",
+      "global": "~1,120,000– 1,400,000 new global cases/yr (all Turner)",
+      "sources": "Turner syndrome ~1/2,000–2,500 live female births; BAV in ~30–50%; CoA in ~15%"
+    },
+    "diagnosis": "Echocardiography at diagnosis (BAV, coarctation). MRI/CT for full aortic assessment. BP in all four extremities. Karyotype. Aortic size index (ASI) -- dissection risk increases significantly at ASI >2.5 cm/m2.",
+    "treatment": {
+      "standardOfCare": "Estrogen replacement therapy (starting ~12 years for puberty induction). Antihypertensive therapy. Prophylactic aortic surgery at lower thresholds than general population (ASI >2.5 cm/m²). Coarctation repair per standard protocols. Lifelong cardiology surveillance.",
+      "emerging": "Emerging:Refined aortic size index thresholds incorporating aortic area/height index. Growth hormone effects on aortic dimensions under study. Reproductive planning with high-risk obstetric centers for\nthose attempting pregnancy."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 54,
+    "slug": "vascular-ehlers-danlos-syndrome-eds-type-iv",
+    "specialty": "cardiology",
+    "category": "Arrhythmias",
+    "name": "Vascular Ehlers-Danlos Syndrome (EDS Type IV)",
+    "heredityTier": "strong",
+    "description": "Autosomal dominant (COL3A1 mutations encoding type III procollagen). Most life- threatening EDS subtype. Unlike Marfan/Loeys- Dietz, the aortic root is often normal -- danger lies in spontaneous rupture of medium-sized arteries WITHOUT preceding aneurysm. Arterial tissue is extraordinarily fragile; sutures tear through native vessels. Operating on an undiagnosed vascular EDS patient is a recognized cause of intraoperative catastrophe.",
+    "frequency": {
+      "us": "EDS subtype: median survival ~48 years. First major complication by age 40 in ~80%. Arterial rupture is most common cause of death. US: ~730–2,920 US total; ~100–400 US pediatric",
+      "global": "~29,000– 116,000 global",
+      "sources": "Vascular EDS ~1/50,000– 200,000; COL3A1 mutations; median survival ~48 years FREQUENCY"
+    },
+    "diagnosis": "Genetic testing (COL3A1 sequencing): gold standard. CT angiography of entire arterial tree: baseline mapping. MRI/MRA preferred over invasive angiography -- arterial puncture can cause uncontrollable hemorrhage. Echo: aortic root and valve. Avoid invasive arterial procedures unless absolutely necessary.",
+    "treatment": {
+      "standardOfCare": "Conservative management strongly\npreferred — avoid elective surgery.\nCeliprolol (beta blocker with vasodilatory\nproperties) — only agent with RCT evidence\nfor reducing arterial event rates (BBEST\ntrial). Surgical intervention for life-\nthreatening rupture using modified technique\n(pledgeted sutures, Teflon felt, minimal\ntissue handling); endovascular preferred\nover open. Pre-operative COL3A1 screening\nbefore all vascular/cardiac surgery.",
+      "emerging": "Emerging:Losartan and irbesartan trials\nongoing. Improved endovascular techniques\nfor arterial complications (covered stents,\nfenestrated grafts). Genetic counseling:\npregnancy carries very high risk (managed\nat specialized centers with MFM + cardiac)."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 55,
+    "slug": "takayasu-arteritis",
+    "specialty": "cardiology",
+    "category": "Arrhythmias",
+    "name": "Takayasu Arteritis",
+    "heredityTier": "none",
+    "description": "Large-vessel granulomatous vasculitis affecting the aorta and major branches (subclavian, carotid, renal, mesenteric, coronary arteries). Predominantly affects adolescent girls. Causes progressive arterial stenosis, occlusion, and aneurysm formation. Cardiac complications: aortic regurgitation, coronary ostial stenosis, renovascular hypertension, limb ischemia. Critically: in the active inflammatory phase, surgical intervention carries very high restenosis rates -- surgery must be deferred until disease is in remission.",
+    "frequency": {
+      "us": "~100–200 new US pediatric cases/yr; ~1,000– 2,000 US total",
+      "global": "~100,000– 200,000 new global cases/yr",
+      "sources": "Takayasu arteritis ~1– 2/million/yr overall; ~10–15% onset in childhood"
+    },
+    "diagnosis": "Clinical: absent or diminished pulses, limb BP differential >10 mmHg, bruits, renovascular hypertension. Inflammatory markers (ESR, CRP, IL-6). CT angiography or MRA: vessel wall thickening, stenosis, occlusion, aneurysm -- gold standard. PET-CT: detects active vessel wall inflammation -- key for determining readiness for surgery. Echo: AR severity, coronary ostia.",
+    "treatment": {
+      "standardOfCare": "High-dose corticosteroids for active disease. Steroid-sparing agents: methotrexate, azathioprine, mycophenolate mofetil. Surgical/endovascular intervention reserved for burnt-out disease in remission (PET-CT confirmed). Bypass grafting preferred over angioplasty for surgical revascularization.",
+      "emerging": "Emerging:Tocilizumab (IL-6 receptor antagonist) — best evidence for\nrefractory/steroid-dependent pediatric\nTakayasu (used off-label in pediatrics; FDA-\napproved for adult GCA). TNF inhibitors\n(infliximab, adalimumab). Abatacept under\ninvestigation. PET-CT standardization for\ndisease activity monitoring."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 56,
+    "slug": "pulmonary-arterial-hypertension-pah",
+    "specialty": "cardiology",
+    "category": "Arrhythmias",
+    "name": "Pulmonary Arterial Hypertension (PAH)",
+    "heredityTier": "dominant",
+    "description": "Intrinsic pulmonary vascular disease causing progressive arterial obliteration, elevated PA pressures, and right heart failure. Idiopathic or associated with CHD.",
+    "frequency": {
+      "us": "~1,095–3,650 US pediatric cases; ~5,000–10,000 US total PAH all ages",
+      "global": "~42,000– 140,000 global PAH (all ages)",
+      "sources": "Simonneau et al., JACC 2019; idiopathic PAH 15– 50/million; pediatric PAH 0.7–4.4/million children/yr"
+    },
+    "diagnosis": "Right heart catheterization (gold standard: mPAP >=25 mmHg, PVR >=3 Wood units). Echo. V/Q scan. Genetic testing (BMPR2). 6-minute walk test.",
+    "treatment": {
+      "standardOfCare": "Targeted combination therapy: ERAs\n(bosentan, ambrisentan, macitentan) + PDE-\n5 inhibitors (sildenafil, tadalafil) ±\nprostanoids (epoprostenol IV, treprostinil\nSC/inhaled/IV, iloprost inhaled). Calcium\nchannel blockers for vasoreactive patients\n(acute vasoreactivity testing-guided). Lung\nor heart-lung transplantation for refractory\ndisease.",
+      "emerging": "Emerging:Sotatercept (Winrevair, Merck,\nFDA 2024) — activin signaling inhibitor (anti-\nActRIIA); landmark STELLAR trial showed\nsignificant reduction in PVR and 6MWD;\nrapidly becoming add-on SOC. Ralinepag\n(oral IP receptor agonist) in Phase 3. AAV-\nBMPR2 gene therapy in preclinical\ndevelopment."
+    },
+    "hasAgent": true,
+    "agentSlug": "pah"
+  },
+  {
+    "id": 57,
+    "slug": "eisenmenger-syndrome",
+    "specialty": "cardiology",
+    "category": "Arrhythmias",
+    "name": "Eisenmenger Syndrome",
+    "heredityTier": "none",
+    "description": "End-stage consequence of large unrepaired left-to- right shunt in which chronically elevated pulmonary blood flow produces irreversible pulmonary vascular obstructive disease. Pulmonary vascular resistance rises until it exceeds systemic, causing right-to-left shunting and systemic cyanosis. Once established, cardiac repair is permanently and absolutely contraindicated -- closing the defect removes the 'pop-off valve' and causes acute right heart failure and death. A preventable disease: develops only when a surgically correctable defect is not repaired in time.",
+    "frequency": {
+      "us": "~73–660 US total (markedly declined post-CHD repair era)",
+      "global": "~2,900– 26,000 global (markedly declined in high-income countries)",
+      "sources": "Beghetti & Galie, Eur Heart J 2009; prevalence ~1–9/million in high- income countries now"
+    },
+    "diagnosis": "Clinical: central cyanosis, clubbing, polycythemia, reduced exercise tolerance, hemoptysis. Echo: bidirectional or right-to-left shunt flow; severe RV hypertension; RV hypertrophy and dilation. Right heart catheterization (essential): quantify PVR; vasodilator testing (negative in Eisenmenger). CT pulmonary angiography. CBC: polycythemia (Hct often 55-75%).",
+    "treatment": {
+      "standardOfCare": "Cardiac repair absolutely contraindicated once Eisenmenger physiology established. PAH therapy (palliative): bosentan (best Eisenmenger RCT evidence), macitentan, sildenafil, tadalafil; prostanoids for advanced disease. Phlebotomy only for severe hyperviscosity (Hct >65%). Avoid: pregnancy (maternal mortality 30–50%), dehydration, high altitude, iron deficiency. Heart-lung\ntransplantation for selected deteriorating\npatients.",
+      "emerging": "Emerging:Sotatercept (Winrevair): SuMILE\ntrial in Eisenmenger ongoing — anticipated\nto shift management paradigm. Macitentan +\ntadalafil combination trials. Riociguat (sGC\nstimulator) has been used off-label in\nEisenmenger with some evidence."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 58,
+    "slug": "homozygous-familial-hypercholesterolemia-hofh",
+    "specialty": "cardiology",
+    "category": "Arrhythmias",
+    "name": "Homozygous Familial Hypercholesterolemia (HoFH)",
+    "heredityTier": "strong",
+    "description": "Mutations in both LDL receptor gene copies cause inability to clear LDL. Aggressive atherosclerosis from childhood; MI before age 20 without treatment.",
+    "frequency": {
+      "us": "patients. US: ~330–1,100 US total HoFH; ~2,000– 5,000 including milder FH",
+      "global": "~13,000– 43,000 global HoFH",
+      "sources": "Goldberg et al., JACC 2022; HoFH ~1/300,000– 1,000,000; LDL >400–500 mg/dL from birth FREQUENCY"
+    },
+    "diagnosis": "Lipid panel (LDL 400- 1,000+ mg/dL). Genetic testing (LDLR, APOB, PCSK9). Carotid/coronary imaging. Vascular ultrasound.",
+    "treatment": {
+      "standardOfCare": "High-intensity statins + ezetimibe +\nPCSK9 inhibitors (evolocumab, alirocumab).\nLDL apheresis every 1–2 weeks. Lomitapide\n(MTP inhibitor) for HoFH.",
+      "emerging": "Emerging:Evinacumab (Evkeeza,\nRegeneron, FDA 2021) — ANGPTL3\ninhibitor; approved for HoFH ≥12 years;\nsignificant LDL reduction independent of\nLDL receptor function. Inclisiran (siRNA,\nLeqvio) — trials ongoing for HoFH. LDL\nreceptor gene therapy (Phase 1/2 trials)."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 59,
+    "slug": "long-qt-syndrome-lqts",
+    "specialty": "cardiology",
+    "category": "Arrhythmias",
+    "name": "Long QT Syndrome (LQTS)",
+    "heredityTier": "strong",
+    "description": "Inherited ion channel disorder causing prolonged cardiac repolarization and risk of torsades de pointes, syncope, and sudden cardiac death. Over 17 genetic subtypes; LQTS1 and LQTS2 account for >90% of genotyped cases.",
+    "frequency": {
+      "us": "~36,500– 73,000 US pediatric cases; ~165,000 US total",
+      "global": "~1,450,000– 2,900,000 global",
+      "sources": "Schwartz et al., Circulation 2012; LQTS ~1/2,000 individuals; ~3,500 US sudden deaths/yr attributed to LQTS"
+    },
+    "diagnosis": "12-lead ECG (QTc >=480ms diagnostic; 460- 480ms borderline). Genetic panel. Exercise stress test. Schwartz score. Family screening.",
+    "treatment": {
+      "standardOfCare": "Beta blockers (nadolol or propranolol\npreferred over metoprolol) — first-line for all\nLQTS types. ICD for high-risk patients\n(cardiac arrest survivors, recurrent syncope\non therapy). Avoidance of QT-prolonging\nmedications. Activity restriction by genotype\n(LQT1 most vulnerable to exercise, LQT2 to\nauditory triggers).",
+      "emerging": "Emerging:Mexiletine add-on for LQTS3\n(late sodium current blocker — reduces QTc\nand events; now established practice). Left\ncardiac sympathetic denervation (LCSD) for\nrefractory patients or those unable to\ntolerate ICD. Gene therapy and\npharmacogenomic therapy for specific\nKCNQ1/KCNH2 variants in preclinical\ndevelopment."
+    },
+    "hasAgent": true,
+    "agentSlug": "lqts"
+  },
+  {
+    "id": 60,
+    "slug": "cpvt-catecholaminergic-polymorphic-vt",
+    "specialty": "cardiology",
+    "category": "Arrhythmias",
+    "name": "CPVT (Catecholaminergic Polymorphic VT)",
+    "heredityTier": "strong",
+    "description": "Rare inherited channelopathy (RYR2 or CASQ2 mutations) causing bidirectional or polymorphic VT during adrenergic stimulation. Structurally normal heart. SCD is often the first manifestation.",
+    "frequency": {
+      "us": "~7,300–14,600 US total; ~1,500– 3,000 US pediatric",
+      "global": "~290,000– 580,000 global",
+      "sources": "Priori et al., Circulation 2002; CPVT ~1/10,000; RYR2 mutations in ~60–70% of cases"
+    },
+    "diagnosis": "Exercise stress test or epinephrine provocation -- characteristic bidirectional or polymorphic VT. Normal resting ECG and echo. Genetic testing (RYR2, CASQ2). Family screening.",
+    "treatment": {
+      "standardOfCare": "Nadolol (preferred beta blocker —\nhighest efficacy in CPVT). Flecainide add-on\n(reduces VT burden significantly —\nestablished adjunctive therapy). ICD for\nsurvivors of cardiac arrest or breakthrough\nVT/VF on therapy. Strict exercise restriction.",
+      "emerging": "Emerging:Left cardiac sympathetic\ndenervation (LCSD) — reduces ICD shocks\nand VT episodes as adjunctive therapy.\nRyR2-targeted stabilizers (dantrolene,\nflecainide). Gene silencing of RYR2 gain-of-\nfunction variants using ASO/siRNA —\npreclinical."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 61,
+    "slug": "brugada-syndrome",
+    "specialty": "cardiology",
+    "category": "Arrhythmias",
+    "name": "Brugada Syndrome",
+    "heredityTier": "strong",
+    "description": "Sodium channelopathy (SCN5A mutations in ~20- 30%) causing distinctive ECG pattern and risk of ventricular fibrillation, predominantly during rest or sleep. Structurally normal heart.",
+    "frequency": {
+      "us": "~36,500– 73,000 US total; ~4,000–8,000 US pediatric",
+      "global": "~1,450,000– 2,900,000 global",
+      "sources": "Antzelevitch et al., Circulation 2005; Brugada ~1/2,000 globally; higher prevalence in SE Asia"
+    },
+    "diagnosis": "Type 1 Brugada ECG pattern (coved ST elevation >=2mm in V1- V2) -- spontaneous or sodium channel blocker- provoked. Genetic testing (SCN5A). Fever management critical.",
+    "treatment": {
+      "standardOfCare": "ICD — only proven therapy for symptomatic patients (VF survivors, spontaneous sustained VT). Quinidine for electrical storm, VF storms, or ICD-ineligible patients. Aggressive fever management (antipyretics). Avoidance of sodium channel- blocking drugs.",
+      "emerging": "Emerging:Subcutaneous ICD (S-ICD) preferred in younger patients without pacing\nindication. Epicardial ablation of the RVOT\narrhythmogenic substrate (Brugada hotspot\n— Haïssaguerre protocol) — potentially\ncurative in specialized centers. Sodium\nchannel gain-of-function research guiding\nnovel pharmacology."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 62,
+    "slug": "short-qt-syndrome-sqts",
+    "specialty": "cardiology",
+    "category": "Arrhythmias",
+    "name": "Short QT Syndrome (SQTS)",
+    "heredityTier": "strong",
+    "description": "Rare inherited channelopathy characterized by pathologically shortened cardiac repolarization (QTc <320-340ms) and risk of ventricular fibrillation and SCD. Caused by gain-of- function mutations in potassium channel genes (KCNQ1, KCNH2, KCNJ2 -- the opposite mutations from LQTS). SCA or VF may be the first manifestation, including in infants. Critically distinct from LQTS: opposite pathophysiology; beta blockers used in LQTS are ineffective or potentially harmful in SQTS.",
+    "frequency": {
+      "us": "~1,460–7,300 US total (significantly underdiagnosed)",
+      "global": "~58,000– 290,000 global",
+      "sources": "Gollob et al., JACC 2011; SQTS <1/10,000; gain-of-function mutations in KCNH2, KCNQ1, KCNJ2 FREQUENCY"
+    },
+    "diagnosis": "12-lead ECG: QTc <320ms (definitive); 320- 340ms (borderline). Note: QT may appear near- normal at fast heart rates because QT does not shorten appropriately with rate increase (abnormal QT-RR relationship). Genetic panel (KCNQ1, KCNH2, KCNJ2, CACNA1C, CACNB2). EP study: short atrial/ventricular refractory periods, VF inducibility. Family screening mandatory.",
+    "treatment": {
+      "standardOfCare": "ICD: mainstay for symptomatic\npatients — careful programming mandatory\ndue to tall, peaked T-waves causing T-wave\noversensing. Quinidine or hydroquinidine for\nICD-ineligible patients (prolongs QT,\nreduces VF inducibility). Family screening\nwith 12-lead ECG. Activity restriction\npending ICD placement.",
+      "emerging": "Emerging:Disopyramide for SQTS2\n(KCNQ1-GOF). Genetic phenotype-specific\nion channel pharmacology under\ninvestigation. S-ICD with careful QRS/T-\nwave sensing optimization."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 63,
+    "slug": "noonan-syndrome-cardiac",
+    "specialty": "cardiology",
+    "category": "Arrhythmias",
+    "name": "Noonan Syndrome (Cardiac)",
+    "heredityTier": "strong",
+    "description": "RASopathy (PTPN11 in ~50%). Cardinal cardiac features: pulmonary stenosis (50-60%), HCM (20-30%), ASD. HCM in Noonan is often refractory and may progress rapidly in infancy.",
+    "frequency": {
+      "us": "~29,000– 73,000 US total; ~10,000–25,000 US pediatric",
+      "global": "~1,160,000– 2,900,000 global",
+      "sources": "Romano et al., Eur J Med Genet 2010; Noonan ~1/1,000– 2,500 births; PTPN11 ~50%"
+    },
+    "diagnosis": "Clinical: short stature, typical facies, cryptorchidism. Genetic panel (RASopathy genes). Echocardiography. ECG (left axis deviation). Surveillance echo for HCM progression.",
+    "treatment": {
+      "standardOfCare": "PS: balloon valvuloplasty (dysplastic valves have lower success rates than typical PS — may require surgical valvotomy). HCM: beta blockers, CCBs. Surgical myectomy for refractory LVOTO. ICD for high-risk HCM.",
+      "emerging": "Emerging:Trametinib (MEK inhibitor, Novartis) — FDA Breakthrough Designation\nfor HRAS/RAS pathway-mutant Noonan\nHCM; active trials showing HCM regression.\nBroader RASopathy-targeted therapies\n(SHP2 inhibitors) for other Noonan variants.\nMavacamten for Noonan HCM with LVOTO\n(off-label, emerging evidence)."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 64,
+    "slug": "williams-syndrome-svas",
+    "specialty": "cardiology",
+    "category": "Arrhythmias",
+    "name": "Williams Syndrome / SVAS",
+    "heredityTier": "strong",
+    "description": "Contiguous gene deletion syndrome (7q11.23; elastin gene ELN). SVAS present in ~75% and is the leading cause of morbidity. Sudden death risk during cardiac procedures due to bilateral coronary ostial involvement.",
+    "frequency": {
+      "us": "~29,000– 43,000 new US cases/yr; ~870,000– 1,300,000 US total",
+      "global": "~1,120,000– 1,680,000 new global cases/yr",
+      "sources": "Morris et al., Pediatrics 2010; Williams syndrome ~1/7,500 live births; ELN deletion 7q11.23"
+    },
+    "diagnosis": "Clinical diagnosis + FISH or chromosomal microarray for 7q11.23 deletion. Echo (SVAS gradient, coronary origins, branch PA stenosis). CT angiography for complex anatomy.",
+    "treatment": {
+      "standardOfCare": "Surgical SVAS repair (patch\naortoplasty — Doty or McGoon techniques)\nfor significant gradients. Peripheral PA\nstenosis: transcatheter balloon dilation ±\nstenting. Mandatory pre-anesthesia cardiac\nevaluation due to SCD risk from coronary\nostial involvement or bilateral PA stenosis.\nLifelong cardiac surveillance.",
+      "emerging": "Emerging:Elastin augmentation strategies\ntargeting ELN haploinsufficiency.\nTranscatheter SVAS approaches for discrete\nmembranous lesions. Improved coronary\nostial protection techniques perioperatively."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 65,
+    "slug": "alagille-syndrome-cardiac",
+    "specialty": "cardiology",
+    "category": "Arrhythmias",
+    "name": "Alagille Syndrome (Cardiac)",
+    "heredityTier": "strong",
+    "description": "Autosomal dominant multisystem disorder",
+    "frequency": {
+      "us": "~1 in 30,000 live births.",
+      "global": "",
+      "sources": ""
+    },
+    "diagnosis": "Genetic testing (JAG1 or NOTCH2 sequencing). Clinical: cholestasis, butterfly vertebrae, posterior embryotoxon, triangular facies. Echo: RV pressure estimation. Cardiac MRI: quantitative bilateral PA blood flow, RV size and function. Cardiac catheterization + bilateral pulmonary angiography: gold standard for PA anatomy and pressures. Liver biopsy: bile duct paucity.",
+    "treatment": {
+      "standardOfCare": "Transcatheter balloon pulmonary\narterioplasty and stenting: mainstay of catheterization management; serial\nprocedures throughout childhood targeting\nsub-systemic RV pressure. Cutting balloon\nand stent approaches for fibrotic lesions.\nLiver transplantation for biliary cirrhosis\n(~20–30%). Annual cardiac MRI and\nDoppler echo for RV pressure tracking.",
+      "emerging": "Emerging:Odevixibat (Bylvay, Albireo, FDA\n2021) for cholestasis in Alagille syndrome —\nreduces pruritus and may slow liver disease\nprogression. JAG1/Notch pathway\nmodulation to promote PA growth\n(preclinical). Drug-eluting balloons for\nresistant PA stenosis."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 66,
+    "slug": "charge-syndrome",
+    "specialty": "cardiology",
+    "category": "Arrhythmias",
+    "name": "CHARGE Syndrome",
+    "heredityTier": "strong",
+    "description": "Autosomal dominant multisystem developmental disorder caused by CHD7 mutations (~90% of cases). Acronym: Coloboma, Heart defects, Atresia choanae, Retardation of growth, Genital abnormalities, Ear anomalies with hearing loss. Cardiovascular malformations in ~75-80%; predominantly conotruncal: TOF (~20%), IAA, AVSD, VSD, PA- VSD, and complex heterotaxy. One of the most common causes of combined deaf-blindness in children.",
+    "frequency": {
+      "us": "~300–420 new US cases/yr; ~10,000–15,000 US total",
+      "global": "~11,700– 16,500 new global cases/yr",
+      "sources": "Zentner et al., Clin Genet 2010; CHARGE ~1/8,500– 12,000 births; CHD7 de novo mutation in ~60–70% FREQUENCY"
+    },
+    "diagnosis": "Clinical diagnosis (Blake or Verloes criteria). CHD7 gene sequencing: positive in ~90%. Echo: complete cardiac anatomy. CT angiography for complex arch anatomy. Brain MRI: hypoplastic/absent semicircular canals (pathognomonic for CHARGE -- present in >90%). Choanal atresia: CT of nasal passages. Ophthalmology, audiology, endocrine evaluation.",
+    "treatment": {
+      "standardOfCare": "Cardiac repair: standard surgical\nmanagement per specific defect. Sequential\nchoanal atresia + cardiac surgery\nprioritization — choanal atresia repair first if\ncausing neonatal respiratory distress.\nAnesthetic precautions: difficult airway,\nabsent balance system, sensorineural\nhearing loss. Cochlear implantation for\nprofound deafness. GH replacement for GH\ndeficiency. Multidisciplinary management.",
+      "emerging": "Emerging:CHD7-pathway targeted\ntherapies in preclinical development.\nImproved sensorineural hearing\nrehabilitation. Vestibular rehabilitation for\nabsent semicircular canals."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 67,
+    "slug": "congenital-heart-block",
+    "specialty": "cardiology",
+    "category": "Arrhythmias",
+    "name": "Congenital Heart Block",
+    "heredityTier": "none",
+    "description": "Disruption of AV conduction present from birth. Complete form occurs in ~1-2% of pregnancies with maternal anti-Ro/SSA antibodies. Fetal complete heart block carries ~20-30% mortality without intervention.",
+    "frequency": {
+      "us": "~180–360 new US cases/yr; ~5,000–10,000 US total",
+      "global": "~7,000– 14,000 new global cases/yr",
+      "sources": "Congenital heart block ~1/20,000 births; anti-Ro/SSA antibody in neonatal autoimmune form"
+    },
+    "diagnosis": "Fetal heart rate monitoring. Fetal echocardiography. Postnatal: ECG. Maternal autoantibody testing.",
+    "treatment": {
+      "standardOfCare": "Fetal: maternal dexamethasone or\nIVIG (limited efficacy for anti-Ro/SSA\nantibody-mediated block). Postnatal:\npermanent pacemaker implantation for\nsymptomatic complete heart block or resting\nrate <55 bpm.",
+      "emerging": "Emerging:Hydroxychloroquine for anti-\nRo/SSA antibody-positive mothers in\nsubsequent pregnancies to prevent\nrecurrence (PATCH trial data). In utero\npacing — experimental. Beta-\nsympathomimetics (isoproterenol) as\ntemporizing bridge in neonatal period."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 68,
+    "slug": "junctional-ectopic-tachycardia-jet",
+    "specialty": "cardiology",
+    "category": "Inflammatory / Acquired",
+    "name": "Junctional Ectopic Tachycardia (JET)",
+    "heredityTier": "none",
+    "description": "Abnormal rhythm from the AV node. Postoperative JET occurs in ~1-5 per 1,000 pediatric cardiac surgeries. Congenital JET causes tachycardia- induced cardiomyopathy if rates remain persistently elevated.",
+    "frequency": {
+      "us": "~1–10 new congenital JET US cases/yr; post-op JET ~500–2,500 US cases/yr",
+      "global": "~40–400 new congenital global cases/yr",
+      "sources": "Congenital JET very rare; postoperative JET ~1–5/1,000 pediatric cardiac surgeries"
+    },
+    "diagnosis": "ECG (narrow complex tachycardia with AV dissociation). Holter for congenital JET.",
+    "treatment": {
+      "standardOfCare": "Postoperative JET: amiodarone IV,\ninduced hypothermia (cooling to 34–35°C),\npacing above JET rate (overdrive atrial\npacing). Dexmedetomidine sedation.\nCongenital JET: catheter ablation (80–90%\nsuccess using cryoablation near His to\nreduce heart block risk).",
+      "emerging": "Emerging:Ivabradine (If channel blocker) for\npostoperative JET — emerging case series\nshowing effective heart rate reduction\nwithout negative inotropy; particularly useful\nin low-output states. Cryoablation preferred\nover RF near His bundle for congenital JET."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 69,
+    "slug": "ventricular-tachycardia-vt",
+    "specialty": "cardiology",
+    "category": "Inflammatory / Acquired",
+    "name": "Ventricular Tachycardia (VT)",
+    "heredityTier": "none",
+    "description": "Rapid ventricular rhythm (>=3 beats, >120 bpm). May be idiopathic (benign RVOT-VT) or associated with structural disease, cardiomyopathy, or post- surgical scar.",
+    "frequency": {
+      "us": "~2,000–5,000 new US pediatric VT cases/yr (clinically significant)",
+      "global": "~77,000– 194,000 new global cases/yr",
+      "sources": "Khairy et al., Circulation 2008; scar-related VT most prevalent in repaired TOF; ~0.2%/yr SCA risk"
+    },
+    "diagnosis": "ECG. Holter/event monitor. Echocardiography. Cardiac MRI (scar assessment). EP study for catheter ablation planning.",
+    "treatment": {
+      "standardOfCare": "ICD for high-risk structural VT or VF\nsurvivors. Catheter ablation for idiopathic VT\n(80–90% success — RVOT, fascicular,\npapillary muscle). Antiarrhythmics\n(amiodarone, mexiletine for scar-related VT).\nTreat underlying structural cause.",
+      "emerging": "Emerging:Stereotactic body radiotherapy\n(SBRT/cardiac radiosurgery) for refractory\nscar-related VT not amenable to catheter\nablation — emerging as salvage therapy.\nPulsed-field ablation (PFA) under\ninvestigation for VT substrate modification."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 70,
+    "slug": "supraventricular-tachycardia-svt",
+    "specialty": "cardiology",
+    "category": "Inflammatory / Acquired",
+    "name": "Supraventricular Tachycardia (SVT)",
+    "heredityTier": "none",
+    "description": "Most common significant pediatric arrhythmia. Rapid rhythm above ventricles -- most commonly AVRT (accessory pathway) or AVNRT. WPW syndrome carries risk of pre-excited AF and sudden death.",
+    "frequency": {
+      "us": "~73,000– 292,000 US pediatric cases",
+      "global": "~2,900,000– 11,600,000 global pediatric cases",
+      "sources": "AHA pediatric SVT guideline 2016; SVT ~1/250–1,000 children; WPW ~1– 3/1,000"
+    },
+    "diagnosis": "ECG during episode. Adenosine for diagnosis and acute termination. Holter/event monitor. Delta wave on resting ECG identifies WPW.",
+    "treatment": {
+      "standardOfCare": "Acute: vagal maneuvers, adenosine\nIV. Long-term: catheter ablation (90–95%\ncure rate for >15–20 kg). Definitive\ntreatment for high-risk WPW (shortest pre-\nexcited RR <250 ms) regardless of\nsymptoms. Beta blockers or flecainide for\nsuppression if ablation deferred.",
+      "emerging": "Emerging:Zero-fluoroscopy\nelectroanatomical mapping (CARTO,\nEnSite) standard in pediatric centers —\nreducing radiation exposure. Cryoablation\nfor para-Hisian and midseptal pathways —\nlower heart block risk than RF."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 71,
+    "slug": "ectopic-atrial-tachycardia-eat",
+    "specialty": "cardiology",
+    "category": "Inflammatory / Acquired",
+    "name": "Ectopic Atrial Tachycardia (EAT)",
+    "heredityTier": "none",
+    "description": "Sustained/incessant tachycardia from abnormal atrial focus. Incessant nature causes tachycardia-induced cardiomyopathy in 25-50% of untreated cases.",
+    "frequency": {
+      "us": "~7,300–10,950 US pediatric cases (10–15% of pediatric SVT)",
+      "global": "~290,000– 437,000 global pediatric cases",
+      "sources": "EAT ~10– 15% of pediatric SVT; automatic ectopic focus; LV dysfunction reverses with rate control"
+    },
+    "diagnosis": "ECG (P-wave morphology differs from sinus; incessant pattern). Holter. Echo for LV function assessment.",
+    "treatment": {
+      "standardOfCare": "Antiarrhythmic agents (60–70% rate control): beta blockers, flecainide, sotalol, amiodarone. Catheter ablation preferred when accessible (80–90% success with high-density mapping). Beta blockers for suppression.",
+      "emerging": "Emerging:Ivabradine for rate control in medically refractory EAT — off-label but\neffective without negative inotropy. High-\ndensity electroanatomical mapping (Ripple\nmapping, omnipolar technology) improving\nablation success for focal AT."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 72,
+    "slug": "atrial-flutter-fibrillation",
+    "specialty": "cardiology",
+    "category": "Inflammatory / Acquired",
+    "name": "Atrial Flutter / Fibrillation",
+    "heredityTier": "none",
+    "description": "Flutter: organized rapid atrial rhythm (250-350 bpm). AFib: chaotic atrial activity. In children, often CHD-related; flutter common in Fontan patients (15-20% by adulthood).",
+    "frequency": {
+      "us": "~1,800–3,600 new neonatal atrial flutter cases/yr; ~50,000–100,000 Fontan-IART US total",
+      "global": "~70,000– 140,000 new global neonatal atrial flutter cases/yr",
+      "sources": "Neonatal atrial flutter ~1/10,000–20,000 births; intraatrial reentrant tachycardia (IART) in ~30–50% of Fontan patients by 10 yrs"
+    },
+    "diagnosis": "ECG. Holter. Transesophageal echo for thrombus before cardioversion. EP study for ablation.",
+    "treatment": {
+      "standardOfCare": "Acute: electrical cardioversion or\nchemical cardioversion (ibutilide,\namiodarone). Catheter ablation: typical\nflutter >90% cure; CHD-related intra-atrial\nreentrant tachycardia (IART) 50–70%. Rate\ncontrol: beta blockers, digoxin.\nAnticoagulation. Antiarrhythmics (sotalol,\namiodarone).",
+      "emerging": "Emerging:Pulsed-field ablation (PFA —\nFarawave, Medtronic, FDA 2024) — non-\nthermal ablation for AFib; entering CHD\npopulation trials; may reduce risk of\ncollateral injury to esophagus/phrenic nerve.\nHigh-density substrate mapping for complex\nCHD-IART."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 73,
+    "slug": "sick-sinus-syndrome-sss",
+    "specialty": "cardiology",
+    "category": "Inflammatory / Acquired",
+    "name": "Sick Sinus Syndrome (SSS)",
+    "heredityTier": "none",
+    "description": "Sinus node dysfunction causing pathological bradycardia, chronotropic incompetence, sinus pauses, and tachy-brady syndrome. Two forms: (1) Congenital SSS -- associated with heterotaxy, L-TGA; (2) Post-operative SSS (more common) -- most common after Mustard/Senning, Fontan, ASD repair, and Maze procedures. Most common indication for permanent pacemaker implantation in the pediatric cardiac population. Tachy-brady syndrome is particularly dangerous: bradycardia causes syncope while tachyarrhythmia causes hemodynamic compromise and thromboembolism.",
+    "frequency": {
+      "us": "~3,000–8,000 post- Mustard/Senning SSS cases; ~5,000– 15,000 post-Fontan SSS US total",
+      "global": "~115,000– 310,000 global post- operative SSS",
+      "sources": "Post-op SSS after Mustard/Senning in ~20–40% by 20 yrs; post-Fontan SSS ~30–40% FREQUENCY"
+    },
+    "diagnosis": "ECG: sinus bradycardia below age-appropriate lower limit, sinus pauses >3 seconds, prolonged post-tachycardia pause. Holter monitoring (24-72 hours or longer-term ILR): documents bradycardia- tachycardia alternation. Exercise stress test: chronotropic incompetence (failure to achieve >80% of maximum predicted heart rate). EP study: sinus node recovery time (SNRT).",
+    "treatment": {
+      "standardOfCare": "Permanent pacemaker (DDD/DDDR rate-responsive) for symptomatic SSS. Epicardial leads for small children or complex Fontan/Glenn anatomy. TREATMENT",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 74,
+    "slug": "cardiac-rhabdomyoma",
+    "specialty": "cardiology",
+    "category": "Inflammatory / Acquired",
+    "name": "Cardiac Rhabdomyoma",
+    "heredityTier": "dominant",
+    "description": "Most common primary cardiac tumor in children. Benign hamartoma of cardiac muscle; strongly associated with tuberous sclerosis complex (TSC) in 50-80%. Most regress spontaneously; large or multiple tumors cause obstruction, arrhythmia, or heart failure.",
+    "frequency": {
+      "us": "~360–720 new TSC-related rhabdomyoma cases/yr; ~730– 1,460 US total",
+      "global": "~14,000– 28,000 new global cases/yr",
+      "sources": "Cardiac rhabdomyoma ~1/100,000; ~50% of TSC patients; majority regress spontaneously"
+    },
+    "diagnosis": "Fetal/neonatal echo (multiple echogenic masses). MRI for complex tumors. Genetic testing for TSC1/TSC2 mutations. EEG/MRI brain for TSC neurological involvement.",
+    "treatment": {
+      "standardOfCare": "Observation — majority regress spontaneously in infancy. Everolimus (mTOR inhibitor, FDA-approved for TSC) for TSC-associated rhabdomyomas causing hemodynamic compromise or arrhythmia. Surgical resection only for life-threatening obstruction not responding to medical therapy.",
+      "emerging": "Emerging:Sirolimus as alternative mTOR inhibitor. Prenatal diagnosis with in utero everolimus treatment under compassionate use protocols for hydrops/critical obstruction. Genetic testing for TSC1/TSC2 to guide therapy and family counseling."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 75,
+    "slug": "cardiac-fibroma",
+    "specialty": "cardiology",
+    "category": "Inflammatory / Acquired",
+    "name": "Cardiac Fibroma",
+    "heredityTier": "associated",
+    "description": "Second most common primary cardiac tumor in children. Benign fibrous tumor, non-regressing. Associated with Gorlin syndrome (PTCH1) in ~3%. Causes ventricular obstruction, arrhythmia, and sudden cardiac death.",
+    "frequency": {
+      "us": "~36–72 new US cases/yr; ~500– 1,000 US total",
+      "global": "~1,400– 2,800 new global cases/yr",
+      "sources": "Cardiac fibroma <1/100,000; significant SCD risk from VT/VF in large interventricular lesions"
+    },
+    "diagnosis": "Echocardiography (large, echogenic, non-contractile intramyocardial mass). Cardiac MRI (central fibrous 'dark' appearance on LGE -- pathognomonic). Genetic testing for Gorlin syndrome (PTCH1).",
+    "treatment": {
+      "standardOfCare": "Surgical resection (partial or complete)\nfor large symptomatic tumors. ICD for\nVT/SCD prevention. Catheter ablation for\narrhythmia arising from fibroma. Cardiac\ntransplantation for unresectable tumors\ncausing severe HF.",
+      "emerging": "Emerging:Hedgehog pathway inhibition\n(vismodegib for PTCH1-associated fibromas\nin Gorlin syndrome) under investigation.\nMRI-guided cardiac mapping to define\narrhythmia substrate within fibroma.\nCryoablation as adjunct to partial resection."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 76,
+    "slug": "cardiac-myxoma-pediatric",
+    "specialty": "cardiology",
+    "category": "Connective Tissue Disorders & Aortopathies",
+    "name": "Cardiac Myxoma (Pediatric)",
+    "heredityTier": "associated",
+    "description": "Most common benign cardiac tumor overall but rare in children. Gelatinous polypoid mass usually arising from the interatrial septum. Causes obstruction, systemic embolism, and constitutional symptoms. Carney complex (PRKAR1A mutation) associated in ~10% of pediatric myxomas.",
+    "frequency": {
+      "us": "~10–18 new US pediatric cases/yr (<5% of all cardiac myxomas)",
+      "global": "~400–700 new global pediatric cases/yr",
+      "sources": "Cardiac myxoma most common benign cardiac tumor in adults; <5% in children under 15"
+    },
+    "diagnosis": "Echocardiography (pedunculated mobile mass attached to fossa ovalis). Cardiac MRI. Genetic testing for PRKAR1A (Carney complex). Ophthalmology exam if Carney complex suspected.",
+    "treatment": {
+      "standardOfCare": "Surgical excision with wide margins\n(and base of stalk) — curative. Carney\ncomplex: echo surveillance every 12 months\nlifelong due to high recurrence risk (~20%).\nAnticoagulation for embolic events.",
+      "emerging": "Emerging:PRKAR1A genetic screening for\nCarney complex family members. Minimally\ninvasive/thoracoscopic excision for recurrent\nmyxoma in selected anatomy. Improved\nimaging (cardiac MRI) for tumor\ncharacterization and pre-operative planning."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 77,
+    "slug": "intrapericardial-teratoma",
+    "specialty": "cardiology",
+    "category": "Connective Tissue Disorders & Aortopathies",
+    "name": "Intrapericardial Teratoma",
+    "heredityTier": "none",
+    "description": "Germ cell tumor arising within the pericardial space, attached to the root of the aorta or pulmonary artery. Not intracardiac -- compresses the heart from the outside. The most common pericardial/cardiac tumor of the fetus and neonate and the most common cause of large fetal pericardial effusion. The effusion causes cardiac tamponade, fetal hydrops, and -- if untreated -- fetal or neonatal death. Histologically benign in the vast majority; postnatal surgical excision is curative.",
+    "frequency": {
+      "us": "~180–360 new US intrapericardial teratoma cases/yr",
+      "global": "~7,000– 14,000 new global cases/yr",
+      "sources": "Most common cardiac/pericardial tumor presenting in utero or neonatal period"
+    },
+    "diagnosis": "Fetal echo: large pericardial effusion with echogenic heterogeneous mass at the base of the great vessels -- virtually pathognomonic. Fetal MRI: mass anatomy and relationship to great vessel roots. Postnatal echo and CT for surgical planning. AFP: elevated in fetal and neonatal serum (germ cell origin).",
+    "treatment": {
+      "standardOfCare": "Fetal: pericardiocentesis for hydrops threatening fetal demise (temporizing). Delivery planning at center with immediate\npostnatal surgical capability. Postnatal:\ncomplete surgical excision — curative; CPB\noften not required. ECMO for pre-operative\nhemodynamic instability. Adjuvant\nchemotherapy for malignant/immature\nteratoma (BEP regimen).",
+      "emerging": "Emerging:EXIT (ex utero intrapartum\ntreatment) procedure for large tumors\ncausing airway compromise at delivery.\nFetal MRI for precise tumor characterization\nand surgical planning. Minimally invasive\nresection for smaller, extrapericardially\naccessible tumors."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 78,
+    "slug": "cardiac-rhabdomyosarcoma",
+    "specialty": "cardiology",
+    "category": "Connective Tissue Disorders & Aortopathies",
+    "name": "Cardiac Rhabdomyosarcoma",
+    "heredityTier": "none",
+    "description": "Most common primary malignant cardiac tumor in children. Arises from cardiac striated muscle (most commonly ventricular myocardium or AV valves) and is locally invasive. Unlike benign pediatric cardiac tumors, rhabdomyosarcoma is aggressive with local invasion of cardiac structures and hematogenous metastasis. There is no spontaneous regression. Complete surgical resection is rarely achievable due to local invasion.",
+    "frequency": {
+      "us": "~10–25 new US primary cardiac rhabdomyosarcoma cases/yr",
+      "global": "~400–1,000 new global cases/yr",
+      "sources": "Primary cardiac rhabdomyosarcoma ~25% of primary malignant cardiac tumors; extremely rare FREQUENCY"
+    },
+    "diagnosis": "Echo: large, irregular, invasive-appearing cardiac mass -- often infiltrates rather than displaces normal structures (unlike benign tumors). Cardiac MRI: tissue characterization, extent of invasion, pericardial involvement. CT chest/abdomen/pelvis for staging. PET scan for systemic staging. Tissue biopsy: essential for diagnosis and histological subtype.",
+    "treatment": {
+      "standardOfCare": "Multidisciplinary management (cardiac\nsurgery + pediatric oncology). Surgical\ndebulking to relieve obstruction and obtain\ntissue; complete resection rarely possible.\nAdjuvant chemotherapy: VAC regimen\n(vincristine, actinomycin D,\ncyclophosphamide) — standard\nrhabdomyosarcoma protocol. Radiation\ntherapy for local control. Palliative intent\nfrequently the realistic goal.",
+      "emerging": "Emerging:Pembrolizumab (anti-PD-1) +\nchemotherapy combinations in pediatric\nrhabdomyosarcoma trials. CDK4/6 inhibitors\nand MDM2 antagonists for specific genomic\nsubsets. CAR-T cell approaches targeting\nRMS-associated antigens in early trials."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 79,
+    "slug": "kawasaki-disease",
+    "specialty": "cardiology",
+    "category": "Connective Tissue Disorders & Aortopathies",
+    "name": "Kawasaki Disease",
+    "heredityTier": "none",
+    "description": "Acute self-limited vasculitis preferentially targeting the coronary arteries. Leading cause of acquired heart disease in children in developed countries. Coronary artery aneurysms develop in 20- 25% of untreated children.",
+    "frequency": {
+      "us": "cases annually. US: ~72,000– 160,000 new US cases/yr (children under 5); ~4,500– 9,000 coronary aneurysm cases/yr",
+      "global": "~1,400,000– 3,100,000 new global cases/yr",
+      "sources": "McCrindle et al., AHA Circulation 2017; 9– 20/100,000 US children under 5; Japan ~300/100,000 (highest globally)"
+    },
+    "diagnosis": "Clinical diagnosis: fever >=5 days plus >=4 of 5 classic features (rash, conjunctival injection, mucous membrane changes, extremity changes, cervical lymphadenopathy). Echo at diagnosis, 2 weeks, and 6-8 weeks for coronary assessment.",
+    "treatment": {
+      "standardOfCare": "High-dose IVIG (2 g/kg) + aspirin\nwithin first 10 days (reduces aneurysm risk\nto <5%). Corticosteroids as adjunctive\ntherapy or for IVIG-resistant cases. Long-\nterm anticoagulation (warfarin + low-dose\naspirin) for giant aneurysms. Surveillance\ncatheterization for giant aneurysms with\nstenosis.",
+      "emerging": "Emerging:Infliximab (TNF inhibitor) for\nIVIG-resistant KD — comparable efficacy to\nsecond IVIG dose with fewer infusion\nreactions; now widely used at many centers.\nCyclosporine for refractory KD. Anakinra (IL-\n1Ra) for severe refractory cases. Predictive\nscoring tools (Kobayashi, Egami) to identify\nIVIG resistance risk pre-treatment."
+    },
+    "hasAgent": true,
+    "agentSlug": "kawasaki"
+  },
+  {
+    "id": 80,
+    "slug": "mis-c-multisystem-inflammatory-syndrome-in-children",
+    "specialty": "cardiology",
+    "category": "Connective Tissue Disorders & Aortopathies",
+    "name": "MIS-C (Multisystem Inflammatory Syndrome in Children)",
+    "heredityTier": "none",
+    "description": "Post-infectious hyperinflammatory syndrome occurring 2-6 weeks after SARS-CoV-2 infection. Causes myocarditis, coronary artery dilation, ventricular dysfunction, and shock.",
+    "frequency": {
+      "us": "through 2023. US: ~3,500–5,000 new US cases during 2020–2023 peak; ~600– 1,000/yr from 2023 onward",
+      "global": "~50,000– 150,000 total global cases reported (CDC, WHO surveillance through 2024)",
+      "sources": "Feldstein et al., NEJM 2020; CDC MIS-C surveillance; incidence markedly decreased with Omicron variant + vaccination"
+    },
+    "diagnosis": "CDC case definition: fever + elevated inflammatory markers + multiorgan involvement + SARS- CoV-2 evidence. Echo (LV dysfunction, coronary artery Z-scores). Troponin, BNP. Inflammatory markers (CRP, ferritin, D-dimer).",
+    "treatment": {
+      "standardOfCare": "IVIG (2 g/kg) + aspirin. Corticosteroids for refractory or severe cases. Hemodynamic support: inotropes, ECMO for severe cardiogenic shock. Anticoagulation for coronary dilation (z-score ≥2.5) or significant LV dysfunction.",
+      "emerging": "Emerging:Anakinra (IL-1 receptor antagonist) for refractory MIS-C with macrophage activation syndrome features. Standardized cardiac MRI follow-up protocols to assess myocardial recovery. Long-term data on coronary outcomes and\nmyocardial fibrosis accumulating."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 81,
+    "slug": "infective-endocarditis-ie",
+    "specialty": "cardiology",
+    "category": "Connective Tissue Disorders & Aortopathies",
+    "name": "Infective Endocarditis (IE)",
+    "heredityTier": "none",
+    "description": "Infection of the endocardial surface of the heart, predominantly affecting cardiac valves. In children, predominantly affects those with underlying CHD (VSDs, AVSDs, TOF, prosthetic valves, indwelling lines). Organisms: Streptococcus viridans group (most common), Staphylococcus aureus (most aggressive).",
+    "frequency": {
+      "us": "~215–360 new US pediatric cases/yr; ~10,000– 20,000 in high-risk CHD populations/yr",
+      "global": "~8,400– 14,000 new global pediatric cases/yr",
+      "sources": "Baltimore et al., Circulation 2015; IE ~0.3–0.5/100,000 children/yr in structurally normal hearts; 5–10/1,000 person-yrs in high- risk CHD"
+    },
+    "diagnosis": "Duke Criteria (modified 2000). Echocardiography (TTE first, TEE for prosthetic valves). Blood cultures x3 before antibiotics.",
+    "treatment": {
+      "standardOfCare": "Prolonged IV antibiotics (4–6 weeks;\norganism-directed per blood culture\nsensitivities). Empirical anti-staphylococcal\ncoverage until cultures available\n(vancomycin or daptomycin). Early surgical\nconsultation for: HF from valvular\ndestruction, persistent bacteremia, large\nvegetations (>10 mm), perivalvular abscess.\nDental prophylaxis for high-risk CHD.",
+      "emerging": "Emerging:Bacteriophage therapy for\nprosthetic valve IE caused by resistant\norganisms (compassionate use, case\nseries). Biofilm-targeted antibiotics\n(daptomycin + rifampin combinations).\nUpdated AHA/ACC 2023 IE guidelines:\ndental prophylaxis indications refined;\nbroader cardiac device IE management."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 82,
+    "slug": "rheumatic-heart-disease-rhd",
+    "specialty": "cardiology",
+    "category": "Connective Tissue Disorders & Aortopathies",
+    "name": "Rheumatic Heart Disease (RHD)",
+    "heredityTier": "none",
+    "description": "Autoimmune valvular damage triggered by repeated Group A streptococcal pharyngitis. Leading cause of acquired heart disease in children globally. Mitral valve affected in >80% of cases.",
+    "frequency": {
+      "us": "~5,000–25,000 US pediatric cases/yr (predominantly immigrant/refugee populations)",
+      "global": "~500,000– 1,000,000 new global cases/yr; ~300,000 deaths/yr",
+      "sources": "WHO GHO; RHD ~500– 1,000/100,000 school-age in endemic regions; essentially rare in high-income countries"
+    },
+    "diagnosis": "Clinical history of rheumatic fever. Echocardiography per World Heart Federation criteria. Throat culture or rapid strep test for acute GAS pharyngitis.",
+    "treatment": {
+      "standardOfCare": "Secondary prophylaxis: monthly benzathine penicillin G for 10 years or until age 25 (whichever longer) to prevent recurrent GAS pharyngitis and rheumatic\nfever. Surgical valve repair or replacement\nfor advanced valvular disease.",
+      "emerging": "Emerging:Group A streptococcal (M-protein\nbased) vaccine — multiple candidates in\nPhase 2/3 trials; would be transformative for\nRHD prevention globally. Transcatheter\nmitral valve repair (MitraClip) for severe\nRHD-MR in resource-limited settings where\nsurgery unavailable."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 83,
+    "slug": "acute-pericarditis",
+    "specialty": "cardiology",
+    "category": "Connective Tissue Disorders & Aortopathies",
+    "name": "Acute Pericarditis",
+    "heredityTier": "none",
+    "description": "Inflammation of the pericardium causing chest pain, pericardial friction rub, and characteristic ECG changes (diffuse ST elevation, PR depression). Most commonly viral. Can progress to pericardial effusion and tamponade.",
+    "frequency": {
+      "us": "~730–1,460 new US pediatric cases/yr",
+      "global": "~28,000– 56,000 new global pediatric cases/yr",
+      "sources": "Imazio et al., Circulation 2007; ~1–2/100,000 children/yr; recurrent pericarditis in 15–30%"
+    },
+    "diagnosis": "ECG (diffuse saddle- shaped ST elevation, PR depression). Echo (pericardial effusion, rule out tamponade). Cardiac MRI (pericardial inflammation on LGE). Troponin (elevated if myopericarditis). CRP, ESR.",
+    "treatment": {
+      "standardOfCare": "NSAIDs (ibuprofen 600 mg TID or\naspirin) — first-line for 2–4 weeks.\nColchicine add-on (reduces recurrence by\n~50%; COPE and ICAP trials).\nCorticosteroids for NSAID-refractory or\nautoimmune pericarditis. Exercise restriction\nfor 3 months. Treat underlying cause.",
+      "emerging": "Emerging:Rilonacept (Arcalyst, Regeneron,\nFDA 2021) — IL-1α/β inhibitor; approved for\nrecurrent pericarditis refractory to colchicine\n(RHAPSODY trial). Anakinra (IL-1 receptor\nantagonist) for colchicine-refractory and IL-\n1-driven recurrent pericarditis; particularly in\npediatrics. Pericardiectomy for constrictive\npericarditis (see entry 84)."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 84,
+    "slug": "constrictive-pericarditis",
+    "specialty": "cardiology",
+    "category": "Connective Tissue Disorders & Aortopathies",
+    "name": "Constrictive Pericarditis",
+    "heredityTier": "none",
+    "description": "Progressive fibrosis and calcification of the pericardium that encases and constricts the heart, impairing diastolic ventricular filling. In children, most commonly follows viral pericarditis, post-cardiac surgery (post- pericardiotomy syndrome), or TB pericarditis in endemic regions. Critically important distinction from restrictive cardiomyopathy (RCM, #38): constrictive pericarditis is surgically curable; RCM is not. The two conditions produce identical clinical presentations, requiring catheterization and MRI for differentiation.",
+    "frequency": {
+      "us": "~73–146 new US pediatric cases/yr",
+      "global": "~2,800– 5,600 new global pediatric cases/yr",
+      "sources": "5–10% of children with acute pericarditis develop some degree of constriction"
+    },
+    "diagnosis": "Echo: septal bounce (pathognomonic -- interventricular septal shift with respiration), biatrial enlargement, normal LVEF, annulus reversus (medial mitral annular e' > lateral e' on tissue Doppler). CT: pericardial thickening (>4mm) and calcification. Cardiac MRI: pericardial thickness, LGE, ventricular interdependence. Cardiac catheterization (gold standard): equalization of diastolic pressures; dip- and-plateau ('square root sign'); discordant ventricular pressure changes with respiration (key differentiator from RCM).",
+    "treatment": {
+      "standardOfCare": "Surgical pericardiectomy (radical pericardial decortication of both ventricles, visceral and parietal) — definitive and curative. Complete pericardiectomy essential for lasting hemodynamic benefit. Anti-inflammatory therapy (NSAIDs + colchicine) for early/effusive-constrictive\ndisease — ~20–30% resolve without\nsurgery. Antituberculous therapy mandated\nfor TB pericarditis. Diuretics for venous\ncongestion while awaiting surgery.",
+      "emerging": "Emerging:Video-assisted thoracoscopic\npericardiectomy (VATS) for selected cases\n— reduced morbidity vs. median\nsternotomy/thoracotomy. Cardiac MRI with\nLGE to identify pericardial\nfibrosis/inflammation and predict surgical\nbenefit vs. spontaneous resolution."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 85,
+    "slug": "aortic-valve-regurgitation-acquired-post-interventional",
+    "specialty": "cardiology",
+    "category": "Vascular & Metabolic Conditions",
+    "name": "Aortic Valve Regurgitation (Acquired/Post- Interventional)",
+    "heredityTier": "none",
+    "description": "Progressive regurgitation of the aortic valve resulting from congenital valve disease, prior balloon valvuloplasty, prior surgical valvotomy, infective endocarditis, rheumatic disease, or Ross procedure failure. A leading reason for re- intervention in patients with prior LVOT disease.",
+    "frequency": {
+      "us": "~5,000–12,000 US prevalent pediatric cases (post-intervention aortic regurgitation)",
+      "global": "~195,000– 470,000 global",
+      "sources": "Post- balloon valvuloplasty AR in 20–40% of neonatal/infant aortic interventions FREQUENCY"
+    },
+    "diagnosis": "Echo: AR jet width, vena contracta, holodiastolic reversal in descending aorta. Cardiac MRI: gold standard for AR quantification (regurgitant volume, regurgitant fraction) and LV end- systolic volume index (LVESVi -- intervention threshold >=25 mL/m2). Serial surveillance echo every 6-12 months.",
+    "treatment": {
+      "standardOfCare": "Surveillance to LV thresholds (LVESVi\n≥25 mL/m², LVEF <50%, or symptoms).\nRoss or Ozaki procedure preferred in\nchildren and young adults. Mechanical valve\nreplacement when repair criteria not met.\nTAVR valve-in-valve for failed bioprosthetic\naortic valves in adolescents/adults.",
+      "emerging": "Emerging:Ozaki procedure (aortic valve\nneocuspidization with autologous\npericardium) gaining broad adoption as\nRoss alternative — avoids pulmonary\nautograft reoperation. BASILICA technique\n(pre-TAVR leaflet laceration) to prevent\ncoronary occlusion during valve-in-valve\nTAVR. Transcatheter aortic valve repair\napproaches in development."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 86,
+    "slug": "post-cardiotomy-syndrome-low-cardiac-output-lcos",
+    "specialty": "cardiology",
+    "category": "Vascular & Metabolic Conditions",
+    "name": "Post-Cardiotomy Syndrome / Low Cardiac Output (LCOS)",
+    "heredityTier": "none",
+    "description": "Systemic inflammatory and hemodynamic response following cardiopulmonary bypass (CPB), manifesting as clinically significant low cardiac output (CI <2.0 L/min/m2). Caused by myocardial ischemia- reperfusion injury, complement activation from bypass circuit contact, capillary leak, and post-operative systemic vasoconstriction. The leading perioperative cause of CICU morbidity and mortality in pediatric cardiac surgery.",
+    "frequency": {
+      "us": "~8,750–12,250 new US pediatric post-cardiotomy LCOS cases/yr",
+      "global": "~350,000– 490,000 new global cases/yr",
+      "sources": "Hoffman et al., Semin Thorac Cardiovasc Surg 2003; LCOS in 25– 35% of post- cardiotomy patients in first 24 hrs"
+    },
+    "diagnosis": "NIRS (near-infrared spectroscopy) -- continuous regional O2 saturation; falling cerebral NIRS is an early LCOS indicator. Arterial line (continuous BP, blood gas access). Central venous line (filling pressures). Mixed venous SvO2 or SvcO2 (target >65-70%). Cardiac index measurement. Lactate trends (rising lactate = early LCOS indicator). Echo (LVEF, RV function, tamponade, residual lesions).",
+    "treatment": {
+      "standardOfCare": "Optimize preload (CVP target 8–12\nmmHg). Milrinone (first-line — prophylactic\nmilrinone post-neonatal surgery reduces\nLCOS incidence by 64%, PRIMACORP\ntrial). Epinephrine, dopamine for refractory\ncases. Vasopressin for vasodilatory shock.\nECMO rescue for refractory LCOS (VA\nconfiguration; survival 40–60%).\nNeuromuscular blockade and sedation to\nreduce O2 demand.",
+      "emerging": "Emerging:Levosimendan (calcium\nsensitizer/K-ATP channel opener) as\nalternative/adjunct to milrinone — emerging\nevidence for lower risk of tachyarrhythmia\nvs. catecholamines. Terlipressin (V1a\nagonist) for vasodilatory shock post-CPB in\npediatric centers."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 87,
+    "slug": "pulmonary-hypertensive-crisis-post-operative",
+    "specialty": "cardiology",
+    "category": "Vascular & Metabolic Conditions",
+    "name": "Pulmonary Hypertensive Crisis (Post-Operative)",
+    "heredityTier": "none",
+    "description": "Sudden, severe elevation in pulmonary vascular resistance causing acute RV failure and hemodynamic collapse. A distinct life-threatening event from chronic PAH. Occurs in the early post- operative period in patients with CHD and pre-existing pulmonary hypertension. Triggered by hypoxia, hypercarbia, acidosis, suctioning, pain, or stimulation.",
+    "frequency": {
+      "us": "arteriosus, TAPVR with delayed repair, and patients with Down syndrome. US: ~500–1,250 new US pediatric post-op PHC cases/yr",
+      "global": "~19,500– 48,750 new global cases/yr",
+      "sources": "Occurs in ~5–10% of patients with pre-existing elevated PVR undergoing CHD surgery"
+    },
+    "diagnosis": "Clinical: sudden acute desaturation, hypotension, bradycardia, loss of pulse pressure. PA line: acute rise in PA pressures approaching or exceeding systemic systolic. NIRS: acute drop in cerebral saturation. Echo: acute RV dilation, septal shift, reduced PA flow. ABG: hypoxia, hypercarbia, acidosis.",
+    "treatment": {
+      "standardOfCare": "Hyperventilation (pCO2 target 30–35 mmHg). 100% FiO2. Inhaled nitric oxide (20–40 ppm) — first-line pharmacological therapy. IV sildenafil for iNO transition/weaning. Alkalinization (sodium bicarbonate). Deep sedation + neuromuscular blockade. Minimize stimulation. Prostacyclin (inhaled or IV) for iNO-refractory cases. ECMO for refractory PH crisis with hemodynamic collapse.",
+      "emerging": "Emerging:Inhaled treprostinil as alternative/adjunct to iNO for post-operative PH. Transition protocols from iNO to oral/inhaled PAH therapy (sildenafil, bosentan) to facilitate safe weaning. Riociguat (sGC stimulator) for post-operative\nPH in adults."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 88,
+    "slug": "cardiac-tamponade",
+    "specialty": "cardiology",
+    "category": "Vascular & Metabolic Conditions",
+    "name": "Cardiac Tamponade",
+    "heredityTier": "none",
+    "description": "Pericardial fluid accumulation causing external cardiac compression, impaired ventricular filling, and obstructive cardiogenic shock. In the CICU, most commonly post-operative. Also occurs in myopericarditis, pericarditis, malignancy, and post-cardiac procedure.",
+    "frequency": {
+      "us": "~500–2,500 new US pediatric cardiac tamponade cases/yr (post- cardiac surgery)",
+      "global": "~19,500– 97,500 new global cases/yr",
+      "sources": "Post- cardiac surgery tamponade in ~1– 5% of pediatric cardiac surgeries"
+    },
+    "diagnosis": "Beck's triad: hypotension + elevated JVP + muffled heart sounds (late and insensitive). Echo: pericardial effusion + RA/RV collapse in diastole + plethoric IVC + respiratory variation in mitral/tricuspid inflow >25% (pathognomonic). Pulsus paradoxus: BP drop >10 mmHg on inspiration. CXR: enlarged cardiac silhouette.",
+    "treatment": {
+      "standardOfCare": "Emergency ultrasound-guided\npericardiocentesis (subxiphoid or apical\napproach). Surgical drainage for: post-\noperative hemorrhagic tamponade, posterior\neffusions not accessible by needle, clotted\neffusions. IV fluid bolus as temporizing\nbridge. Avoid positive pressure ventilation\n(reduces venous return, worsens\ntamponade).",
+      "emerging": "Emerging:Point-of-care ultrasound\n(POCUS) for real-time guidance becoming\nstandard. Percutaneous balloon\npericardiotomy for recurrent malignant\neffusions. Pericardioscopy-guided\npericardiocentesis for complex or loculated\neffusions."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 89,
+    "slug": "chylothorax",
+    "specialty": "cardiology",
+    "category": "Vascular & Metabolic Conditions",
+    "name": "Chylothorax",
+    "heredityTier": "none",
+    "description": "Accumulation of chyle (lymphatic fluid rich in triglycerides and lymphocytes) in the pleural space due to injury to or obstruction of the thoracic duct during cardiac surgery. Most common after Glenn and Fontan procedures, arch surgery, BT shunt, and mediastinal dissection.",
+    "frequency": {
+      "us": "~500–1,500 new US pediatric chylothorax cases/yr",
+      "global": "~19,500– 58,500 new global cases/yr",
+      "sources": "Chylothorax in 1–3% of pediatric cardiac surgeries overall; higher rates after Glenn/Fontan (5–8%)"
+    },
+    "diagnosis": "Pleural fluid analysis: triglycerides >110 mg/dL (diagnostic). Lymphocyte predominance >80%. Daily chest tube output tracking. Chest radiograph/ultrasound. MR lymphangiography for thoracic duct anatomy and leak localization.",
+    "treatment": {
+      "standardOfCare": "Conservative: MCT diet, NPO with TPN for high-output chylothorax. Octreotide (somatostatin analog) IV or SQ. Chest tube drainage. Thoracic duct embolization (Itkin technique via cisterna chyli, 80–90% closure) — increasingly preferred over\nsurgery. Surgical thoracic duct ligation for\nembolization failures. Pleurodesis for\nrecalcitrant cases.",
+      "emerging": "Emerging:Sirolimus (mTOR inhibitor) for\nchylous effusions — particularly Fontan-\nrelated chylothorax and\nlymphangioleiomyomatosis-related; active\nclinical use at many centers. Intranodal\nlymphangiography + embolization refining\ntechnique."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 90,
+    "slug": "diaphragm-paralysis-phrenic-nerve-injury",
+    "specialty": "cardiology",
+    "category": "Vascular & Metabolic Conditions",
+    "name": "Diaphragm Paralysis (Phrenic Nerve Injury)",
+    "heredityTier": "none",
+    "description": "Injury to the phrenic nerve during cardiac surgery causing unilateral or bilateral diaphragmatic paralysis. Left phrenic nerve most commonly affected due to its proximity to the aortic arch, left PA, and ductus arteriosus dissection. Results in paradoxical diaphragmatic movement, reduced lung volumes, atelectasis, and prolonged ventilator dependence.",
+    "frequency": {
+      "us": "~500–2,500 new US pediatric phrenic nerve injury cases/yr",
+      "global": "~19,500– 97,500 new global cases/yr",
+      "sources": "Phrenic nerve injury in 1–5% of pediatric cardiac surgeries; higher rates in neonatal/infant operations"
+    },
+    "diagnosis": "Difficulty weaning from mechanical ventilation without explanation. Ultrasound: bedside assessment of diaphragm motion -- gold standard; paradoxical motion is diagnostic. CXR: elevated hemidiaphragm. Fluoroscopy: sniff test.",
+    "treatment": {
+      "standardOfCare": "Trial of non-invasive ventilation\n(BiPAP/CPAP) post-extubation (positioning\naffected side up, chest physiotherapy).\nSurgical diaphragm plication: definitive\ntreatment for failed extubation;\nthoracoscopic approach preferred; after 4–6\nweeks conservative trial (or immediately for\nbilateral paralysis).",
+      "emerging": "Emerging:Robot-assisted thoracoscopic\ndiaphragm plication — reduced morbidity,\ncomparable outcomes. Diaphragm pacing\n(phrenic nerve stimulation) for bilateral\nparalysis in selected cases. Ultrasound-\nguided assessment of diaphragm excursion\nto monitor recovery before committing to\nplication."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 91,
+    "slug": "protein-losing-enteropathy-ple-in-fontan",
+    "specialty": "cardiology",
+    "category": "Vascular & Metabolic Conditions",
+    "name": "Protein-Losing Enteropathy (PLE) in Fontan",
+    "heredityTier": "none",
+    "description": "Life-limiting complication of Fontan circulation in which protein (predominantly albumin) leaks from the gut into the intestinal lumen due to chronically elevated systemic venous pressure and lymphatic hypertension. Results in hypoalbuminemia, generalized edema, ascites, pleural effusions, and immune deficiency. Five-year survival after PLE diagnosis is ~50%.",
+    "frequency": {
+      "us": "~450–2,250 US Fontan-PLE total cases",
+      "global": "~17,500– 87,500 global Fontan-PLE",
+      "sources": "Affects 3– 15% of Fontan patients; onset typically 2–10 years after Fontan completion"
+    },
+    "diagnosis": "Clinical: peripheral edema, ascites, pleural effusions, facial edema, diarrhea. Serum albumin <3.5 g/dL. Alpha-1- antitrypsin clearance. 99mTc-labeled albumin nuclear scan -- localizes gut protein loss. Cardiac catheterization for hemodynamic assessment. MR lymphangiography.",
+    "treatment": {
+      "standardOfCare": "High-protein, fat-restricted (MCT fat)\ndiet. Sodium and fluid restriction.\nSpironolactone + diuretics. Subcutaneous\nUFH (100 units/kg/day). Sildenafil.\nBudesonide (oral). Albumin infusions for\nacute decompensation. Catheter-created\nFontan fenestration to decompress systemic\nvenous pressure. Heart transplantation for medically refractory PLE.",
+      "emerging": "Emerging:Thoracic lymphatic embolization\n(Fontan-specific lymphatic intervention —\nItkin/CHOP protocol): emerging as major\ncatheter-based intervention for PLE and\nplastic bronchitis; directly decompresses\nlymphatic hypertension."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 92,
+    "slug": "plastic-bronchitis-in-fontan",
+    "specialty": "cardiology",
+    "category": "Genetic Syndromes with Cardiac Involvement",
+    "name": "Plastic Bronchitis in Fontan",
+    "heredityTier": "none",
+    "description": "Rare but potentially fatal complication of Fontan circulation in which bronchial casts composed of lymphatic fluid and inflammatory cells fill and obstruct the bronchial tree. Patients expectorate rigid, branching casts that replicate the bronchial anatomy. Pathophysiology: lymphatic hypertension from elevated Fontan venous pressure causes lymphatic fluid to leak into the airways.",
+    "frequency": {
+      "us": "~100–400 US total Fontan plastic bronchitis cases",
+      "global": "~3,900– 15,600 global",
+      "sources": "Prevalence ~1–4% in Fontan population; mortality per acute episode ~10–15%"
+    },
+    "diagnosis": "Clinical: acute respiratory distress, hypoxemia, expectorated or bronchoscopically retrieved branching casts (diagnostic). CT chest: branching hyperdense opacities filling the bronchi. Bronchoscopy: direct visualization and retrieval of bronchial casts. Echo/catheterization: Fontan hemodynamic assessment. MR lymphangiography.",
+    "treatment": {
+      "standardOfCare": "Acute: bronchoscopy for cast removal.\nInhaled tPA (tissue plasminogen activator)\n— standard of care at experienced centers;\ndissolves fibrin casts and reduces\nrecurrence. Chest physiotherapy + airway\nclearance. Inhaled heparin (reduces cast\nformation). Optimize Fontan hemodynamics:\nsildenafil, bosentan. Heart transplantation\nfor medically refractory plastic bronchitis.",
+      "emerging": "Emerging:Thoracic lymphatic embolization\n— same as PLE; increasingly effective for\nplastic bronchitis via lymphatic\ndecompression. Inhaled dornase alfa as\nmucolytic adjunct. Combined heart-liver\ntransplantation for cases with advanced\nFALD."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 93,
+    "slug": "fontan-associated-liver-disease-fald",
+    "specialty": "cardiology",
+    "category": "Genetic Syndromes with Cardiac Involvement",
+    "name": "Fontan-Associated Liver Disease (FALD)",
+    "heredityTier": "none",
+    "description": "Progressive hepatic fibrosis, cirrhosis, and hepatocellular carcinoma resulting from chronic elevation of systemic venous pressure transmitted to the hepatic venous system in Fontan physiology. Nearly universal in long-term Fontan survivors. A leading cause of late morbidity and mortality in Fontan patients.",
+    "frequency": {
+      "us": "~4,500–9,000 US total Fontan- FALD (hepatic fibrosis)",
+      "global": "~175,000– 350,000 global Fontan-FALD",
+      "sources": "Hepatic fibrosis present in virtually all Fontan patients within 10 years; cirrhosis ~50% by 20 years"
+    },
+    "diagnosis": "Liver function tests (often normal until late disease; elevated GGT may be early marker). Serum elastography (FibroScan) -- non-invasive fibrosis staging. MRI liver: fibrosis, nodularity, HCC surveillance. AFP (HCC marker) -- annual. Liver biopsy: gold standard (used selectively). Hepatology co- management from 5-10 years post-Fontan.",
+    "treatment": {
+      "standardOfCare": "No disease-modifying therapy proven to prevent or reverse FALD. Optimize Fontan hemodynamics to reduce hepatic venous pressure. Avoid hepatotoxic medications. HCC surveillance: 6-monthly AFP + annual liver MRI from 10 years post- Fontan. HCC treatment: resection or ablation if isolated. Combined heart-liver transplantation for advanced hepatic fibrosis + Fontan failure.",
+      "emerging": "Emerging:Non-invasive liver fibrosis staging (FibroScan/transient elastography, MR elastography) to monitor progression without biopsy. Antifibrotic agents (pirfenidone, nintedanib) under investigation for FALD. FIB-4 score and hepatic venous pressure gradient as surveillance markers."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 94,
+    "slug": "fontan-failure",
+    "specialty": "cardiology",
+    "category": "Genetic Syndromes with Cardiac Involvement",
+    "name": "Fontan Failure",
+    "heredityTier": "none",
+    "description": "Progressive deterioration of Fontan physiology characterized by falling cardiac output, rising Fontan pressures, and multiorgan dysfunction. Clinical syndrome: low cardiac output, ascites, edema, pleural effusions, PLE, plastic bronchitis, FALD, and arrhythmias. The final common pathway for all Fontan patients if they survive long enough.",
+    "frequency": {
+      "us": "~7,200–14,400 US Fontan patients at risk (40–50% by age 40)",
+      "global": "~280,000– 560,000 global Fontan patients at risk",
+      "sources": "Estimated 40–50% of Fontan patients develop significant failure by age 40"
+    },
+    "diagnosis": "Echocardiography (ventricular function, AV valve regurgitation, Fontan pathway obstruction). Cardiac catheterization (Fontan pressure, PVR, cardiac output -- essential before transplantation listing). MRI (ventricular volumes and function). Liver assessment (FALD staging). PLE evaluation. Renal function. Functional assessment: 6-minute walk test, VO2 max.",
+    "treatment": {
+      "standardOfCare": "Medical optimization: diuretics,\nafterload reduction, pulmonary vasodilators\n(sildenafil, bosentan). Rhythm management:\nantiarrhythmics, catheter ablation for IART.\nCatheter interventions: Fontan fenestration,\nFontan pathway stenting for conduit\nobstruction, APC coil embolization. Fontan\nconversion surgery for failing atriopulmonary\nconnections. Heart transplantation — the\nonly definitive therapy. Combined heart-liver\ntransplantation for advanced FALD.",
+      "emerging": "Emerging:Mechanical cavopulmonary\nassist (percutaneous TCPC pump — Fontan\nmechanical assist device trials). Thoracic\nlymphatic embolization for PLE/plastic\nbronchitis. Fenestration optimization with\nadjustable devices."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 95,
+    "slug": "acute-cellular-rejection-post-cardiac-transplant",
+    "specialty": "cardiology",
+    "category": "Genetic Syndromes with Cardiac Involvement",
+    "name": "Acute Cellular Rejection (Post-Cardiac Transplant)",
+    "heredityTier": "none",
+    "description": "T-cell-mediated immune response against the transplanted heart. The primary cause of morbidity and death in the first year after cardiac transplantation. Graded by the ISHLT rejection grading system (0-3R based on endomyocardial biopsy histology).",
+    "frequency": {
+      "us": "~400–800 new US pediatric transplant rejection episodes/yr",
+      "global": "~15,000– 30,000 global",
+      "sources": "Treated rejection episodes in 20–40% of pediatric recipients in first year post-transplant"
+    },
+    "diagnosis": "Endomyocardial biopsy (EMB): gold standard for diagnosis and grading (ISHLT grade 1R = mild; 2R = moderate; 3R = severe). EMB protocol: biweekly for first 2 months, monthly until year 1, then annually. Echo: LV dysfunction, new wall motion abnormality. Biomarkers: troponin, BNP. Gene expression profiling (AlloMap).",
+    "treatment": {
+      "standardOfCare": "Grade 1R: optimize oral immunosuppression; close follow-up. Grade 2R or 3R: IV methylprednisolone pulse (10– 30 mg/kg/day × 3 days, max 1 g/day). Grade 3R refractory to steroids: rabbit ATG. AMR: plasmapheresis + IVIG + rituximab. Hemodynamic support: inotropes, ECMO as bridge to recovery. Maintenance immunosuppression optimization.",
+      "emerging": "Emerging:Bortezomib (proteasome inhibitor) for refractory AMR — reduces plasma cell burden. C1-esterase inhibitor (Berinert) for complement-mediated AMR.\nBelatacept (CTLA4-Ig) as calcineurin\ninhibitor alternative. Non-invasive rejection\nsurveillance: donor-derived cell-free DNA\n(dd-cfDNA) as liquid biopsy."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 96,
+    "slug": "primary-graft-dysfunction-pgd",
+    "specialty": "cardiology",
+    "category": "Genetic Syndromes with Cardiac Involvement",
+    "name": "Primary Graft Dysfunction (PGD)",
+    "heredityTier": "none",
+    "description": "Severe cardiac dysfunction of the transplanted heart occurring within 24 hours of implantation. Results from ischemia-reperfusion injury, prolonged ischemic time, donor-recipient size mismatch, and pre-existing donor cardiac dysfunction. The leading cause of early post-transplant death, often requiring ECMO.",
+    "frequency": {
+      "us": "~100–200 new US pediatric PGD cases/yr",
+      "global": "~3,900– 7,800 global",
+      "sources": "PGD in 10– 20% of cardiac transplant recipients; severe PGD requiring ECMO in ~3–5%"
+    },
+    "diagnosis": "Clinical presentation: failure to wean from cardiopulmonary bypass, or acute severe hemodynamic deterioration within first 24 hours. Echo: severe biventricular dysfunction (EF <40%). Right heart catheterization: low cardiac output, elevated filling pressures. Exclusion of: anastomotic complications, hyperacute rejection.",
+    "treatment": {
+      "standardOfCare": "ECMO: primary rescue for severe PGD\n(VA configuration). Inotropes: epinephrine,\nmilrinone, vasopressin. Inhaled nitric oxide\nfor RV failure component. ECMO weaning\nwhen graft recovery sufficient (typically 48–\n96 hours). VAD as bridge to re-\ntransplantation if no recovery. Prevention:\nminimize ischemic time, optimize donor\nmanagement.",
+      "emerging": "Emerging:Ex vivo heart perfusion (EVHP —\nTransmedics OCS Heart): extends ischemic\ntolerance, allows real-time graft assessment,\nenables use of marginal donor hearts.\nNormothermic regional perfusion (NRP) for\nDCD (donation after circulatory death)\nhearts — expanding donor pool."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 97,
+    "slug": "cardiac-allograft-vasculopathy-cav",
+    "specialty": "cardiology",
+    "category": "Cardiac Tumors",
+    "name": "Cardiac Allograft Vasculopathy (CAV)",
+    "heredityTier": "none",
+    "description": "Accelerated, diffuse coronary artery disease affecting the transplanted heart, caused by chronic immune-mediated vascular injury. Unlike native coronary artery disease, CAV affects the entire coronary tree diffusely and concentrically. The leading cause of death in pediatric cardiac transplant recipients beyond the first year.",
+    "frequency": {
+      "us": "~750–1,000 US pediatric CAV cases; ~3,000– 5,000 US total (all ages)",
+      "global": "~29,000– 48,000 global",
+      "sources": "CAV present in ~30% of pediatric recipients by 5 years and ~50% by 10 years on IVUS"
+    },
+    "diagnosis": "Annual coronary assessment: cardiac catheterization with IVUS (gold standard -- detects CAV before angiographic changes). Coronary angiography (underestimates disease extent). Dobutamine stress echo (functional ischemia assessment). Surveillance: annually from year 1 post- transplant. Biomarkers: donor-specific antibodies (DSA) -- major risk factor for CAV.",
+    "treatment": {
+      "standardOfCare": "Statin therapy from day 1 post- transplant (reduces CAV progression). Everolimus or sirolimus (mTOR inhibitors): most evidence for slowing CAV — switch from azathioprine in patients with early CAV.\nOptimize immunosuppression. Treat DSA:\nplasmapheresis + IVIG + rituximab. PCI for\nfocal lesions. Retransplantation for\nadvanced CAV.",
+      "emerging": "Emerging:Belatacept (CTLA4-Ig) as\ncalcineurin-sparing strategy to reduce\nnephrotoxicity while maintaining\nimmunosuppression. OCT (optical\ncoherence tomography) for early intimal\nthickness quantification and CAV staging.\ndd-cfDNA as liquid biopsy for subclinical\nrejection monitoring."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 98,
+    "slug": "post-transplant-lymphoproliferative-disorder-ptld",
+    "specialty": "cardiology",
+    "category": "Cardiac Tumors",
+    "name": "Post-Transplant Lymphoproliferative Disorder (PTLD)",
+    "heredityTier": "none",
+    "description": "EBV-driven lymphoid proliferation occurring in immunosuppressed cardiac transplant recipients, ranging from benign polyclonal hyperplasia to aggressive monoclonal lymphoma. Pediatric recipients at highest risk because most are EBV-naive at transplantation.",
+    "frequency": {
+      "us": "~100–200 new US pediatric PTLD cases/yr",
+      "global": "~3,900– 7,800 global",
+      "sources": "PTLD incidence ~5–15% in pediatric cardiac transplant recipients; EBV- naive recipients highest risk FREQUENCY"
+    },
+    "diagnosis": "EBV viral load monitoring: quantitative PCR for EBV DNA (surveillance every 1-3 months in first 2 years). Rising EBV viral load precedes PTLD development. CT chest/abdomen/pelvis: lymphadenopathy, mass lesions. PET scan for staging. Tissue biopsy: definitive diagnosis and WHO classification.",
+    "treatment": {
+      "standardOfCare": "Immunosuppression reduction (first-\nline — induces remission in ~30–50% of\nearly polyclonal PTLD). Rituximab (anti-\nCD20): first-line for CD20+ B-cell PTLD\n(>90% of pediatric PTLD). CHOP-based\nchemotherapy for refractory or aggressive\nmonoclonal PTLD. Ganciclovir/valganciclovir\nprophylaxis in EBV-naive recipients.",
+      "emerging": "Emerging:EBV-specific cytotoxic T-\nlymphocyte (CTL) adoptive immunotherapy\n— available at specialized centers; highly\neffective for EBV+ PTLD. PD-1 checkpoint\ninhibitors (pembrolizumab) for refractory\nPTLD (caution: rejection risk — use with\naugmented immunosuppression)."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 99,
+    "slug": "branch-pulmonary-artery-stenosis",
+    "specialty": "cardiology",
+    "category": "Cardiac Tumors",
+    "name": "Branch Pulmonary Artery Stenosis",
+    "heredityTier": "none",
+    "description": "Narrowing of the left and/or right pulmonary artery branches and their segmental/subsegmental divisions. Occurs as a congenital lesion or, more commonly, post- operatively following repair of TOF, truncus arteriosus, TAPVR, PA-VSD, and after Glenn/Fontan procedures. Causes elevated RV pressure, RV hypertrophy and failure, and reduced pulmonary blood flow to affected lung segments.",
+    "frequency": {
+      "us": "arteriosus repairs, and essentially all patients with PA- VSD/MAPCAs. Williams syndrome causes severe diffuse peripheral PA stenosis in ~75- 90% of patients. US: ~5,000–15,000 US total (all degrees); ~1,000– 3,000 clinically significant",
+      "global": "~195,000– 585,000 global",
+      "sources": "Post- operative PA stenosis virtually universal after PA- related CHD repairs; clinically significant in ~5–20%"
+    },
+    "diagnosis": "Echo with Doppler (RV pressure estimation via TR jet velocity). Cardiac MRI: gold standard for bilateral branch PA assessment and differential lung blood flow quantification. Cardiac catheterization + angiography: pressure gradient measurement (>20 mmHg generally warrants intervention). CT angiography for segmental/subsegmental anatomy. Radionuclide perfusion scan (V/Q) for differential lung flow.",
+    "treatment": {
+      "standardOfCare": "Transcatheter balloon pulmonary\narterioplasty (initial treatment for discrete\nstenoses). PA stenting with bare metal\nstents (allows re-dilation as child grows —\npreferred for most significant lesions).\nCutting balloon for fibrotic or elastic recoil\nlesions. Surgical arterioplasty for bifurcation\nstenoses not catheter-accessible.",
+      "emerging": "Emerging:Drug-eluting stents (sirolimus-\neluting) for PA stenosis — under\ninvestigation to reduce restenosis. High-\npressure compliant balloons (ATLAS\nballoon) for resistant lesions. Drug-eluting\nballoons (paclitaxel-coated) for restenotic\nlesions. Biodegradable vascular scaffolds in\nearly research."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 100,
+    "slug": "rv-pa-conduit-failure",
+    "specialty": "cardiology",
+    "category": "Interventional Cardiology",
+    "name": "RV-PA Conduit Failure",
+    "heredityTier": "none",
+    "description": "Stenosis and/or regurgitation of right",
+    "frequency": {
+      "us": "live with an RV-PA conduit. Melody Valve (Medtronic, FDA 2010) and SAPIEN XT/3 (Edwards, FDA 2016) have collectively performed >50,000 TPVR procedures",
+      "global": "~78,000– 195,000 global interventions/yr",
+      "sources": "Conduit failure requiring intervention in virtually all recipients over time; median conduit longevity ~10–15 yrs"
+    },
+    "diagnosis": "Echo: Doppler-estimated conduit gradient, degree",
+    "treatment": {
+      "standardOfCare": "TPVR: preferred for suitable conduit anatomy. Melody valve (conduits 14–28 mm). SAPIEN 3 (conduits/native RVOT 19–\n29 mm). Harmony TPV (native RVOT, FDA\n2021). Coronary compression test\nmandatory before implantation. Surgical\nconduit replacement when conduit too large,\ncalcified, or TPVR coronary compression\nrisk prohibitive.",
+      "emerging": "Emerging:Harmony TPV22 (next-\ngeneration, broader sizing) for dilated native\nRVOT. COMPASSION trials expanding\nTPVR to non-circular/dilated native RVOT.\nTissue-engineered conduits (decellularized,\nbioresorbable) to reduce reintervention\nburden."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 101,
+    "slug": "acquired-pulmonary-vein-stenosis",
+    "specialty": "cardiology",
+    "category": "Interventional Cardiology",
+    "name": "Acquired Pulmonary Vein Stenosis",
+    "heredityTier": "none",
+    "description": "Progressive stenosis of one or more pulmonary veins occurring after surgical repair of TAPVR, or arising de novo in premature infants without prior surgery. Distinct from congenital pulmonary vein disease (TAPVR, #17). The post-surgical form is one of the most challenging conditions in pediatric interventional cardiology: stenosis is highly aggressive in young infants, often multivessel, and recurs rapidly (50- 70% restenosis within months). Carries very high mortality without successful intervention.",
+    "frequency": {
+      "us": "~200–500 US total clinically significant acquired PVS cases",
+      "global": "~7,800– 19,500 global",
+      "sources": "Clinically significant acquired PV stenosis after TAPVR repair in ~10–20% of patients"
+    },
+    "diagnosis": "Echo: reduced or absent flow in affected pulmonary veins; elevated left atrial pressure. Cardiac MRI or CT angiography: delineates PV anatomy, degree of stenosis, and multivessel disease. Cardiac catheterization + selective PV angiography: gold standard for stenosis severity and anatomy. Lung perfusion scan (V/Q): quantifies differential blood flow. Wedge angiography technique for distal stenosis visualization.",
+    "treatment": {
+      "standardOfCare": "Transcatheter balloon PV angioplasty.\nDrug-eluting balloon (paclitaxel-coated):\nimproving short-term results over plain\nballoon. Sutureless PV liberation surgery:\ncreates wider, pericardium-lined pathway.\nLung transplantation for severe bilateral\ndisease not amenable to other interventions.",
+      "emerging": "Emerging:Sirolimus (systemic mTOR\ninhibitor): active trials at Boston Children's\nand Nationwide Children's — anti-\nproliferative effect on myofibroblast-driven\nstenosis; most promising emerging therapy.\nDrug-eluting stents (sirolimus-eluting) for in- stent restenosis. Imatinib + bevacizumab\nantifibrotic combination (investigational)."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 102,
+    "slug": "coronary-artery-fistula",
+    "specialty": "cardiology",
+    "category": "Interventional Cardiology",
+    "name": "Coronary Artery Fistula",
+    "heredityTier": "none",
+    "description": "Congenital anomalous communication between a coronary artery and a cardiac chamber (coronary-cameral fistula: most commonly to RV or RA) or a vascular structure (coronary-arteriovenous fistula: most commonly to pulmonary artery). Causes volume loading of the drainage chamber, myocardial ischemia (coronary steal), and risk of bacterial endocarditis.",
+    "frequency": {
+      "us": "rupture (rare). US: ~360–720 US total (0.1–0.2% of CHD)",
+      "global": "~14,000– 28,000 global",
+      "sources": "Coronary artery fistula ~0.1– 0.2% of CHD; majority discovered incidentally"
+    },
+    "diagnosis": "Echo: turbulent flow jet entering cardiac chamber or pulmonary artery; dilated coronary artery. CT coronary angiography: gold standard for anatomy, fistula tract, drainage site. Cardiac catheterization + selective coronary angiography: fistula tract anatomy, Qp/Qs measurement, branch vessel assessment before embolization. Stress testing for ischemia (large fistulas with steal).",
+    "treatment": {
+      "standardOfCare": "Transcatheter embolization: preferred\nfor suitable anatomy — coil embolization\n(detachable/pushable) for small-to-medium\nfistulas; Amplatzer Vascular Plug for large-\ndiameter fistulas. Technical priority: preserve\nfeeding coronary branches. Surgical ligation\nfor anatomy not amenable to catheter\nclosure. Observation for small asymptomatic\nfistulas. SBE prophylaxis post-closure.",
+      "emerging": "Emerging:Covered stent exclusion for large\nfistulas as an alternative to embolization. CT\ncoronary angiography for pre-procedural\nmapping and post-closure surveillance.\nMultimodality imaging (FFR, IVUS) to\nassess hemodynamic significance of small\nfistulas."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 103,
+    "slug": "pulmonary-arteriovenous-malformations-post-glenn",
+    "specialty": "cardiology",
+    "category": "Interventional Cardiology",
+    "name": "Pulmonary Arteriovenous Malformations (Post- Glenn)",
+    "heredityTier": "none",
+    "description": "Abnormal direct connections between pulmonary arteries and pulmonary veins in the lung parenchyma, bypassing the gas",
+    "frequency": {
+      "us": "Clinically significant PAVMs after bidirectional Glenn anastomosis: ~10- 15% of patients. Develop in virtually",
+      "global": "",
+      "sources": ""
+    },
+    "diagnosis": "Clinical presentation: progressive cyanosis after initially adequate Glenn palliation, without echocardiographic evidence of shunting. Contrast echo: microbubbles appear in left heart after peripheral venous injection without passing through the heart (pulmonary A-V passage) -- diagnostic. CT pulmonary angiography: visualizes PAVM locations. Cardiac MRI: differential lung blood flow. Cardiac catheterization: pulmonary vein saturation step- downs; selective pulmonary angiography.",
+    "treatment": {
+      "standardOfCare": "Fontan completion — definitive treatment; restoration of hepatic venous blood flow reverses PAVMs in most cases (regression typically 3–12 months post- Fontan). Transcatheter embolization for large discrete accessible PAVMs (temporizing). Hepatic vein inclusion in\nFontan pathway is critical for anatomical\nvariants with hepatic vein exclusion.",
+      "emerging": "Emerging:Hepatic vein flow redistribution:\ncatheter-based selective hepatic venous\nredirection as bridge to Fontan completion.\nUnderstanding of hepatic factor biology\n(identity of anti-PAVM hepatic factor) under\nactive investigation — may lead to\npharmaceutical approaches."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 104,
+    "slug": "kawasaki-giant-coronary-aneurysm-with-stenosis-tier-3-defining-the-cardiac-condi",
+    "specialty": "cardiology",
+    "category": "Interventional Cardiology",
+    "name": "Kawasaki Giant Coronary Aneurysm with Stenosis  TIER 3 — DEFINING: The cardiac condition IS a germline syndrome or near-universally caused by an identified genetic mutation TIER",
+    "heredityTier": "strong",
+    "description": "Distinct, late-phase complication of Kawasaki disease characterized by progressive stenosis within or adjacent to giant coronary artery aneurysms (Z-score >=10 or absolute diameter >=8mm). Stenosis results from myofibroblast proliferation and organized thrombus within the aneurysm. Causes myocardial ischemia, MI, and sudden cardiac death. Distinct from acute Kawasaki disease (#79): requires interventional coronary management rather than anti-inflammatory treatment.",
+    "frequency": {
+      "us": "~200–1,000 new US Kawasaki",
+      "global": "",
+      "sources": ""
+    },
+    "diagnosis": "Coronary angiography (catheterization): gold standard for anatomy and stenosis severity. CT coronary angiography: non-invasive surveillance (annual or biannual). Stress imaging (nuclear perfusion, stress MRI, dobutamine stress echo): ischemia assessment. IVUS and OCT: assess aneurysm wall, thrombus, and stenosis anatomy -- critical for intervention planning. Echo: aneurysm size follow-up, LV wall motion.",
+    "treatment": {
+      "standardOfCare": "Lifelong anticoagulation: warfarin +\nlow-dose aspirin for giant aneurysms (z-\nscore ≥10). PCI: balloon angioplasty ±\nrotational atherectomy (calcified lesions) +\ndrug-eluting stents preferred. CABG: for\nmultivessel or PCI-unsuitable disease —\ninternal mammary artery conduits preferred\n(avoid saphenous vein in young patients).\nThrombolytics or catheter-directed aspiration\nfor acute coronary occlusion.",
+      "emerging": "Emerging:Orbital atherectomy for heavily\ncalcified KD coronary lesions. IVUS and\nOCT for lesion assessment and stent\noptimization. Direct oral anticoagulants\n(DOACs — rivaroxaban, apixaban) as\nalternatives to warfarin for anticoagulation —\ncomparative trials ongoing. Fractional flow\nreserve (FFR) to guide PCI indications. complexes, shortened PR interval. Early ERT initiation critical -- cardiac function often normalizes with treatment. ERT: alglucosidase alfa (Lumizyme/Myozyme, Sanofi); cipaglucosidase alfa + miglustat (Pombiliti + Opfolda, Amicus, FDA 2023) -- next-generation ERT. Respiratory support. Cardiac function often normalizes with early ERT. Cardiac transplantation -- often the only effective long- term therapy; median age at transplantation ~20 years in males. Catheter ablation for WPW accessory pathway. Gene therapy under development. Female carriers: surveillance echo and ECG every 1-2 years from diagnosis. beta (Fabrazyme, Sanofi, US). Migalastat (Galafold, Amicus, oral chaperone for amenable mutations). Cardiac MRI with LGE: characteristic mid-wall inferolateral LGE pattern (pathognomonic of Fabry cardiac involvement). Serial echo every 1-2 years for HCM monitoring. Treat cardiac complications (arrhythmia, anticoagulation). Female carriers: can develop significant cardiac disease -- require regular screening. modifying therapy (age >=16); reduces neurological progression and has some cardiac benefit. Beta blockers for HCM symptoms. ACE inhibitors for heart failure. ICD consideration for arrhythmia risk. Annual echo + ECG + Holter. Unlike sarcomeric HCM, HOCM- directed therapies (myectomy, septal ablation) are rarely appropriate. heart failure therapy. Nutritional support. ICD for ventricular arrhythmia. Cardiac transplantation for refractory cases. Granulocyte-stimulating factor (G- CSF) for severe neutropenia. Genetic counseling: carrier females are unaffected but must be identified for family planning. idursulfase (MPS II/Elaprase, Takeda), galsulfase (MPS VI/Naglazyme), elosulfase alfa (MPS IVA/Vimizim). HSCT for MPS I Hurler before age 2.5 years -- can attenuate cardiac progression if performed early. Serial echo every 1-2 years for valve disease tracking. Surgical valve repair or replacement for advanced valve disease. Difficult airway management requires specialized anesthetic team. KSS -- sudden death from heart block is a leading cause of KSS mortality; cannot be deferred. ICD for sustained VT/VF. Standard heart failure therapy. CoQ10 supplementation (widely used; evidence limited). Riboflavin for Complex I deficiency subtypes. Avoid valproate (inhibits mitochondrial beta-oxidation)."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  }
+]

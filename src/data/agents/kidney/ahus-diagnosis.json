@@ -1,0 +1,101 @@
+{
+  "type": "scored",
+  "totalPoints": 88,
+  "preamble": "Each domain question draws from the complete medical record. Points reflect diagnostic weight. Cost reflects typical test burden: Small = existing record / standard labs  |  Medium = targeted test ($200–$1,500)  |  Large = genetic or complement panel ($1,500–$5,000+)  |  ⚠ ADAMTS13 must be drawn BEFORE plasma exchange — most time-sensitive test in TMA.",
+  "sections": [
+    {
+      "heading": "TMA Triad",
+      "sectionPoints": 0,
+      "questions": [
+        {
+          "domain": "TMA Triad",
+          "question": "Is microangiopathic hemolytic anemia (MAHA) confirmed? (Hgb <10 g/dL + schistocytes >1% on peripheral smear + elevated LDH + low haptoglobin)",
+          "confirmingAnswer": "Yes — MAHA confirmed; all four TMA criteria present on CBC, smear, LDH, and haptoglobin",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "TMA Triad",
+          "question": "Is thrombocytopenia present (platelets <150,000/μL, preferably <100,000/μL)?",
+          "confirmingAnswer": "Yes — thrombocytopenia confirmed; essential TMA triad component",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "TMA Triad",
+          "question": "Is severe acute kidney injury (AKI) present with oliguria/anuria, or has renal replacement therapy (dialysis) been initiated?",
+          "confirmingAnswer": "Yes — severe AKI (KDIGO Stage 2–3) or dialysis-requiring confirmed",
+          "points": 7,
+          "cost": "Small"
+        },
+        {
+          "domain": "CNS Involvement",
+          "question": "Are CNS symptoms present (seizures, encephalopathy, focal neurological deficits)? CNS involvement more common in aHUS than typical HUS — poor prognostic sign",
+          "confirmingAnswer": "Yes — CNS involvement confirmed; indicates severe TMA with extrarenal spread",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Critical Exclusion",
+          "question": "Is ADAMTS13 activity >10%? (ADAMTS13 <10% = TTP — NOT aHUS; this finding negates the aHUS diagnosis)",
+          "confirmingAnswer": "Yes — ADAMTS13 >10% confirmed; TTP excluded; aHUS diagnosis supported",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "Complement Studies",
+          "question": "Is there evidence of complement dysregulation? (low C3 + low factor H + elevated sC5b-9 — the aHUS alternative pathway activation pattern; C4 typically normal)",
+          "confirmingAnswer": "Yes — complement dysregulation pattern confirmed: low C3, low factor H, elevated sC5b-9",
+          "points": 15,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Genetic Analysis",
+          "question": "Has genetic testing identified a pathogenic variant in a complement regulatory gene (CFH, CFI, MCP/CD46, CFB, C3, THBD, DGKE)?",
+          "confirmingAnswer": "Yes — P/LP complement gene variant confirmed; or anti-factor H antibodies detected (acquired aHUS)",
+          "points": 20,
+          "cost": "Large"
+        },
+        {
+          "domain": "Exclusion Criteria",
+          "question": "Are Shiga toxin assay and STEC stool culture both negative? (excludes typical STEC-associated HUS)",
+          "confirmingAnswer": "Yes — Shiga toxin and STEC culture negative; typical HUS excluded",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Exclusion Criteria",
+          "question": "Is there no TMA-inducing medication in recent history? (quinine, calcineurin inhibitors, gemcitabine, bevacizumab)",
+          "confirmingAnswer": "Yes — no TMA-inducing medications identified on medication reconciliation",
+          "points": 3,
+          "cost": "Small"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {
+    "high": {
+      "label": "🔴  ≥80 High confidence aHUS",
+      "action": "initiate complement blockade with eculizumab (anti-C5) immediately; ensure meningococcal vaccination or prophylactic penicillin before first dose; nephrology and hematology co-management; genetic panel to guide long-term treatment duration",
+      "min": 80,
+      "max": 100
+    },
+    "moderate": {
+      "label": "🟡  60–79 Moderate confidence",
+      "action": "consider empirical eculizumab while awaiting complement genetics and STEC results; do not delay treatment in critically ill patients; complete ADAMTS13, complement studies, and exclusion workup",
+      "min": 60,
+      "max": 79
+    },
+    "low": {
+      "label": "🟢  <60 Low confidence",
+      "action": "additional testing required before aHUS diagnosis; ensure ADAMTS13, complement studies, and STEC testing are completed; consider alternative TMA diagnoses (TTP, drug-induced TMA, DIC, HELLP)",
+      "max": 59,
+      "min": 0
+    }
+  },
+  "guidelinesCitation": "",
+  "conditionId": 110,
+  "conditionName": "Atypical Hemolytic Uremic Syndrome",
+  "specialty": "kidney",
+  "agentType": "diagnosis"
+}

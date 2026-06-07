@@ -1,0 +1,110 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "Pulmonary Valve Disease and RVOT Obstruction  |  100-Point Adverse Prognostic Score  |  ACC/AHA 2018 CHD Guidelines / AHA/ACC 2022 Valve Guidelines / Repaired TOF Long-Term Outcome Data  |  RV Dysfunction and Intervention Risk Trajectory: Fast / Moderate / Slow",
+  "sections": [
+    {
+      "heading": "RV Severe Dilation",
+      "sectionPoints": 0,
+      "questions": [
+        {
+          "domain": "RV Severe Dilation",
+          "question": "Is RVEDVi >150 mL/m² or RVESVi >80 mL/m² on cardiac MRI?",
+          "confirmingAnswer": "Yes — severe RV dilation confirmed; RVEDVi >150 mL/m² is the most validated CMR threshold for pulmonary valve replacement (PVR) in repaired TOF; PVR at this threshold achieves best RV reverse remodeling",
+          "points": 15,
+          "cost": "Large"
+        },
+        {
+          "domain": "RV Systolic Dysfunction",
+          "question": "Is RVEF <45% on CMR (RV systolic dysfunction from chronic volume or pressure overload)?",
+          "confirmingAnswer": "Yes — RVEF <45% confirmed; independent criterion for PVR timing; RVEF <40% predicts irreversible dysfunction if intervention delayed; urgent referral for TPVR or surgical PVR",
+          "points": 15,
+          "cost": "Large"
+        },
+        {
+          "domain": "Severe Pulmonary Regurgitation",
+          "question": "Is there severe pulmonary regurgitation (PR fraction >40% on CMR or dense PR jet on echo without end-diastolic flow reversal)?",
+          "confirmingAnswer": "Yes — severe PR confirmed; primary driver of progressive RV dilation in repaired TOF and post-valvotomy; PR fraction >40% is a Class I CMR indication for PVR timing assessment",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "Severe Pulmonary Stenosis",
+          "question": "Is peak pulmonary valve gradient >64 mmHg (peak Doppler velocity >4.0 m/s) or peak RV–PA gradient >40 mmHg on cath?",
+          "confirmingAnswer": "Yes — severe PS confirmed; Class I indication for intervention (BPV or surgical/transcatheter PVR); RV pressure >2/3 systemic is an independent high-risk marker",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "Combined PS and PR",
+          "question": "Is there significant combined pulmonary stenosis and regurgitation (gradient >36 mmHg + PR fraction >25%)?",
+          "confirmingAnswer": "Yes — mixed PS/PR lesion confirmed; double burden on RV; often seen in repaired TOF with RVOT patch; accelerates RV dilation and dysfunction",
+          "points": 3,
+          "cost": "Small"
+        },
+        {
+          "domain": "Sustained VT or Cardiac Arrest",
+          "question": "Is there documented sustained ventricular tachycardia, resuscitated cardiac arrest, or unexplained syncope in the setting of RVOT disease?",
+          "confirmingAnswer": "Yes — ventricular arrhythmia or SCA confirmed; major SCD risk marker in repaired TOF; ICD implantation indicated; electrophysiology study and ablation considered; urgent PVR to reduce arrhythmia substrate",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "QRS Duration ≥180 ms",
+          "question": "Is QRS duration ≥180 ms on 12-lead ECG (in repaired TOF or other RVOT surgery)?",
+          "confirmingAnswer": "Yes — QRS ≥180 ms confirmed; strongest ECG predictor of SCD in repaired TOF; combined with RV dilation, marks highest arrhythmia risk subgroup; PVR shortens QRS and reduces SCD risk",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Exertional Symptoms / Heart Failure",
+          "question": "Is there exertional dyspnea, exercise intolerance (≥2 MET limitation), or new-onset right heart failure (peripheral edema, hepatomegaly, ascites)?",
+          "confirmingAnswer": "Yes — symptomatic RV decompensation confirmed; primary clinical driver of intervention; NYHA class II–IV in RVOT disease indicates RV reserve exhaustion; intervention urgency elevated",
+          "points": 7,
+          "cost": "Small"
+        },
+        {
+          "domain": "Reduced Exercise Capacity on Testing",
+          "question": "Does cardiopulmonary exercise testing (CPET) show VO₂ max <65% predicted or VE/VCO₂ slope >34?",
+          "confirmingAnswer": "Yes — objectively reduced exercise capacity confirmed; reflects chronotropic incompetence or reduced RV stroke volume augmentation; supports intervention even in borderline-symptomatic patients",
+          "points": 3,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Repaired Tetralogy of Fallot",
+          "question": "Is there a history of surgical repair of Tetralogy of Fallot (complete repair with transannular patch or conduit)?",
+          "confirmingAnswer": "Yes — repaired TOF confirmed; most common indication for PVR in adolescents and adults; transannular patch repair causes free PR; conduit repair causes mixed PS/PR; lifelong cardiology follow-up mandatory",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Noonan or Syndromic PS",
+          "question": "Is there Noonan syndrome (PTPN11/SOS1/RAF1) or other syndrome (Williams, Alagille, CHARGE) as the underlying etiology of RVOT disease?",
+          "confirmingAnswer": "Yes — syndromic RVOT disease confirmed; Noonan PS typically dysplastic — responds poorly to BPV; surgical valvotomy or PVR preferred; syndrome-specific cardiovascular surveillance required",
+          "points": 4,
+          "cost": "Medium"
+        },
+        {
+          "domain": "TPVR Anatomic Suitability",
+          "question": "Is the conduit or native RVOT diameter 16–30 mm and is coronary compression testing negative, confirming TPVR candidacy?",
+          "confirmingAnswer": "Yes — TPVR candidacy confirmed (Melody, SAPIEN 3, or Harmony TPV); transcatheter approach preferred over surgery in suitable anatomy; reduces procedural risk and recovery time vs. repeat open-heart surgery",
+          "points": 3,
+          "cost": "Large"
+        },
+        {
+          "domain": "Conduit Calcification Requiring Prestenting",
+          "question": "Is the existing RV-PA conduit calcified or obstructed in a pattern requiring bare-metal prestenting before TPVR?",
+          "confirmingAnswer": "Yes — conduit calcification requiring prestenting confirmed; increases procedural complexity; prestenting optimizes landing zone and reduces conduit fracture risk post-TPVR",
+          "points": 2,
+          "cost": "Medium"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {},
+  "guidelinesCitation": "ACC/AHA 2018 Congenital Heart Disease Guidelines (Stout et al.)  |  AHA/ACC 2022 Valvular Heart Disease Guidelines  |  Geva et al. JACC 2011 (CMR thresholds for PVR in repaired TOF)  |  Harrild et al. JACC 2009 (QRS and arrhythmia in repaired TOF)  |  Lurz et al. JACC 2008 (Melody TPVR outcomes)  |  McElhinney et al. JACC 2021 (Harmony TPV native RVOT)  |  Valente et al. JACC 2014 (CMR predictors of adverse outcomes TOF)",
+  "conditionId": 80,
+  "conditionName": "Pulmonary Valve / RVOT Disease",
+  "specialty": "cardiology",
+  "agentType": "progression"
+}

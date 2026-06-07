@@ -1,0 +1,117 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "C3 Glomerulopathy (C3GN and Dense Deposit Disease)  |  100-Point Adverse Prognostic Score  |  KDIGO 2021 Glomerular Disease Guidelines / C3G Consensus Report (Fakhouri et al.) / MPGN Classification 2012  |  Progression Trajectory: Fast / Moderate / Slow",
+  "sections": [
+    {
+      "heading": "Persistently Low C3",
+      "sectionPoints": 0,
+      "questions": [
+        {
+          "domain": "Persistently Low C3",
+          "question": "Is serum C3 persistently below the lower limit of normal on serial measurements ≥3 months apart?",
+          "confirmingAnswer": "Yes — persistent C3 consumption confirmed; ongoing alternative pathway activation; disease remains active",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "Elevated sC5b-9 on Therapy",
+          "question": "Is soluble C5b-9 (terminal complement complex) persistently elevated despite immunosuppressive or complement-directed therapy?",
+          "confirmingAnswer": "Yes — ongoing terminal complement activation despite treatment; indicates inadequate complement control",
+          "points": 8,
+          "cost": "Medium"
+        },
+        {
+          "domain": "C3NeF Status",
+          "question": "Is C3 nephritic factor (C3NeF) persistently positive, driving chronic C3 convertase stabilization and complement dysregulation?",
+          "confirmingAnswer": "Yes — C3NeF positive; auto-antibody-mediated complement activation ongoing; unpredictable flare pattern",
+          "points": 5,
+          "cost": "Medium"
+        },
+        {
+          "domain": "eGFR Level",
+          "question": "Is eGFR <45 mL/min/1.73m² (CKD Stage 3b or worse) at current assessment?",
+          "confirmingAnswer": "Yes — significantly reduced eGFR; 50% of C3G patients reach ESRD within 10 years; high-risk trajectory confirmed",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "eGFR Decline Rate",
+          "question": "Is annualized eGFR decline >3 mL/min/1.73m²/year confirmed on serial measurements over ≥12 months?",
+          "confirmingAnswer": "Yes — progressive CKD trajectory above median C3G decline rate; ESRD risk elevated",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "DDD Subtype",
+          "question": "Is the C3G subtype Dense Deposit Disease (DDD) confirmed on electron microscopy (intramembranous GBM deposits)?",
+          "confirmingAnswer": "Yes — DDD confirmed; worse prognosis than C3GN; higher transplant recurrence (~80%); more aggressive treatment approach indicated",
+          "points": 10,
+          "cost": "Large"
+        },
+        {
+          "domain": "Crescents on Biopsy",
+          "question": "Are crescents present in ≥25% of glomeruli on light microscopy (crescentic C3G)?",
+          "confirmingAnswer": "Yes — crescentic C3G confirmed; rapid GFR decline expected; high-dose immunosuppression and complement blockade indicated",
+          "points": 6,
+          "cost": "Large"
+        },
+        {
+          "domain": "Tubular Atrophy / Fibrosis",
+          "question": "Is there significant tubular atrophy or interstitial fibrosis (>25% of cortex) on biopsy indicating irreversible chronic injury?",
+          "confirmingAnswer": "Yes — chronic fibrotic injury confirmed; reflects irreversible nephron loss; limits expected treatment benefit",
+          "points": 4,
+          "cost": "Large"
+        },
+        {
+          "domain": "Proteinuria Level",
+          "question": "Is proteinuria ≥1 g/day (urine PCR ≥1.0 mg/mg) at current assessment or is it worsening despite therapy?",
+          "confirmingAnswer": "Yes — significant or worsening proteinuria confirmed; correlates with active glomerular injury and faster GFR decline",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "Nephrotic Syndrome",
+          "question": "Is the patient in nephrotic syndrome (proteinuria >3.5 g/day, hypoalbuminemia, edema)?",
+          "confirmingAnswer": "Yes — nephrotic-range disease confirmed; highest proteinuria burden; poor prognosis in C3G; complement blockade urgently needed",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Complement Gene Mutation",
+          "question": "Is there a pathogenic variant in CFH, CFI, CFB, C3, or THBD on complement genetics panel?",
+          "confirmingAnswer": "Yes — genetic complement dysregulation confirmed; higher risk of transplant recurrence; guides eculizumab therapy duration",
+          "points": 6,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Monoclonal Immunoglobulin",
+          "question": "Is there an underlying monoclonal gammopathy (MGUS or myeloma) driving acquired C3G?",
+          "confirmingAnswer": "Yes — paraprotein-driven C3G confirmed; treat underlying plasma cell disorder; clone-directed therapy may resolve C3G",
+          "points": 4,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Prior Transplant Recurrence",
+          "question": "Has C3G recurred in a prior renal transplant graft?",
+          "confirmingAnswer": "Yes — documented transplant recurrence confirmed; C3G recurs in ~50% of transplants (DDD ~80%); pre-transplant complement workup and eculizumab prophylaxis required",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Transplant Candidacy",
+          "question": "Is the patient being evaluated for kidney transplantation with inadequate pre-transplant complement control (active C3 consumption or high sC5b-9)?",
+          "confirmingAnswer": "Yes — high recurrence risk in transplant; complement normalization required before transplant listing; consider eculizumab bridge therapy",
+          "points": 4,
+          "cost": "Small"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {},
+  "guidelinesCitation": "KDIGO 2021 Glomerular Disease Guidelines  |  Fakhouri et al. Kidney Int 2010 (C3G consensus)  |  Pickering et al. Kidney Int 2013 (DDD and transplant recurrence)  |  Bomback et al. CJASN 2012 (eculizumab in C3G)  |  Servais et al. JASN 2012 (C3G outcomes)  |  Iatropoulos et al. Kidney Int 2018 (C3G risk score)  |  KDIGO C3G Controversies Conference 2017 (Appel et al.)",
+  "conditionId": 10,
+  "conditionName": "C3 Glomerulopathy",
+  "specialty": "kidney",
+  "agentType": "progression"
+}

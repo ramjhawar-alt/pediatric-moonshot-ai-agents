@@ -1,0 +1,122 @@
+{
+  "type": "scored",
+  "totalPoints": 63,
+  "preamble": "Each domain question draws from the complete medical record. Points reflect diagnostic weight. Cost reflects typical test burden: Small = existing record / standard labs  |  Medium = targeted test ($200–$1,500)  |  Large = biopsy or complement genetics ($1,500–$8,000+)  |  ⚠ Positive ANA/ANCA SUBTRACT points — recalculate if autoimmune markers are positive.",
+  "sections": [
+    {
+      "heading": "Clinical Presentation",
+      "sectionPoints": 0,
+      "questions": [
+        {
+          "domain": "Clinical Presentation",
+          "question": "Is there a progressive CKD trajectory with declining eGFR over months to years (decline >3 mL/min/1.73m²/year confirmed on serial values)?",
+          "confirmingAnswer": "Yes — progressive CKD documented on serial eGFR measurements",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Clinical Presentation",
+          "question": "Is persistent microscopic or gross hematuria present on ≥2 separate urinalysis reports?",
+          "confirmingAnswer": "Yes — persistent hematuria confirmed; nearly universal in C3G",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Clinical Presentation",
+          "question": "Is proteinuria >0.5 g/day or ACR >30 mg/g present on urine protein quantification?",
+          "confirmingAnswer": "Yes — proteinuria confirmed; variable degree from mild to nephrotic",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Complement Studies",
+          "question": "Is serum C3 persistently low (below normal on ≥2 separate measurements)? — HALLMARK finding of C3G from alternative pathway activation",
+          "confirmingAnswer": "Yes — persistently low C3 confirmed; primary laboratory hallmark of C3G",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "Complement Studies",
+          "question": "Is serum C4 normal with C3 low? (Low C3 + normal C4 = alternative pathway activation; both low = classical pathway/SLE)",
+          "confirmingAnswer": "Yes — C4 normal confirming alternative pathway pattern; distinguishes C3G from SLE",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Complement Studies",
+          "question": "Is C3 nephritic factor (C3NeF) positive on specialized complement testing?",
+          "confirmingAnswer": "Yes — C3NeF positive; stabilizes C3 convertase, driving chronic C3 consumption",
+          "points": 3,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Complement Studies",
+          "question": "Is soluble C5b-9 (sC5b-9/terminal complement complex) elevated above reference range?",
+          "confirmingAnswer": "Yes — elevated sC5b-9 confirming ongoing terminal complement pathway activation",
+          "points": 4,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Autoimmune Exclusion",
+          "question": "Are ANA and anti-dsDNA both negative? (Positive ANA ≥1:80 or anti-dsDNA = subtract 10 pts — redirects to SLE nephritis)",
+          "confirmingAnswer": "Yes — lupus nephritis excluded; ANA and anti-dsDNA negative (+3 pts)",
+          "points": 3,
+          "cost": "Small"
+        },
+        {
+          "domain": "Autoimmune Exclusion",
+          "question": "Is ANCA (MPO/PR3) negative? (Positive ANCA = subtract 10 pts — redirects to ANCA-associated vasculitis)",
+          "confirmingAnswer": "Yes — ANCA-associated vasculitis excluded (+2 pts)",
+          "points": 2,
+          "cost": "Small"
+        },
+        {
+          "domain": "Autoimmune Exclusion",
+          "question": "Are SPEP/UPEP and serum free light chains normal with no M-spike? (Abnormal paraprotein = subtract 5 pts — redirects to monoclonal GN)",
+          "confirmingAnswer": "Yes — monoclonal gammopathy excluded; paraprotein screen negative (+2 pts)",
+          "points": 2,
+          "cost": "Small"
+        },
+        {
+          "domain": "Renal Biopsy",
+          "question": "Is there C3-dominant staining (≥2+ brighter than IgG, IgA, IgM, C1q, and C4d) in an MPGN or mesangial pattern on immunofluorescence? — DEFINITIVE for C3G",
+          "confirmingAnswer": "Yes — C3-dominant IF pattern confirmed; DEFINITIVE diagnosis of C3G",
+          "points": 8,
+          "cost": "Large"
+        },
+        {
+          "domain": "Renal Biopsy",
+          "question": "Does electron microscopy confirm subtype: intramembranous GBM deposits (Dense Deposit Disease/DDD) vs. mesangial/subendothelial deposits (C3GN)?",
+          "confirmingAnswer": "Yes — EM subtype confirmed; DDD = worse prognosis and higher transplant recurrence risk",
+          "points": 4,
+          "cost": "Large"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {
+    "high": {
+      "label": "🔴  ≥80 High confidence C3G (biopsy-proven + low C3 + clinical syndrome)",
+      "action": "full complement workup (C3NeF, sC5b-9, factor H/I/B levels, AH50); complement genetics panel (CFH, CFI, CFB, C3); nephrology referral; consider eculizumab for severe or refractory disease; pre-transplant complement assessment mandatory (50% recurrence in transplant)",
+      "min": 80,
+      "max": 100
+    },
+    "moderate": {
+      "label": "🟡  60–79 Moderate confidence",
+      "action": "probable C3G; urgent nephrology referral for kidney biopsy; complete complement studies and autoimmune exclusion panel; note: positive ANA/ANCA reduce score and redirect diagnosis",
+      "min": 60,
+      "max": 79
+    },
+    "low": {
+      "label": "🟢  <60 Low confidence",
+      "action": "C3G unlikely; investigate other GN causes; if autoimmune markers are positive, pursue SLE nephritis, ANCA vasculitis, or monoclonal GN workup; complete C3/C4 and exclusion panel before concluding",
+      "max": 59,
+      "min": 0
+    }
+  },
+  "guidelinesCitation": "",
+  "conditionId": 10,
+  "conditionName": "C3 Glomerulopathy",
+  "specialty": "kidney",
+  "agentType": "diagnosis"
+}

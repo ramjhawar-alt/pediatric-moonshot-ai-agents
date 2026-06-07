@@ -1,0 +1,295 @@
+{
+  "type": "checklist",
+  "preamble": "Spinal Muscular Atrophy  |  SMN1-Related 5q Spinal Muscular Atrophy  |  Werdnig-Hoffmann Disease (Type 1) / Dubowitz Disease (Type 2) / Kugelberg-Welander Disease (Type 3)  (OMIM 253300 / 253550 / 253400)",
+  "sections": [
+    {
+      "heading": "CLINICAL PRESENTATION AND ONSET",
+      "questions": [
+        {
+          "domain": "Onset of hypotonia and weakness before 6 months of age (Type 1)?",
+          "question": "Yes – Type 1 (most common): onset 0–6 months; Type 2: onset 6–18 months; Type 3: onset after 18 months; onset age is the primary determinant of SMA clinical type classification"
+        },
+        {
+          "domain": "Progressive, symmetric proximal > distal limb weakness?",
+          "question": "Yes – bilateral symmetric proximal muscle weakness is the cardinal feature across all SMA types; lower extremities typically weaker than upper; progression is the rule without disease-modifying treatment"
+        },
+        {
+          "domain": "Pure lower motor neuron phenotype — NO upper motor neuron signs (no spasticity, no Babinski)?",
+          "question": "Yes – SMA is purely a lower motor neuron disease; spasticity, hyperreflexia, clonus, and Babinski response are absent; their presence should prompt reconsideration of the diagnosis"
+        },
+        {
+          "domain": "Preserved sensation — intact pinprick, light touch, vibration, and proprioception?",
+          "question": "Yes – sensory pathways are entirely spared in 5q SMA; normal sensory examination is a clinically important positive finding; any sensory deficit warrants evaluation for hereditary neuropathy"
+        },
+        {
+          "domain": "Normal intellect and cognitive development for age (preserved despite severe motor impairment)?",
+          "question": "Yes – intelligence is characteristically normal in SMA; preserved cognition, social engagement, and language development are distinguishing features from other causes of infantile hypotonia"
+        },
+        {
+          "domain": "Positive family history of SMA in a sibling or known carrier parents?",
+          "question": "Yes – autosomal recessive inheritance; 25% recurrence risk per pregnancy for carrier couple; carrier frequency ~1 in 40–50 in the general population; positive family history in ~30–40% of cases"
+        }
+      ]
+    },
+    {
+      "heading": "MOTOR FEATURES — WEAKNESS AND TONE",
+      "questions": [
+        {
+          "domain": "Marked generalized hypotonia — \"floppy infant\" presentation?",
+          "question": "Yes – profound hypotonia is a hallmark of SMA; classical \"frog-leg\" resting posture in Type 1; reduced but present axial tone in Type 2–3; antigravity movements often absent or reduced"
+        },
+        {
+          "domain": "\"Frog-leg\" resting posture (hips abducted and externally rotated, knees flexed) at rest?",
+          "question": "Yes – characteristic frog-leg posture reflects proximal lower extremity weakness and hypotonia; pathognomonic for severe infantile hypotonia and highly characteristic of Type 1 SMA"
+        },
+        {
+          "domain": "Never achieved sitting independently (Type 1) OR achieved sitting but never walking (Type 2)?",
+          "question": "Yes – functional motor milestones determine clinical type: Type 1 = non-sitter; Type 2 = sitter but non-stander/non-walker; Type 3 = achieves walking; milestone profile is required for classification"
+        },
+        {
+          "domain": "Paradoxical breathing pattern — inward thoracic excursion on inspiration with abdominal rise (bell-shaped chest)?",
+          "question": "Yes – intercostal muscle weakness with relative diaphragm sparing causes paradoxical breathing and a bell-shaped chest; characteristic of Type 1 and severe Type 2; visible on observation"
+        },
+        {
+          "domain": "Visible fasciculations of the tongue?",
+          "question": "Yes – tongue fasciculations are a highly characteristic lower motor neuron sign in SMA; present in the majority of Type 1–2 patients; best observed with the tongue at rest; pathognomonic in the correct clinical context"
+        },
+        {
+          "domain": "Fine postural hand tremor — minipolymyoclonus of outstretched fingers?",
+          "question": "Yes – fine irregular tremor of the outstretched fingers (minipolymyoclonus) reflects motor unit instability from chronic denervation and reinnervation; characteristic in SMA Type 2–3; supports anterior horn cell disease"
+        },
+        {
+          "domain": "Preserved facial expression and eye movements (facial / extraocular muscles spared)?",
+          "question": "Yes – facial and extraocular muscles are consistently preserved in SMA; intact social smile and eye tracking in Type 1 infants are clinically important and diagnostically useful distinguishing features"
+        }
+      ]
+    },
+    {
+      "heading": "REFLEX AND LOWER MOTOR NEURON FINDINGS",
+      "questions": [
+        {
+          "domain": "Absent or severely reduced deep tendon reflexes (areflexia) on examination?",
+          "question": "Yes – absent deep tendon reflexes are a cardinal lower motor neuron finding reflecting anterior horn cell depletion; present in virtually all SMA types from early in the disease course"
+        },
+        {
+          "domain": "No upper motor neuron signs — no spasticity, hyperreflexia, clonus, or extensor plantar response?",
+          "question": "Yes – absence of all UMN signs is required for SMA diagnosis; any UMN sign should prompt evaluation for ALS-overlap syndromes, leukodystrophy, or other CNS pathology"
+        },
+        {
+          "domain": "Normal or only mildly elevated serum creatine kinase (CK) — typically <5× ULN?",
+          "question": "Yes – CK is normal or mildly elevated in SMA (anterior horn cell disease); markedly elevated CK (>5–10× ULN) strongly favors a primary muscle disease such as Duchenne or Becker muscular dystrophy"
+        }
+      ]
+    },
+    {
+      "heading": "RESPIRATORY FEATURES",
+      "questions": [
+        {
+          "domain": "Respiratory compromise — recurrent aspiration pneumonia, weak cough, or need for ventilatory support?",
+          "question": "Yes – respiratory failure from intercostal and accessory muscle weakness is the primary cause of mortality in Type 1 and progressive morbidity in Type 2; proactive monitoring and early intervention are life-saving"
+        },
+        {
+          "domain": "Forced vital capacity (FVC) reduced — <60% predicted on spirometry or respiratory function testing?",
+          "question": "Yes – FVC % predicted is the primary respiratory surveillance tool; values below 60% indicate significant restrictive impairment; serial FVC correlates with disease progression and risk of respiratory decompensation"
+        },
+        {
+          "domain": "Nocturnal hypoventilation confirmed on overnight oximetry or capnography (elevated CO₂, desaturations)?",
+          "question": "Yes – nocturnal hypoventilation and sleep-disordered breathing are early indicators of respiratory compromise; overnight oximetry is a first-line, non-invasive surveillance tool; capnography confirms CO₂ retention"
+        },
+        {
+          "domain": "Weak or absent cry in infancy?",
+          "question": "Yes – a weak or absent cry reflects both bulbar and respiratory muscle weakness; typically one of the earliest clinically detected signs in Type 1 SMA; parents reliably report this"
+        }
+      ]
+    },
+    {
+      "heading": "MUSCULOSKELETAL AND POSTURAL FEATURES",
+      "questions": [
+        {
+          "domain": "Progressive scoliosis developing over time?",
+          "question": "Yes – scoliosis is nearly universal in SMA Type 2 and non-ambulatory Type 3 due to paraspinal muscle weakness; can cause secondary respiratory compromise; requires annual spinal surveillance from childhood"
+        },
+        {
+          "domain": "Hip dislocation, subluxation, or large joint contractures?",
+          "question": "Yes – hip subluxation/dislocation and joint contractures are common complications of SMA Type 1–2 due to muscle imbalance and positioning; require regular orthopedic and physiotherapy surveillance"
+        },
+        {
+          "domain": "Reduced bone mineral density — fragility fractures or osteoporosis?",
+          "question": "Yes – reduced bone density from immobility and disuse is well-documented in SMA Types 1–2; pathological fractures can occur with minimal trauma; DEXA scanning and calcium/vitamin D optimization required"
+        }
+      ]
+    },
+    {
+      "heading": "FEEDING AND GASTROINTESTINAL FEATURES",
+      "questions": [
+        {
+          "domain": "Bulbar weakness — dysphagia, feeding difficulties, or silent aspiration?",
+          "question": "Yes – bulbar muscle weakness in Type 1 leads to inability to feed safely; aspiration pneumonia is a major cause of morbidity; videofluoroscopic swallow study (VFSS) is essential for safe feeding assessment"
+        },
+        {
+          "domain": "Nasal regurgitation or inability to generate adequate suction for bottle/breastfeeding?",
+          "question": "Yes – soft palate and pharyngeal weakness causes nasal regurgitation and poor suck in Type 1 infants; contributes to inadequate caloric intake and failure to thrive"
+        },
+        {
+          "domain": "Requirement for nasogastric tube (NG) or gastrostomy tube (G-tube) for safe nutrition?",
+          "question": "Yes – Type 1 SMA infants typically progress from NG to G-tube by 6–9 months; prophylactic G-tube placement is standard of care in Type 1 at many centers, often alongside respiratory interventions"
+        },
+        {
+          "domain": "Constipation or abdominal distension from GI dysmotility?",
+          "question": "Yes – constipation and GI dysmotility are well-recognized in SMA across all types; abdominal muscle weakness contributes; requires active dietary and pharmacological management"
+        }
+      ]
+    },
+    {
+      "heading": "SENSORY AND COGNITIVE FEATURES",
+      "questions": [
+        {
+          "domain": "Normal cognitive development with intact language, social engagement, and learning?",
+          "question": "Yes – intellectual ability is fully preserved in 5q SMA; children with Type 1 SMA show age-appropriate social engagement, visual attention, and prelinguistic communication — a striking and diagnostically important contrast with their motor impairment"
+        },
+        {
+          "domain": "Normal sensory examination — intact light touch, pinprick, vibration, and proprioception in all limbs?",
+          "question": "Yes – sensory modalities are entirely spared in SMN1-related SMA; any sensory deficit should prompt evaluation for hereditary motor and sensory neuropathy (HMSN/CMT) or a congenital neuropathy"
+        },
+        {
+          "domain": "Preserved eye movements and facial expression (cranial nerves III, IV, VI, VII intact)?",
+          "question": "Yes – cranial nerves controlling eye movement and facial expression are consistently spared in SMA; preserved facial expressivity and social smile in Type 1 infants is a characteristic and clinically important observation"
+        }
+      ]
+    },
+    {
+      "heading": "ELECTRODIAGNOSTIC STUDIES",
+      "questions": [
+        {
+          "domain": "EMG — widespread chronic and/or active denervation (fibrillations, positive sharp waves, large motor units, reduced recruitment)?",
+          "question": "Yes – EMG in SMA shows denervation: fibrillation potentials, positive sharp waves, large-amplitude polyphasic MUAPs reflecting reinnervation, and reduced interference pattern; consistent with anterior horn cell loss"
+        },
+        {
+          "domain": "Normal motor and sensory nerve conduction velocities (NCS)?",
+          "question": "Yes – NCS are typically normal in SMA (or show mildly reduced CMAP amplitudes in severe cases); normal conduction velocities distinguish SMA from hereditary motor and sensory neuropathies (CMT types)"
+        },
+        {
+          "domain": "Muscle biopsy showing grouped atrophy of angular fibers with type grouping (if performed)?",
+          "question": "Variable – muscle biopsy is rarely required for diagnosis if SMN1 testing is available; when performed, shows classic denervation: grouped small angular fiber atrophy with type-grouping from reinnervation; hypertrophic type 1 fibers"
+        }
+      ]
+    },
+    {
+      "heading": "NEWBORN SCREENING AND PRE-SYMPTOMATIC IDENTIFICATION",
+      "questions": [
+        {
+          "domain": "Positive newborn screening (NBS) result for SMA — SMN1 deletion detected on NBS?",
+          "question": "Yes – SMA was added to the US RUSP in 2018; NBS detects SMN1 homozygous exon 7 deletion by real-time PCR from dried blood spot; >45 US states and 25+ countries screen; result available day 2–5 of life"
+        },
+        {
+          "domain": "Pre-symptomatic identification enabling treatment before motor neuron loss?",
+          "question": "Yes – treatment initiated within 2–4 weeks of NBS-positive result dramatically improves outcomes; near-normal motor development achieved in many genotypic Type 1 infants treated before symptom onset; urgency is paramount"
+        }
+      ]
+    },
+    {
+      "heading": "FAMILY HISTORY AND INHERITANCE PATTERN",
+      "questions": [
+        {
+          "domain": "Autosomal recessive inheritance pattern — both parents confirmed obligate or tested carriers?",
+          "question": "Yes – SMA is autosomal recessive; carrier frequency ~1/40–50 in the general population; 25% recurrence risk per pregnancy for two carrier parents; ACMG recommends universal carrier screening"
+        },
+        {
+          "domain": "Parental SMN1 copy number confirming both parents have one SMN1 copy (carrier status)?",
+          "question": "Yes – parental SMN1 copy number analysis by MLPA or ddPCR confirms carrier status; note: ~4% of carriers have 2 SMN1 copies on one chromosome (2+0 arrangement) and can be missed by standard dosage assays"
+        }
+      ]
+    },
+    {
+      "heading": "GENETIC TESTING — DEFINITIVE DIAGNOSIS",
+      "questions": [
+        {
+          "domain": "Homozygous deletion of SMN1 exon 7 confirmed by MLPA, ddPCR, or next-generation sequencing?",
+          "question": "Yes – homozygous SMN1 exon 7 deletion is the DEFINITIVE diagnosis in approximately 95% of SMA cases; a single gene test is confirmatory; this result alone is sufficient to establish the diagnosis"
+        },
+        {
+          "domain": "SMN2 copy number determined (1, 2, 3, or 4 copies)?",
+          "question": "Yes – SMN2 copy number is the strongest genetic modifier of SMA severity: 1 copy → Type 0/most severe Type 1; 2 copies → typical Type 1; 3 copies → Type 2; 4 copies → Type 3; critical for prognosis and treatment urgency; typically reported alongside SMN1 analysis"
+        },
+        {
+          "domain": "Compound heterozygosity confirmed — one SMN1 deletion allele + one intragenic SMN1 point mutation (for non-deletion cases)?",
+          "question": "Yes – approximately 5% of SMA patients have a deletion on one SMN1 allele and a pathogenic point mutation on the other; single-allele deletion on standard dosage analysis does NOT exclude SMA — SMN1 sequencing required"
+        }
+      ]
+    },
+    {
+      "heading": "DIFFERENTIAL DIAGNOSIS EXCLUSIONS",
+      "questions": [
+        {
+          "domain": "No pathogenic DMD variant — Duchenne/Becker muscular dystrophy excluded (serum CK markedly elevated in DMD)?",
+          "question": "Yes – DMD/BMD excluded: DMD presents with markedly elevated CK (10–100× ULN), proximal weakness + calf pseudohypertrophy, and PRESERVED reflexes early; CK is normal/near-normal in SMA"
+        },
+        {
+          "domain": "Infantile-onset Pompe disease excluded — acid alpha-glucosidase enzyme activity normal?",
+          "question": "Yes – Pompe disease (GSD II) excluded: infantile Pompe causes hypotonia + cardiomegaly + elevated CK; acid glucosidase enzyme assay distinguishes; cardiac involvement absent in SMA; Pompe now on NBS in many states"
+        },
+        {
+          "domain": "Congenital myopathies excluded — muscle biopsy or myopathy panel negative (if evaluated)?",
+          "question": "Yes – congenital myopathies (nemaline, central core, centronuclear) excluded: these have preserved or variable reflexes, different pattern of weakness, and diagnostic muscle biopsy findings; SMN1 testing normal"
+        },
+        {
+          "domain": "Non-5q SMA variants excluded — BICD2, DYNC1H1, TRPV4 (autosomal dominant SMA mimics) negative?",
+          "question": "Yes – dominant SMA-like conditions (BICD2-related motor neuron disease, DYNC1H1-related disorder) have dominant inheritance; often predominantly lower extremity; normal SMN1 copy number on standard testing"
+        },
+        {
+          "domain": "Congenital myasthenic syndrome excluded — no fatigable weakness, repetitive stimulation normal?",
+          "question": "Yes – CMS may present with infantile hypotonia but typically shows fatigable weakness, normal reflexes early, and response to pyridostigmine; SFEMG and neuromuscular junction panel distinguish from SMA"
+        }
+      ]
+    },
+    {
+      "heading": "Confidence Interpretation",
+      "questions": []
+    },
+    {
+      "heading": "Cost Categories",
+      "questions": []
+    },
+    {
+      "heading": "Clinical History: No additional cost (obtained during patient encounter and parental interview)\nClinical Exam: No additional cost (neurological examination by clinician — tone, reflexes, tongue, facial expression, respiratory pattern assessment)\nMedium: $50–1,500 (serum CK $50–150; pulmonary function testing / FVC $300–600; overnight pulse oximetry $200–500; spine X-ray $200–400; EMG/NCS $800–1,500; videofluoroscopic swallow study $500–1,000)\nLarge: $500–5,000+ (SMN1 exon 7 deletion analysis with SMN2 copy number $500–1,500; SMN1 full gene sequencing for intragenic mutations $1,000–2,500; parental carrier testing $500–2,000; muscle biopsy + histology $2,000–5,000)",
+      "questions": []
+    },
+    {
+      "heading": "Key High-Value Findings (≥8 points each)",
+      "questions": []
+    },
+    {
+      "heading": "Homozygous SMN1 exon 7 deletion confirmed (25 points) — DEFINITIVE DIAGNOSIS\nNever achieved sitting independently OR sitter-never-walker milestone profile (12 points) — CARDINAL CLINICAL CLASSIFICATION FEATURE\nPositive newborn screening result for SMA (12 points) — PRE-SYMPTOMATIC IDENTIFICATION\nSymmetric progressive proximal muscle weakness (10 points) — ESSENTIAL CLINICAL FEATURE\nProfound hypotonia / frog-leg resting posture (10 points) — HALLMARK INFANTILE PRESENTATION\nAbsent deep tendon reflexes / areflexia (10 points) — CARDINAL LOWER MOTOR NEURON SIGN\nVisible tongue fasciculations (10 points) — PATHOGNOMONIC LOWER MOTOR NEURON SIGN\nSMN2 copy number determined (8 points) — CRITICAL PROGNOSTIC AND TREATMENT-URGENCY MODIFIER\nPure lower motor neuron phenotype — no UMN signs (8 points) — ESSENTIAL DIAGNOSTIC CRITERION\nParadoxical breathing / bell-shaped chest / intercostal weakness (8 points) — TYPE 1 HALLMARK FEATURE\nChronic denervation pattern on EMG (8 points) — CONFIRMATORY ELECTRODIAGNOSTIC FINDING\nOnset of hypotonia and weakness before 6 months of age (10 points) — TYPE 1 DEFINING ONSET WINDOW",
+      "questions": []
+    },
+    {
+      "heading": "Diagnostic Strategy by Cost",
+      "questions": []
+    },
+    {
+      "heading": "Phase 1 — Clinical Evaluation (No Cost):\n  • Comprehensive pregnancy and birth history — reduced fetal movements (\"quiet baby\") in ~30% of Type 1; assess kick count history\n  • Detailed motor milestone history with parental demonstration (photographs or video if available)\n  • Neurological examination: bulk, tone, reflexes, tongue fasciculations, facial expression, eye movements, paradoxical breathing\n  • Functional motor assessment: head control, rolling, sitting, standing, hand-to-mouth, cry strength\n  Potential: 50–70 points for $0\n\nPhase 2 — Targeted Workup ($50–1,500):\n  • Serum CK — normal/near-normal supports SMA; markedly elevated (>5–10× ULN) redirects to muscular dystrophy\n  • Pulmonary function testing (FVC % predicted) if child cooperative; overnight pulse oximetry for nocturnal hypoventilation\n  • EMG/NCS — confirm denervation pattern and normal conduction velocities (often deferred if SMN1 testing promptly ordered)\n  Additional: 10–25 points for $50–1,500\n\nPhase 3 — Definitive Genetic Testing ($500–2,500):\n  • Step 1: SMN1 exon 7 copy number analysis by MLPA or ddPCR — with SMN2 copy number (same assay)\n    → Homozygous deletion (0 copies SMN1): DIAGNOSTIC — initiate treatment workup immediately\n    → Heterozygous (1 copy SMN1): Step 2 — SMN1 full gene sequencing for intragenic mutation on second allele\n    → 2 copies SMN1: 5q SMA unlikely; consider non-5q SMA panel (BICD2, DYNC1H1) or neuromuscular panel\n  • Parental carrier testing as needed for family planning or to clarify ambiguous proband results\n  Additional: 25–40 points — crosses diagnostic threshold in virtually all true SMA cases",
+      "questions": []
+    },
+    {
+      "heading": "Critical Notes",
+      "questions": []
+    },
+    {
+      "heading": "• TREATMENT IS TIME-CRITICAL — SMA is now a highly treatable disease with three FDA-approved therapies; earlier treatment = dramatically better outcomes; delay = irreversible motor neuron loss\n• THREE APPROVED THERAPIES: (1) Spinraza/nusinersen (intrathecal ASO, Biogen) — approved for all SMA types, all ages, every 4 months; (2) Zolgensma/onasemnogene abeparvovec IV (one-time gene therapy, Novartis) — approved for patients <2 years; (3) Itvisma (intrathecal Zolgensma formulation, Novartis) — FDA approved November 2025 for patients ≥2 years, teens, and adults; (4) Evrysdi/risdiplam (oral SMN2 splicing modifier, Genentech) — approved from 2 months of age, home administration\n• NEWBORN SCREENING — approved in 45+ US states and 25+ countries; NBS result available day 2–5 of life; positive result requires IMMEDIATE specialist referral; pre-symptomatic treatment yields near-normal motor development in many Type 1 genotypes\n• SMN2 COPY NUMBER is the most critical genetic prognostic modifier: 1 copy → most severe (neonatal/Type 0); 2 copies → typical Type 1; 3 copies → Type 2; 4 copies → Type 3–4; must be determined at diagnosis for treatment urgency assessment\n• COMPOUND HETEROZYGOSITY — ~5% of SMA patients have deletion on one SMN1 allele and a point mutation on the other; single-allele deletion on standard dosage testing does NOT rule out SMA; SMN1 full sequencing required in these cases\n• SMN1 CARRIER FREQUENCY is ~1/40–50 in the general population; ACMG recommends universal carrier screening for all reproductive-age individuals; carrier testing by SMN1 dosage (MLPA/ddPCR) has ~95% sensitivity (2+0 carriers may be missed)\n• RESPIRATORY MANAGEMENT is paramount — proactive NIV (BiPAP), mechanical insufflation-exsufflation (cough assist / MI-E), suction, and early airway clearance protocols save lives in Type 1–2; FVC <40% or nocturnal hypoventilation indicate NIV initiation\n• This atlas entry covers 5q SMA (SMN1-related), the most common form; non-5q SMA (BICD2-related, DYNC1H1-related, X-linked SMA/Kennedy disease, distal SMA variants) are distinct entities requiring separate genetic evaluation\n• MULTIDISCIPLINARY CARE is standard: neurology, pulmonology, gastroenterology/nutrition, orthopedics, physical/occupational/speech therapy, and palliative care as appropriate — SMA Certified Care Center designation (Cure SMA program) identifies specialized centers",
+      "questions": []
+    },
+    {
+      "heading": "SMA Clinical Type Classification and Phenotypic Spectrum",
+      "questions": []
+    },
+    {
+      "heading": "Type 0 (Prenatal / Neonatal Onset) — Most Severe:\n  • Onset in utero — absent or severely reduced fetal movements; severe arthrogryposis at birth\n  • Respiratory failure at birth; requires immediate ventilatory support; usually fatal within weeks without aggressive intervention\n  • 1–2 SMN2 copies; most severe genotype\n\nType 1 (Werdnig-Hoffmann Disease) — Onset <6 Months; Never Sitter:\n  • Classic \"floppy infant\"; frog-leg posture; paradoxical breathing; weak cry; tongue fasciculations; absent reflexes\n  • Without treatment: median survival <2 years (respiratory failure); never achieves sitting\n  • With disease-modifying therapy (pre-symptomatic): many achieve sitting, standing, and walking; dramatic improvement in survival\n  • 2 SMN2 copies in most; ~60% of all SMA cases\n\nType 2 (Dubowitz Disease) — Onset 6–18 Months; Sitter, Never Walker:\n  • Achieves independent sitting; never achieves independent standing or walking\n  • Minipolymyoclonus; progressive scoliosis; respiratory involvement typically after age 10\n  • 3 SMN2 copies in most; survival into adulthood with appropriate care; ~27% of SMA cases\n\nType 3 (Kugelberg-Welander Disease) — Onset >18 Months; Walker:\n  • Achieves independent walking; may lose ambulation over years (Type 3a: loss before 3 years; Type 3b: loss after 3 years)\n  • Proximal weakness; Gowers maneuver; waddling gait; CK may be mildly elevated; scoliosis less severe\n  • 3–4 SMN2 copies; normal lifespan; ~12% of SMA cases\n\nType 4 (Adult-Onset SMA) — Onset >18–30 Years:\n  • Slowly progressive proximal limb weakness in adulthood; mildly reduced lifespan; normal respiratory function at onset\n  • 4+ SMN2 copies; often underdiagnosed; may be confused with limb-girdle muscular dystrophy\n\nKey Differential Diagnoses:\n  • Congenital Myopathies (nemaline, central core, centronuclear) — preserved reflexes; specific muscle biopsy / gene panel findings; SMN1 normal\n  • Congenital Muscular Dystrophy (LAMA2/MDC1A, COL6A) — elevated CK; white matter MRI changes; muscle biopsy distinguishes\n  • Pompe Disease / GSD II — hypotonia + cardiomegaly + elevated CK; acid glucosidase enzyme assay; now on NBS in many states\n  • Prader-Willi Syndrome — neonatal hypotonia + dysmorphic features + hypogonadism; methylation study at 15q11.2-q13\n  • Non-5q SMA (BICD2, DYNC1H1, TRPV4) — autosomal dominant; predominantly lower extremity; normal SMN1 copy number\n  • Congenital Myasthenic Syndromes — fatigable weakness; variable reflexes; neuromuscular junction panel; response to pyridostigmine",
+      "questions": []
+    }
+  ],
+  "confidenceNote": "🔴  85–100 points: High Confidence — SMA highly likely; proceed directly to SMN1 exon 7 deletion analysis and urgent treatment evaluation without delay\n🟡  40–84 points: Moderate Confidence — SMA probable or possible; SMN1 genetic testing indicated urgently; do not defer genetic testing awaiting EMG if clinical picture is consistent; consider neuromuscular gene panel if SMN1 deletion is negative\n🟢  <40 points: Low Confidence — 5q SMA less likely; broaden differential to congenital myopathy, congenital muscular dystrophy, Pompe disease, Prader-Willi syndrome, or hereditary neuropathy",
+  "conditionId": 55,
+  "conditionName": "Spinal Muscular Atrophy",
+  "specialty": "neurology",
+  "agentType": "diagnosis"
+}

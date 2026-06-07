@@ -1,0 +1,2186 @@
+[
+  {
+    "id": 1,
+    "slug": "b-cell-acute-lymphoblastic-leukemia-b-all",
+    "specialty": "cancer",
+    "category": "Leukemia & MDS",
+    "name": "B-cell Acute Lymphoblastic Leukemia (B-ALL)",
+    "heredityTier": "none",
+    "description": "Malignant proliferation of B-lymphoblasts in the bone marrow. The most common pediatric cancer overall. Encompasses multiple genomic subtypes (ETV6::RUNX1, Ph-like, hyperdiploidy, hypodiploidy) that drive risk stratification and treatment.",
+    "frequency": {
+      "us": "~3,200/yr",
+      "global": "~75,000/yr Most common pediatric cancer (~25% of all)",
+      "sources": ""
+    },
+    "diagnosis": "CBC with differential; bone marrow aspirate/biopsy; flow cytometry immunophenotyping; FISH/karyotype; RNA-seq for fusion genes (ETV6::RUNX1, BCR::ABL1, Ph-like panel); SNP array for copy number alterations; MRD by PCR or flow.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Risk-stratified COG protocols\n(AALL0434/AALL1231). Induction: vincristine,\ncorticosteroid, asparaginase ± daunorubicin.\nConsolidation/maintenance: methotrexate backbone.\nPh+ ALL: TKI (dasatinib). Ph-like: TKI or JAK inhibitor\nper alteration. MRD-positive: blinatumomab. Relapsed:\nCAR-T (tisagenlecleucel). CNS prophylaxis: intrathecal\nchemo ± cranial RT.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 2,
+    "slug": "t-cell-acute-lymphoblastic-leukemia-t-all",
+    "specialty": "cancer",
+    "category": "Leukemia & MDS",
+    "name": "T-cell Acute Lymphoblastic Leukemia (T-ALL)",
+    "heredityTier": "none",
+    "description": "Aggressive leukemia of T-lymphoblast precursors; frequently presents with mediastinal mass, high WBC, and CNS involvement. Distinct from B-ALL biologically, often treated on same risk- adapted backbone with augmented regimens.",
+    "frequency": {
+      "us": "~500/yr",
+      "global": "~15,000/yr ~15% of pediatric ALL",
+      "sources": ""
+    },
+    "diagnosis": "Flow cytometry (CD3, CD7, TdT); TCR gene rearrangement; karyotype; NOTCH1/FBXW7 mutation (favorable); PTEN loss, JAK/STAT alterations; MRD by PCR.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Augmented BFM-based\nprotocols (AALL0434). Nelarabine added for high-risk\nT-ALL. CNS-directed therapy intensified.\nRelapsed/refractory: nelarabine, venetoclax\ncombinations; allogeneic SCT for high-risk relapse.\n▸",
+      "emerging": "Emerging: No approved CAR-T yet for T-ALL\n(active trials)."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 3,
+    "slug": "infant-all-kmt2a-rearranged-all",
+    "specialty": "cancer",
+    "category": "Leukemia & MDS",
+    "name": "Infant ALL / KMT2A- rearranged ALL",
+    "heredityTier": "none",
+    "description": "Leukemia arising in children under 12 months; nearly 80% harbor KMT2A (MLL) gene rearrangements (t(4;11) most common). Characterized by hyperleukocytosis, CNS involvement, and dismal outcomes with standard therapy.",
+    "frequency": {
+      "us": "~150/yr",
+      "global": "~3,000/yr <5% of ALL; age <12 months",
+      "sources": ""
+    },
+    "diagnosis": "Flow cytometry (pro-B, CD10- negative often); FISH for KMT2A breakapart; RNA-seq for partner gene; MRD by PCR of KMT2A fusion transcript.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: INTERFANT-06/COG AALL0434\ninfant arm: intensive chemotherapy with high-dose\ncytarabine. KMT2A-r: allogeneic SCT in CR1 standard\nfor many centers. Supportive: hyperleukocytosis\nmanagement.\n▸",
+      "emerging": "Emerging: menin inhibitors (revumenib (Syndax\nPharmaceuticals), ziftomenib (Kura Oncology))\ntargeting KMT2A-r; CAR-T trials."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 4,
+    "slug": "down-syndrome-all-ds-all",
+    "specialty": "cancer",
+    "category": "Leukemia & MDS",
+    "name": "Down Syndrome ALL (DS- ALL)",
+    "heredityTier": "associated",
+    "description": "Children with trisomy 21 have 20-fold increased ALL risk; predominantly B-ALL with JAK2/CRLF2 alterations (Ph-like biology) and GATA1 sensitivity. Higher treatment toxicity (methotrexate, infections) requires modified protocols.",
+    "frequency": {
+      "us": "~200/yr",
+      "global": "~4,000/yr ~20-fold elevated risk in trisomy 21",
+      "sources": ""
+    },
+    "diagnosis": "Standard ALL workup; CRLF2 overexpression by flow/FISH; JAK1/2 mutations; JAK-STAT pathway activation profiling; DS- specific MRD monitoring.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Modified COG protocols with\nreduced methotrexate, augmented leucovorin rescue.\nAvoid excessive anthracycline. JAK inhibitor\n(ruxolitinib) in AALL1231 Ph-like DS-ALL arm. Infection\nprophylaxis intensified. SCT generally avoided unless\nhigh-risk relapse.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 5,
+    "slug": "acute-myeloid-leukemia-aml-pediatric",
+    "specialty": "cancer",
+    "category": "Leukemia & MDS",
+    "name": "Acute Myeloid Leukemia (AML) — Pediatric",
+    "heredityTier": "none",
+    "description": "Malignant expansion of myeloid progenitors; encompasses multiple WHO- defined subtypes including KMT2A-r, inv(16), t(8;21), monosomy 7, and NUP98-rearranged. Second most common pediatric leukemia; intensive induction with significant toxicity.",
+    "frequency": {
+      "us": "~700/yr",
+      "global": "~15,000/yr 2nd most common pediatric leukemia",
+      "sources": ""
+    },
+    "diagnosis": "Bone marrow aspirate; flow cytometry; karyotype; FISH (KMT2A, inv16, t(8;21)); FLT3- ITD/TKD, NPM1, CEBPA, IDH1/2, WT1 mutations; RNA-seq for NUP98 fusions; MRD by flow.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: COG AAML1031/AAML1831:\nhigh-dose cytarabine-based induction (Ara-C +\ndaunorubicin + etoposide). Gemtuzumab ozogamicin\nfor CD33+. FLT3-ITD: sorafenib/gilteritinib added.\nAllogeneic SCT for high-risk/refractory. Relapsed:\nFLAG-IDA, CPX-351.\n▸",
+      "emerging": "Emerging: Venetoclax (AbbVie) + azacitidine\n(Bristol Myers Squibb) investigational."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 6,
+    "slug": "acute-promyelocytic-leukemia-apl",
+    "specialty": "cancer",
+    "category": "Leukemia & MDS",
+    "name": "Acute Promyelocytic Leukemia (APL)",
+    "heredityTier": "none",
+    "description": "Distinct AML subtype defined by PML::RARA fusion t(15;17); pathognomonic coagulopathy (DIC) is life-threatening at diagnosis. Highly curable with differentiation therapy; only leukemia where chemotherapy-free remission is possible.",
+    "frequency": {
+      "us": "~100/yr",
+      "global": "~2,000/yr ~5-10% of pediatric AML",
+      "sources": ""
+    },
+    "diagnosis": "FISH/RT-PCR for PML::RARA (urgency); peripheral smear (faggot cells); coagulation panel (DIC); bone marrow confirming APL morphology; FLT3 mutation for risk stratification.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: All-trans retinoic acid (ATRA) +\narsenic trioxide (ATO) — standard for low/intermediate\nrisk; induces remission without conventional chemo. High-risk (WBC >10,000): add anthracycline.\nMaintenance: ATRA ± ATO cycles ×2 years. MRD\nnegativity by RT-PCR guides treatment duration. 5-yr\nOS >90%.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 7,
+    "slug": "chronic-myeloid-leukemia-cml-pediatric",
+    "specialty": "cancer",
+    "category": "Leukemia & MDS",
+    "name": "Chronic Myeloid Leukemia (CML) — Pediatric",
+    "heredityTier": "none",
+    "description": "Myeloproliferative neoplasm defined by BCR::ABL1 t(9;22) Philadelphia chromosome. Rare in children; biology identical to adult CML but pediatric pharmacokinetics differ. Accelerated and blast phase present as acute leukemia.",
+    "frequency": {
+      "us": "~100/yr",
+      "global": "~2,000/yr <5% of pediatric leukemias",
+      "sources": ""
+    },
+    "diagnosis": "CBC (leukocytosis, basophilia, left shift); FISH/PCR for BCR::ABL1; bone marrow biopsy for phase determination; Sokal/EUTOS score for risk.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Imatinib first-line (COG\nAAML0031 established dosing). Dasatinib or nilotinib\nfor resistance/intolerance. Allogeneic SCT reserved for\nblast phase or TKI failure. Lifelong TKI otherwise.\n▸",
+      "emerging": "Emerging: Deep molecular response (MR4.5) goal;\ntreatment-free remission trials ongoing."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 8,
+    "slug": "juvenile-myelomonocytic-leukemia-jmml",
+    "specialty": "cancer",
+    "category": "Leukemia & MDS",
+    "name": "Juvenile Myelomonocytic Leukemia (JMML)",
+    "heredityTier": "associated",
+    "description": "Aggressive myelodysplastic/myeloproliferative overlap disorder of early childhood; defined by RAS pathway mutations (PTPN11, KRAS/NRAS, NF1, CBL). Characterized by monocytosis, hepatosplenomegaly, and fetal hemoglobin elevation.",
+    "frequency": {
+      "us": "~25-50/yr",
+      "global": "~500/yr Rare; most common in toddlers",
+      "sources": ""
+    },
+    "diagnosis": "CBC (monocytosis >1×10⁹/L, blasts <20%); HbF elevation; GM-CSF hypersensitivity colony assay; PTPN11/KRAS/NRAS/NF1/CBL mutation panel; bone marrow; cytogenetics (monosomy 7 in ~25%).",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Allogeneic SCT is only curative\noption; 5-yr OS ~50–60% post-SCT. Pre-SCT:\nazacitidine (bridges to transplant, reduces spleen).\nCBL mutation carriers: spontaneous remission possible\n— watch and wait. Relapse post-SCT: DLI, second\nSCT. NF1-JMML: particularly aggressive, early SCT.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 9,
+    "slug": "myelodysplastic-syndrome-pediatric-mds",
+    "specialty": "cancer",
+    "category": "Leukemia & MDS",
+    "name": "Myelodysplastic Syndrome — Pediatric (MDS)",
+    "heredityTier": "none",
+    "description": "Clonal bone marrow disorders with ineffective hematopoiesis and risk of AML transformation. Pediatric MDS differs from adult: hypocellular marrow (RCC subtype), high rate of germline predisposition (GATA2, SAMD9/L, Fanconi anemia, telomeropathies).",
+    "frequency": {
+      "us": "~100-200/yr",
+      "global": "~2,000/yr Rare in children",
+      "sources": ""
+    },
+    "diagnosis": "Bone marrow biopsy (cellularity, dysplasia, blast count); cytogenetics (monosomy 7 most common); germline sequencing (GATA2, SAMD9/L, Fanconi DEB test, telomere length); flow cytometry; NGS myeloid panel.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Allogeneic SCT is standard for\nhigh-risk MDS (monosomy 7, excess blasts) and\npredisposition syndromes. Low-risk/hypocellular:\nsupportive care, immunosuppression (cyclosporine +\nG-CSF) for selected cases. Androgen therapy for\ntelomeropathies. GATA2 deficiency: prophylactic SCT\nbefore infections.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 10,
+    "slug": "mixed-phenotype-acute-leukemia-mpal",
+    "specialty": "cancer",
+    "category": "Leukemia & MDS",
+    "name": "Mixed Phenotype Acute Leukemia (MPAL)",
+    "heredityTier": "none",
+    "description": "Rare leukemia with blasts co-expressing myeloid and lymphoid markers on same or separate populations; defined by WHO criteria. B/myeloid most common; T/myeloid less common. Often harbors complex cytogenetics or KMT2A rearrangements.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~1,000/yr Rare; mixed lineage marker expression",
+      "sources": ""
+    },
+    "diagnosis": "Flow cytometry with expanded myeloid/lymphoid panel per WHO 2022 criteria; FISH; RNA-seq; karyotype; MRD by flow or PCR.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: No consensus protocol; typically\nALL-type induction\n(vincristine/corticosteroid/asparaginase) with AML\nintensification cycles. Allogeneic SCT in CR1 for most\npatients. Blinatumomab for B/myeloid in relapse.\n▸",
+      "emerging": "Emerging: Emerging: venetoclax (AbbVie)\ncombinations."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 11,
+    "slug": "hodgkin-lymphoma-classical-chl",
+    "specialty": "cancer",
+    "category": "Lymphoma",
+    "name": "Hodgkin Lymphoma — Classical (cHL)",
+    "heredityTier": "none",
+    "description": "Reed-Sternberg cell-containing lymphoma arising from germinal center B cells; four subtypes (nodular sclerosis dominant in adolescents). Mediastinal involvement in ~80%; characterized by B symptoms, constitutional features. Highly curable with risk-adapted therapy.",
+    "frequency": {
+      "us": "~1,200/yr",
+      "global": "~50,000/yr Most common pediatric lymphoma",
+      "sources": ""
+    },
+    "diagnosis": "PET-CT (staging and response assessment — Deauville score); excisional lymph node biopsy; IHC (CD15, CD30, CD20 variable); BMA for stage IV; early PET response (after 2 cycles) drives escalation/de-escalation.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: COG AHOD1331: ABVE-PC\n(doxorubicin, bleomycin, vincristine, etoposide,\nprednisone, cyclophosphamide); PET-adapted — rapid\nresponders de-escalate. Brentuximab vedotin (CD30)\nadded to frontline high-risk. Radiation: involved-site RT\n(ISRT) for slow/partial responders. Relapsed:\nbrentuximab ± bendamustine; pembrolizumab;\nautologous SCT.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 12,
+    "slug": "hodgkin-lymphoma-nlphl",
+    "specialty": "cancer",
+    "category": "Lymphoma",
+    "name": "Hodgkin Lymphoma — NLPHL",
+    "heredityTier": "none",
+    "description": "Nodular lymphocyte-predominant Hodgkin lymphoma; distinct biology from classical HL — poignantly CD20+ LP (popcorn) cells, not Reed-Sternberg cells. Indolent, localized disease in most children; late relapses occur without transformation.",
+    "frequency": {
+      "us": "~100/yr",
+      "global": "~5,000/yr ~5% of pediatric HL",
+      "sources": ""
+    },
+    "diagnosis": "Lymph node excisional biopsy; IHC (CD20+, CD15−, CD30−, OCT-2, BOB.1); PET-CT for staging; distinguish from T-cell rich large B- cell lymphoma.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Stage IA/IIA without risk factors:\nchemotherapy alone (ABVD 3 cycles) or RT; some\ncenters observe after complete excision.\nAdvanced/relapsed: rituximab (CD20+) effective —\nsingle agent or combined with chemotherapy. Anti- CD20 now frontline in many protocols. ASCT rarely\nneeded.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 13,
+    "slug": "diffuse-large-b-cell-lymphoma-dlbcl-pediatric",
+    "specialty": "cancer",
+    "category": "Lymphoma",
+    "name": "Diffuse Large B-Cell Lymphoma (DLBCL) — Pediatric",
+    "heredityTier": "none",
+    "description": "Aggressive mature B-cell lymphoma; pediatric DLBCL is biologically distinct from adult — NF-κB pathway activation, IRF4 rearrangements common; germinal center B-cell (GCB) type predominant. Highly chemosensitive with short intensive therapy.",
+    "frequency": {
+      "us": "~200/yr",
+      "global": "~5,000/yr Largest B-cell NHL subtype in children",
+      "sources": ""
+    },
+    "diagnosis": "Excisional biopsy; IHC (CD20, CD10, BCL6, MYC, BCL2 double- expressor); FISH (MYC, BCL2, BCL6 rearrangements — double/triple-hit); cell of origin (GCB vs. ABC); PET-CT staging.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: FAB/LMB protocol\n(cyclophosphamide, vincristine, prednisone,\ndoxorubicin, methotrexate) + rituximab (Childrens NHL\nConsortium). Short intensive therapy (4–6 months). CR\nrates >85%. CNS relapse prevention: IT methotrexate.\nRelapsed: R-ICE, R-GDP; autologous SCT;\n▸",
+      "emerging": "Emerging: CAR-T (axicabtagene\nciloleucel/Yescarta (Kite/Gilead) approved ≥18 yr, trials\nfor pediatric)."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 14,
+    "slug": "burkitt-lymphoma",
+    "specialty": "cancer",
+    "category": "Lymphoma",
+    "name": "Burkitt Lymphoma",
+    "heredityTier": "none",
+    "description": "Highly aggressive mature B-cell lymphoma defined by MYC::IGH t(8;14) translocation. Three variants: endemic (EBV-associated, jaw mass), sporadic (abdominal), immunodeficiency- associated. Fastest-dividing human tumor (Ki-67 ~100%); metabolic emergency at diagnosis.",
+    "frequency": {
+      "us": "~200/yr",
+      "global": "~5,000/yr Endemic in sub-Saharan Africa",
+      "sources": ""
+    },
+    "diagnosis": "Biopsy (starry sky pattern); FISH for MYC-IG rearrangement (mandatory); LDH (tumor burden marker); LP (CNS disease in 15– 30%); PET-CT; HIV/EBV testing; metabolic panel (TLS risk).",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: FAB/LMB96 or CODOX-M/IVAC\nprotocol: cyclophosphamide, doxorubicin, vincristine,\nmethotrexate, cytarabine. Rituximab added frontline.\nIntensive IT chemotherapy for CNS. 5-yr OS >90% in\nlow-risk; 70–80% advanced. TLS prophylaxis critical.\n▸",
+      "emerging": "Emerging: Relapsed: rare, poor prognosis;\nrasburicase/Elitek (Sanofi); clinical trials."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 15,
+    "slug": "anaplastic-large-cell-lymphoma-alcl-alk",
+    "specialty": "cancer",
+    "category": "Lymphoma",
+    "name": "Anaplastic Large Cell Lymphoma (ALCL) — ALK+",
+    "heredityTier": "none",
+    "description": "T-cell lymphoma defined by NPM::ALK t(2;5) or variant ALK fusions; strong CD30 positivity. Classic systemic ALCL with B symptoms, skin lesions, and multiorgan involvement. Highly curable but early relapse common after conventional therapy.",
+    "frequency": {
+      "us": "~150/yr",
+      "global": "~3,000/yr Most common T-cell NHL in children",
+      "sources": ""
+    },
+    "diagnosis": "Biopsy; IHC (CD30+, CD3 variable, EMA, ALK — cytoplasmic/nuclear pattern); FISH ALK; minimal disseminated disease (MDD) by PCR for NPM::ALK in blood/marrow for MRD.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: ALCL99/COG ANHL1232:\nCHOP-based induction + vinblastine maintenance.\nMDD-positive/refractory: crizotinib (ALK inhibitor) —\nCOG ANHL1232 arm. Relapsed: brentuximab vedotin\n(CD30); crizotinib; lorlatinib (next-gen ALK inhibitor).\nAutologous SCT for chemo-sensitive relapse.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 16,
+    "slug": "primary-mediastinal-b-cell-lymphoma-pmbl",
+    "specialty": "cancer",
+    "category": "Lymphoma",
+    "name": "Primary Mediastinal B-Cell Lymphoma (PMBL)",
+    "heredityTier": "none",
+    "description": "Large B-cell lymphoma originating from thymic medullary B cells; shares biology with nodular sclerosis cHL (JAK-STAT, CD30 variable). Presents as bulky mediastinal mass with SVC syndrome in adolescent females predominantly.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~1,000/yr Rare; adolescent females",
+      "sources": ""
+    },
+    "diagnosis": "Core needle or mediastinoscopy biopsy; IHC (CD20+, CD30 weak/variable, CD15−, MUM1, MAL, CD23); PET-CT (responds slowly — EOT PET critical); distinguish from cHL and T-LBL.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: DA-EPOCH-R (dose-adjusted\netoposide, prednisone, vincristine, cyclophosphamide,\ndoxorubicin + rituximab) — avoids radiation in most\nresponders. R-CHOP + ISRT for adolescents on some\nprotocols. PET-negative after therapy: no RT.\nPembrolizumab in relapsed/refractory (PD-L1\namplification ~75%).",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 17,
+    "slug": "lymphoblastic-lymphoma-b-cell-b-lbl",
+    "specialty": "cancer",
+    "category": "Lymphoma",
+    "name": "Lymphoblastic Lymphoma — B-cell (B-LBL)",
+    "heredityTier": "none",
+    "description": "Lymphoma version of B-ALL (WHO: >25% marrow blasts = leukemia); presents as nodal or extranodal mass without leukemic phase. Bone, skin, and lymph node involvement common in young children. Treated identically to B- ALL with ALL-based chemotherapy.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~1,000/yr B-lineage precursor lymphoma",
+      "sources": ""
+    },
+    "diagnosis": "Biopsy; flow cytometry (TdT+, CD19+, CD10+/−); FISH for common ALL fusions; bone marrow staging essential (<25% blasts distinguishes from ALL); LP.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: ALL-based protocols (COG\nAALL0434 or equivalent) — identical to B-ALL\ntreatment of same risk. No benefit to lymphoma-\nspecific therapy. CNS prophylaxis by IT methotrexate.\nPrognosis equivalent to corresponding B-ALL risk\ngroup. Localized: excellent outcomes.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 18,
+    "slug": "lymphoblastic-lymphoma-t-cell-t-lbl",
+    "specialty": "cancer",
+    "category": "Lymphoma",
+    "name": "Lymphoblastic Lymphoma — T-cell (T-LBL)",
+    "heredityTier": "none",
+    "description": "Most common pediatric lymphoblastic lymphoma; presents as anterior mediastinal mass with SVC syndrome. TdT-positive T-lineage precursor; frequent CNS involvement; aggressive natural history requires ALL-type therapy urgently.",
+    "frequency": {
+      "us": "~100/yr",
+      "global": "~2,000/yr ~35-40% of lymphoblastic lymphoma",
+      "sources": ""
+    },
+    "diagnosis": "CT/MRI mediastinum + whole body; biopsy (core or open); flow cytometry (TdT+, CD3+, CD7+); TCR rearrangements; NOTCH1/FBXW7 for prognosis; BMA; LP; respiratory assessment (airway compromise risk).",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: BFM-based ALL protocols\n(AALL0434/COG) with nelarabine intensification for\nhigh-risk. Dexamethasone superior to prednisone. IT\nprophylaxis essential. Response assessment after\ninduction guides SCT decision. Relapsed: nelarabine; ▸",
+      "emerging": "Emerging: CAR-T trials underway. 5-yr OS ~80–\n85% for localized disease."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 19,
+    "slug": "primary-cns-lymphoma-pediatric",
+    "specialty": "cancer",
+    "category": "Lymphoma",
+    "name": "Primary CNS Lymphoma — Pediatric",
+    "heredityTier": "none",
+    "description": "Rare mature B-cell lymphoma confined to CNS (brain, spinal cord, vitreoretinal); pediatric cases often associated with immunodeficiency (HIV, post-transplant, PID). De novo primary CNS lymphoma exceedingly rare in immunocompetent children.",
+    "frequency": {
+      "us": "~50/yr Rare",
+      "global": "",
+      "sources": ""
+    },
+    "diagnosis": "Brain MRI (enhancing lesions, periventricular); stereotactic biopsy (preferred over resection); CSF cytology + flow cytometry; vitreoretinal exam; EBV PCR in CSF; HIV/immunodeficiency workup; PET-CT to exclude systemic.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: High-dose methotrexate-based\nregimens (adapted from adult PCNSL protocols).\nRituximab added. Reduce/eliminate\nimmunosuppression in post-transplant cases (EBV-\nPTLD). Whole-brain RT avoided in young children\n(neurotoxicity). Intrathecal therapy. Autologous SCT\nconsolidation in select cases.\n▸",
+      "emerging": "Emerging: EBV-PTLD: EBV-specific T cells\n(investigational)."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 20,
+    "slug": "medulloblastoma",
+    "specialty": "cancer",
+    "category": "CNS Tumors",
+    "name": "Medulloblastoma",
+    "heredityTier": "none",
+    "description": "Most common malignant pediatric brain tumor; arises in cerebellum, spreads via CSF. Four molecular subgroups (WNT, SHH, Group 3, Group 4) with distinct biology, demographics, and prognosis. WNT-activated: ~95% cure; Group 3 MYC-amplified: ~50%.",
+    "frequency": {
+      "us": "~500/yr",
+      "global": "~15,000/yr Most common malignant pediatric brain tumor",
+      "sources": ""
+    },
+    "diagnosis": "MRI brain/spine (craniospinal staging critical — CSF spread in 30%); LP for cytology (10 days post-op); surgical resection + histopathology; WHO grade 4; molecular subgroup by DNA methylation array, RNA-seq; MYC/MYCN FISH; cytogenetics.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Surgery (maximum safe\nresection) + craniospinal radiation (CSI, 23.4–36 Gy) +\ncarboplatin/vincristine during RT + adjuvant\nchemotherapy. Infant: chemo-only (avoid CSI); high-\ndose chemo + ASCT. Relapsed: bevacizumab,\ntargeted per subgroup.\n▸",
+      "emerging": "Emerging: WNT: de-intensification trials. SHH:\nsmoothened inhibitors (vismodegib/Erivedge\n(Genentech/Roche)) investigational."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 21,
+    "slug": "dipg-diffuse-midline-glioma-h3-k27m-mutant",
+    "specialty": "cancer",
+    "category": "CNS Tumors",
+    "name": "DIPG / Diffuse Midline Glioma, H3 K27M-mutant",
+    "heredityTier": "none",
+    "description": "Universally fatal diffuse glioma of pons (or other midline structures); defined by H3K27M histone mutation. Diagnosis made by MRI + biopsy in most centers now. Radioresistant biology; median survival 9–11 months from diagnosis despite RT.",
+    "frequency": {
+      "us": "~300/yr",
+      "global": "~5,000/yr Median survival <2 yrs; universally fatal",
+      "sources": ""
+    },
+    "diagnosis": "MRI (T2 diffuse pontine expansion ≥50% of pons, poorly defined margins); biopsy now standard at most centers (liquid biopsy ctDNA in CSF emerging); H3K27M IHC/sequencing; ACVR1, PPM1D, TP53, PDGFRA mutation profiling.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Focal RT (54 Gy in 30 fractions)\n— standard; temporary symptom relief in most.\nACVR1-mutant: BMP pathway targeted agents. Trials\nthrough PBTC/COG essential.\n▸",
+      "emerging": "Emerging: ONC201/dordaviprone (Chimerix)\n(dopamine receptor antagonist) active for H3K27M+\nnon-DIPG and DIPG — FDA Breakthrough\ndesignation. CAR-T (GD2-directed, B7H3) early trials."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 22,
+    "slug": "diffuse-hemispheric-glioma-h3-g34-mutant",
+    "specialty": "cancer",
+    "category": "CNS Tumors",
+    "name": "Diffuse Hemispheric Glioma, H3 G34-mutant",
+    "heredityTier": "none",
+    "description": "WHO 2021-defined high-grade glioma of cerebral hemispheres; driven by H3F3A G34R/V mutations co-occurring with TP53 and ATRX mutations. Distinct from H3K27M; occurs in older children/adolescents; INTERNOS trial network active.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~500/yr Rare; teens and young adults",
+      "sources": ""
+    },
+    "diagnosis": "MRI brain; biopsy essential (cannot diagnose by imaging alone); H3G34 IHC and sequencing; ATRX loss by IHC; p53 IHC; DNA methylation profiling; MGMT promoter methylation.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Maximal safe surgical resection;\nfocal RT (59.4 Gy); adjuvant temozolomide\n(extrapolated from adult GBM data — limited pediatric\nevidence). Prognosis: 2-yr OS ~30–40%.\n▸",
+      "emerging": "Emerging: G34 biology confers distinct\nmicroenvironment — immunotherapy trials ongoing.\nEnrollment in molecular trials strongly recommended."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 23,
+    "slug": "high-grade-glioma-non-midline-non-h3-incl-gbm",
+    "specialty": "cancer",
+    "category": "CNS Tumors",
+    "name": "High-Grade Glioma — non- midline, non-H3 (incl. GBM)",
+    "heredityTier": "none",
+    "description": "Diverse group of WHO grade 3–4 gliomas in pediatric cerebral hemispheres lacking H3 mutations; includes IDH-wildtype GBM (rare in children), hemispheric MYCN-amplified, and others. Overlaps molecularly with adult GBM but with distinct genomics.",
+    "frequency": {
+      "us": "~200/yr",
+      "global": "~3,000/yr Non-H3 HGG; heterogeneous",
+      "sources": ""
+    },
+    "diagnosis": "MRI brain with contrast; biopsy/resection; DNA methylation array for classification; IDH1/2, TERT, EGFR, MYCN, CDKN2A/B; H3 wildtype confirmation; MGMT promoter methylation status.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Maximal safe resection; focal RT\n(59.4 Gy) with concurrent + adjuvant temozolomide\n(adult Stupp protocol applied). Bevacizumab for\nrecurrence. Median OS 12–15 months for true pediatric\nGBM. ▸",
+      "emerging": "Emerging: MYCN-amplified: Aurora A kinase\ninhibitor (e.g., alisertib; Takeda) trials.\nONC201/dordaviprone (Chimerix) and other H3-\nwildtype-targeted agents in trials."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 24,
+    "slug": "low-grade-glioma-pilocytic-astrocytoma-and-who-grade-1-2",
+    "specialty": "cancer",
+    "category": "CNS Tumors",
+    "name": "Low-Grade Glioma — Pilocytic Astrocytoma and WHO grade 1–2",
+    "heredityTier": "none",
+    "description": "Most common brain tumor in children; WHO grade 1 pilocytic astrocytoma prototype — cerebellar location, BRAF::KIAA1549 fusion in ~70%. NF1- associated optic pathway glioma distinct subset. Slow-growing; often curable with surgery alone in accessible locations.",
+    "frequency": {
+      "us": "~800/yr",
+      "global": "~15,000/yr Most common pediatric LGG",
+      "sources": ""
+    },
+    "diagnosis": "MRI brain/spine; biopsy (if accessible and diagnosis uncertain); BRAF::KIAA1549 fusion (FISH/RNA-seq); BRAF V600E mutation; FGFR1/2, MYB, MYBL1; NF1 germline if optic pathway; H3- negative, IDH-wildtype in most.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Surgery (complete resection =\ncure for cerebellar PA). Residual/progressive: MEK\ninhibitor (trametinib, selumetinib — selumetinib FDA-\napproved for NF1-LGG). BRAF V600E:\ndabrafenib/trametinib (FDA-approved 2023).\nChemotherapy (carboplatin/vincristine) for NF1-LGG or\nwhen targeted agents unavailable. RT deferred as long\nas possible in young children.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 25,
+    "slug": "optic-pathway-glioma-opg",
+    "specialty": "cancer",
+    "category": "CNS Tumors",
+    "name": "Optic Pathway Glioma (OPG)",
+    "heredityTier": "associated",
+    "description": "LGG arising along the optic nerves, chiasm, or optic tracts; majority are pilocytic astrocytoma; ~50% in NF1 syndrome patients where natural history is more indolent. Non-NF1 chiasmatic OPG has worse prognosis and more aggressive behavior.",
+    "frequency": {
+      "us": "~200/yr",
+      "global": "~4,000/yr 15-20% of pediatric LGG; NF1- associated",
+      "sources": ""
+    },
+    "diagnosis": "MRI brain/orbits with fat suppression; ophthalmologic exam (visual acuity, visual fields, OCT); NF1 germline testing; biopsy often deferred given diagnosis by imaging in classic NF1; BRAF fusion if biopsy obtained.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: NF1-OPG: selumetinib (MEK\ninhibitor) — FDA-approved 2020 for\nsymptomatic/progressive; carboplatin+vincristine\nhistorically. Non-NF1 OPG: chemotherapy first; RT\navoided (endocrine/vascular complications). Targeted:\nMEK inhibitors (trametinib); BRAF V600E targeted if\nmutant. Preserve vision as primary goal; growth\nmonitoring for asymptomatic NF1-OPG.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 26,
+    "slug": "pleomorphic-xanthoastrocytoma-pxa-anaplastic-pxa",
+    "specialty": "cancer",
+    "category": "CNS Tumors",
+    "name": "Pleomorphic Xanthoastrocytoma (PXA / Anaplastic PXA)",
+    "heredityTier": "none",
+    "description": "Rare circumscribed LGG typically in temporal lobe of young patients; WHO grade 2; BRAF V600E mutation in ~60%; superficial cortical location with cystic component. Anaplastic PXA (WHO grade 3): higher mitotic activity, worse prognosis.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~500/yr Rare; BRAF-driven",
+      "sources": ""
+    },
+    "diagnosis": "MRI (cortical-based cystic/solid, leptomeningeal enhancement possible); biopsy/resection; BRAF V600E IHC + Sanger or pyrosequencing; CDKN2A/B deletion (anaplastic feature); Ki-67; distinguish from ganglioglioma and GBM.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Surgery (gross total resection\ncurative for PXA grade 2 in many). BRAF V600E+:\ndabrafenib + trametinib (active across BRAF-mutant\npediatric brain tumors). Anaplastic PXA: RT post-\nresection; temozolomide extrapolated from HGG\nprotocols. RT for incompletely resected grade 2.\nPrognosis: 5-yr OS ~80% grade 2, ~50% anaplastic.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 27,
+    "slug": "ependymoma-intracranial",
+    "specialty": "cancer",
+    "category": "CNS Tumors",
+    "name": "Ependymoma — Intracranial",
+    "heredityTier": "none",
+    "description": "Glial tumor arising from ependymal cells lining ventricles; two major intracranial groups: posterior fossa (PFA and PFB methylation subtypes) and supratentorial (ZFTA-RELA fusion or YAP1 fusion). PFA: worst prognosis; recurs locally and via CSF.",
+    "frequency": {
+      "us": "~250/yr",
+      "global": "~4,000/yr 2nd most common malignant pediatric brain tumor",
+      "sources": ""
+    },
+    "diagnosis": "MRI brain/spine (CSF staging); surgery; DNA methylation array (PFA vs. PFB vs. ST subtypes) — WHO 2021 mandatory classification; FISH for ZFTA::RELA in supratentorial; C11orf95 IHC; H3K27me3 loss for PFA by IHC.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Maximal safe resection (gross\ntotal resection = best prognostic factor); focal RT (59.4\nGy) post-resection for all but youngest infants. PFA:\nhigh recurrence rate; chemotherapy role limited.\nSecond surgery for recurrence. CpG demethylation\nagents. Re-irradiation at relapse. 5-yr OS ~75% ST-\nRELA; ~50% PFA.\n▸",
+      "emerging": "Emerging: ependymoma-specific HDAC inhibitors\n(e.g., panobinostat [Novartis], vorinostat [Merck]);"
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 28,
+    "slug": "ependymoma-spinal",
+    "specialty": "cancer",
+    "category": "CNS Tumors",
+    "name": "Ependymoma — Spinal",
+    "heredityTier": "none",
+    "description": "Ependymoma arising in spinal cord (intramedullary); predominantly NF2- associated myxopapillary ependymoma at conus/filum in adolescents, or classic WHO grade 2 cervical tumors. Distinct from intracranial; generally better prognosis with surgery.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~1,000/yr Rare; mainly children <5 yrs",
+      "sources": ""
+    },
+    "diagnosis": "MRI whole spine with contrast; surgical resection + pathology; NF2 germline testing; MYCN amplification in high-grade spinal ependymoma; distinguish myxopapillary (grade 2 per WHO 2021) from classic.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Maximal safe surgical resection;\nRT for residual or high-grade disease. Myxopapillary\nWHO grade 2: local RT if incompletely resected. NF2-\nassociated: surveillance after GTR. Spinal\nependymoma generally chemotherapy-unresponsive.\nExcellent prognosis with GTR: 5-yr OS >90%.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 29,
+    "slug": "spinal-cord-astrocytoma",
+    "specialty": "cancer",
+    "category": "CNS Tumors",
+    "name": "Spinal Cord Astrocytoma",
+    "heredityTier": "none",
+    "description": "Intramedullary spinal cord tumor; predominantly pilocytic or diffuse fibrillary astrocytoma in children; rare high-grade spinal cord gliomas occur. Presents with progressive motor/sensory deficits and scoliosis. Surgery high-risk due to eloquent location.",
+    "frequency": {
+      "us": "~100/yr",
+      "global": "~2,000/yr Rare; pediatric and young adult",
+      "sources": ""
+    },
+    "diagnosis": "MRI whole spine; surgical biopsy (gross resection often not possible); molecular profiling (BRAF, H3K27M); distinguish from ependymoma by IHC (GFAP+, OLIG2+, absence of EMA dot pattern).",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Surgery: biopsy or limited\nresection to preserve function. Grade 1–2: MEK\ninhibitor if BRAF fusion (selumetinib/trametinib); carboplatin + vincristine. Focal RT for progressive\ndisease. Surveillance MRI every 3–6 months.\nPrognosis: LGG ~90% 5-yr OS; HGG <20%.\n▸",
+      "emerging": "Emerging: H3K27M HGG: RT +\nONC201/dordaviprone (Chimerix) trial."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 30,
+    "slug": "craniopharyngioma",
+    "specialty": "cancer",
+    "category": "CNS Tumors",
+    "name": "Craniopharyngioma",
+    "heredityTier": "none",
+    "description": "Benign but locally destructive tumor of sellar/suprasellar region arising from Rathke's pouch remnants; two types: adamantinomatous (CTNNB1 β-catenin mutations, children) and papillary (BRAF V600E, older patients). Profound hypothalamic-pituitary dysfunction regardless of treatment.",
+    "frequency": {
+      "us": "~150/yr",
+      "global": "~3,000/yr 5-10% of pediatric brain tumors",
+      "sources": ""
+    },
+    "diagnosis": "MRI (calcified cystic sellar/suprasellar mass); ophthalmologic exam; endocrine panel (panhypopituitarism); adamantinomatous: β-catenin mutation or IHC; papillary: BRAF V600E; distinguish from Rathke cleft cyst and pituitary adenoma.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Surgery (limited resection to\nspare hypothalamus) + focal RT. Intracystic interferon-\nalpha or bleomycin for cystic lesions. BRAF V600E\npapillary: dabrafenib + trametinib (major responses).\nProton beam RT preferred to spare surrounding\nstructures. Hypothalamic obesity: behavioral/metabolic\nmanagement. Endocrine replacement lifelong. 5-yr OS\n>95%; morbidity major challenge.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 31,
+    "slug": "intracranial-germ-cell-tumor-igct",
+    "specialty": "cancer",
+    "category": "CNS Tumors",
+    "name": "Intracranial Germ Cell Tumor (iGCT)",
+    "heredityTier": "none",
+    "description": "Midline CNS GCTs arising in pineal or suprasellar region; spectrum from pure germinoma (most common, radiosensitive, curable) to non- germinomatous GCT (NGGCT: yolk sac tumor, choriocarcinoma, embryonal carcinoma — treated with chemo + RT). Dual-peak (germinoma) marker-secreting tumors.",
+    "frequency": {
+      "us": "~100/yr",
+      "global": "~2,000/yr ~3% of pediatric CNS tumors",
+      "sources": ""
+    },
+    "diagnosis": "MRI brain (pineal or suprasellar, bilateral in 10%); serum + CSF AFP and β-hCG (marker-secreting NGGCT may be diagnosed without biopsy if markers elevated); biopsy for marker-negative tumors; LP for CSF cytology; spine MRI.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Germinoma: chemotherapy\n(carboplatin + etoposide) + reduced-dose whole-\nventricular RT → near 100% cure. NGGCT: BEP\n(bleomycin, etoposide, cisplatin) + whole-\nventricular/CSI RT; complete resection of residual\nteratoma. Relapsed germinoma: high-dose chemo +\nASCT. Prognosis: germinoma >95%; localized NGGCT\n~70–80%.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 32,
+    "slug": "atypical-teratoid-rhabdoid-tumor-at-rt",
+    "specialty": "cancer",
+    "category": "CNS Tumors",
+    "name": "Atypical Teratoid / Rhabdoid Tumor (AT/RT)",
+    "heredityTier": "associated",
+    "description": "Highly malignant embryonal CNS tumor; defined by SMARCB1 (INI1) or rarely SMARCA4 loss; infants and toddlers predominantly; posterior fossa and cerebellopontine angle most common. Germline SMARCB1 in ~30% (rhabdoid tumor predisposition syndrome).",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~500/yr Mostly infants <2 yrs; very aggressive",
+      "sources": ""
+    },
+    "diagnosis": "MRI brain/spine; surgical resection + biopsy; IHC (INI1/SMARCB1 complete loss); SMARCB1 FISH/sequencing; germline testing; distinguish from medulloblastoma, ETMR.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: High-dose multiagent\nchemotherapy (carboplatin, vincristine,\ncyclophosphamide, etoposide, high-dose MTX);\nintrathecal therapy; CSI RT if >3 yr; high-dose chemo +\nASCT in some protocols.\n▸",
+      "emerging": "Emerging: EZH2 inhibitor (tazemetostat/Tazverik\n(Ipsen, formerly Epizyme)) investigational (SWI/SNF\ncomplex loss). BET inhibitor trials. 5-yr OS ~30–45%;\nimproved in localized/older children."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 33,
+    "slug": "choroid-plexus-carcinoma-cpc",
+    "specialty": "cancer",
+    "category": "CNS Tumors",
+    "name": "Choroid Plexus Carcinoma (CPC)",
+    "heredityTier": "dominant",
+    "description": "Malignant WHO grade 3 tumor of choroid plexus epithelium; high CSF protein, hydrocephalus, hemorrhage common at presentation. TP53 germline mutation (Li- Fraumeni syndrome) in ~50%. Highly aggressive; surgical resection imperative.",
+    "frequency": {
+      "us": "~25/yr",
+      "global": "~200/yr Very rare; TP53 germline in most",
+      "sources": ""
+    },
+    "diagnosis": "MRI brain/spine; surgical resection + histopathology (WHO grade 3); TP53 IHC/sequencing; germline TP53 testing in all children; Ki-67 >10% distinguishes from CPP; transthyretin IHC.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Maximal safe resection (most\nimportant factor); chemotherapy (ICE: ifosfamide,\ncarboplatin, etoposide; cyclophosphamide, vincristine);\nhigh-dose chemo + ASCT in some protocols. CSI RT\nfor disseminated disease. TP53 germline: avoid RT if\npossible (secondary malignancy risk). 5-yr OS ~40–\n50% with aggressive multimodal therapy.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 34,
+    "slug": "cns-embryonal-tumors-etmr-pineoblastoma",
+    "specialty": "cancer",
+    "category": "CNS Tumors",
+    "name": "CNS Embryonal Tumors (ETMR / Pineoblastoma)",
+    "heredityTier": "none",
+    "description": "Diverse group of WHO grade 4 embryonal CNS tumors: embryonal tumor with multilayered rosettes (ETMR, C19MC amplified), pineoblastoma (pineal region, DICER1 or TP53 alterations), and others. Aggressive; CSF dissemination common.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~1,000/yr Rare; infants and young children",
+      "sources": ""
+    },
+    "diagnosis": "MRI brain/spine (staging); biopsy; C19MC amplification by FISH (ETMR-defining); DICER1 mutation; TP53; LIN28A IHC for ETMR; LP for CSF staging.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Maximal resection + CSI RT +\nchemotherapy (multiagent); high-dose chemo + ASCT\nused in infants to defer RT. ETMR: dismal prognosis\n(5-yr OS ~10–20%). Pineoblastoma: better prognosis\nin localized disease (5-yr OS ~50%). Rare —\nenrollment in PBTC or SIOPE trials essential.\n▸",
+      "emerging": "Emerging: DICER1-associated pineoblastoma: emerging targeted approach."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 35,
+    "slug": "ganglioglioma-dnet",
+    "specialty": "cancer",
+    "category": "CNS Tumors",
+    "name": "Ganglioglioma / DNET",
+    "heredityTier": "none",
+    "description": "Low-grade neuronal-glial tumors associated with medically intractable epilepsy; ganglioglioma (WHO grade 1–2, neurons + glial, BRAF V600E ~40%), DNET (cortical, bland, multinodular). Both are benign; surgery = cure in most. Malignant transformation rare.",
+    "frequency": {
+      "us": "~200/yr",
+      "global": "~3,000/yr Relatively common low-grade CNS tumor",
+      "sources": ""
+    },
+    "diagnosis": "MRI (cortical cystic-solid, temporal lobe, ±calcification); often found during epilepsy workup; biopsy/resection; BRAF V600E IHC and molecular testing; Ki-67 for grade; EEG/video-EEG for surgical planning.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Complete surgical resection =\ncure in most (seizure freedom 70–80%). BRAF\nV600E+: dabrafenib/trametinib for unresectable or\nrecurrent. RT rarely needed. Chemotherapy not\nstandard. Anaplastic ganglioglioma: treat as HGG.\nLong-term: seizure management, neuropsychological\nfollow-up.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 36,
+    "slug": "astroblastoma-mn1-altered",
+    "specialty": "cancer",
+    "category": "CNS Tumors",
+    "name": "Astroblastoma, MN1-altered",
+    "heredityTier": "none",
+    "description": "Rare WHO 2021-defined CNS tumor; predominantly cerebral hemispheres in children and young adults; MN1 gene fusion or translocation (with BEND2 or CXXC5). Histologically distinctive astroblastic perivascular pseudorosettes. Variable clinical behavior but often low- grade.",
+    "frequency": {
+      "us": "Extremely rare Very recently characterized entity",
+      "global": "",
+      "sources": ""
+    },
+    "diagnosis": "MRI (well-circumscribed, superficial, cystic component); biopsy; MN1 rearrangement by FISH or RNA-seq (mandatory WHO 2021 criterion); DNA methylation profiling; distinguish from ependymoma and HGG.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Maximal safe surgical resection\n— primary treatment; GTR may be curative. RT for\nresidual/recurrent disease. No established\nchemotherapy regimen. MN1 fusions represent\npotential therapeutic target (transcriptional\ndysregulation). Prognosis: generally favorable with\nGTR; aggressive variants described. Enrollment in rare\ntumor registries critical.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 37,
+    "slug": "meningioma-pediatric",
+    "specialty": "cancer",
+    "category": "Solid Tumors — Embryonal & Neural",
+    "name": "Meningioma — Pediatric",
+    "heredityTier": "none",
+    "description": "Usually benign (WHO grade 1) dural- based tumor; pediatric meningiomas biologically distinct from adult: higher NF2-independent alterations, higher recurrence rate, association with prior radiation, and SV40/radiation causation. Grade 2–3 more frequent than adults.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~1,000/yr Rare in children; benign in adults",
+      "sources": ""
+    },
+    "diagnosis": "MRI brain/spine (dural-based, enhancing, ± calcification); biopsy; IHC (somatostatin receptor); WHO grading (grade 1–3); NF2, AKT1, SMO, TRAF7 mutations; germline NF2 evaluation.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Surgery (Simpson grade I\nresection for cure). RT for grade 2–3 or residual.\nSomatostatin analog (octreotide) palliative for\nprogressive inoperable. NF2 syndrome: systemic\ntreatment with bevacizumab (hearing preservation).\nPrognosis: grade 1 ~95% 5-yr OS; grade 3 ~60%.\n▸",
+      "emerging": "Emerging: SMO-mutant: vismodegib/Erivedge\n(Genentech/Roche); AKT1-mutant: capivasertib\n(AstraZeneca) — targeted agents in trials."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 38,
+    "slug": "neuroblastoma",
+    "specialty": "cancer",
+    "category": "Solid Tumors — Embryonal & Neural",
+    "name": "Neuroblastoma",
+    "heredityTier": "none",
+    "description": "Malignant tumor of neural crest-derived sympathoadrenal precursors; most common extracranial solid tumor of childhood. Spectrum from spontaneous regression (infant low-risk) to highly aggressive metastatic disease (high-risk, MYCN-amplified). Adrenal primary most common.",
+    "frequency": {
+      "us": "~700/yr",
+      "global": "~15,000/yr Most common extracranial solid tumor in children",
+      "sources": ""
+    },
+    "diagnosis": "Catecholamine metabolites (urine HVA/VMA); MIBG scan (³¹²I- or ¹²³I- MIBG) — primary staging and response; DOTATATE PET for MIBG-negative tumors; CT/MRI primary + mets; bone marrow bilateral BMA; MYCN FISH; ALK, PHOX2B, segmental chromosomal aberrations; INRG staging.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Risk-stratified (INRG): Low-risk:\nsurgery ± observation. Intermediate: surgery +\nmoderate chemo. High-risk: induction chemo\n(ANBL1232: cyclophosphamide, doxorubicin,\nvincristine alternating with cisplatin/etoposide) →\nsurgical resection → high-dose chemo + tandem ASCT\n→ MIBG therapy + RT + anti-GD2 immunotherapy\n(dinutuximab) + isotretinoin. ALK-mutant: crizotinib. 5-\nyr OS high-risk ~50%.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 39,
+    "slug": "ganglioneuroblastoma",
+    "specialty": "cancer",
+    "category": "Solid Tumors — Embryonal & Neural",
+    "name": "Ganglioneuroblastoma",
+    "heredityTier": "none",
+    "description": "Intermediate neuroblastic tumor between ganglioneuroma and neuroblastoma; contains both mature ganglion cells and neuroblasts. Intermixed or nodular (composite) subtypes; nodular variant has embedded unfavorable neuroblastoma component. MIBG-avid like neuroblastoma; treated per neuroblastoma risk stratification.",
+    "frequency": {
+      "us": "~100/yr",
+      "global": "~2,000/yr Intermediate between neuroblastoma and ganglioneuroma",
+      "sources": ""
+    },
+    "diagnosis": "MIBG scan (avid in most); CT/MRI for primary; bone marrow aspirate/biopsy; MYCN FISH; pathology: International Neuroblastoma Pathology Classification (INPC — stroma-rich features); urine catecholamines.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Risk stratification per COG\nneuroblastoma guidelines (MYCN, INPC classification,\nINRG stage, age, ploidy). Intermixed usually\nlow/intermediate risk: surgery ± limited chemo.\nNodular: treated per embedded neuroblastoma\ncomponent risk. Anti-GD2 immunotherapy for high-risk.\nPrognosis: intermixed ~95% 5-yr OS.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 40,
+    "slug": "wilms-tumor-unilateral-favorable-histology",
+    "specialty": "cancer",
+    "category": "Solid Tumors — Embryonal & Neural",
+    "name": "Wilms Tumor — Unilateral (Favorable Histology)",
+    "heredityTier": "associated",
+    "description": "Most common renal malignancy of childhood; embryonal tumor of metanephric blastema. Favorable histology (FH) lacks anaplasia; treated with nephrectomy + chemotherapy. Excellent prognosis. Associated with WT1, WTX, CTNNB1 mutations and overgrowth syndromes.",
+    "frequency": {
+      "us": "~500/yr",
+      "global": "~15,000/yr Most common renal tumor in children",
+      "sources": ""
+    },
+    "diagnosis": "Ultrasound + CT abdomen for staging; CT chest (pulmonary mets); no biopsy before surgery (NWTS/COG) or pre-treatment biopsy (SIOP) per protocol; pathology: FH vs. anaplastic; LOH 1p and 16q for risk stratification; germline WT1 evaluation for predisposition syndromes.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: COG: upfront nephrectomy +\nchemotherapy. Stage I–II FH: actinomycin-D +\nvincristine (18 weeks). Stage III: + doxorubicin +\nabdominal RT. Stage IV: + pulmonary RT if lung mets persist. SIOP: pre-op nephroblastoma chemo →\nnephrectomy → adjuvant. 5-yr OS >90% overall.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 41,
+    "slug": "wilms-tumor-bilateral-stage-v",
+    "specialty": "cancer",
+    "category": "Solid Tumors — Embryonal & Neural",
+    "name": "Wilms Tumor — Bilateral / Stage V",
+    "heredityTier": "associated",
+    "description": "Synchronous bilateral Wilms tumor requires nephron-sparing surgery to preserve renal function; 4–6 cycles of pre-operative chemotherapy to reduce tumor burden; staged separately (AREN0534). Same histologic spectrum but renal preservation is primary goal.",
+    "frequency": {
+      "us": "~100/yr",
+      "global": "~2,000/yr ~5% of Wilms tumors; bilateral involvement",
+      "sources": ""
+    },
+    "diagnosis": "CT abdomen (bilateral lesions, volume assessment); renal function assessment (GFR); bilateral percutaneous biopsy to confirm WT before pre-op chemo in some protocols; WT1/WT2 germline evaluation; staging per AREN0534.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: COG AREN0534: pre-operative\nchemotherapy (actinomycin-D + vincristine ±\ndoxorubicin) ×6 weeks → bilateral nephron-sparing\nsurgery → adjuvant chemotherapy per final pathology.\nAnaplastic histology: intensified therapy. Long-term\nrenal monitoring. 5-yr OS ~80–85% bilateral favorable\nhistology.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 42,
+    "slug": "wilms-tumor-diffuse-anaplasia",
+    "specialty": "cancer",
+    "category": "Solid Tumors — Embryonal & Neural",
+    "name": "Wilms Tumor — Diffuse Anaplasia",
+    "heredityTier": "none",
+    "description": "Anaplastic Wilms tumor — either focal or diffuse; diffuse anaplasia (DA) carries significantly worse prognosis; defined by markedly enlarged hyperchromatic nuclei and abnormal mitoses throughout tumor. Requires intensified therapy (regimen DD-4A with doxorubicin ± RT); TP53 alterations frequent.",
+    "frequency": {
+      "us": "~100/yr",
+      "global": "~2,000/yr ~5-10% of Wilms; worst prognosis subtype",
+      "sources": ""
+    },
+    "diagnosis": "Nephrectomy specimen pathology (DA cannot be diagnosed pre- operatively reliably); TP53 mutation; LOH 1p/16q; thorough sampling required (≥1 section per cm); distinguish focal from diffuse anaplasia.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: COG: Regimen DD-4A\n(actinomycin-D, vincristine, doxorubicin,\ncyclophosphamide, etoposide) for diffuse anaplasia.\nAbdominal RT for stages III–IV. Pulmonary RT for lung\nmets. Autologous SCT for relapse in select cases.\nPrognosis: stage-dependent; DA stage I/II ~85% 5-yr\nOS; stage IV ~20–30%.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 43,
+    "slug": "hepatoblastoma",
+    "specialty": "cancer",
+    "category": "Solid Tumors — Embryonal & Neural",
+    "name": "Hepatoblastoma",
+    "heredityTier": "none",
+    "description": "Malignant embryonal liver tumor arising from hepatic progenitor cells; most common liver tumor of childhood; AFP markedly elevated (>100,000 ng/mL in most). CTNNB1 (β-catenin) mutations in >80%. Responsive to platinum-based chemotherapy.",
+    "frequency": {
+      "us": "~150/yr",
+      "global": "~2,000/yr Most common pediatric liver tumor",
+      "sources": ""
+    },
+    "diagnosis": "AFP (markedly elevated, age- corrected; normal in newborns — high for age); CT/MRI liver (PRETEXT staging — extent of hepatic involvement); CT chest (pulmonary mets common); biopsy if diagnosis uncertain; pathology: epithelial vs. mixed vs. small cell undifferentiated (worst prognosis).",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: SIOPEL/COG AHEP0731:\nneoadjuvant PLADO (cisplatin + doxorubicin) ×4 cycles\n→ surgical resection (partial hepatectomy or liver\ntransplant for unresectable) → adjuvant chemo.\nPRETEXT IV/metastatic: intensified (PLADO +\nvincristine + 5-FU). Liver transplant for unresectable\nPRETEXT IV confined to liver. 5-yr OS ~80% localized;\n~60% metastatic.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 44,
+    "slug": "retinoblastoma",
+    "specialty": "cancer",
+    "category": "Solid Tumors — Embryonal & Neural",
+    "name": "Retinoblastoma",
+    "heredityTier": "dominant",
+    "description": "Malignant tumor of retinal progenitor cells; defined by biallelic RB1 loss. Heritable (bilateral, multifocal, germline RB1) or sporadic (unilateral). Presents with leukocoria and strabismus. Highly curable when intraocular; extraocular/metastatic disease rare but lethal.",
+    "frequency": {
+      "us": "~300/yr",
+      "global": "~8,000/yr Most common intraocular tumor in children",
+      "sources": ""
+    },
+    "diagnosis": "Ophthalmology exam under anesthesia (EUA); RetCam imaging; MRI orbits and brain (optic nerve involvement, CNS spread); CT avoided (radiation in RB1 germline patients increases secondary cancer risk); LP for metastatic workup; germline RB1 testing in all.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Intraocular: intra-arterial\nchemotherapy (IAC — ophthalmic artery infusion of\nmelphalan ± topotecan ± carboplatin) — primary globe-\nsalvage. Intravitreal melphalan for vitreous seeds.\nSystemic chemo: carboplatin, etoposide, vincristine for\nbilateral/advanced. Focal:\nlaser/cryotherapy/brachytherapy. Enucleation: for eyes\nwith no salvage potential. External beam RT: last resort\nin germline RB1.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 45,
+    "slug": "pleuropulmonary-blastoma-ppb",
+    "specialty": "cancer",
+    "category": "Solid Tumors — Embryonal & Neural",
+    "name": "Pleuropulmonary Blastoma (PPB)",
+    "heredityTier": "dominant",
+    "description": "Rare intrathoracic malignancy of early childhood; DICER1 syndrome-defining tumor; three types: Type I (cystic, <2 yr, best prognosis), Type II (cystic/solid), Type III (purely solid, worst prognosis). DICER1 germline in >70%.",
+    "frequency": {
+      "us": "Global: ~200/yr Very rare; DICER1 germline",
+      "global": "~200/yr Very rare; DICER1 germline",
+      "sources": ""
+    },
+    "diagnosis": "CT chest (cystic or solid intrathoracic mass); surgical resection + pathology; DICER1 germline testing in patient and family; whole-body imaging for metastases; distinguish from type I: congenital lung malformation vs. PPB cyst.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Type I: complete surgical\nresection alone (chemotherapy may be omitted);\nDICER1 surveillance. Type II–III: surgery + multiagent\nchemo (IRS/COG: vincristine, actinomycin-D,\ncyclophosphamide; IVADo or modified RMS protocols)\n± RT. Type II ~71%; Type III ~53%.\n▸",
+      "emerging": "Emerging: Metastatic: intensified chemo + ASCT\ninvestigational. 5-yr OS: Type I ~91%;"
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 46,
+    "slug": "pancreatoblastoma",
+    "specialty": "cancer",
+    "category": "Solid Tumors — Embryonal & Neural",
+    "name": "Pancreatoblastoma",
+    "heredityTier": "none",
+    "description": "Extremely rare malignant pancreatic tumor of young children; resembles embryonic pancreatic tissue with squamoid corpuscles; AFP often elevated; β-catenin mutations; associated with Beckwith-Wiedemann syndrome. Head of pancreas most common location.",
+    "frequency": {
+      "us": "Extremely rare Rarest pancreatic malignancy",
+      "global": "",
+      "sources": ""
+    },
+    "diagnosis": "CT/MRI abdomen (pancreatic mass, AFP elevation); Whipple resection specimen for pathology; squamoid corpuscles are pathognomonic; CTNNB1 mutation; AFP for monitoring; distinguish from solid pseudopapillary neoplasm and PNET.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Complete surgical resection\nprimary (distal pancreatectomy or Whipple);\nPRETEXT-like staging. Chemotherapy (cisplatin-based PLADO regimen borrowed from hepatoblastoma given\nAFP elevation and shared biology; also gemcitabine).\nRT for locally advanced. Limited data: case series only.\nPrognosis: localized ~70% 5-yr OS; metastatic ~30%.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 47,
+    "slug": "osteosarcoma",
+    "specialty": "cancer",
+    "category": "Solid Tumors — Embryonal & Neural",
+    "name": "Osteosarcoma",
+    "heredityTier": "none",
+    "description": "Most common primary bone malignancy of childhood; arises from malignant osteoblastic precursors producing osteoid. Metaphyses of long bones (distal femur, proximal tibia, proximal humerus) predominate. Highly chemotherapy- responsive; pulmonary metastases most common site.",
+    "frequency": {
+      "us": "~800/yr",
+      "global": "~15,000/yr Most common primary malignant bone tumor",
+      "sources": ""
+    },
+    "diagnosis": "Plain radiograph (sunburst pattern, Codman's triangle); MRI primary + whole bone for skip lesions; CT chest; bone scan or FDG-PET for metastases; surgical biopsy (core needle, tract excised at resection); no molecular markers established for diagnosis; TP53/RB1 germline if young or family history.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: MAP protocol (methotrexate,\ndoxorubicin, cisplatin) — COG AOST0331/AOST1421.\nResection at week 10 (limb salvage vs. amputation);\nhistologic necrosis guides adjuvant. Good response\n(>90% necrosis): same MAP. Poor response: add\nifosfamide + etoposide. No targeted therapy\nestablished. Relapsed: gemcitabine, docetaxel,\ncabozantinib.\n▸",
+      "emerging": "Emerging: Immunotherapy under investigation. 5-yr\nOS: localized ~70%; metastatic ~25%."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 48,
+    "slug": "ewing-sarcoma",
+    "specialty": "cancer",
+    "category": "Solid Tumors — Embryonal & Neural",
+    "name": "Ewing Sarcoma",
+    "heredityTier": "none",
+    "description": "Small round cell sarcoma of bone and soft tissue; defined by EWSR1::FLI1 or variant ETS-family fusions (t(11;22) in 85%). Bone (midshaft/diaphysis) and soft tissue primaries; aggressive with early hematogenous spread. Highly chemosensitive.",
+    "frequency": {
+      "us": "~300/yr",
+      "global": "~2,500/yr Rare in African populations",
+      "sources": ""
+    },
+    "diagnosis": "Plain radiograph (permeative lytic lesion + periosteal reaction — onion-skin); MRI primary; CT chest + FDG-PET/bone scan for staging; core biopsy; FISH/RT-PCR for EWSR1-ETS fusions (mandatory); rarely: EWSR1-NFATc2 or non- EWSR1 fusion variants.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: COG AEWS1031: VIDE/VAC\n(vincristine, ifosfamide, doxorubicin, etoposide\nalternating with vincristine, actinomycin-D,\ncyclophosphamide). Local control: wide resection ± RT\n(55.8 Gy for unresectable). High-risk: interval\ncompressed chemo. Metastatic/relapsed: high-dose\nchemo + ASCT; irinotecan + temozolomide. GD2-\ndirected therapy; TK216;\n▸",
+      "emerging": "Emerging: PARP inhibitors in trials (olaparib\n[AstraZeneca], talazoparib/Talzenna [Pfizer]). 5-yr OS:\nlocalized ~70%; lung mets ~40%; bone/marrow mets\n~20%."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 49,
+    "slug": "chondrosarcoma-pediatric",
+    "specialty": "cancer",
+    "category": "Solid Tumors — Embryonal & Neural",
+    "name": "Chondrosarcoma — Pediatric",
+    "heredityTier": "none",
+    "description": "Malignant cartilage-producing tumor; rare in children (vs. adults); pediatric variants include mesenchymal chondrosarcoma (HEY1::NCOA2 fusion) and clear cell chondrosarcoma; extraskeletal mesenchymal chondrosarcoma also seen. Chemotherapy-resistant conventional type; mesenchymal is chemosensitive.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~1,000/yr Rare in children; mostly adolescents",
+      "sources": ""
+    },
+    "diagnosis": "MRI primary + CT chest; plain radiograph (calcified matrix); biopsy; mesenchymal: HEY1::NCOA2 by FISH/RNA-seq; IDH1/2 mutation in conventional; grade (I–III) critical for prognosis.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Surgery (wide resection) primary\nand often only treatment for conventional (chemo/RT-\nresistant). Mesenchymal chondrosarcoma: Ewing\nsarcoma-like chemotherapy (IE/VAC regimens) +\nresection + RT. Proton RT for skull base. Prognosis:\nmesenchymal — 10-yr OS ~27%; clear cell — better\nwith wide resection.\n▸",
+      "emerging": "Emerging: IDH1/2 mutant: ivosidenib/Tibsovo\n(Servier)/enasidenib/Idhifa (Bristol Myers Squibb)\ninvestigational."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 50,
+    "slug": "malignant-peripheral-nerve-sheath-tumor-mpnst",
+    "specialty": "cancer",
+    "category": "Sarcomas & Rare Solid Tumors",
+    "name": "Malignant Peripheral Nerve Sheath Tumor (MPNST)",
+    "heredityTier": "associated",
+    "description": "Aggressive sarcoma of Schwann cell origin; 50% arise in neurofibromatosis type 1 (NF1) patients from plexiform neurofibromas; NF1-associated MPNST has worse prognosis than sporadic. Second most common cancer in NF1 after optic pathway glioma. High local recurrence.",
+    "frequency": {
+      "us": "~100/yr",
+      "global": "~2,000/yr ~50% NF1-associated",
+      "sources": ""
+    },
+    "diagnosis": "MRI (growth in plexiform neurofibroma, loss of target sign, perilesional edema); FDG-PET (SUVmax >3.5 suspicious); biopsy; IHC (loss of H3K27me3 — highly sensitive for MPNST); NF1 germline; CDK4/CDKN2A alterations; distinguish from other spindle cell sarcomas.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Wide surgical resection\n(negative margins essential — difficult in NF1 anatomic\nlocations). RT for margin-positive/unresectable (60\nGy). Chemotherapy: ifosfamide + doxorubicin (modest\nresponse ~25%). MEK inhibitor (selumetinib) for\nplexiform neurofibroma reduction (FDA-approved for\nNF1) — MPNST trials ongoing. CDK4/6 inhibitors for\nCDK4-amplified. 5-yr OS: ~35–50% localized; <15% metastatic/NF1-associated.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 51,
+    "slug": "rhabdomyosarcoma-alveolar-arms",
+    "specialty": "cancer",
+    "category": "Sarcomas & Rare Solid Tumors",
+    "name": "Rhabdomyosarcoma — Alveolar (ARMS)",
+    "heredityTier": "none",
+    "description": "High-risk RMS subtype defined by PAX3::FOXO1 or PAX7::FOXO1 fusions (t(2;13) or t(1;13)); myogenic origin with poor prognosis. Extremity and parameningeal primaries common. Fusion-positive ARMS segregates to high-risk group regardless of stage.",
+    "frequency": {
+      "us": "~150/yr",
+      "global": "~2,000/yr Higher-risk; PAX3/7-FOXO1 fusions",
+      "sources": ""
+    },
+    "diagnosis": "MRI primary; CT chest; bone scan/FDG-PET; bilateral BMA; LP for parameningeal; core biopsy; FISH/RT-PCR for PAX-FOXO1 fusions (mandatory risk stratification); IHC (desmin, myogenin, MyoD1 — focal in ARMS); MRD by ctDNA emerging.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: COG ARST1431/ARST0431:\nVAC (vincristine, actinomycin-D, cyclophosphamide)\nbackbone; high-risk adds\nvinorelbine/cyclophosphamide or irinotecan. Local\ncontrol: surgery (wide margins) + RT (36–59.4 Gy).\nSJ906: intensified therapy. Targeted: CDK4/6\ninhibitors; PLK1; anti-IGF1R.\n▸",
+      "emerging": "Emerging: Metastatic high-risk: trials with high-dose\nchemo, ASCT. Immunotherapy trials. 5-yr OS localized\n~75%; metastatic ~20%."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 52,
+    "slug": "rhabdomyosarcoma-embryonal-erms",
+    "specialty": "cancer",
+    "category": "Sarcomas & Rare Solid Tumors",
+    "name": "Rhabdomyosarcoma — Embryonal (ERMS)",
+    "heredityTier": "none",
+    "description": "More common and favorable RMS subtype; spindle cell and botryoid variants have excellent prognosis; anaplastic ERMS worse. Genitourinary, head/neck (orbit, parameningeal), and biliary primaries characteristic. LOH 11p15 with IGF2 overexpression; RAS pathway mutations.",
+    "frequency": {
+      "us": "~200/yr",
+      "global": "~3,000/yr Most common RMS subtype in children",
+      "sources": ""
+    },
+    "diagnosis": "MRI primary; CT chest; bone scan; bilateral BMA for high-risk; core biopsy; IHC (desmin, myogenin diffuse, MyoD1); fusion-negative (excludes ARMS); MYCN amplification in anaplastic; RAS mutation profiling (NRAS/KRAS prognostic).",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: COG risk-stratified VAC-based\ntherapy. Low-risk: reduced VAC. Intermediate: VAC ±\nvincristine-irinotecan. Local control: surgery first if\npossible; RT for unresectable/residual (Group III).\nOrbital: chemo + RT (no exenteration). Genitourinary:\nbladder preservation goal. Spindle cell/sclerosing RMS:\nALK mutation subset — crizotinib active. 5-yr OS low-\nrisk >90%; intermediate ~70%.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 53,
+    "slug": "synovial-sarcoma",
+    "specialty": "cancer",
+    "category": "Sarcomas & Rare Solid Tumors",
+    "name": "Synovial Sarcoma",
+    "heredityTier": "none",
+    "description": "Soft tissue sarcoma of uncertain differentiation (not synovial origin despite name); defined by SS18::SSX1/2/4 fusion t(X;18). Biphasic or monophasic histology; extremity juxta-articular most common; highly chemosensitive compared to other adult-type sarcomas; adolescents and young adults.",
+    "frequency": {
+      "us": "~200/yr",
+      "global": "~2,500/yr Peak incidence 15-35 yrs",
+      "sources": ""
+    },
+    "diagnosis": "MRI primary (triple signal appearance — cystic, solid, calcification); core biopsy; FISH/RT- PCR for SS18-SSX fusion (diagnostic); IHC (TLE1+, SS18- SSX IHC — newer); SWI/SNF complex loss by SMARCB1 (retained); SS18-SSX1 vs SSX2 subtype.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Wide surgical resection +\nadjuvant RT (50–60 Gy) for margin-positive. Ifosfamide\nhighly active (response rate ~25–30%). Neoadjuvant:\nifosfamide + doxorubicin for large tumors. SY-5609\n(CDK7 inhibitor) — SS18::SSX transcriptional\ndependency. Afami-cel (TCR-T cell therapy targeting\nMAGE-A4) — significant responses in SS. 5-yr OS:\nlocalized ~70–80%; metastatic ~20–30%.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 54,
+    "slug": "desmoplastic-small-round-cell-tumor-dsrct",
+    "specialty": "cancer",
+    "category": "Sarcomas & Rare Solid Tumors",
+    "name": "Desmoplastic Small Round Cell Tumor (DSRCT)",
+    "heredityTier": "none",
+    "description": "Rare aggressive sarcoma of abdominal/pelvic serosal surfaces; defined by EWSR1::WT1 fusion t(11;22)(p13;q12); males 4× more common; peritoneal dissemination at presentation in >90%; multimodal tumor with divergent differentiation on IHC.",
+    "frequency": {
+      "us": "Global: ~200/yr Very rare; adolescent males",
+      "global": "~200/yr Very rare; adolescent males",
+      "sources": ""
+    },
+    "diagnosis": "CT abdomen/pelvis (innumerable peritoneal nodules — omental cake); EWSR1::WT1 by FISH or RT-PCR (diagnostic); IHC: WT1 (C- terminus), desmin, epithelial markers co-expression (polyphenotypic); PET-CT; laparoscopic biopsy.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Aggressive multimodal: induction\nVAC/IE (vincristine, actinomycin, cyclophosphamide\nalternating with ifosfamide, etoposide); debulking\nsurgery (peritoneal stripping); hyperthermic\nintraperitoneal chemotherapy (HIPEC) at specialized\ncenters; whole abdominopelvic RT; consolidation\nautologous SCT. 5-yr OS ~15–25%. WT1 peptide\nvaccine;\n▸",
+      "emerging": "Emerging: NTRK inhibitors (larotrectinib/Vitrakvi\n[Bayer], entrectinib/Rozlytrek [Roche/Genentech]) for\nETV6::NTRK3 subsets investigational."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 55,
+    "slug": "infantile-fibrosarcoma-etv6-ntrk3-fusion",
+    "specialty": "cancer",
+    "category": "Sarcomas & Rare Solid Tumors",
+    "name": "Infantile Fibrosarcoma / ETV6-NTRK3 Fusion",
+    "heredityTier": "none",
+    "description": "Locally aggressive spindle cell sarcoma of infancy and early childhood; defined by ETV6::NTRK3 fusion t(12;15); also called congenital fibrosarcoma. Histologically mimics adult fibrosarcoma but with paradoxically excellent prognosis and unique TRK sensitivity.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~500/yr Infants; ETV6-NTRK3 driven",
+      "sources": ""
+    },
+    "diagnosis": "MRI primary; core biopsy; FISH/RNA-seq for ETV6::NTRK3 fusion (diagnostic and therapeutic target); IHC (TRK pan-tropomyosin receptor kinase); Ki-67; distinguish from other spindle cell tumors of infancy.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Larotrectinib or entrectinib (TRK\ninhibitors) — dramatic response rates >90%; FDA-\napproved for TRK fusion-positive solid tumors. Drug-\nfirst approach avoids mutilating surgery; resection after\nresponse. Chemotherapy (vincristine, actinomycin,\ncyclophosphamide) historically used. Surgery: limb-\nsparing post-TRK inhibitor response. Prognosis: 5-yr\nOS >90% with modern TRK inhibitor therapy.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 56,
+    "slug": "alveolar-soft-part-sarcoma-asps",
+    "specialty": "cancer",
+    "category": "Sarcomas & Rare Solid Tumors",
+    "name": "Alveolar Soft Part Sarcoma (ASPS)",
+    "heredityTier": "none",
+    "description": "Rare soft tissue sarcoma of uncertain histogenesis; defined by ASPSCR1::TFE3 unbalanced translocation; highly vascular, slow- growing but relentlessly metastatic. Lung metastases present at diagnosis in ~25%; responds to anti-angiogenic therapy. MiT family translocation cancer.",
+    "frequency": {
+      "us": "Global: ~200/yr Very rare; adolescents/young adults",
+      "global": "~200/yr Very rare; adolescents/young adults",
+      "sources": ""
+    },
+    "diagnosis": "MRI (highly vascular — flow voids); CT chest (lung mets); biopsy; FISH/RT-PCR for ASPSCR1::TFE3; IHC (TFE3, CAIX, HMB45 weak); FDG-PET (variable uptake); PD-L1 expression.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Surgical resection with wide\nmargins (primary treatment). Sunitinib or pazopanib\n(anti-angiogenic TKIs): response rate ~40–50% —\nhighly active in ASPS. Conventional chemotherapy\nineffective. RT palliative for metastases. Proton therapy\nfor complex locations. 5-yr OS: localized ~80%;\nmetastatic ~40% (slow course).\n▸",
+      "emerging": "Emerging: Atezolizumab/Tecentriq\n(Roche/Genentech) + bevacizumab/Avastin\n(Roche/Genentech): significant responses\n(durvalumab/Imfinzi (AstraZeneca) + olaparib/Lynparza\n(AstraZeneca) in trials)."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 57,
+    "slug": "clear-cell-sarcoma-of-soft-tissue",
+    "specialty": "cancer",
+    "category": "Sarcomas & Rare Solid Tumors",
+    "name": "Clear Cell Sarcoma of Soft Tissue",
+    "heredityTier": "none",
+    "description": "Melanocytic sarcoma of tendons and aponeuroses in young adults/adolescents; defined by EWSR1::ATF1 or EWSR1::CREB1 fusions; S100+ and HMB45+ (mimics melanoma); foot and ankle most common. Aggressive: lymph node spread common.",
+    "frequency": {
+      "us": "Global: ~200/yr Very rare; EWSR1-ATF1 fusion",
+      "global": "~200/yr Very rare; EWSR1-ATF1 fusion",
+      "sources": ""
+    },
+    "diagnosis": "MRI primary; FDG-PET; sentinel lymph node biopsy (lymph node mets ~50%); core biopsy; FISH/RNA-seq for EWSR1-ATF1 or EWSR1-CREB1; IHC (S100+, SOX10+, HMB45+, MelanA+, pan- TRK negative); melanoma BRAF V600E negative in most.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Wide surgical resection\n(primary). Sentinel lymph node evaluation.\nConventional chemotherapy has minimal activity. MET\namplification in subset: crizotinib. CTLA4/PD1\nimmunotherapy: limited data from melanoma\ncrossover. Isolated limb perfusion for locally advanced.\nPrognosis: 5-yr OS ~50%; high local recurrence and\nlate metastasis rates. Enroll in rare tumor consortia.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 58,
+    "slug": "epithelioid-sarcoma",
+    "specialty": "cancer",
+    "category": "Sarcomas & Rare Solid Tumors",
+    "name": "Epithelioid Sarcoma",
+    "heredityTier": "none",
+    "description": "Rare soft tissue sarcoma with epithelial differentiation; two types: classic (distal extremity, young adults) and proximal/axial (aggressive, SMARCB1/INI1 loss in ~90%). SMARCB1 loss opens therapeutic avenue with EZH2 inhibition. Mimics benign conditions causing diagnostic delay.",
+    "frequency": {
+      "us": "Global: ~200/yr Very rare; distal extremities",
+      "global": "~200/yr Very rare; distal extremities",
+      "sources": ""
+    },
+    "diagnosis": "MRI; core biopsy; IHC (EMA+, cytokeratin+, vimentin+, INI1/SMARCB1 loss by IHC — key diagnostic); CD34+ in ~50%; distinguish from carcinoma and melanoma; SMARCB1 deletion by FISH; molecular profiling.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Wide surgical resection (margins\ncritical). RT for inadequate margins. Tazemetostat\n(EZH2 inhibitor) — FDA-approved 2020 for\nmetastatic/locally advanced epithelioid sarcoma (first\ntumor type approved for EZH2 inhibitor). Doxorubicin +\nifosfamide for metastatic. Sunitinib palliative. 5-yr OS:\ndistal ~75%; proximal ~40–50%.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 59,
+    "slug": "undifferentiated-pleomorphic-sarcoma-ups",
+    "specialty": "cancer",
+    "category": "Sarcomas & Rare Solid Tumors",
+    "name": "Undifferentiated Pleomorphic Sarcoma (UPS)",
+    "heredityTier": "none",
+    "description": "High-grade soft tissue sarcoma without recognizable line of differentiation; diagnosis of exclusion after thorough workup. Extremity and retroperitoneum most common. Rare in children; when occurring in pediatric patients, requires germline evaluation (TP53, NF1, RB1).",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~500/yr Rare in children",
+      "sources": ""
+    },
+    "diagnosis": "MRI primary; FDG-PET; CT chest; core biopsy with extensive IHC panel (exclude leiomyosarcoma, liposarcoma, MPNST, RMS); MDM2 (exclude dediff liposarcoma); TP53/NF1/RB1 germline if pediatric presentation; CGH/NGS.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Wide surgical resection + RT\n(neoadjuvant or adjuvant). Doxorubicin + ifosfamide\nchemotherapy (modest benefit). Olaratumab\ndiscontinued. Immunotherapy (pembrolizumab) for high\nTMB subsets. Trabectedin palliative. Germline TP53:\nRT minimized. 5-yr OS: localized ~60%; metastatic\n<20%.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 60,
+    "slug": "desmoid-tumor-aggressive-fibromatosis",
+    "specialty": "cancer",
+    "category": "Sarcomas & Rare Solid Tumors",
+    "name": "Desmoid Tumor / Aggressive Fibromatosis",
+    "heredityTier": "associated",
+    "description": "Locally invasive myofibroblastic neoplasm; not metastatic but causes significant local morbidity. CTNNB1 (β- catenin) mutations in sporadic; APC germline mutation in FAP-associated. Spontaneous regression documented (~20%); watch-and-wait now first-line for most.",
+    "frequency": {
+      "us": "~100/yr",
+      "global": "~2,000/yr ~85% APC/CTNNB1-driven; FAP-associated",
+      "sources": ""
+    },
+    "diagnosis": "MRI (infiltrative T1-intermediate, T2-variable, enhancement variable); biopsy (CTNNB1 mutation — T41A worst prognosis, S45F intermediate); APC germline if mesenteric or family history; distinguish from fibrosarcoma and nodular fasciitis.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Active surveillance first-line\n(spontaneous regression ~20%). Nirogacestat\n(gamma-secretase inhibitor, Notch pathway) — FDA-\napproved 2023 for adult desmoid; pediatric trials\nunderway. Surgery: reserved for life-\nthreatening/refractory (high recurrence). RT for\nselected unresectable. NSAID + sulindac. Methotrexate\n+ vinorelbine/vinblastine.\n▸",
+      "emerging": "Emerging: Sorafenib/Nexavar (Bayer) (TYROSINE\nKINASE INHIBITOR) — FDA Breakthrough for\ndesmoid 2023; significant PFS benefit in randomized\ntrial."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 61,
+    "slug": "infantile-myofibromatosis",
+    "specialty": "cancer",
+    "category": "Sarcomas & Rare Solid Tumors",
+    "name": "Infantile Myofibromatosis",
+    "heredityTier": "none",
+    "description": "Rare neoplastic proliferation of myofibroblasts in infants and young children; may be solitary (localized to skin/bone/soft tissue) or multicentric (can involve viscera — high mortality). PDGFRB mutations in ~70% of familial and sporadic cases; SRF-OMD fusions in subset.",
+    "frequency": {
+      "us": "~50/yr Rare",
+      "global": "",
+      "sources": ""
+    },
+    "diagnosis": "MRI or CT primary lesions; plain radiograph (lytic bone lesions); biopsy; IHC (SMA+, desmin variable, h-caldesmon+); PDGFRB mutation sequencing; germline PDGFRB evaluation in familial; distinguish from fibrosarcoma and other myofibroblastic tumors.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Solitary localized: observation\n(spontaneous regression) or curettage/resection.\nMulticentric without visceral: watch and wait or low-\ndose chemotherapy (methotrexate + vinblastine).\nMulticentric visceral: systemic chemo (vincristine,\nactinomycin, cyclophosphamide); PDGFRB-targeted:\nimatinib (gleevec) active in PDGFRB-mutant cases —\nsmall series. Prognosis: solitary ~100%; multicentric\nwith visceral ~70% survival.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 62,
+    "slug": "clear-cell-sarcoma-of-the-kidney-ccsk",
+    "specialty": "cancer",
+    "category": "Sarcomas & Rare Solid Tumors",
+    "name": "Clear Cell Sarcoma of the Kidney (CCSK)",
+    "heredityTier": "none",
+    "description": "Rare renal tumor distinct from Wilms; characterized by bone metastases (pathognomonic); BCOR internal tandem duplications (ITD) or BCOR-CCNB3 fusions in majority; YWHAE fusions in subset. Previously called 'bone- metastasizing renal tumor of childhood.' Intermediate prognosis.",
+    "frequency": {
+      "us": "Global: ~300/yr ~1% of renal tumors; distinct from Wilms",
+      "global": "~300/yr ~1% of renal tumors; distinct from Wilms",
+      "sources": ""
+    },
+    "diagnosis": "CT abdomen (renal mass); bone scan (metastatic workup — bone mets); biopsy/nephrectomy; pathology: branching vascular septa, clear cells; IHC (cyclin D1+, BCOR+); BCOR ITD by PCR (diagnostic); distinguish from Wilms and RTK.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Surgery (nephrectomy) +\nintensive chemotherapy: NWTSG-5/COG regimen:\nvincristine, actinomycin-D, doxorubicin,\ncyclophosphamide, etoposide (UH-3). RT: flank RT for\nall stages ≥II. 5-yr OS ~70–80% with current therapy;\nlate relapses warrant 5+ yr surveillance.\n▸",
+      "emerging": "Emerging: EZH inhibitors (tazemetostat/Tazverik\n[Ipsen]; BCOR loss of function) investigational."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 63,
+    "slug": "rhabdoid-tumor-of-the-kidney-rtk",
+    "specialty": "cancer",
+    "category": "Sarcomas & Rare Solid Tumors",
+    "name": "Rhabdoid Tumor of the Kidney (RTK)",
+    "heredityTier": "dominant",
+    "description": "Highly aggressive renal malignancy of infants; SMARCB1 (INI1) biallelic loss; germline in ~35% (rhabdoid predisposition syndrome). Worst prognosis of pediatric renal tumors; rapid progression, metastatic at diagnosis in >80%. Often concurrent brain AT/RT.",
+    "frequency": {
+      "us": "Global: ~200/yr Highly aggressive; SMARCB1- deficient",
+      "global": "~200/yr Highly aggressive; SMARCB1- deficient",
+      "sources": ""
+    },
+    "diagnosis": "CT abdomen (necrotic renal mass, frequently extends beyond Gerota's fascia); MRI brain (exclude synchronous AT/RT); biopsy; IHC (INI1/SMARCB1 complete loss); SMARCB1 germline sequencing; BMA; LP for CNS.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Nephrectomy; COG AREN0321:\nhigh-dose chemo (carboplatin, cyclophosphamide,\netoposide); whole lung RT for pulmonary mets; flank\nRT. Germline SMARCB1: family surveillance. Palliative\nframing for most metastatic cases at diagnosis.\n▸",
+      "emerging": "Emerging: EZH2 inhibitor (tazemetostat/Tazverik\n(Ipsen)) — SWI/SNF loss rationale; pediatric rhabdoid\ntumor trials. 5-yr OS ~25%."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 64,
+    "slug": "renal-cell-carcinoma-mit-family-translocation-trcc",
+    "specialty": "cancer",
+    "category": "Sarcomas & Rare Solid Tumors",
+    "name": "Renal Cell Carcinoma — MiT Family Translocation (tRCC)",
+    "heredityTier": "none",
+    "description": "Pediatric RCC subtype defined by TFE3 (Xp11) or TFEB (6p21) translocations; distinct from adult clear cell RCC; often present in adolescents after prior chemotherapy exposure (particularly alkylating agents/topoisomerase inhibitors). Often misdiagnosed as Wilms tumor.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~500/yr TFE3/TFEB fusions; adolescents",
+      "sources": ""
+    },
+    "diagnosis": "CT/MRI abdomen; nephrectomy specimen or biopsy; TFE3 FISH (Xp11 translocation); TFEB FISH (t(6;11)); IHC (TFE3, cathepsin K, CAIX, RCC marker); AFP elevated with specific fusions; distinguish from Wilms and adult RCC.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Surgical nephrectomy (primary\ntreatment). Systemic: sunitinib or pazopanib (VEGFR\nTKI) — modest activity. mTOR inhibitors (temsirolimus)\n— TFEB subset may respond. No standard adjuvant\nchemotherapy. Prognosis: localized post-nephrectomy\n~70–80% 5-yr OS; metastatic ~30%.\n▸",
+      "emerging": "Emerging: Anti-PD1 combinations\n(pembrolizumab/Keytruda [Merck], nivolumab/Opdivo\n[Bristol Myers Squibb]) emerging."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 65,
+    "slug": "hepatocellular-carcinoma-pediatric-hcc",
+    "specialty": "cancer",
+    "category": "Sarcomas & Rare Solid Tumors",
+    "name": "Hepatocellular Carcinoma — Pediatric (HCC)",
+    "heredityTier": "none",
+    "description": "Malignant hepatocyte tumor; in children, distinct from adult HCC — often without cirrhosis, associated with hepatitis B (endemic areas), hereditary tyrosinemia, glycogen storage disease, biliary atresia. AFP elevated (~60%). Aggressive with worse outcomes than hepatoblastoma.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~2,000/yr Higher rates in HBV-endemic regions",
+      "sources": ""
+    },
+    "diagnosis": "CT/MRI liver (vascular enhancement pattern — arterial washout); AFP; HBV/HCV serology; metabolic workup (tyrosinemia: urine succinylacetone, FAH gene); biopsy if diagnosis uncertain; staging: PRETEXT and BCLC; CT chest for mets.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Surgery (partial hepatectomy)\nprimary; chemotherapy response inferior to\nhepatoblastoma. Sorafenib (VEGFR/RAF inhibitor)\nfirst-line systemic for unresectable/metastatic (adapted\nfrom adult data). TACE for downstaging. Liver\ntransplantation for unresectable confined to liver (Milan\ncriteria). HBV prevention (vaccination) = primary\nprevention in endemic areas. 5-yr OS ~30% overall.\n▸",
+      "emerging": "Emerging: NIAID trials: atezolizumab/Tecentriq\n(Roche/Genentech) + bevacizumab/Avastin (Roche/Genentech)."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 66,
+    "slug": "fibrolamellar-carcinoma-flc",
+    "specialty": "cancer",
+    "category": "Sarcomas & Rare Solid Tumors",
+    "name": "Fibrolamellar Carcinoma (FLC)",
+    "heredityTier": "none",
+    "description": "Distinct HCC variant; DNAJB1::PRKACA fusion (chr 19 deletion) in >90%; occurs in adolescents and young adults without cirrhosis or hepatitis; large eosinophilic hepatocytes with lamellar fibrosis. AFP normal in most; LDH and neurotensin elevated. Surgery-first approach.",
+    "frequency": {
+      "us": "~200/yr",
+      "global": "~1,000/yr Typically young adults 20-40 yrs",
+      "sources": ""
+    },
+    "diagnosis": "CT/MRI liver (large central scar, calcification in ~30%); AFP normal; neurotensin, LDH elevated; biopsy; DNAJB1::PRKACA fusion by RT- PCR/RNA-seq (diagnostic); distinguish from conventional HCC and cholangiocarcinoma.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Surgical resection (only\npotentially curative modality); aggressive resection +\nlymphadenectomy. Liver transplant for unresectable.\nSorafenib limited activity. Median OS ~3–5 yr for\nresected; ~9 months metastatic. FLC Registry\nenrollment recommended.\n▸",
+      "emerging": "Emerging: DNAJB1::PRKACA represents unique\ntarget: PRKACA inhibitors (investigational;\nacademic/early-phase sponsors) and\nrapamycin/sirolimus (Pfizer/Wyeth) combinations in\ntrials (CATCH-U study). Interferon-alpha +\nrituximab/Rituxan (Roche/Genentech) (FLC-specific\nexperimental)."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 67,
+    "slug": "undifferentiated-embryonal-sarcoma-of-the-liver-uesl",
+    "specialty": "cancer",
+    "category": "Sarcomas & Rare Solid Tumors",
+    "name": "Undifferentiated Embryonal Sarcoma of the Liver (UESL)",
+    "heredityTier": "none",
+    "description": "Highly aggressive pediatric liver tumor of mesenchymal origin; large cystic/solid mass with internal hemorrhage; presents in school-age children; AFP normal; unique among pediatric liver tumors in having no elevation of AFP and being misdiagnosed as liver abscess by CT.",
+    "frequency": {
+      "us": "Global: ~200/yr Rare primary hepatic malignancy",
+      "global": "~200/yr Rare primary hepatic malignancy",
+      "sources": ""
+    },
+    "diagnosis": "MRI (large cystic hepatic mass with internal hemorrhage — may mimic abscess); AFP normal; biopsy; IHC (vimentin+, desmin variable); DICER1 mutation evaluation; distinguish from hepatoblastoma, hepatic RMS, and angiosarcoma.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Complete surgical resection\nprimary. Chemotherapy: IRS/RMS-based regimens\n(ifosfamide, doxorubicin, vincristine) — improving\noutcomes significantly. Liver transplant for\nunresectable. With multimodal therapy (resection +\nchemo): 5-yr OS ~70–80% (improved from ~30% with\nsurgery alone). DICER1 mutations: PPB family\nsurveillance.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 68,
+    "slug": "biliary-rhabdomyosarcoma",
+    "specialty": "cancer",
+    "category": "Sarcomas & Rare Solid Tumors",
+    "name": "Biliary Rhabdomyosarcoma",
+    "heredityTier": "none",
+    "description": "RMS arising from biliary tree (most commonly common bile duct); botryoid embryonal subtype; presents with obstructive jaundice in young children — often misdiagnosed as biliary atresia initially. Excellent prognosis when diagnosed early given embryonal histology.",
+    "frequency": {
+      "us": "Global: ~200/yr Extremely rare; biliary tree RMS",
+      "global": "~200/yr Extremely rare; biliary tree RMS",
+      "sources": ""
+    },
+    "diagnosis": "Ultrasound + MRI liver/biliary tree (grape-like mass in bile duct); ERCP or MRCP; biopsy (percutaneous or at surgery); IHC (desmin, myogenin); distinguish from choledochal cyst and biliary atresia; staging per IRS RMS criteria.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Chemotherapy primary\n(VAC/VA) to shrink tumor; surgical resection (Roux-en-\nY reconstruction); RT for residual disease. Excellent\nprognosis given embryonal botryoid histology: 5-yr OS\n~75–90%. Avoid Whipple procedure when possible.\nIRS Group I–II: chemotherapy alone may suffice after\nresection.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 69,
+    "slug": "gist-sdh-deficient-pediatric-type",
+    "specialty": "cancer",
+    "category": "Sarcomas & Rare Solid Tumors",
+    "name": "GIST — SDH-deficient / Pediatric-type",
+    "heredityTier": "none",
+    "description": "Gastrointestinal stromal tumor arising in pediatric patients; virtually all are SDH- deficient (SDHA/B/C/D mutations) rather than KIT/PDGFRA-mutant (adult type). Gastric location predominant; multifocal; lymph node spread (unlike adult GIST); indolent course but incurable without surgical resection.",
+    "frequency": {
+      "us": "Global: ~200/yr Very rare; SDH-deficient GIST in children",
+      "global": "~200/yr Very rare; SDH-deficient GIST in children",
+      "sources": ""
+    },
+    "diagnosis": "CT/MRI abdomen (gastric mass); FDG-PET (typically avid); EGD + biopsy; IHC (CD117+, DOG1+, SDHA/SDHB loss by IHC — diagnostic of SDH deficiency); KIT/PDGFRA mutation negative; SDH subunit germline sequencing; CT chest (pulmonary chondroma); biochemical paraganglioma screening.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Surgical resection (primary\ntreatment); imatinib INEFFECTIVE (KIT/PDGFRA\nwildtype). Sunitinib or regorafenib for progressive\ndisease. Hypoxia-inducible factor (HIF) pathway:\ntemsirolimus. SDH-deficient GIST: chronic condition\nrequiring surveillance. 5-yr OS with optimal surgery\n>85% for localized.\n▸",
+      "emerging": "Emerging: Succinate-driven SWI/SNF complex\ntargeting: EZH2 inhibitors investigational\n(tazemetostat/Tazverik [Ipsen]). Immune checkpoint:\ndurvalumab/Imfinzi (AstraZeneca) trial."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 70,
+    "slug": "solid-pseudopapillary-neoplasm-of-the-pancreas-spn",
+    "specialty": "cancer",
+    "category": "Germ Cell, Endocrine & Other Carcinomas",
+    "name": "Solid Pseudopapillary Neoplasm of the Pancreas (SPN)",
+    "heredityTier": "none",
+    "description": "Low-malignant-potential pancreatic tumor almost exclusively in adolescent females; CTNNB1 (β-catenin) mutations in >95%; well-encapsulated with hemorrhagic pseudocyst formation; slow-growing; excellent prognosis with complete resection. Rare metastases.",
+    "frequency": {
+      "us": "~100/yr",
+      "global": "~1,500/yr Almost exclusively young women",
+      "sources": ""
+    },
+    "diagnosis": "CT/MRI abdomen (well- encapsulated cystic-solid pancreatic mass with hemorrhage); AFP/Ca19-9 normal; EUS-FNA for diagnosis if surgery uncertain; IHC (nuclear/cytoplasmic β-catenin, PR+, CD10+, vimentin+); distinguish from pancreatoblastoma and PNET.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Complete surgical resection\n(distal pancreatectomy ± splenectomy, or Whipple for\nhead lesions) curative in >95%. Minimally invasive\n(laparoscopic) resection preferred. Chemotherapy: not\nestablished; anecdotal cisplatin use for unresectable/metastatic. Gemcitabine palliative for rare\nmetastatic cases. 5-yr OS >95% with complete\nresection; even liver mets resectable for cure.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 71,
+    "slug": "sacrococcygeal-teratoma-malignant",
+    "specialty": "cancer",
+    "category": "Germ Cell, Endocrine & Other Carcinomas",
+    "name": "Sacrococcygeal Teratoma — Malignant",
+    "heredityTier": "none",
+    "description": "GCT of sacrococcygeal region; most common GCT in neonates and infants; spectrum from benign mature teratoma to malignant yolk sac tumor (endodermal sinus tumor); AFP markedly elevated in malignant components. Type I (external) vs. Types II–IV (presacral/internal).",
+    "frequency": {
+      "us": "malignant",
+      "global": "~500/yr 1 in 40,000 births; ~15% malignant",
+      "sources": ""
+    },
+    "diagnosis": "Prenatal ultrasound (large external mass); AFP (markedly elevated, age-corrected); CT/MRI pelvis for surgical planning; resection specimen pathology; β-hCG; distinguish benign from malignant by AFP and histology.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Complete resection with\ncoccygectomy (prevents recurrence). Malignant (yolk\nsac): BEP (bleomycin, etoposide, cisplatin) or JEB\n(bleomycin, carboplatin, etoposide) post-resection.\nAFP monitoring for recurrence. Benign resection alone\nsufficient. 5-yr OS: malignant localized ~90%;\nmetastatic ~50–60%.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 72,
+    "slug": "ovarian-germ-cell-tumor-malignant",
+    "specialty": "cancer",
+    "category": "Germ Cell, Endocrine & Other Carcinomas",
+    "name": "Ovarian Germ Cell Tumor — Malignant",
+    "heredityTier": "none",
+    "description": "Dysgerminoma, yolk sac tumor, immature teratoma, and mixed GCT of ovary; most common ovarian malignancy in girls and adolescents. AFP elevated in yolk sac; β- hCG in choriocarcinoma; dysgerminoma: highly radiosensitive and chemosensitive with excellent prognosis.",
+    "frequency": {
+      "us": "~100/yr",
+      "global": "~2,000/yr Peak incidence: 10-14 yrs",
+      "sources": ""
+    },
+    "diagnosis": "Pelvic ultrasound + CT abdomen/pelvis; AFP, β-hCG, LDH; surgical staging (unilateral salpingo- oophorectomy preferred — fertility preservation); pathology with GCT subtype; isochromosome 12p in most.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Fertility-sparing surgery\n(unilateral oophorectomy) for stage I. BEP\nchemotherapy (stage IC+). Dysgerminoma: highly\nBEP-sensitive; surveillance after stage IA gross\nresection. Immature teratoma grade 3: adjuvant BEP.\nConsolidation: surgery for residual mature teratoma\n(growing teratoma syndrome). 5-yr OS: >95%\nlocalized; ~75% metastatic.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 73,
+    "slug": "testicular-germ-cell-tumor-pediatric",
+    "specialty": "cancer",
+    "category": "Germ Cell, Endocrine & Other Carcinomas",
+    "name": "Testicular Germ Cell Tumor — Pediatric",
+    "heredityTier": "none",
+    "description": "GCT of testes in pediatric males; two distinct populations: prepubertal (yolk sac tumor pure or mature teratoma — isochromosome 12p negative) and postpubertal (classic adult GCT biology — mixed/seminoma, 12p+). Prepubertal type: low recurrence, AFP-monitored.",
+    "frequency": {
+      "us": "~150/yr",
+      "global": "~2,500/yr Bimodal: infants and teens",
+      "sources": ""
+    },
+    "diagnosis": "Scrotal ultrasound; AFP (age- corrected — high in neonates normally); β-hCG; radical inguinal orchiectomy (scrotal approach contraindicated); staging CT abdomen/chest; isochromosome 12p (postpubertal biology); pathology.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Stage I (prepubertal):\norchiectomy alone + AFP surveillance. Stage I\n(postpubertal/adolescent): surveillance or carboplatin ×\n1–2 cycles. Stage II–IV: BEP (bleomycin, etoposide,\ncisplatin) × 3–4 cycles. Retroperitoneal lymph node\ndissection for residual masses. 5-yr OS: >95% stage I–\nII; ~70–80% metastatic.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 74,
+    "slug": "mediastinal-germ-cell-tumor",
+    "specialty": "cancer",
+    "category": "Germ Cell, Endocrine & Other Carcinomas",
+    "name": "Mediastinal Germ Cell Tumor",
+    "heredityTier": "none",
+    "description": "Primary mediastinal GCT (anterior mediastinum); nonseminomatous most common in pediatric; high AFP and/or β- hCG; presents with chest pain, SVC syndrome, dyspnea. Worse prognosis than gonadal GCT (IGCCCG poor-risk category); associated with Klinefelter syndrome.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~500/yr Rare; mediastinum primary",
+      "sources": ""
+    },
+    "diagnosis": "CT chest (anterior mediastinal mass); AFP, β-hCG, LDH; biopsy (anterior mediastinoscopy or CT- guided); avoid complete resection upfront; staging; Klinefelter karyotype if young male; echocardiogram (SVC syndrome).",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: BEP × 4 cycles (poor-risk\nprotocol) + surgical resection of residual mass. High-\ndose chemo + ASCT for refractory disease. Resect\nresidual: mature teratoma or necrosis — growing\nteratoma syndrome. 5-yr OS ~50–60% (worse than\ngonadal GCT). Secondary leukemia surveillance in\nKlinefelter post-chemo.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 75,
+    "slug": "mixed-germ-cell-tumor",
+    "specialty": "cancer",
+    "category": "Germ Cell, Endocrine & Other Carcinomas",
+    "name": "Mixed Germ Cell Tumor",
+    "heredityTier": "none",
+    "description": "GCT with multiple histologic components (e.g., teratoma + yolk sac + embryonal carcinoma + choriocarcinoma); most common GCT in adolescent males (testicular) and females (ovarian); marker profile reflects predominant malignant component; treatment as per highest-risk component.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~1,000/yr Multiple GCT elements combined",
+      "sources": ""
+    },
+    "diagnosis": "AFP and β-hCG (both markers); orchiectomy or oophorectomy specimen; staging CT; IGCCCG risk classification (good/intermediate/poor) based on AFP level, β-hCG, LDH, presence of non-pulmonary visceral mets.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: BEP × 3 cycles (good risk) or × 4\ncycles (intermediate/poor). Residual resection after\nBEP. High-dose chemo + ASCT for refractory. 5-yr OS:\ngood-risk >90%; intermediate ~75%; poor-risk ~50%.\nGrowing teratoma syndrome: resection mandatory.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 76,
+    "slug": "papillary-thyroid-carcinoma-pediatric",
+    "specialty": "cancer",
+    "category": "Germ Cell, Endocrine & Other Carcinomas",
+    "name": "Papillary Thyroid Carcinoma — Pediatric",
+    "heredityTier": "none",
+    "description": "Most common thyroid cancer in children; pediatric PTC biologically distinct from adult: more often multifocal, bilateral, lymph node-positive, and pulmonary metastatic — yet paradoxically excellent long-term prognosis. RET fusions predominate (especially post-radiation); BRAF V600E less common than adult.",
+    "frequency": {
+      "us": "~500/yr",
+      "global": "~8,000/yr Radiation exposure increases risk",
+      "sources": ""
+    },
+    "diagnosis": "Thyroid ultrasound + US-guided FNA; total thyroidectomy specimen; IHC (CK19, HBME1, galectin-3); RET fusion (RT-PCR/RNA-seq); BRAF V600E; neck CT/MRI for nodes; ¹³¹I whole body scan post- thyroidectomy; Tg monitoring.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Total thyroidectomy + central\nneck dissection; RAI (¹³¹I) for metastatic/high-risk. RET\nfusion: selpercatinib or pralsetinib (FDA-approved for\nRET fusion-positive thyroid cancer). BRAF V600E:\ndabrafenib + trametinib. TSH suppression\n(levothyroxine). 5-yr OS >98%; late recurrence requires\nsurveillance ×20+ yr.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 77,
+    "slug": "follicular-thyroid-carcinoma-pediatric",
+    "specialty": "cancer",
+    "category": "Germ Cell, Endocrine & Other Carcinomas",
+    "name": "Follicular Thyroid Carcinoma — Pediatric",
+    "heredityTier": "none",
+    "description": "Second most common pediatric thyroid malignancy; vascular and capsular invasion define malignancy (cannot diagnose on FNA — requires excision); minimally invasive vs. widely invasive. DICER1 mutations in pediatric follicular thyroid cancer; RAS mutations in some.",
+    "frequency": {
+      "us": "~100/yr",
+      "global": "~1,500/yr Less common than papillary subtype",
+      "sources": ""
+    },
+    "diagnosis": "Thyroid ultrasound + FNA (Bethesda IV–V — indeterminate or suspicious for follicular neoplasm); diagnostic hemithyroidectomy required; histopathology (capsular + vascular invasion); DICER1 sequencing; RAS mutation; distinguish from follicular adenoma.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Hemithyroidectomy for low-risk\nminimally invasive; completion thyroidectomy for widely\ninvasive or mets. RAI (¹³¹I) for metastatic disease.\nSorafenib/lenvatinib for RAI-refractory. DICER1\ngermline: surveillance for PPB family tumors. 5-yr OS:\nminimally invasive ~99%; widely invasive ~70%.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 78,
+    "slug": "medullary-thyroid-carcinoma-pediatric-men2-ret",
+    "specialty": "cancer",
+    "category": "Germ Cell, Endocrine & Other Carcinomas",
+    "name": "Medullary Thyroid Carcinoma — Pediatric (MEN2/RET)",
+    "heredityTier": "strong",
+    "description": "C-cell malignancy secreting calcitonin; virtually all pediatric MTC is RET germline mutation-associated (MEN2A or MEN2B); MEN2B presents in infancy with ropey nerves, marfanoid habitus. Prophylactic thyroidectomy timing based on RET mutation codon.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~500/yr MEN2A/2B; RET germline mutations",
+      "sources": ""
+    },
+    "diagnosis": "Calcitonin (markedly elevated); CEA; RET germline sequencing (ALL pediatric MTC); basal and stimulated calcitonin; neck ultrasound + MRI; pheochromocytoma biochemical screening (urine metanephrines) before surgery; parathyroid calcium.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Total thyroidectomy + central\nlymph node dissection (prophylactic or curative). Pheo\ntreated before thyroid surgery. Selpercatinib or\npralsetinib (RET inhibitors) for metastatic/progressive\nMTC — FDA-approved. Vandetanib for pediatric\nadvanced MTC (FDA-approved 2013). External beam\nRT palliative. 5-yr OS: localized (post-prophylactic\nthyroidectomy) ~100%; metastatic ~50%.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 79,
+    "slug": "adrenocortical-carcinoma-pediatric-acc",
+    "specialty": "cancer",
+    "category": "Germ Cell, Endocrine & Other Carcinomas",
+    "name": "Adrenocortical Carcinoma — Pediatric (ACC)",
+    "heredityTier": "dominant",
+    "description": "Malignant adrenal cortex tumor; distinct from adult ACC — TP53 germline mutation in >50% of Brazilian children (R337H founder mutation) and ~25% globally; Li-Fraumeni syndrome major risk factor. Virilization and Cushing syndrome presenting features.",
+    "frequency": {
+      "us": "Global: ~200/yr High incidence in Brazil: TP53 p.R337H",
+      "global": "~200/yr High incidence in Brazil: TP53 p.R337H",
+      "sources": ""
+    },
+    "diagnosis": "Urine/serum steroids (DHEA-S, cortisol, testosterone, aldosterone); CT/MRI abdomen; PET-CT; surgical resection specimen; TP53 germline sequencing in all children; IGF2 overexpression; CTNNB1 mutation; ATRX; staging per ENSAT or modified staging.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Complete surgical resection\n(adrenalectomy — laparoscopic only for small tumors,\nopen for large). Mitotane (adrenolytic): adjuvant for\nhigh-risk resected; only established systemic agent.\nCisplatin + etoposide + doxorubicin + mitotane for\nmetastatic. TP53/germline: Li-Fraumeni surveillance\nprotocol. 5-yr OS: Stage I–II ~80%; Stage III–IV <30%.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 80,
+    "slug": "pheochromocytoma-mibg-avid-vhl-nf1-ret-associated",
+    "specialty": "cancer",
+    "category": "Germ Cell, Endocrine & Other Carcinomas",
+    "name": "Pheochromocytoma — MIBG-avid (VHL/NF1/RET- associated)",
+    "heredityTier": "dominant",
+    "description": "Catecholamine-secreting tumor of adrenal medulla chromaffin cells; pediatric pheo is predominantly hereditary (germline VHL, NF1, RET, MAX) and MIBG-avid. Hypertensive crises, headache, sweating triad. Functionally different from SDH-deficient paraganglioma.",
+    "frequency": {
+      "us": "~100/yr",
+      "global": "~1,000/yr Often hereditary: VHL, NF1, RET, SDHx",
+      "sources": ""
+    },
+    "diagnosis": "24-hr urine catecholamines and metanephrines (elevated); plasma metanephrines; ¹²³I-MIBG scan (primary imaging, avid in >90% VHL/RET/NF1); MRI adrenals (avoids radiation — better soft tissue); germline sequencing: VHL, RET, NF1, MAX, TMEM127.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Surgical resection (cortical-\nsparing adrenalectomy for bilateral to preserve adrenal\nfunction). Pre-op alpha-blockade (phenoxybenzamine)\n10–14 days mandatory. Then beta-blockade. MIBG\ntherapy (¹³¹I-MIBG — Azedra) for\nunresectable/metastatic. Sunitinib palliative. CVX\nsurveillance lifelong (hereditary). 5-yr OS: benign\nresected >95%; malignant metastatic ~50%.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 81,
+    "slug": "paraganglioma-dotatate-avid-sdh-deficient",
+    "specialty": "cancer",
+    "category": "Germ Cell, Endocrine & Other Carcinomas",
+    "name": "Paraganglioma — DOTATATE-avid, SDH- deficient",
+    "heredityTier": "dominant",
+    "description": "Extra-adrenal paraganglioma arising in head/neck, thorax, abdomen, or pelvis; SDH gene mutations (SDHB/C/D — Carney-Stratakis syndrome) cause SDH deficiency, activating pseudo-hypoxic HIF pathway; DOTATATE PET superior to MIBG for imaging; higher metastatic risk (especially SDHB).",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~500/yr SDHx germline mutations common",
+      "sources": ""
+    },
+    "diagnosis": "24-hr urine metanephrines/catecholamines; ¹⁶⁸Ga-DOTATATE PET-CT (primary imaging — superior to MIBG for SDH-deficient, head/neck); SDHB/C/D germline sequencing; SDHB IHC (loss = SDH deficiency); MRI primary; CT chest for thoracic PGL.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Surgical resection primary\n(complete excision). SDH-deficient/SDHB: lifelong\nsurveillance for metastases and new primaries.\nUnresectable/metastatic: PRRT (¹⁷⁷Lu-DOTATATE —\nLutathera) — FDA-approved for somatostatin receptor-\npositive tumors; pediatric data",
+      "emerging": "emerging. Sunitinib;\ntemozolomide + capecitabine for SDHB metastatic.\nCVX surveillance for all family members with germline\nSDH mutations."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 82,
+    "slug": "neuroendocrine-tumor-appendiceal-carcinoid",
+    "specialty": "cancer",
+    "category": "Germ Cell, Endocrine & Other Carcinomas",
+    "name": "Neuroendocrine Tumor — Appendiceal (Carcinoid)",
+    "heredityTier": "none",
+    "description": "Most common pediatric GI tumor at surgery; low-grade NET of appendix; majority <2 cm and cured by appendectomy; larger tumors require right hemicolectomy. Carcinoid syndrome rare in pediatric. Incidental finding at appendectomy for appendicitis in >50%.",
+    "frequency": {
+      "us": "~100/yr",
+      "global": "~1,000/yr Most common GI carcinoid in children",
+      "sources": ""
+    },
+    "diagnosis": "Discovered at appendectomy (incidentally or for appendicitis symptoms); pathology (chromogranin A+, synaptophysin+, Ki-67 <2% typical); DOTATATE PET only if >2 cm or mets suspected; 5-HIAA urine for functional tumors.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Appendectomy alone for <2 cm\ntumors: curative ~99%. Right hemicolectomy for ≥2 cm\nor mesoappendiceal invasion. Octreotide (somatostatin\nanalog) for carcinoid syndrome (rare). PRRT for\nmetastatic (rare in children). 5-yr OS ~100% for <2 cm\nlocalized; ~60–70% for rare metastatic disease.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 83,
+    "slug": "neuroendocrine-tumor-pancreatic-duodenal",
+    "specialty": "cancer",
+    "category": "Germ Cell, Endocrine & Other Carcinomas",
+    "name": "Neuroendocrine Tumor — Pancreatic / Duodenal",
+    "heredityTier": "associated",
+    "description": "Functioning (insulin, gastrin, VIP, glucagon-secreting) or non-functioning NET of pancreas or duodenum; pediatric cases often MEN1 syndrome-associated. Insulinoma most common functioning in children. Distinct biology from appendiceal NET; DOTATATE PET primary imaging; surgical resection curative.",
+    "frequency": {
+      "us": "Global: ~500/yr Very rare in children",
+      "global": "~500/yr Very rare in children",
+      "sources": ""
+    },
+    "diagnosis": "Functional: fasting insulin/C-peptide (insulinoma); gastrin (gastrinoma); VIP; glucagon; 24-hr urine 5-HIAA (non-specific); ¹⁶⁸Ga-DOTATATE PET-CT (primary staging); endoscopic ultrasound for small lesions; MEN1 germline sequencing; CT/MRI pancreas.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Surgical resection (distal\npancreatectomy or Whipple) primary treatment. Octreotide/lanreotide for symptomatic/unresectable.\nPRRT (¹⁷⁷Lu-DOTATATE) for somatostatin receptor-\npositive unresectable. Everolimus (mTOR inhibitor) for\nprogressive. Sunitinib. MEN1-associated: consider\nobservation for small non-functioning; surgical timing\ndebated. 5-yr OS: localized ~90%; metastatic ~50–\n60%.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 84,
+    "slug": "nasopharyngeal-carcinoma-pediatric-ebv-driven",
+    "specialty": "cancer",
+    "category": "Germ Cell, Endocrine & Other Carcinomas",
+    "name": "Nasopharyngeal Carcinoma — Pediatric / EBV-driven",
+    "heredityTier": "none",
+    "description": "Squamous cell carcinoma of nasopharynx; nearly universally EBV- associated in pediatric patients (>95%); distinct from adult NPC; presents with neck mass, epistaxis, cranial nerve palsies, nasal obstruction. Highly radiosensitive; chemotherapy + RT curative for most localized cases.",
+    "frequency": {
+      "us": "~200/yr",
+      "global": "~12,000/yr Endemic in SE Asia and North Africa; EBV-driven",
+      "sources": ""
+    },
+    "diagnosis": "MRI nasopharynx + neck (skull base involvement); PET-CT; EBV viral load (plasma EBV DNA — diagnostic and monitoring); endoscopic biopsy; IHC (WHO type III undifferentiated = most common in children); distinguish from lymphoma (nasopharyngeal lymphoma); EBER ISH.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Concurrent chemoradiation\n(cisplatin + RT 70 Gy IMRT) — standard frontline.\nInduction chemotherapy (TPF: docetaxel, cisplatin, 5-\nFU) for bulky/stage III–IV. EBV plasma DNA guidance\nfor adaptive therapy. Anti-PD1 (pembrolizumab,\nnivolumab) for recurrent/metastatic — significant\nactivity. GemCis for recurrence. 5-yr OS: ~80%\nlocalized; ~50% metastatic.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 85,
+    "slug": "salivary-gland-carcinoma-pediatric",
+    "specialty": "cancer",
+    "category": "Germ Cell, Endocrine & Other Carcinomas",
+    "name": "Salivary Gland Carcinoma — Pediatric",
+    "heredityTier": "none",
+    "description": "Rare malignant tumors of major or minor salivary glands in children; most common histotypes: mucoepidermoid carcinoma (CRTC1/3::MAML2 fusion — favorable when present), acinic cell carcinoma, and adenoid cystic carcinoma (MYB::NFIB); parotid most common site. Distinct from adult in higher-grade potential.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~500/yr Rare; mucoepidermoid most common subtype",
+      "sources": ""
+    },
+    "diagnosis": "MRI parotid/submandibular/minor salivary glands; FNA (Bethesda salivary gland system); surgical excision for definitive diagnosis; FISH/RT-PCR CRTC1/3::MAML2 (mucoepidermoid); MYB::NFIB (adenoid cystic); HRAS mutation (Warthin-like); grade (low/intermediate/high).",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Parotidectomy with facial nerve\npreservation (primary). RT for high-grade, close\nmargins, or perineural invasion. Adenoid cystic:\nadjuvant RT standard; NOTCH1-targeted therapy\n(Al2O2 inhibitors). Mucoepidermoid MAML2-positive:\nexcellent prognosis post-resection. Metastatic: cisplatin\n+ 5-FU; targeted (FGFR, TRK per fusion). 5-yr OS:\nlow-grade ~90%; high-grade ~50%.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 86,
+    "slug": "olfactory-neuroblastoma-esthesioneuroblastoma",
+    "specialty": "cancer",
+    "category": "Germ Cell, Endocrine & Other Carcinomas",
+    "name": "Olfactory Neuroblastoma (Esthesioneuroblastoma)",
+    "heredityTier": "none",
+    "description": "Malignant neuroectodermal tumor of olfactory epithelium in cribriform plate; presents with anosmia, epistaxis, and nasal obstruction. Bimodal age distribution (11–20 yr and 50–60 yr). Craniofacial resection + RT standard. Slow-growing but capable of late recurrence and CSF spread.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~500/yr Rare; olfactory epithelium origin",
+      "sources": ""
+    },
+    "diagnosis": "MRI cribriform plate/anterior skull base (extends intracranially in 50%); CT skull base; PET-CT; endoscopic biopsy; IHC (synaptophysin+, chromogranin A+, S100+ sustentacular cells, cytokeratin-); Hyams grading (I–IV); distinguish from SNUC and SNEC.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Combined craniofacial resection\n(endoscopic ± open) + RT (60–65 Gy IMRT).\nChemotherapy: cisplatin + etoposide neoadjuvant for\nhigh-grade/advanced Kadish C–D. Temozolomide\npalliative for recurrence. Octreotide/PRRT if\nsomatostatin receptor positive. Kadish C ~65%; Kadish\nD ~40%.\n▸",
+      "emerging": "Emerging: Anti-GD2 (dinutuximab/Unituxin (United\nTherapeutics)) investigational. 5-yr OS: Kadish A/B\n~80%;"
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 87,
+    "slug": "thymic-tumors-pediatric-thymoma-thymic-carcinoma",
+    "specialty": "cancer",
+    "category": "Germ Cell, Endocrine & Other Carcinomas",
+    "name": "Thymic Tumors — Pediatric (Thymoma / Thymic Carcinoma)",
+    "heredityTier": "none",
+    "description": "Epithelial tumors of thymus in anterior mediastinum; thymoma rare in children (unlike young adults); thymic carcinoma more aggressive. Association with myasthenia gravis and other paraneoplastic syndromes in thymoma. GTF2I mutation in type A/AB thymoma.",
+    "frequency": {
+      "us": "Global: ~300/yr Rare in children; MG- associated",
+      "global": "~300/yr Rare in children; MG- associated",
+      "sources": ""
+    },
+    "diagnosis": "CT chest (anterior mediastinal mass with fatty infiltration); MRI; anti-AChR antibodies (myasthenia gravis screening); biopsy (CT- guided or mediastinoscopy); WHO classification (A, AB, B1/B2/B3, TC); GTF2I mutation; PD-L1 IHC; FISH for 6q deletion.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Complete surgical resection\n(thymectomy) curative for encapsulated thymoma.\nExtended resection for invasive. RT for incompletely\nresected B2/B3 or thymic carcinoma. Cisplatin-based\nchemotherapy (CAP: cyclophosphamide, doxorubicin,\ncisplatin) for unresectable. Pembrolizumab + lenvatinib\nactive in thymic carcinoma. Somatostatin analog\npalliative. Myasthenia gravis: pyridostigmine, IVIg,\nPLEX.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 88,
+    "slug": "melanoma-pediatric",
+    "specialty": "cancer",
+    "category": "Histiocytic, NUT, Fusion & Predisposition",
+    "name": "Melanoma — Pediatric",
+    "heredityTier": "none",
+    "description": "Malignant tumor of melanocytes; in prepubertal children often arises from giant congenital nevi or as spitzoid neoplasms; postpubertal melanoma biologically similar to adult (BRAF V600E ~40–50%). Diagnosis challenging — Spitz nevus and melanoma overlap pathologically.",
+    "frequency": {
+      "us": "~300/yr",
+      "global": "~5,000/yr Rare in young children; increasing in adolescents",
+      "sources": ""
+    },
+    "diagnosis": "Dermoscopy; wide excision with sentinel lymph node biopsy (staging); pathology (Breslow thickness, ulceration, mitotic rate, regression); BRAF V600E/K; NRAS; NF1; KIT; LDH; PET-CT for staging; distinguish from atypical Spitz tumor.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Wide local excision (margins per\nBreslow thickness). Sentinel LN biopsy. Stage III:\nadjuvant pembrolizumab or nivolumab (1 yr). BRAF\nV600E: adjuvant dabrafenib + trametinib (FDA- approved >12 yr post pediatric trial). Stage IV:\npembrolizumab, nivolumab, or dabrafenib+trametinib.\nIPI + NIVO combination. 5-yr OS: Stage I >95%; Stage\nIV ~45–50% with modern immunotherapy.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 89,
+    "slug": "spitz-melanoma-spitzoid-neoplasm",
+    "specialty": "cancer",
+    "category": "Histiocytic, NUT, Fusion & Predisposition",
+    "name": "Spitz Melanoma / Spitzoid Neoplasm",
+    "heredityTier": "none",
+    "description": "Spectrum of Spitzoid melanocytic tumors ranging from benign Spitz nevus to atypical Spitz tumor (AST) to frank Spitz melanoma; kinase fusions (ROS1, ALK, NTRK1/3, MET, RET, BRAF-atypical) characterize most; distinct from conventional melanoma; responds to TRK/ALK inhibitors when fusion-driven.",
+    "frequency": {
+      "us": "~200/yr",
+      "global": "~2,000/yr Distinct from conventional melanoma",
+      "sources": ""
+    },
+    "diagnosis": "Dermatopathology (architectural disorder, large epithelioid/spindle cells, Kamino bodies); FISH (6q23 loss, 11q23 gain, 8q24 gain, 9p21 loss); RNA-seq for kinase fusions (ROS1, ALK, NTRK1/3 — therapeutic targets); distinguish from conventional melanoma (BRAF V600E negative in most Spitz); comparative genomic hybridization.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Wide local excision + sentinel LN\nbiopsy for AST/Spitz melanoma. NTRK fusion:\nlarotrectinib — dramatic responses reported. ALK\nfusion: crizotinib. ROS1: crizotinib/entrectinib. BRAF\natypical fusion: dabrafenib. Avoid radical treatment for\nisolated SLNB-positive AST (regional mets exceedingly\nrare). 5-yr OS: Spitz melanoma ~75–85% even with LN\ninvolvement.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 90,
+    "slug": "langerhans-cell-histiocytosis-single-system-ss-lch",
+    "specialty": "cancer",
+    "category": "Histiocytic, NUT, Fusion & Predisposition",
+    "name": "Langerhans Cell Histiocytosis — Single- System (SS-LCH)",
+    "heredityTier": "none",
+    "description": "Clonal neoplastic proliferation of Langerhans cell-lineage myeloid progenitors; single-system means one organ or system involved (bone most common — often solitary lesion, skull/vertebra); BRAF V600E in ~50– 60%; skin LCH in infants often self- limited.",
+    "frequency": {
+      "us": "~500/yr",
+      "global": "~5,000/yr Single system/single lesion; often curable",
+      "sources": ""
+    },
+    "diagnosis": "X-ray + MRI (lytic bone lesion, vertebra plana); whole-body MRI or FDG-PET for assessment; biopsy (CD1a+, CD207/langerin+, S100+); BRAF V600E (mutation ~50–60%); BRAF wildtype: MAP2K1, other RAS pathway mutations; distinguish from Ewing sarcoma (bone) and seborrheic dermatitis (skin).",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Solitary bone: curettage ±\nintralesional steroid injection (methylprednisolone);\nlow-dose RT (6–10 Gy) for CNS-risk lesions (temporal,\norbital, mastoid, sphenoid). Skin-only infant: emollient,\ntopical steroids; 50% spontaneous remission. BRAF\nV600E+: vemurafenib/dabrafenib for refractory. 5-yr\nOS SS-LCH >99%.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 91,
+    "slug": "langerhans-cell-histiocytosis-multi-system-ms-lch",
+    "specialty": "cancer",
+    "category": "Histiocytic, NUT, Fusion & Predisposition",
+    "name": "Langerhans Cell Histiocytosis — Multi- System (MS-LCH)",
+    "heredityTier": "none",
+    "description": "LCH involving ≥2 organ systems; risk- organ involvement (liver, spleen, bone marrow — 'risk-positive') confers high mortality and risk of LCH-associated neurodegeneration (LCH-ND). Risk-organ negative MS-LCH: better prognosis. BRAF V600E ~55%; MAP kinase pathway universal.",
+    "frequency": {
+      "us": "~200/yr",
+      "global": "~2,000/yr Multi-organ involvement; higher morbidity",
+      "sources": ""
+    },
+    "diagnosis": "FDG-PET or ⁶⁸Ga-DOTATATE PET + whole-body MRI for staging; bone marrow biopsy; liver biopsy (if hepatomegaly); CSF and brain MRI (LCH-ND screening); BRAF V600E circulating cell-free DNA (cfDNA) — response monitoring and disease activity; multi-system organ function assessment.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: LCH-IV protocol: vinblastine +\nprednisone (6-week induction) × 2 courses;\nmaintenance vinblastine/prednisone ×12 months for\nrisk-positive. BRAF V600E risk-refractory/RO-positive:\nvemurafenib, dabrafenib, trametinib — dramatic\nresponses. Clofarabine or cladribine for refractory. SCT\nfor refractory risk-positive.\n▸",
+      "emerging": "Emerging: LCH-ND: cytarabine + cladribine; clinical\ntrials."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 92,
+    "slug": "nut-carcinoma",
+    "specialty": "cancer",
+    "category": "Histiocytic, NUT, Fusion & Predisposition",
+    "name": "NUT Carcinoma",
+    "heredityTier": "none",
+    "description": "Aggressive undifferentiated carcinoma defined by NUTM1 gene rearrangement (usually BRD4::NUTM1 t(15;19)); primarily midline location (mediastinum, head/neck, lung); rapidly progressive; often misdiagnosed as anaplastic carcinoma or lymphoma. BET inhibitor- sensitive.",
+    "frequency": {
+      "us": "all ages",
+      "global": "~500/yr NUT gene fusion; aggressive",
+      "sources": ""
+    },
+    "diagnosis": "Biopsy; NUT IHC (>50% nuclear speckled staining — highly sensitive/specific); FISH or RT-PCR for BRD4::NUTM1 (or BRD3, NSD3 partners); distinguish from Ewing sarcoma, DLBCL, and anaplastic carcinoma by NUT IHC; NUTM1 family partners by RNA-seq.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Platinum-based chemotherapy +\nRT (modest response). Intensive multiagent chemo\n(carbo/taxol; ICE regimens). Surgical resection where\nfeasible. HDAC inhibitor combinations. NUT Carcinoma\nRegistry: enrollment essential given rarity. 5-yr OS\n~15–20% overall.\n▸",
+      "emerging": "Emerging: BET bromodomain inhibitor (BETi) trials:\nOTX015/birabresib (Merck KGaA) and other BET\ninhibitors — early phase."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 93,
+    "slug": "smarcb1-deficient-tumors-extracranial-malignant-rhabdoid-tumor-emrt",
+    "specialty": "cancer",
+    "category": "Histiocytic, NUT, Fusion & Predisposition",
+    "name": "SMARCB1-Deficient Tumors — Extracranial Malignant Rhabdoid Tumor (eMRT)",
+    "heredityTier": "dominant",
+    "description": "Highly aggressive extracranial rhabdoid tumors (kidney, liver, soft tissue) with biallelic SMARCB1 inactivation; germline in ~30–40% (rhabdoid predisposition syndrome with concurrent AT/RT risk). Infants and toddlers. EZH2 inhibition is mechanistically rational therapy.",
+    "frequency": {
+      "us": "Global: ~200/yr Extracranial rhabdoid tumors; SMARCB1-deficient",
+      "global": "~200/yr Extracranial rhabdoid tumors; SMARCB1-deficient",
+      "sources": ""
+    },
+    "diagnosis": "MRI primary site; brain/spine MRI (exclude concurrent AT/RT); BMA; biopsy; IHC (INI1/SMARCB1 complete loss); SMARCB1 sequencing (somatic biallelic); germline SMARCB1; distinguish from other small round blue cell tumors.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Multiagent chemo (carboplatin,\ncyclophosphamide, etoposide, doxorubicin); high-dose\nconsolidation; focal RT. BET inhibitors.\n▸",
+      "emerging": "Emerging: Tazemetostat/Tazverik (Ipsen) (EZH2 inhibitor) — SWI/SNF complex reconstitution rationale;\npediatric rhabdoid trials. Immunotherapy trials (PD-L1\nexpressed in subset). 5-yr OS <25% metastatic;\nlocalized ~50%."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 94,
+    "slug": "cic-rearranged-sarcoma",
+    "specialty": "cancer",
+    "category": "Histiocytic, NUT, Fusion & Predisposition",
+    "name": "CIC-Rearranged Sarcoma",
+    "heredityTier": "none",
+    "description": "Small round cell sarcoma defined by CIC::DUX4 (or CIC::FOXO4) fusions; now WHO 2020-classified separately from Ewing sarcoma; more aggressive than Ewing; soft tissue predominance; WT1 and ETV4 expression by IHC; prognosis worse than Ewing despite similar histology.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~300/yr Recently characterized; CIC::DUX4 fusion",
+      "sources": ""
+    },
+    "diagnosis": "Biopsy; FISH for CIC rearrangement; RNA-seq for CIC::DUX4 fusion (preferred — more sensitive); IHC (WT1+, ETV4+, CD99 weak, EWSR1 fusion-negative by FISH); BCOR- CCNB3 and EWSR1 fusions must be excluded.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Ewing-like chemotherapy\n(VAC/IE or similar); local control with surgery + RT.\nStandard chemotherapy less effective than in classic\nEwing. Clinical trial enrollment via COG/SARC\nessential. 5-yr OS ~40–50%; worse than Ewing\nSarcoma.\n▸",
+      "emerging": "Emerging: CDK12 inhibition, YAP pathway\ntargeting (CIC is YAP/TAZ repressor — loss activates\noncogenes) investigational."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 95,
+    "slug": "bcor-altered-tumors-bcor-ccnb3-sarcoma-bcor-itd",
+    "specialty": "cancer",
+    "category": "Histiocytic, NUT, Fusion & Predisposition",
+    "name": "BCOR-Altered Tumors (BCOR-CCNB3 Sarcoma / BCOR ITD)",
+    "heredityTier": "none",
+    "description": "Small round cell sarcoma defined by BCOR-CCNB3 fusion (X-chromosome inversion, predominantly young males) or BCOR internal tandem duplication (ITD — also defines most CCSK); Ewing-like but distinct; BCOR-CCNB3: bone and soft tissue in adolescent males; epigenetic target (PRC1.1 complex).",
+    "frequency": {
+      "us": "Global: ~200/yr BCOR-CCNB3 or BCOR ITD driven",
+      "global": "~200/yr BCOR-CCNB3 or BCOR ITD driven",
+      "sources": ""
+    },
+    "diagnosis": "Biopsy; BCOR-CCNB3 fusion by RT-PCR or RNA-seq; FISH for X chromosome inversion (BCOR- CCNB3); IHC (BCOR overexpression+, cyclin B3+, CD99 variable); EWSR1 fusion negative; bone marrow and staging CT.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Ewing-like chemotherapy\nprotocols (VAC/IE) — used empirically; some evidence\nof response. Surgery + RT for local control. Prognosis:\nlocalized ~70–80% 5-yr OS; metastatic ~40%.\n▸",
+      "emerging": "Emerging: EZH2 inhibitor (tazemetostat/Tazverik\n[Ipsen]); BCOR is PRC1.1 component — related to\nSWI/SNF complex) — rationale for epigenetic\ntargeting; trials underway. Clinical trial enrollment\nrecommended."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 96,
+    "slug": "alk-inflammatory-myofibroblastic-tumor-imt",
+    "specialty": "cancer",
+    "category": "Histiocytic, NUT, Fusion & Predisposition",
+    "name": "ALK+ Inflammatory Myofibroblastic Tumor (IMT)",
+    "heredityTier": "none",
+    "description": "Myofibroblastic neoplasm with inflammatory background; ALK rearrangements in ~50% (ALK::TPM3, ALK::TPM4, etc.); epithelioid inflammatory IMT variant worse prognosis; pulmonary, mesenteric, retroperitoneal sites in children. Dramatic response to crizotinib. Rare distant metastasis (unlike IMT-like tumors).",
+    "frequency": {
+      "us": "~100/yr",
+      "global": "~1,000/yr Can occur at any site; ALK- driven",
+      "sources": ""
+    },
+    "diagnosis": "CT primary; core biopsy; IHC (ALK — granular cytoplasmic); ALK FISH for rearrangement; RNA-seq for fusion partner; distinguish from RMS, DSRCT, and EBV-associated SMT in immunocompromised; plasma ALK ctDNA emerging.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Complete surgical resection\nprimary (curative if resectable). ALK+: crizotinib —\ndramatic responses >50%; alectinib for crizotinib-\nresistant. NSAIDs (COX-2 inhibition) — anti-\ninflammatory palliation. ALK-negative: surgery ±\nchemotherapy. Epithelioid ALK+ variant: more\naggressive — systemic ALK inhibitor + surgery. 5-yr\nOS: localized ~90%; metastatic ~60%.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 97,
+    "slug": "ntrk-fusion-tumors-trk-fusion-cancer",
+    "specialty": "cancer",
+    "category": "Histiocytic, NUT, Fusion & Predisposition",
+    "name": "NTRK Fusion Tumors (TRK Fusion Cancer)",
+    "heredityTier": "none",
+    "description": "Pan-tumor category defined by NTRK1/2/3 gene fusions driving constitutively active TRK kinase signaling; multiple histotypes in pediatrics (infantile fibrosarcoma, gliomas, papillary thyroid, secretory breast carcinoma, MASC); larotrectinib and entrectinib FDA- approved agnostically.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~500/yr Pan-tumor therapy target; larotrectinib approved",
+      "sources": ""
+    },
+    "diagnosis": "Comprehensive tumor profiling (RNA-seq or hybrid capture DNA sequencing for fusions); IHC (pan- TRK — screening, not confirmatory); FISH for specific NTRK rearrangements; tumor- agnostic indication requires NTRK fusion documentation; resistance mutations (NTRK kinase domain) at progression.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Larotrectinib (Vitrakvi) or\nentrectinib (Rozlytrek) — FDA-approved tumor-\nagnostic for TRK fusion-positive solid tumors; overall\nresponse rate ~75% pediatric/adult. Larotrectinib:\npediatric-specific dosing approved. Next-generation\nTRK inhibitors (selitrectinib, repotrectinib) for\nresistance. Duration: continue until progression. 5-yr\nOS: infantile fibrosarcoma with TRK inhibitor >90%.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 98,
+    "slug": "dicer1-syndrome-tumors",
+    "specialty": "cancer",
+    "category": "Histiocytic, NUT, Fusion & Predisposition",
+    "name": "DICER1 Syndrome Tumors",
+    "heredityTier": "strong",
+    "description": "Germline DICER1 mutation causes a cancer predisposition syndrome; associated tumors: pleuropulmonary blastoma, cystic nephroma/Wilms, ovarian sex cord-stromal tumors (Sertoli- Leydig cell tumor — SLCT), cervical embryonal RMS, pineal pineoblastoma, multinodular goiter/thyroid carcinoma, pituitary blastoma. Somatic DICER1 'hotspot' second hits drive tumorigenesis.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~500/yr Germline DICER1; multiple tumor types",
+      "sources": ""
+    },
+    "diagnosis": "Germline DICER1 sequencing (all PPB patients, SLCT, cervical RMS, pineoblastoma, cystic nephroma); somatic hotspot mutations (E1705, E1709) in tumors; surveillance protocol: annual chest CT age 0–8 yr (PPB), pelvic ultrasound (SLCT), thyroid ultrasound.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Tumor-specific treatment per\nhistotype (PPB per type; SLCT: surgery; thyroid\ncarcinoma: thyroidectomy + RAI; RMS: VAC protocol).\nNo DICER1-specific targeted therapy approved yet.\nSurveillance protocol per DICER1 Consortium\nguidelines. Genetic counseling for all family members.\nInternational DICER1 Registry enrollment for all affected families.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 99,
+    "slug": "cmmrd-associated-tumors",
+    "specialty": "cancer",
+    "category": "Histiocytic, NUT, Fusion & Predisposition",
+    "name": "CMMRD-Associated Tumors",
+    "heredityTier": "strong",
+    "description": "Constitutional mismatch repair deficiency syndrome (biallelic MMR gene mutations: MLH1, MSH2, MSH6, PMS2); causes childhood-onset brain tumors (high-grade glioma), colorectal cancer, lymphoma, and other cancers; ultra-hypermutation confers exceptional immunotherapy sensitivity.",
+    "frequency": {
+      "us": "Extremely rare Constitutional mismatch repair deficiency",
+      "global": "",
+      "sources": ""
+    },
+    "diagnosis": "IHC (MMR proteins — all four lost in CMMRD tumor); tumor mutational burden (ultra-high: >100 mut/Mb in most); MSI-H; germline MMR gene sequencing (biallelic); Lynch syndrome exclusion (monoallelic); sibling germline testing; café au lait macules >5.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: PD-1 blockade (nivolumab,\npembrolizumab) — dramatic responses in ultra-\nhypermutated CMMRD tumors regardless of histotype;\nFDA-approved for MSI-H/dMMR tumors (tumor-\nagnostic). Ipilimumab + nivolumab for refractory.\nHistotype-specific chemotherapy as bridge.\nSurveillance colonoscopy/MRI protocol for CMMRD\nfamilies. Germline counseling for siblings.",
+      "emerging": ""
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 100,
+    "slug": "chordoma-pediatric-infantile",
+    "specialty": "cancer",
+    "category": "Histiocytic, NUT, Fusion & Predisposition",
+    "name": "Chordoma (Pediatric/Infantile)",
+    "heredityTier": "dominant",
+    "description": "Malignant tumor of notochordal remnants; clivus predilection in children vs. sacrum in adults. Infantile/pediatric chordoma frequently SMARCB1-deficient (INI1-loss) unlike adult counterpart; locally destructive, prone to local recurrence. Poorly differentiated (SMARCB1-loss) variant in infants — extremely aggressive and distinct from conventional chordoma.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~300/yr SMARCB1-deficient infantile variant: <10/yr globally",
+      "sources": ""
+    },
+    "diagnosis": "MRI skull base/spine (T2 hyperintense, destructive midline mass); core biopsy; IHC (brachyury T — pathognomonic, SMARCB1/INI1 loss in infantile variant); SMARCB1 FISH; distinguish from chondrosarcoma (brachyury negative) and AT/RT (clinical context); RNA-seq for rare TBXT fusions.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: En bloc resection with negative\nmargins — curative if achieved; proton beam\nradiotherapy (60-70 CGE) preferred over photon RT;\nskull base requires proton or carbon ion therapy.\nInfantile SMARCB1-deficient: high-dose multiagent\nchemotherapy (carboplatin, cyclophosphamide,\netoposide) + proton RT. ▸",
+      "emerging": "Emerging: EZH2 inhibitor\n(tazemetostat) for SMARCB1-deficient pediatric\nchordoma (rhabdoid predisposition overlap); CDK4/6\ninhibitors (palbociclib) in adult trials; EGFR inhibitors\n(afatinib); PD-L1 checkpoint blockade; RARE-Peds\nmolecular matching trials."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 101,
+    "slug": "erdheim-chester-disease-ecd",
+    "specialty": "cancer",
+    "category": "Histiocytic, NUT, Fusion & Predisposition",
+    "name": "Erdheim-Chester Disease (ECD)",
+    "heredityTier": "dominant",
+    "description": "Non-Langerhans histiocytosis defined by foamy CD68+/CD1a- histiocytes with bilateral long bone sclerosis and systemic infiltration; BRAF V600E in ~60%; pediatric cases documented but rare; systemic manifestations include retroperitoneal fibrosis ('hairy kidney'), CNS xanthogranulomas, and cardiovascular sheathing. Biologically and clinically distinct from LCH.",
+    "frequency": {
+      "us": "<50/yr all ages",
+      "global": "~500/yr all ages Pediatric (<18 yr): <10/yr; male predominance",
+      "sources": ""
+    },
+    "diagnosis": "PET-CT (FDG-avid bilateral diaphyseal/metaphyseal long bone cortical sclerosis — pathognomonic pattern); biopsy; IHC (CD68+, CD163+, CD1a-, Langerin-); BRAF V600E molecular confirmation; NGS for MAP2K1, PIK3CA, NRAS, ARAF; ECHO for cardiac sheathing; MRI brain for CNS involvement.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: BRAF V600E+: vemurafenib\n(FDA-approved 2017) — first-line standard; dabrafenib\n+ trametinib for intolerance or progression. BRAF WT:\nPEG-interferon-alpha-2a first-line; anakinra (IL-1R\nantagonist) for refractory. CNS disease: intensify\nsystemic therapy; steroids for acute neurological\ncompromise. ▸",
+      "emerging": "Emerging: MEK inhibitors\n(cobimetinib, trametinib) for BRAF WT MAP2K1-mutant\nECD; cladribine/clofarabine for chemotherapy-eligible\nrefractory; vemurafenib + cobimetinib combination; NCI\nECD registry and Histio Coalition enrollment\nrecommended for all pediatric cases."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 102,
+    "slug": "adamantinoma",
+    "specialty": "cancer",
+    "category": "Histiocytic, NUT, Fusion & Predisposition",
+    "name": "Adamantinoma",
+    "heredityTier": "none",
+    "description": "Rare low-grade malignant biphasic bone tumor; >90% arise in anterior tibial cortex; affects adolescents and young adults; composed of epithelial nests (CK5/6+, EMA+) within osteofibrous dysplasia-like stroma. Osteofibrous dysplasia considered benign precursor. Late metastases (lymph nodes, lungs, bone) in ~20% — may occur decades after diagnosis; dedifferentiated variant rare but aggressive.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~200/yr <1% of primary bone tumors; peak age 10-30 yr",
+      "sources": ""
+    },
+    "diagnosis": "Plain radiograph (anterior tibial 'soap bubble' cortical lytic lesion — pathognomonic location/morphology); MRI for medullary and soft tissue extension; core or incisional biopsy; IHC (CK5/6, CK14, EMA+; brachyury negative); EWSR1 FISH (negative — excludes Ewing); molecular profiling to exclude NTRK fusion sarcomas.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Wide local resection with\nnegative margins — segmental tibial resection with\nfibula autograft, cortical allograft, or endoprosthetic\nreconstruction; limb salvage preferred over amputation.\nNo established chemotherapy or radiation role in\nclassic adamantinoma. Surveillance: chest CT annually\nx10 yr for late pulmonary metastases. 5-yr OS: ~90%\nlocalized; ~50% metastatic. ▸",
+      "emerging": "Emerging:\nDedifferentiated adamantinoma: Ewing-like\nchemotherapy (VDC/IE); CDK4/6 inhibitors (frequent\nCDK4 amplification); NTRK inhibitors if fusion present.\nFUS-TFEB fusion subset: RET inhibitors\ninvestigational. Metastatic: molecular tumor board\nreferral and clinical trial enrollment."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 103,
+    "slug": "rms-spindle-cell-sclerosing",
+    "specialty": "cancer",
+    "category": "Histiocytic, NUT, Fusion & Predisposition",
+    "name": "RMS — Spindle Cell/Sclerosing",
+    "heredityTier": "none",
+    "description": "Distinct WHO 2020 RMS subtype. Infant spindle cell RMS: paratesticular predominance, SRF::NCOA2 or VGLL2 fusions, excellent prognosis. Older child/adult MYOD1 L122R-mutant spindle/sclerosing RMS: dismal prognosis (>50% mortality), poor chemotherapy response, head-neck and parameningeal sites. Overlap with embryonal RMS on routine IHC requires molecular confirmation.",
+    "frequency": {
+      "us": "~50/yr",
+      "global": "~300/yr ~5% of all RMS; infant vs. MYOD1-mutant = opposite prognoses",
+      "sources": ""
+    },
+    "diagnosis": "MRI primary + staging MRI brain/spine (parameningeal); PET- CT; bone marrow biopsy; IHC (desmin+, MyoD1, myogenin — scattered/weak vs. diffuse in ARMS); FOXO1 FISH (negative — excludes ARMS); MYOD1 L122R hotspot sequencing (required for diagnosis and risk stratification); SRF/VGLL2/NCOA2 FISH or RNA- seq for infant spindle cell subtype.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Infant spindle cell\n(SRF/VGLL2+): COG low-risk protocols (VA or VAC) —\nexcellent outcomes, minimize toxicity. MYOD1-mutant: COG ARST1431 intensified VAC/VI; early surgical\nresection if feasible; RT per standard site-based\ndosing. Parameningeal: intrathecal chemotherapy\nconsideration per COG protocol. ▸",
+      "emerging": "Emerging:\nMYOD1-mutant: PI3K/AKT/mTOR inhibitors (frequent\nco-mutated PIK3CA); CDK4/6 inhibitors;\nimmunotherapy (pembrolizumab trials); targeted\ntherapy per co-occurring alterations on NGS. COG\nARST2032 enrollment strongly recommended for all\nMYOD1-mutant cases given poor outcomes on\nstandard therapy."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  },
+  {
+    "id": 104,
+    "slug": "rosai-dorfman-disease-rdd",
+    "specialty": "cancer",
+    "category": "Histiocytic, NUT, Fusion & Predisposition",
+    "name": "Rosai-Dorfman Disease (RDD)",
+    "heredityTier": "associated",
+    "description": "Non-Langerhans histiocytosis defined by massive painless lymphadenopathy and emperipolesis (lymphocytes engulfed within histiocytes) — pathognomonic on H&E. Pediatric cases ~20% of all RDD. Sporadic (~70%); SLC29A3 germline in Faisalabad histiocytosis/H syndrome; MAP kinase mutations (KRAS, MAP2K1, BRAF) in ~30% of sporadic cases. Usually self-limiting; extranodal CNS, skin, and bone RDD may require therapy.",
+    "frequency": {
+      "us": "~100/yr all ages",
+      "global": "~500/yr all ages Pediatric: ~20/yr; predominantly young adults; males > females",
+      "sources": ""
+    },
+    "diagnosis": "Excisional lymph node or lesional biopsy; IHC (S100+, CD68+, CD163+, CD1a-, Langerin- — distinguishes from LCH); emperipolesis on H&E pathognomonic; SLC29A3 germline sequencing in pediatric cases; somatic KRAS/BRAF V600E/MAP2K1 sequencing; PET- FDG for extranodal extent; MRI brain/spine for CNS involvement; distinguish from lymphoma, LCH, and ECD.",
+    "treatment": {
+      "standardOfCare": "▸ Standard of Care: Nodal-only or self-limited:\nobservation — spontaneous regression in majority.\nSymptomatic/progressive nodal: low-dose prednisone.\nIsolated extranodal (compressive): surgical resection or\ncorticosteroids. CNS RDD: dexamethasone; surgical\ndecompression for mass effect; whole brain RT as last\nresort. ▸",
+      "emerging": "Emerging: MEK inhibitors (cobimetinib,\ntrametinib) for MAP2K1/KRAS-mutant refractory RDD\n— case series responses; BRAF V600E+:\nvemurafenib/dabrafenib-trametinib;\ncladribine/clofarabine for chemotherapy-eligible\nrefractory. SLC29A3-associated: HSCT case reports.\nHistio Coalition registry enrollment recommended."
+    },
+    "hasAgent": false,
+    "agentSlug": null
+  }
+]

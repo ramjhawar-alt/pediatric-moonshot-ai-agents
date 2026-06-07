@@ -1,0 +1,110 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "Primary (Immune/Genetic) FSGS  |  100-Point Adverse Prognostic Score  |  KDIGO 2021 Glomerular Disease Guidelines / NephCure FSGS Guidelines  |  Progression Trajectory: Fast / Moderate / Slow",
+  "sections": [
+    {
+      "heading": "Treatment Response",
+      "sectionPoints": 0,
+      "questions": [
+        {
+          "domain": "Treatment Response",
+          "question": "Is the patient steroid-resistant (no remission after ≥4 weeks of adequate prednisone dose)?",
+          "confirmingAnswer": "Yes — steroid-resistant primary FSGS confirmed; requires second-line immunosuppression; highest ESRD risk subgroup",
+          "points": 15,
+          "cost": "Small"
+        },
+        {
+          "domain": "Proteinuria on Therapy",
+          "question": "Is proteinuria >3.0 g/day (PCR >3.0) despite ≥3 months of combined immunosuppression (CNI + MMF or rituximab)?",
+          "confirmingAnswer": "Yes — refractory nephrotic-range proteinuria on maximal immunosuppression; poor prognosis confirmed",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "Remission Status",
+          "question": "Has the patient achieved only partial remission (proteinuria reduced but PCR still 0.3–3.0 mg/mg) on current therapy?",
+          "confirmingAnswer": "Yes — partial remission; some protection against ESRD but residual progression risk remains; optimize therapy",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "eGFR Level",
+          "question": "Is eGFR <30 mL/min/1.73m² (CKD Stage 4) or has the patient reached ESRD requiring dialysis?",
+          "confirmingAnswer": "Yes — severely reduced eGFR or ESRD; primary FSGS with steroid resistance has 50% ESRD rate within 10 years",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "eGFR Decline Rate",
+          "question": "Is annualized eGFR decline >5 mL/min/1.73m²/year confirmed on serial measurements?",
+          "confirmingAnswer": "Yes — rapid progressive CKD confirmed; ESRD trajectory without treatment change",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Variant — Collapsing",
+          "question": "Is the FSGS variant collapsing on biopsy? (worst prognosis; strongly associated with APOL1 high-risk genotype or HIV)",
+          "confirmingAnswer": "Yes — collapsing FSGS confirmed; 50–70% ESRD within 3 years; APOL1 genotyping mandatory if not done",
+          "points": 12,
+          "cost": "Large"
+        },
+        {
+          "domain": "Chronicity",
+          "question": "Is there significant tubular atrophy or interstitial fibrosis (>25% of cortex) on biopsy?",
+          "confirmingAnswer": "Yes — chronic irreversible nephron loss confirmed; limits expected treatment response",
+          "points": 5,
+          "cost": "Large"
+        },
+        {
+          "domain": "Global Sclerosis",
+          "question": "Is >25% of glomeruli globally sclerosed on light microscopy?",
+          "confirmingAnswer": "Yes — advanced glomerular dropout confirmed; reduced therapeutic target mass",
+          "points": 3,
+          "cost": "Large"
+        },
+        {
+          "domain": "APOL1 Genotype",
+          "question": "Are two APOL1 high-risk alleles confirmed (G1/G1, G1/G2, or G2/G2) in a patient of African ancestry?",
+          "confirmingAnswer": "Yes — APOL1 high-risk genotype; doubles ESRD risk above baseline primary FSGS; collapsing variant expected",
+          "points": 6,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Podocyte Gene Mutation",
+          "question": "Is there a pathogenic variant in NPHS2 (podocin) or WT1 — genes associated with rapidly progressive steroid-resistant disease?",
+          "confirmingAnswer": "Yes — high-risk podocyte gene mutation confirmed; nearly universal steroid resistance; early transplant planning indicated",
+          "points": 4,
+          "cost": "Medium"
+        },
+        {
+          "domain": "BP Control",
+          "question": "Is BP persistently >140/90 mmHg despite ≥3 antihypertensives including maximum-dose RAS blockade?",
+          "confirmingAnswer": "Yes — refractory hypertension on maximal therapy; major ESRD accelerator in primary FSGS",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Thromboembolism",
+          "question": "Is there a history of venous thromboembolism (DVT, PE, or renal vein thrombosis) related to nephrotic syndrome?",
+          "confirmingAnswer": "Yes — nephrotic-related thrombosis confirmed; full anticoagulation required; indicates severe hypoalbuminemia",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Infection Risk",
+          "question": "Has the patient had ≥1 serious infection (pneumococcal peritonitis, cellulitis, sepsis) related to immunosuppression or hypoalbuminemia?",
+          "confirmingAnswer": "Yes — serious immunosuppression- or nephrotic-related infection confirmed; risk-benefit of continued treatment requires reassessment",
+          "points": 4,
+          "cost": "Small"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {},
+  "guidelinesCitation": "KDIGO 2021 Glomerular Disease Guidelines  |  D'Agati et al. JASN 2011 (FSGS variants and prognosis)  |  Kopp et al. JASN 2011 (APOL1 and collapsing FSGS)  |  Rheault et al. NEJM 2023 (sparsentan in primary FSGS)  |  Trachtman et al. NEJM 2011 (FSGS Clinical Trial)  |  Gbadegesin et al. Kidney Int 2012 (podocyte gene mutations)  |  Hinkes et al. Nature Med 2007 (NPHS2 in steroid-resistant FSGS)",
+  "conditionId": 2,
+  "conditionName": "FSGS — Primary/Idiopathic",
+  "specialty": "kidney",
+  "agentType": "progression"
+}

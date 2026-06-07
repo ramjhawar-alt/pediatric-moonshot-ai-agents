@@ -1,0 +1,108 @@
+{
+  "type": "scored",
+  "totalPoints": 79,
+  "preamble": "Each domain question draws from the complete medical record. Points reflect diagnostic weight. Cost reflects typical test burden: Small = existing record / standard labs  |  Medium = targeted test or genetic panel ($200–$1,500)  |  Large = biopsy or advanced testing ($1,500–$10,000+)",
+  "sections": [
+    {
+      "heading": "Genetic Analysis",
+      "sectionPoints": 0,
+      "questions": [
+        {
+          "domain": "Genetic Analysis",
+          "question": "Are two APOL1 high-risk alleles confirmed on genetic testing? (G1/G1, G1/G2, or G2/G2 genotype — requires African ancestry for meaningful interpretation)",
+          "confirmingAnswer": "Yes — high-risk APOL1 genotype with two alleles confirmed; 10-fold increased CKD risk",
+          "points": 20,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Genetic Analysis",
+          "question": "Is African ancestry (Sub-Saharan, African American, or Afro-Caribbean) documented in demographics or social history?",
+          "confirmingAnswer": "Yes — African ancestry confirmed; APOL1 high-risk variants found almost exclusively in this population",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Genetic Analysis",
+          "question": "Is there a family history of CKD, ESRD, or early dialysis in first-degree relatives?",
+          "confirmingAnswer": "Yes — strong familial clustering of CKD documented; suggests genetic etiology",
+          "points": 7,
+          "cost": "Small"
+        },
+        {
+          "domain": "Clinical Presentation",
+          "question": "Is there young adult onset of CKD (age 20–40 years) with rapid eGFR progression?",
+          "confirmingAnswer": "Yes — early-onset CKD disproportionate to typical hypertensive nephrosclerosis",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Clinical Presentation",
+          "question": "Is there heavy proteinuria (>1 g/day on 24-hr urine or PCR, often nephrotic range in APOL1 nephropathy)?",
+          "confirmingAnswer": "Yes — significant proteinuria confirmed; reflects disease activity",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "Clinical Presentation",
+          "question": "Is there severe, early-onset hypertension requiring ≥3 antihypertensive agents or documented as difficult-to-control?",
+          "confirmingAnswer": "Yes — resistant or early-severe hypertension confirmed; disproportionate to age",
+          "points": 7,
+          "cost": "Small"
+        },
+        {
+          "domain": "Clinical Presentation",
+          "question": "Is eGFR decline >5 mL/min/1.73m²/year confirmed on ≥3 serial measurements?",
+          "confirmingAnswer": "Yes — rapid CKD progression rate confirmed; hallmark of APOL1 nephropathy vs. typical CKD",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Histopathology",
+          "question": "Is focal segmental glomerulosclerosis — especially collapsing variant — confirmed on kidney biopsy? (collapsing FSGS has the strongest APOL1 association)",
+          "confirmingAnswer": "Yes — FSGS or collapsing glomerulopathy confirmed on biopsy; APOL1 testing strongly indicated",
+          "points": 10,
+          "cost": "Large"
+        },
+        {
+          "domain": "Exclusion",
+          "question": "Is diabetic nephropathy excluded? (no diabetes, HbA1c <6.5%, no Kimmelstiel-Wilson changes on biopsy)",
+          "confirmingAnswer": "Yes — diabetic nephropathy excluded",
+          "points": 2,
+          "cost": "Small"
+        },
+        {
+          "domain": "Exclusion",
+          "question": "Are ANA, ANCA, and anti-GBM negative, excluding autoimmune glomerulonephritis?",
+          "confirmingAnswer": "Yes — autoimmune GN excluded; panel negative",
+          "points": 2,
+          "cost": "Small"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {
+    "high": {
+      "label": "🔴  ≥80 High confidence APOL1 nephropathy",
+      "action": "optimize ACE inhibitor/ARB therapy targeting BP <130/80 mmHg and proteinuria <0.5 g/day; refer to APOL1-specific clinical trials (inaxaplin, APOL1 channel blocker, in Phase 3); genetic counseling for family members; SGLT-2 inhibitor for added renoprotection",
+      "max": 129,
+      "min": 0
+    },
+    "moderate": {
+      "label": "🟡  60–79 Moderate confidence",
+      "action": "APOL1 genetic testing indicated if not yet done (requires African ancestry confirmation); kidney biopsy for histologic characterization; initiate RAS blockade and SGLT-2 inhibitor",
+      "min": 60,
+      "max": 79
+    },
+    "low": {
+      "label": "🟢  <60 Low confidence",
+      "action": "APOL1 nephropathy unlikely; evaluate alternative CKD etiologies (diabetic nephropathy, hypertensive nephrosclerosis, other GN); APOL1 testing low-yield without confirmed African ancestry",
+      "max": 59,
+      "min": 0
+    }
+  },
+  "guidelinesCitation": "",
+  "conditionId": 4,
+  "conditionName": "APOL1-Mediated Nephropathy",
+  "specialty": "kidney",
+  "agentType": "diagnosis"
+}

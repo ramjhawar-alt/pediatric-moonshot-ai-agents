@@ -1,0 +1,110 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "Atypical Hemolytic Uremic Syndrome  |  100-Point Adverse Prognostic Score  |  KDIGO 2021 / International Consensus Guidelines on aHUS (Goodship et al.) / ERA-EDTA Working Group  |  Progression Trajectory: Fast / Moderate / Slow",
+  "sections": [
+    {
+      "heading": "Renal Severity",
+      "sectionPoints": 0,
+      "questions": [
+        {
+          "domain": "Renal Severity",
+          "question": "Does the patient require renal replacement therapy (dialysis) at presentation, or has eGFR fallen below 15 mL/min/1.73m² (CKD Stage 5)?",
+          "confirmingAnswer": "Yes — dialysis-requiring AKI or CKD Stage 5 at nadir; worst renal severity tier; ESRD risk >60% without sustained eculizumab",
+          "points": 15,
+          "cost": "Small"
+        },
+        {
+          "domain": "TMA Severity",
+          "question": "Is the platelet nadir <50,000/μL or is there CNS involvement (seizures, stroke, encephalopathy) at presentation?",
+          "confirmingAnswer": "Yes — severe TMA with thrombocytopenia <50K or CNS injury confirmed; high morbidity and ESRD risk",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "Delay to Eculizumab",
+          "question": "Was eculizumab initiated >7 days after TMA onset, or was complement blockade not started due to delayed diagnosis?",
+          "confirmingAnswer": "Yes — treatment delay confirmed; each additional day without eculizumab increases irreversible renal injury risk",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "CFH Mutation",
+          "question": "Is there a pathogenic variant in complement factor H (CFH)?",
+          "confirmingAnswer": "Yes — CFH mutation confirmed; highest ESRD risk among complement gene mutations (~70–80% ESRD without sustained treatment)",
+          "points": 12,
+          "cost": "Medium"
+        },
+        {
+          "domain": "C3 or CFB Mutation",
+          "question": "Is there a pathogenic variant in complement C3 or complement factor B (CFB)?",
+          "confirmingAnswer": "Yes — C3 or CFB gain-of-function mutation confirmed; systemic complement activation; high relapse risk off eculizumab",
+          "points": 8,
+          "cost": "Medium"
+        },
+        {
+          "domain": "MCP/CD46 Mutation",
+          "question": "Is there a pathogenic variant in MCP/CD46 (membrane cofactor protein)?",
+          "confirmingAnswer": "Yes — MCP mutation confirmed; lower ESRD risk than CFH (~20–30%) but relapse risk elevated with intercurrent illness",
+          "points": 5,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Eculizumab Response",
+          "question": "Did platelet count and LDH normalize within 2 weeks of eculizumab initiation (complete TMA response)?",
+          "confirmingAnswer": "Yes — complete TMA response confirmed; favorable short-term response but long-term renal recovery depends on chronicity",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Relapse on Eculizumab",
+          "question": "Has the patient had ≥1 TMA relapse (recurrent MAHA + thrombocytopenia + AKI) while on or after stopping eculizumab?",
+          "confirmingAnswer": "Yes — TMA relapse confirmed; lifelong eculizumab required; consider switch to ravulizumab (longer dosing interval)",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Eculizumab Discontinuation",
+          "question": "Has eculizumab been discontinued with subsequent TMA relapse, or is discontinuation being considered in a high-risk genotype?",
+          "confirmingAnswer": "Yes — high relapse risk with discontinuation confirmed; CFH mutations nearly universally relapse off treatment",
+          "points": 4,
+          "cost": "Small"
+        },
+        {
+          "domain": "Residual CKD",
+          "question": "Is eGFR <45 mL/min/1.73m² (CKD Stage 3b or worse) after ≥3 months of sustained eculizumab therapy?",
+          "confirmingAnswer": "Yes — incomplete renal recovery confirmed; significant irreversible nephron loss from acute TMA episodes",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "Biopsy — Chronicity",
+          "question": "Is there significant thrombotic microangiopathy chronicity on renal biopsy (>25% tubular atrophy/interstitial fibrosis or arterial sclerosis)?",
+          "confirmingAnswer": "Yes — chronic TMA injury confirmed on histology; residual nephron loss limits long-term renal outcome",
+          "points": 5,
+          "cost": "Large"
+        },
+        {
+          "domain": "CNS TMA",
+          "question": "Is there documented neurological injury from CNS TMA (cognitive impairment, seizure disorder, stroke sequelae) persisting after acute episode?",
+          "confirmingAnswer": "Yes — persistent CNS TMA injury confirmed; extrarenal complement-mediated injury; indicates systemic TMA burden",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Cardiac TMA",
+          "question": "Is there cardiomyopathy or cardiac TMA confirmed (troponin elevation + wall motion abnormality) during or after aHUS episode?",
+          "confirmingAnswer": "Yes — cardiac TMA involvement confirmed; rare but high-mortality complication; systemic complement blockade essential",
+          "points": 4,
+          "cost": "Small"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {},
+  "guidelinesCitation": "Goodship et al. Kidney Int 2017 (International aHUS Consensus)  |  Legendre et al. NEJM 2013 (eculizumab in aHUS)  |  Fakhouri et al. Kidney Int 2017 (aHUS genotype and outcomes)  |  Loirat & Frémeaux-Bacchi Orphanet 2011  |  KDIGO 2021 Glomerular Disease Guidelines  |  Walle et al. Pediatr Nephrol 2017 (pediatric aHUS outcomes)  |  Sheerin et al. Kidney Int 2023 (ravulizumab in aHUS)",
+  "conditionId": 110,
+  "conditionName": "Atypical Hemolytic Uremic Syndrome",
+  "specialty": "kidney",
+  "agentType": "progression"
+}

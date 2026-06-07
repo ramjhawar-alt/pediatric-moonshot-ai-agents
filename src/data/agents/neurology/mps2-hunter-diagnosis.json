@@ -1,0 +1,307 @@
+{
+  "type": "checklist",
+  "preamble": "MPS II — Hunter Syndrome  |  IDS-Related Mucopolysaccharidosis Type II  |  Severe Neuronopathic / Attenuated Non-Neuronopathic Forms  (OMIM 309900)",
+  "sections": [
+    {
+      "heading": "CLINICAL PRESENTATION AND ONSET",
+      "questions": [
+        {
+          "domain": "Male sex — MPS II is X-linked recessive and affects males almost exclusively?",
+          "question": "Yes – MPS II is the only X-linked MPS; caused by hemizygous pathogenic variants in the IDS gene at Xq28; affects males; carrier females are typically unaffected but approximately 1–5% of symptomatic cases are females (due to skewed X-inactivation, Turner syndrome, or X-autosome translocations); any phenotypically consistent female warrants IDS testing"
+        },
+        {
+          "domain": "Onset of first clinical features between ages 2–4 years in the severe form?",
+          "question": "Yes – severe MPS II typically presents between ages 2–4 years with recurrent otitis media, upper respiratory congestion, hernias, and coarsening facial features; attenuated MPS II may not be clinically apparent until later childhood, adolescence, or even adulthood; the gap between symptom onset and diagnosis averages 2–4 years, creating a critical window for earlier intervention"
+        },
+        {
+          "domain": "Recurrent otitis media, chronic rhinorrhea, and upper respiratory congestion from early childhood?",
+          "question": "Yes – recurrent otitis media (often requiring multiple sets of grommets), persistent nasal congestion, and noisy breathing from GAG deposition in oropharyngeal soft tissues are among the earliest and most consistently reported features of MPS II; these ENT presentations typically precede the recognition of MPS by 1–3 years and are the most common first clinical contact"
+        },
+        {
+          "domain": "Umbilical and/or inguinal hernia — present in infancy or early childhood?",
+          "question": "Yes – umbilical hernia (often requiring surgical repair) and inguinal hernia are present in approximately 70–80% of MPS II patients; they frequently appear in the first year of life and may be surgically repaired before the underlying MPS diagnosis is established; recurrent hernia after repair should heighten MPS suspicion"
+        },
+        {
+          "domain": "Apparent normal development in the first 12–18 months before progressive deterioration begins?",
+          "question": "Yes – boys with severe MPS II typically develop apparently normally in the first 1–2 years of life before somatic features become prominent and cognitive regression becomes apparent; this period of apparent normality followed by progressive decline is a key distinguishing feature from congenital static encephalopathies; in attenuated MPS II, cognitive development may remain near-normal throughout"
+        },
+        {
+          "domain": "Family history of Hunter syndrome — affected maternal uncles or male cousins on the mother's side?",
+          "question": "Yes – X-linked recessive inheritance: carrier mothers transmit to 50% of sons; maternal family history (affected maternal uncles, male cousins through maternal aunts) is a critical diagnostic clue; approximately 30% of MPS II cases represent de novo IDS mutations with no family history; germline mosaicism can produce apparent de novo cases in two or more siblings"
+        }
+      ]
+    },
+    {
+      "heading": "FACIAL AND SOMATIC FEATURES",
+      "questions": [
+        {
+          "domain": "Progressive coarsening of facial features — broad nasal bridge, full lips, macroglossia, prominent supraorbital ridges, large head?",
+          "question": "Yes – progressive coarsening of facial features from GAG deposition in soft tissues is a cardinal and near-universal feature of MPS II; the facial phenotype is often subtle before age 2–3 and becomes increasingly prominent through early childhood; serial photographs comparing facial appearance over time are diagnostically revealing; features include frontal bossing, depressed nasal bridge, broad nasal tip, everted lips, and macroglossia"
+        },
+        {
+          "domain": "Short stature — progressive growth deceleration below expected family centile?",
+          "question": "Yes – progressive short stature is present in virtually all MPS II patients; growth deceleration typically begins in mid-childhood; final adult height is significantly below expected in severe forms; in attenuated forms, short stature may be mild or absent; height velocity monitoring is an important disease progression marker and treatment response indicator"
+        },
+        {
+          "domain": "Pebbly or ivory-colored skin lesions on the upper back, lateral thorax, and upper arms (pathognomonic dermal finding)?",
+          "question": "Yes – firm ivory-white or pebbly papules and plaques in a reticular or ridge-like pattern over the upper back, scapular region, lateral thorax, and upper arms are virtually pathognomonic for MPS II (Hunter syndrome); present in approximately 50–70% of patients; the result of GAG deposition in the dermis; their presence in a boy with developmental delay should trigger immediate MPS II evaluation"
+        },
+        {
+          "domain": "Macrocephaly — head circumference above the 98th centile?",
+          "question": "Yes – macrocephaly is present in the majority of MPS II patients from early childhood; results from GAG deposition in the dura and meninges, communicating hydrocephalus from impaired CSF resorption, and cortical storage; serial head circumference measurements crossing centiles upward is an important early warning sign"
+        },
+        {
+          "domain": "Hepatosplenomegaly — enlarged liver and/or spleen on abdominal examination?",
+          "question": "Yes – hepatomegaly and splenomegaly from GAG accumulation in Kupffer cells and splenic macrophages are present in nearly all MPS II patients; may produce a protuberant abdomen; marked hepatomegaly is a consistent and early finding; splenomegaly is less prominent than in some other lysosomal storage diseases but is reliably present"
+        }
+      ]
+    },
+    {
+      "heading": "KEY DISCRIMINATING FEATURE — ABSENCE OF CORNEAL CLOUDING",
+      "questions": [
+        {
+          "domain": "Corneal clouding ABSENT on slit-lamp examination — clear corneas in MPS II (Hunter)?",
+          "question": "Yes – the absence of corneal clouding is the single most important clinical discriminating feature between MPS II (Hunter) and MPS I (Hurler/Scheie); clear corneas are EXPECTED and REQUIRED in MPS II; dermatan and heparan sulfate are not stored in the MPS II cornea due to the different biochemical processing pathway; corneal clouding in a suspected MPS II patient should prompt reconsideration of MPS I or MPS VI"
+        },
+        {
+          "domain": "Retinal degeneration — pigmentary retinopathy detectable on fundus examination or ERG despite clear corneas?",
+          "question": "Yes – although corneas are clear, retinal degeneration (pigmentary retinopathy) occurs in approximately 20–30% of MPS II patients; may cause reduced visual acuity and peripheral field loss; ERG (electroretinography) may detect retinal dysfunction before ophthalmoscopic changes are visible; annual funduscopic examination is recommended despite normal slit-lamp findings"
+        },
+        {
+          "domain": "Papilledema or optic disc swelling on fundoscopic examination?",
+          "question": "Yes – papilledema from raised intracranial pressure (communicating hydrocephalus) or optic nerve compression from GAG deposition in the optic nerve sheaths can occur in MPS II; optic atrophy may follow; annual fundoscopic examination is part of the standard MPS II monitoring protocol"
+        }
+      ]
+    },
+    {
+      "heading": "NEUROLOGICAL FEATURES — SEVERE VS. ATTENUATED PHENOTYPE",
+      "questions": [
+        {
+          "domain": "Progressive intellectual disability and cognitive regression — present in severe MPS II, absent in attenuated MPS II?",
+          "question": "Yes (severe) / No (attenuated) – the presence or absence of CNS involvement is the fundamental clinical distinction between MPS II phenotypes; severe MPS II: progressive cognitive regression beginning at age 2–5 years, loss of developmental milestones, intellectual disability progressing to severe impairment; attenuated MPS II: intelligence preserved or near-normal; somatic disease present but CNS spared; this distinction drives tividenofusp vs. standard idursulfase treatment selection"
+        },
+        {
+          "domain": "Behavioral disturbances — hyperactivity, aggression, destructive behavior, sleep disruption?",
+          "question": "Yes (severe form) – severe MPS II is associated with significant behavioral disturbances including hyperactivity, impulsivity, aggression, and sleep-cycle disruption from approximately age 3–6 years; these behavioral features often predate the recognition of the cognitive regression trajectory; can be profoundly disabling for families and mimic ADHD or ASD before the underlying diagnosis is made"
+        },
+        {
+          "domain": "Progressive loss of language — regression of speech after a period of development?",
+          "question": "Yes (severe form) – progressive language regression following a period of apparently normal language acquisition is characteristic of severe MPS II; vocabulary loss, increasing word-finding difficulty, and ultimately near-complete loss of expressive speech occurs in the severe form; language assessment and speech therapy are part of baseline evaluation"
+        },
+        {
+          "domain": "Seizures — focal or generalized seizures emerging in mid-childhood?",
+          "question": "Yes (primarily severe form) – seizures occur in approximately 30–50% of severe MPS II patients, typically emerging in mid-to-late childhood as neurological disease advances; may be focal, generalized, or myoclonic; seizure management requires standard anti-epileptic therapy alongside disease-specific treatment"
+        },
+        {
+          "domain": "Communicating hydrocephalus on brain MRI — enlarged ventricles with periventricular signal changes?",
+          "question": "Yes – communicating hydrocephalus from GAG deposition in the arachnoid villi impairing CSF resorption is a well-documented MPS II complication; enlarged ventricles with or without periventricular signal change on MRI; may cause progressive macrocephaly, headache, or behavioral change; ventriculoperitoneal shunting may be required; brain MRI is part of baseline evaluation in all MPS II patients"
+        },
+        {
+          "domain": "Perivascular space dilatation — cribriform or \"Swiss cheese\" pattern on brain MRI (dilated Virchow-Robin spaces)?",
+          "question": "Yes – dilated perivascular spaces (Virchow-Robin spaces) with a cribriform appearance on T2-weighted MRI are a characteristic neuroimaging finding in MPS II; reflect perivascular GAG deposition; more prominent in severe form; correlate with CNS disease burden and are used as a treatment response biomarker in clinical trials of intrathecal and CNS-penetrant therapies"
+        },
+        {
+          "domain": "Spinal cord compression — cervical myelopathy from epidural GAG deposition, thickened cervical dura, or atlantoaxial instability?",
+          "question": "Yes – spinal cord compression is a serious and underrecognized neurological complication of MPS II; epidural GAG accumulation and dural thickening cause progressive cervical cord compression; atlantoaxial instability from odontoid hypoplasia is less common in MPS II than MPS IV but occurs; presents with gait deterioration, upper motor neuron signs, or myelopathy; full spine MRI is mandatory before any general anesthesia"
+        }
+      ]
+    },
+    {
+      "heading": "SKELETAL FEATURES — DYSOSTOSIS MULTIPLEX",
+      "questions": [
+        {
+          "domain": "Dysostosis multiplex on skeletal survey — oar-shaped ribs, hook vertebrae, proximal metacarpal pointing?",
+          "question": "Yes – dysostosis multiplex is present in virtually all MPS II patients; the constellation of oar-shaped (paddle-shaped) ribs, anterior vertebral body beaking or hook deformity (most prominent at T12–L2), proximal pointing of the second through fifth metacarpals, shortened and widened long bones, and J-shaped sella turcica is pathognomonic for MPS; skeletal survey is an essential component of the baseline workup"
+        },
+        {
+          "domain": "Joint stiffness — restricted range of motion in wrists, fingers, elbows, shoulders, and hips?",
+          "question": "Yes – progressive joint stiffness from GAG deposition in joint capsules, tendons, and ligaments is a cardinal feature of MPS II; claw-hand contracture from wrist and finger flexion contractures is characteristic and functionally limiting; joint stiffness progresses with age and with disease activity; distinguishes MPS II from MPS IV (Morquio) which shows hypermobility"
+        },
+        {
+          "domain": "Gibbus deformity — thoracolumbar kyphosis or kyphoscoliosis?",
+          "question": "Yes – a gibbus deformity (focal thoracolumbar kyphosis from anterior vertebral body hypoplasia and wedging at L1–L2) occurs in approximately 50–70% of MPS II patients; progressive kyphoscoliosis develops with advancing disease; may contribute to respiratory compromise and spinal cord risk; annual spinal surveillance is recommended"
+        },
+        {
+          "domain": "Carpal tunnel syndrome — wrist pain, hand numbness, or grip weakness?",
+          "question": "Yes – carpal tunnel syndrome from GAG deposition in the transverse carpal ligament and flexor tendon sheaths is a recognized and common complication of MPS II; may occur in childhood and adolescence; presents with nocturnal hand pain, paresthesias in the median nerve distribution, and grip weakness; EMG/NCS confirms; surgical carpal tunnel release may be required"
+        }
+      ]
+    },
+    {
+      "heading": "CARDIAC AND RESPIRATORY FEATURES",
+      "questions": [
+        {
+          "domain": "Cardiac valve disease — mitral regurgitation, aortic valve thickening, or left ventricular dysfunction on echocardiography?",
+          "question": "Yes – progressive cardiac valve disease from GAG deposition in valve leaflets is a major source of morbidity in MPS II; mitral valve thickening and regurgitation are most common; aortic valve involvement produces stenosis or regurgitation; left ventricular hypertrophy and diastolic dysfunction may occur; annual or biannual echocardiography is standard surveillance; valve surgery may eventually be required in attenuated forms"
+        },
+        {
+          "domain": "Obstructive sleep apnea — snoring, nocturnal hypoxemia, or observed apneic events?",
+          "question": "Yes – obstructive sleep apnea is nearly universal in MPS II from GAG deposition in the oropharynx, macroglossia, adenotonsillar hypertrophy, and tracheal narrowing; progressive and often severe; polysomnography is indicated in all MPS II patients; CPAP or BiPAP and/or adenotonsillectomy are management options; untreated OSA contributes to cognitive decline and cardiovascular morbidity"
+        },
+        {
+          "domain": "Restrictive pulmonary disease — reduced FVC on spirometry from chest wall and respiratory muscle involvement?",
+          "question": "Yes – restrictive lung disease from rib cage deformity (oar-shaped ribs, kyphoscoliosis), reduced thoracic compliance from GAG deposition, and progressive respiratory muscle weakness occurs in MPS II; FVC monitoring is an important surveillance and treatment response measure; respiratory compromise is a major contributor to morbidity and mortality"
+        },
+        {
+          "domain": "Difficult airway — short neck, limited mouth opening, and macroglossia creating anesthetic risk?",
+          "question": "Yes – airway management in MPS II is potentially life-threatening; macroglossia, adenotonsillar hypertrophy, tracheal narrowing, short neck, and limited cervical mobility combine to create a complex difficult airway; specialist pediatric anesthesia is mandatory; awake intubation or video-laryngoscopy protocols are standard; every MPS II patient should carry an airway alert card"
+        }
+      ]
+    },
+    {
+      "heading": "HEARING AND ENT FEATURES",
+      "questions": [
+        {
+          "domain": "Mixed conductive and sensorineural hearing loss confirmed on audiological evaluation?",
+          "question": "Yes – mixed hearing loss (conductive from recurrent otitis media and Eustachian tube dysfunction plus sensorineural from cochlear GAG deposition and neurological involvement) is present in approximately 90% of MPS II patients; audiological assessment is mandatory at diagnosis and annually; hearing aids are commonly required from early childhood; hearing loss compounds the communication and cognitive difficulties of severe MPS II"
+        },
+        {
+          "domain": "Recurrent otitis media requiring repeated grommet (tympanostomy tube) insertions?",
+          "question": "Yes – recurrent otitis media requiring multiple rounds of grommet insertion is one of the most common pre-diagnosis clinical events in MPS II; boys who have had grommets inserted 3 or more times should routinely have urine GAG screening; ENT referral is frequently the first specialist contact for MPS II patients"
+        }
+      ]
+    },
+    {
+      "heading": "URINE GAG SCREENING AND BIOCHEMICAL MARKERS",
+      "questions": [
+        {
+          "domain": "Elevated total urinary glycosaminoglycans on quantitative urine GAG assay (DMB normalized to creatinine)?",
+          "question": "Yes – elevated total urine GAGs by the dimethylmethylene blue (DMB) colorimetric assay is the essential first-line biochemical screening test; sensitivity approximately 95% for severe MPS II; false negatives are more common in attenuated forms and in older patients where GAG excretion normalizes somewhat; urine GAG quantification should be the first test ordered when clinical suspicion is raised"
+        },
+        {
+          "domain": "Urine GAG fractionation showing elevated dermatan sulfate (DS) AND heparan sulfate (HS) — the dual-GAG pattern of MPS II?",
+          "question": "Yes – MPS II urine GAG fractionation by TLC or tandem mass spectrometry shows elevation of BOTH dermatan sulfate and heparan sulfate; the DS+HS pattern occurs in MPS I, II, and VII; this pattern narrows the differential to these three types and directs the enzyme assay selection; HS-only elevation indicates MPS III; KS+CS indicates MPS IV; DS-only indicates MPS VI"
+        },
+        {
+          "domain": "Heparan sulfate (HS) measured in CSF — elevated CSF-HS as primary CNS biomarker and treatment response endpoint?",
+          "question": "Yes – CSF heparan sulfate is the primary CNS biomarker for MPS II; elevation correlates with CNS disease burden; dramatic reduction in CSF-HS (approximately 85–90%) is the key pharmacodynamic endpoint for CNS-targeted therapies including tividenofusp alfa and the investigational intrathecal formulations; CSF-HS measurement requires lumbar puncture and specialized assay; critical for clinical trial eligibility and monitoring"
+        },
+        {
+          "domain": "Alder-Reilly bodies — metachromatic granules in peripheral blood leukocytes on Wright-Giemsa stain?",
+          "question": "Yes – Alder-Reilly bodies (coarse metachromatic cytoplasmic granules in peripheral blood granulocytes, monocytes, and lymphocytes) are present in most MPS II patients; a positive blood smear result is a rapid, inexpensive screening clue when urine GAG testing is being arranged; not diagnostic alone but supportive in the appropriate clinical context"
+        }
+      ]
+    },
+    {
+      "heading": "ENZYME ASSAY — DEFINITIVE BIOCHEMICAL DIAGNOSIS",
+      "questions": [
+        {
+          "domain": "Deficient iduronate-2-sulfatase (IDS) enzyme activity in plasma, leukocytes, or dried blood spot — confirming MPS II?",
+          "question": "Yes – severely reduced or absent IDS enzyme activity is the definitive biochemical diagnosis for MPS II; enzyme assay performed on plasma (simplest), leukocytes, or dried blood spot (DBS); residual IDS activity correlates imperfectly with clinical severity; IMPORTANT: pseudodeficiency alleles for IDS exist — any reduced IDS activity must be confirmed by IDS gene sequencing to distinguish true pathogenic variants from pseudodeficiency; normal IDS activity definitively excludes MPS II"
+        },
+        {
+          "domain": "IDS enzyme activity confirmed deficient on a SECOND sample type (e.g., leukocytes if plasma initially tested) to exclude pseudodeficiency?",
+          "question": "Yes – because IDS pseudodeficiency alleles exist (variants that reduce measured enzyme activity without causing disease), confirmation on a second sample type and concurrent IDS gene sequencing is essential before establishing the diagnosis; a single reduced IDS activity result without genetic confirmation is insufficient for clinical decision-making, especially in attenuated cases"
+        },
+        {
+          "domain": "Normal iduronate-2-sulfatase activity in the mother — confirming de novo IDS mutation vs. inherited from a carrier mother?",
+          "question": "Yes – maternal IDS enzyme activity and IDS gene sequencing should be performed once the proband result is available; if maternal IDS activity is normal, the proband mutation is likely de novo; if the mother is a confirmed carrier, cascade testing of maternal aunts and female cousins is indicated; carrier status determination is critical for family planning and recurrence risk counseling"
+        }
+      ]
+    },
+    {
+      "heading": "GENETIC CONFIRMATION — IDS GENE SEQUENCING",
+      "questions": [
+        {
+          "domain": "Pathogenic or likely pathogenic variant in IDS (Xq28) identified on sequencing or deletion/duplication analysis?",
+          "question": "Yes – IDS gene sequencing confirms the diagnosis and identifies the specific variant; the IDS gene has >650 reported pathogenic variants including missense, nonsense, frameshift, splice site, and large deletions/duplications; approximately 10–15% of MPS II mutations are large partial or complete IDS gene deletions not detectable by sequencing — MLPA or chromosomal microarray is required; variant type provides partial genotype-phenotype information"
+        },
+        {
+          "domain": "Large IDS gene deletion — associated with severe phenotype and potential involvement of adjacent PCTK3/IDS2 genes?",
+          "question": "Yes – large deletions extending beyond the IDS gene into adjacent regions (including the IDS2 pseudogene locus) are associated with severe MPS II phenotype; very large deletions may involve neighboring genes (PCTK3, ATP11C) potentially modifying the phenotype; MLPA or SNP array analysis is required to characterize the full deletion extent in these cases"
+        },
+        {
+          "domain": "IDS-IDS2 recombination event — complex rearrangement between IDS gene and IDS2 pseudogene on Xq28?",
+          "question": "Yes – recombination between the IDS gene and the nearby IDS2 pseudogene on Xq28 is a recognized mutational mechanism in approximately 5–10% of MPS II cases; produces complex inversions and rearrangements that are not reliably detected by standard sequencing; long-range PCR or genome sequencing may be required; associated with severe phenotype"
+        },
+        {
+          "domain": "Genotype-phenotype correlation assessment — attempting to predict severe vs. attenuated phenotype from variant type?",
+          "question": "Yes – while imperfect, variant type provides useful phenotypic information: nonsense and frameshift variants causing complete loss of function → typically severe; large deletions → typically severe; missense variants → highly variable (both severe and attenuated); splice site variants → variable; residual IDS enzyme activity (>1%) correlates with attenuated phenotype but is not a reliable predictor; CNS assessment at age 3–4 years remains the gold standard for severity classification"
+        }
+      ]
+    },
+    {
+      "heading": "NEWBORN SCREENING AND PRE-SYMPTOMATIC IDENTIFICATION",
+      "questions": [
+        {
+          "domain": "Positive newborn screening result for MPS II — IDS enzyme activity deficient on dried blood spot NBS?",
+          "question": "Yes – MPS II was added to the US Recommended Uniform Screening Panel (RUSP) in 2023; NBS detects severely reduced IDS activity on DBS by fluorometric or tandem mass spectrometry enzyme assay; available in a growing number of US states; positive NBS requires confirmatory leukocyte enzyme assay and IDS gene sequencing; pre-symptomatic diagnosis enables treatment initiation before irreversible CNS damage and is the optimal entry point for tividenofusp therapy"
+        },
+        {
+          "domain": "Pre-symptomatic severity classification by age 2–3 years — CNS imaging and developmental assessment to guide treatment selection?",
+          "question": "Yes – NBS-identified boys must undergo severity classification to determine optimal treatment: brain MRI (perivascular spaces, ventricular size), formal developmental evaluation (Bayley-III or Mullen Scales), and CSF-HS measurement; this classification drives the critical treatment decision between standard idursulfase (somatic ERT, no CNS penetration) and tividenofusp alfa (BBB-crossing ERT for severe CNS form); classification before age 2 is preferred"
+        }
+      ]
+    },
+    {
+      "heading": "DIFFERENTIAL DIAGNOSIS EXCLUSIONS",
+      "questions": [
+        {
+          "domain": "MPS I (Hurler/Scheie) excluded — IDUA enzyme activity normal; MPS I has corneal clouding which is absent in MPS II?",
+          "question": "Yes – MPS I is the most clinically similar diagnosis to MPS II; both show DS+HS elevation on urine GAG fractionation; distinguished by: (1) corneal clouding present in MPS I, absent in MPS II; (2) autosomal recessive inheritance in MPS I vs. X-linked in MPS II; (3) IDUA enzyme assay normal in MPS II; both enzyme assays (IDUA and IDS) should be sent simultaneously when DS+HS pattern is identified on fractionation"
+        },
+        {
+          "domain": "MPS VII (Sly syndrome) excluded — β-glucuronidase enzyme activity normal; MPS VII is extremely rare and shows DS+HS+CS?",
+          "question": "Yes – MPS VII (β-glucuronidase deficiency) also elevates DS and HS but additionally elevates chondroitin sulfate (CS); distinguished by: (1) three-GAG pattern (DS+HS+CS) vs. two-GAG pattern (DS+HS) in MPS II; (2) severe infantile form presents with non-immune hydrops fetalis (not seen in MPS II); (3) GUSB enzyme assay; MPS VII is far rarer than MPS II"
+        },
+        {
+          "domain": "Mucolipidosis II (I-cell disease) excluded — plasma lysosomal enzyme activities markedly elevated (not reduced)?",
+          "question": "Yes – mucolipidosis II/III produces a Hurler/Hunter-like phenotype with coarse facies, dysostosis, and intellectual regression but shows ELEVATED plasma lysosomal enzyme activities (including IDS) due to failure of mannose-6-phosphate targeting; urine GAG levels are normal or only mildly elevated; plasma multi-enzyme panel efficiently distinguishes from MPS II"
+        },
+        {
+          "domain": "Attenuated MPS II vs. severe MPS II — CNS involvement assessed by formal developmental testing and brain MRI?",
+          "question": "Yes – the severe vs. attenuated distinction within MPS II is itself a critical differential with major treatment implications; attenuated MPS II: normal or near-normal cognition, somatic disease present, IQ typically >70; severe MPS II: progressive cognitive regression, behavioral disturbance, language loss; formal developmental assessment (Bayley-III, IQ testing), brain MRI, and CSF-HS measurement are required for accurate classification; this distinction determines eligibility for tividenofusp vs. idursulfase"
+        }
+      ]
+    },
+    {
+      "heading": "Confidence Interpretation",
+      "questions": []
+    },
+    {
+      "heading": "Cost Categories",
+      "questions": []
+    },
+    {
+      "heading": "Clinical History: No additional cost (obtained during patient encounter and parental interview)\nClinical Exam: No additional cost (physical examination — facies, corneal clarity, skin lesions, abdominal exam, joint ROM, hearing, airway assessment)\nClinical Assessment: $200–500 (formal developmental/neuropsychological evaluation — Bayley-III, Mullen Scales, IQ testing; critical for severe vs. attenuated classification)\nMedium: $50–2,500 (urine GAG quantification + fractionation $100–400; peripheral smear for Alder-Reilly bodies $50–100; skeletal survey X-ray series $400–800; echocardiogram $500–1,000; audiogram $200–400; polysomnography $1,000–2,500; spirometry $300–600; EMG/NCS for carpal tunnel $500–1,000; ophthalmology with slit-lamp and fundoscopy $200–500)\nLarge: $500–12,000+ (IDS enzyme assay on plasma $500–1,000; IDS leukocyte enzyme assay $800–1,500; IDS gene sequencing + MLPA deletion analysis $1,500–3,000; maternal carrier testing $500–1,500; brain MRI with sedation $2,000–5,000; full spine MRI $2,000–4,000; lumbar puncture + CSF-HS measurement $1,000–3,000; comprehensive LSD NGS panel $2,000–5,000)",
+      "questions": []
+    },
+    {
+      "heading": "Key High-Value Findings (≥8 points each)",
+      "questions": []
+    },
+    {
+      "heading": "Deficient IDS enzyme activity confirmed (25 points) — DEFINITIVE BIOCHEMICAL DIAGNOSIS\nPathogenic IDS variant identified by gene sequencing (15 points) — DEFINITIVE GENETIC CONFIRMATION\nPebbly ivory-white skin lesions on upper back / lateral thorax (12 points) — VIRTUALLY PATHOGNOMONIC DERMAL FINDING FOR MPS II\nCorneal clouding ABSENT on slit-lamp (12 points) — CRITICAL DISCRIMINATING FEATURE: excludes MPS I; confirms MPS II\nMale sex with X-linked family history pattern (10 points) — ESSENTIAL INHERITANCE CONTEXT\nProgressive coarsening of facial features (10 points) — CARDINAL CLINICAL HALLMARK\nDysostosis multiplex on skeletal survey (10 points) — PATHOGNOMONIC RADIOGRAPHIC CONSTELLATION\nUrine GAG fractionation: DS + HS both elevated (10 points) — KEY BIOCHEMICAL PATTERN DIRECTING ENZYME ASSAY\nCSF heparan sulfate elevated (8 points) — PRIMARY CNS BIOMARKER; tividenofusp treatment response endpoint\nProgressive intellectual disability and cognitive regression — severe form (12 points) — PRIMARY CNS DISEASE BURDEN INDICATOR\nProgressive joint stiffness with claw-hand contracture (8 points) — CARDINAL SOMATIC FEATURE\nHepatosplenomegaly on abdominal examination (7 points) — CONSISTENT EARLY VISCERAL FINDING\nCardiac valve disease on echocardiography (8 points) — MAJOR CARDIOVASCULAR COMPLICATION\nMixed hearing loss on audiological evaluation (8 points) — UNIVERSAL ENT COMPLICATION\nPositive newborn screening for MPS II — IDS deficiency on DBS (10 points) — PRE-SYMPTOMATIC IDENTIFICATION",
+      "questions": []
+    },
+    {
+      "heading": "Diagnostic Strategy by Cost",
+      "questions": []
+    },
+    {
+      "heading": "Phase 1 — Clinical Evaluation (No Cost):\n  • Confirm male sex and obtain three-generation maternal family history (maternal uncles with developmental delay, muscular disease, or early death)\n  • Document facial feature trajectory using serial photographs if available — coarsening timeline\n  • Skin examination: pebbly ivory lesions on upper back, scapular region, lateral thorax — if present, MPS II is highly probable\n  • Slit-lamp examination of corneas: clear corneas expected in MPS II; clouding redirects to MPS I\n  • Abdominal examination: hepatosplenomegaly, protuberant abdomen\n  • Joint examination: claw-hand, wrist and elbow flexion contractures, restricted shoulder ROM\n  • ENT history: number of otitis episodes, grommet insertions, hearing aid use\n  • Hernia history: umbilical, inguinal — repair before age 2 is common in MPS II\n  Potential: 50–70 points for $0 in a clinically typical presentation\n\nPhase 2 — Biochemical Screening ($100–800):\n  • Urine GAG quantification (DMB assay): first-line biochemical screen; elevated in MPS II\n  • Urine GAG fractionation (TLC or MS/MS): DS+HS pattern confirms MPS I/II/VII differential; directs enzyme selection\n  • Peripheral blood smear: Alder-Reilly granules in leukocytes — rapid inexpensive supportive finding\n  • Skeletal survey: dysostosis multiplex confirms MPS diagnosis and characterizes skeletal involvement\n  Additional: 20–30 points for $200–800\n\nPhase 3 — Enzyme Assay and Genetic Confirmation ($500–3,000):\n  • IDS enzyme assay on plasma (or DBS): primary diagnostic test; severely reduced activity confirms MPS II\n  • Send IDUA enzyme assay simultaneously: DS+HS pattern requires both IDS and IDUA to distinguish MPS II from MPS I\n  • IDS gene sequencing + MLPA deletion analysis: confirms variant, enables genotype-phenotype assessment, family cascade testing\n  • Maternal IDS enzyme activity + sequencing: carrier status determination for recurrence risk counseling\n  Additional: 25–45 points — crosses diagnostic threshold in virtually all true MPS II cases\n\nPhase 4 — CNS Severity Classification ($2,000–8,000) — Required for Treatment Selection:\n  • Formal developmental evaluation: Bayley-III (infants/toddlers) or IQ testing (older children) — cognitive trajectory assessment\n  • Brain MRI: perivascular space dilatation, ventricular size, white matter signal, cortical atrophy\n  • Lumbar puncture for CSF-HS measurement: primary CNS biomarker; baseline before initiating CNS-targeted therapy\n  • Full spine MRI: cord compression surveillance, dural thickening assessment\n  • This classification drives the most consequential treatment decision: tividenofusp (severe CNS form) vs. idursulfase (attenuated/somatic-dominant form)",
+      "questions": []
+    },
+    {
+      "heading": "Critical Notes — Treatment Landscape 2026",
+      "questions": []
+    },
+    {
+      "heading": "• TIVIDENOFUSP ALFA (Hympavzi, Denali Therapeutics / AbbVie) — FDA APPROVED MARCH 2026: First BBB-crossing enzyme replacement therapy for MPS II; uses Denali's ETV (Engineered Transferrin receptor Vehicle) platform to shuttle IDS across the blood-brain barrier via transferrin receptor-mediated transcytosis; IV infusion; produces approximately 90% reduction in CSF heparan sulfate; targets both somatic and CNS disease in severe MPS II; approved for pediatric and adult patients; represents a paradigm shift from somatic-only ERT\n• IDURSULFASE (Elaprase, Takeda) — FDA APPROVED 2006: Standard weekly IV ERT for somatic disease; DOES NOT cross the blood-brain barrier; reduces urine GAG excretion, improves 6-minute walk test, liver/spleen volume, and joint mobility; first-line for attenuated MPS II (preserved cognition); inadequate for severe CNS form — this limitation drove development of tividenofusp and intrathecal approaches\n• PABINAFUSP ALFA (IZCARGO, JCR Pharmaceuticals) — APPROVED IN JAPAN 2021: BBB-crossing recombinant IDS fused to an anti-human transferrin receptor antibody (J-Brain Cargo platform); IV infusion; approved in Japan; open-label data show rapid, durable CSF-HS reductions and neurocognitive stabilization; ex-Japan regulatory filings planned; offers a second BBB-crossing ERT approach alongside tividenofusp\n• CLEMIDSOGENE LANPARVOVEC / NAVSUNLI (RGX-121, REGENXBIO / Nippon Shinyaku) — CLINICAL HOLD JANUARY 2026: Intracisternal AAV9 gene therapy for MPS II; achieved approximately 85% CSF-HS reduction in CAMPSIITE pivotal trial; BLA received Complete Response Letter February 2026 citing phenotype classification, external controls, and biomarker surrogacy questions; simultaneously placed on clinical hold by FDA following an intraventricular CNS tumor identified in a patient treated with sister product RGX-111 (MPS I) — AAV vector genome integration with PLAG1 proto-oncogene overexpression; REGENXBIO working on resubmission path; gene therapy pathway for MPS II significantly complicated by this safety signal\n• THE SEVERITY CLASSIFICATION DECISION IS NOW THE MOST CONSEQUENTIAL CLINICAL JUDGMENT IN MPS II: With tividenofusp approved for the severe/CNS form, early and accurate classification of severe vs. attenuated MPS II directly determines which therapy a patient receives; this classification should be made by age 2–3 in NBS-identified patients using Bayley-III, brain MRI, and CSF-HS; the window for optimal CNS protection is narrow\n• ANESTHESIA IS HIGH-RISK IN MPS II: macroglossia, adenotonsillar hypertrophy, tracheal narrowing, short neck, and limited cervical mobility create a potentially fatal airway; full spine MRI before any GA is mandatory; video-laryngoscope and skilled pediatric anesthesia team required; all MPS II patients should carry an MPS airway alert card documenting their anesthetic risk\n• BEVELCLOUD POSITIONING: MPS II represents an exceptional BevelCloud opportunity — tividenofusp's March 2026 approval creates immediate need for patient identification infrastructure; Denali/AbbVie require robust real-world evidence on severe vs. attenuated classification at scale; CSF-HS biomarker tracking across hospital networks is a natural federated data use case; NBS-positive patient routing and treatment center identification are high-value capabilities",
+      "questions": []
+    },
+    {
+      "heading": "MPS II Phenotypic Spectrum, CNS Severity Classification, and Key Differential Diagnoses",
+      "questions": []
+    },
+    {
+      "heading": "Severe MPS II — Neuronopathic Form (~60–70% of cases):\n  • Age of onset: somatic features 2–4 years; cognitive regression 3–6 years\n  • CNS: progressive intellectual disability, language regression, behavioral disturbances (hyperactivity, aggression), seizures (30–50%), communicating hydrocephalus\n  • Somatic: full dysostosis multiplex, severe joint stiffness, claw hands, kyphoscoliosis, marked hepatosplenomegaly, severe cardiac valve disease, severe OSA, significant hearing loss\n  • Natural history without treatment: loss of ambulation in second decade; death typically in teens to early twenties from respiratory failure or cardiac disease\n  • Treatment target: tividenofusp alfa (BBB-crossing ERT) ± idursulfase for somatic component\n\nAttenuated MPS II — Non-Neuronopathic Form (~30–40% of cases):\n  • Age of onset: somatic features often not recognized until adolescence or adulthood\n  • CNS: intelligence preserved or near-normal (IQ typically >70); no cognitive regression; behavioral issues may be present but mild\n  • Somatic: joint stiffness, carpal tunnel syndrome, cardiac valve disease (dominant late complication), hearing loss, OSA, short stature; airway involvement\n  • Natural history: survival into 4th–6th decade possible with appropriate care; cardiac valve disease and airway complications are leading causes of morbidity and mortality\n  • Treatment target: idursulfase (standard IV ERT); cardiac and orthopedic surveillance critical\n\nSeverity Classification Framework (required for all newly diagnosed patients):\n  Severe indicators: cognitive regression on serial Bayley-III/IQ testing; behavioral disturbance pattern; perivascular space dilatation on brain MRI; elevated CSF-HS; IDS variant type (LOF variants suggest severe but not deterministic)\n  Attenuated indicators: normal cognitive development trajectory; normal brain MRI; normal CSF-HS; missense variant with some residual IDS activity; first presentation in adolescence or adulthood\n  Note: Classification is a clinical judgment — genotype alone is insufficient; reassessment annually in early childhood is required as the phenotype may not be fully evident before age 4–5\n\nKey Differential Diagnoses:\n  • MPS I (Hurler/Scheie) — MOST IMPORTANT MIMIC: DS+HS on fractionation same as MPS II; distinguished by CORNEAL CLOUDING (present in MPS I, absent in MPS II); autosomal recessive (not X-linked); IDUA enzyme assay confirms\n  • MPS VII (Sly syndrome) — very rare; DS+HS+CS triple elevation; non-immune hydrops fetalis in severe form; GUSB enzyme assay confirms\n  • Mucolipidosis II (I-cell disease) — Hurler-like but ELEVATED plasma lysosomal enzymes; normal urine GAG; GlcNAc-1-phosphotransferase deficiency\n  • Pseudodeficiency of IDS — reduced measured IDS activity without disease; IDS gene sequencing identifies pseudodeficiency allele; normal urine GAG; normal clinical phenotype\n  • ADHD / ASD — behavioral features of severe MPS II frequently misdiagnosed as ADHD or ASD; coarse facies, hernias, and hearing loss in a boy with behavioral problems should always trigger urine GAG screening\n  • Non-specific developmental delay with recurrent otitis media — the ENT-developmental combination should lower the threshold for MPS screening in all boys",
+      "questions": []
+    }
+  ],
+  "confidenceNote": "🔴  85–100 points: High Confidence — MPS II (Hunter syndrome) highly likely; send IDS enzyme assay and IDS gene sequencing urgently; initiate multidisciplinary care referral and airway alert documentation immediately\n🟡  40–84 points: Moderate Confidence — MPS II probable or possible; IDS enzyme assay on plasma or DBS and urine GAG quantification + fractionation indicated urgently; concurrent IDUA and GUSB assay if DS+HS pattern differential; lysosomal storage disease specialist referral; comprehensive LSD enzyme panel or NGS panel if IDS normal\n🟢  <40 points: Low Confidence — MPS II less likely; broaden differential to MPS I, MPS VII, mucolipidosis II/III, or other LSD; consider alternative diagnoses for recurrent otitis, hernias, and developmental concerns",
+  "conditionId": 86,
+  "conditionName": "MPS II (Hunter Syndrome)",
+  "specialty": "neurology",
+  "agentType": "diagnosis"
+}

@@ -1,0 +1,115 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "Kawasaki Disease  |  100-Point Adverse Prognostic Score  |  AHA 2017 KD Guidelines / JCS 2020 KD Guidelines / AHA 2022 CAA Risk Classification  |  Long-term Coronary Artery Aneurysm and Ischemia Risk  |  Progression Trajectory: Fast / Moderate / Slow",
+  "sections": [
+    {
+      "heading": "Giant Aneurysm",
+      "sectionPoints": 0,
+      "questions": [
+        {
+          "domain": "Giant Aneurysm",
+          "question": "Is there a giant coronary artery aneurysm (Z-score ≥10 or absolute diameter ≥8 mm) in LAD or RCA?",
+          "confirmingAnswer": "Yes — giant CAA confirmed (AHA Class V); highest thrombosis, stenosis, and MI risk; dual antiplatelet + anticoagulation mandatory; interventional cardiology and cardiac surgery on team",
+          "points": 20,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Large Aneurysm",
+          "question": "Is there a large coronary artery aneurysm (Z-score 7–9.9 or diameter 6–7.9 mm) in LAD or RCA?",
+          "confirmingAnswer": "Yes — large CAA confirmed (AHA Class IV); high thrombosis risk; anticoagulation + antiplatelet therapy; stress testing and coronary imaging at 6–12 months",
+          "points": 10,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Small-Medium Aneurysm",
+          "question": "Is there a small (Z-score 2.5–4.9) or medium (Z-score 5–6.9) coronary artery aneurysm on echo or CTA?",
+          "confirmingAnswer": "Yes — small-medium CAA present (AHA Class II–III); antiplatelet therapy; serial echo every 6–12 months; majority of small aneurysms regress within 1–2 years",
+          "points": 5,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Coronary Stenosis on CTA / Angiography",
+          "question": "Does coronary CTA or invasive angiography show ≥50% luminal stenosis in LAD, RCA, or LCx?",
+          "confirmingAnswer": "Yes — obstructive coronary disease confirmed; myocardial ischemia risk; stress perfusion imaging required; revascularization (PCI or CABG) may be indicated",
+          "points": 15,
+          "cost": "Large"
+        },
+        {
+          "domain": "Myocardial Perfusion Defect",
+          "question": "Does stress MRI, stress echo, or nuclear perfusion imaging show a fixed or reversible perfusion defect?",
+          "confirmingAnswer": "Yes — myocardial ischemia or infarct confirmed; revascularization evaluation required; long-term anticoagulation and cardioprotective therapy intensification",
+          "points": 10,
+          "cost": "Large"
+        },
+        {
+          "domain": "IVIG Resistance",
+          "question": "Did fever persist or recur ≥36 hours after completion of the first IVIG dose (2 g/kg)?",
+          "confirmingAnswer": "Yes — IVIG resistance confirmed; present in ~10–20% of patients; independently associated with higher CAA risk; second IVIG dose, infliximab, or corticosteroids required",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "Delayed or No Treatment",
+          "question": "Was IVIG administered after day 10 of fever, or was diagnosis and treatment significantly delayed?",
+          "confirmingAnswer": "Yes — late treatment confirmed; CAA formation risk doubles when IVIG given after day 10; coronary surveillance intensification required",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "LV Systolic Dysfunction",
+          "question": "Is LVEF <50% on echo during acute phase or at follow-up (myocarditis-related dysfunction)?",
+          "confirmingAnswer": "Yes — LV systolic dysfunction from acute myocarditis or ischemic injury; heart failure management + close follow-up; persistent dysfunction at 6 weeks warrants CMR",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Pericardial Effusion / Myocarditis",
+          "question": "Is there a moderate-to-large pericardial effusion or clinical myocarditis (troponin elevation + LV dysfunction) on presentation?",
+          "confirmingAnswer": "Yes — significant myopericardial involvement confirmed; associated with more severe inflammatory burden and higher CAA risk; corticosteroid adjunct therapy considered",
+          "points": 4,
+          "cost": "Small"
+        },
+        {
+          "domain": "Extreme Thrombocytosis",
+          "question": "Is platelet count >1,000,000/mm³ (extreme thrombocytosis) in the subacute phase (days 7–21)?",
+          "confirmingAnswer": "Yes — extreme thrombocytosis confirmed; highest platelet-mediated thrombosis risk within aneurysms; antiplatelet therapy intensification; avoid aspirin discontinuation",
+          "points": 3,
+          "cost": "Small"
+        },
+        {
+          "domain": "Age <6 Months at Diagnosis",
+          "question": "Was the patient younger than 6 months at time of Kawasaki diagnosis?",
+          "confirmingAnswer": "Yes — infants <6 months have highest CAA risk, most atypical presentation, and highest IVIG resistance rates; heightened surveillance protocol required",
+          "points": 2,
+          "cost": "Small"
+        },
+        {
+          "domain": "Recurrent Kawasaki Disease",
+          "question": "Has the patient had a second confirmed episode of Kawasaki disease?",
+          "confirmingAnswer": "Yes — recurrent KD confirmed; ~1–3% recurrence rate; each episode carries independent CAA risk; lifelong cardiology follow-up mandatory",
+          "points": 3,
+          "cost": "Small"
+        },
+        {
+          "domain": "Lost to Coronary Follow-up",
+          "question": "Has the patient been lost to cardiology follow-up for >2 years with known CAA history?",
+          "confirmingAnswer": "Yes — follow-up gap with known aneurysm history; coronary CTA or invasive angiography required to establish current anatomy; risk of undetected stenosis or thrombosis",
+          "points": 2,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "PATIENT'S ACTUAL ADVERSE SCORE  (clinician enters sum here →)",
+      "sectionPoints": 0,
+      "questions": []
+    }
+  ],
+  "confidenceThresholds": {},
+  "guidelinesCitation": "AHA 2017 Kawasaki Disease Guidelines (McCrindle et al.)  |  JCS 2020 KD Guidelines  |  AHA 2022 CAA Risk Classification (Portman et al.)  |  Newburger et al. Circulation 2004  |  Kobayashi et al. Pediatrics 2006 (IVIG resistance score)  |  Daniels et al. JACC 2012 (long-term coronary outcomes)  |  Salo et al. Pediatrics 2012 (CAA regression)",
+  "conditionId": 40,
+  "conditionName": "Kawasaki Disease",
+  "specialty": "cardiology",
+  "agentType": "progression"
+}

@@ -1,0 +1,302 @@
+{
+  "type": "checklist",
+  "preamble": "Duchenne Muscular Dystrophy  |  DMD Gene-Related Dystrophinopathy  |  Duchenne Type / Becker Muscular Dystrophy (BMD) Spectrum  (OMIM 310200 / 300376)",
+  "sections": [
+    {
+      "heading": "CLINICAL PRESENTATION AND ONSET",
+      "questions": [
+        {
+          "domain": "Onset of motor symptoms in early childhood — typically age 2–5 years?",
+          "question": "Yes – DMD characteristically presents between ages 2–5 years with delayed motor milestones or early motor regression; onset before age 2 is uncommon; most parents notice difficulty keeping up with peers, frequent falls, or trouble climbing stairs in preschool years"
+        },
+        {
+          "domain": "Male sex — DMD is an X-linked recessive disorder affecting males almost exclusively?",
+          "question": "Yes – DMD is X-linked recessive; affects males with a hemizygous DMD pathogenic variant; females are typically carriers with generally mild or subclinical findings; manifest female carriers occur but are uncommon (~8–10%); any presenting female with proximal myopathy warrants carrier testing"
+        },
+        {
+          "domain": "Delayed walking — not walking independently by 18 months, or walking with an abnormal gait from onset?",
+          "question": "Yes – delayed independent ambulation (beyond 18 months) or early gait abnormality is a presenting feature in many DMD boys; tip-toe walking, waddling, and lordotic posture may be noted from the onset of walking; some boys appear to walk normally until a regression is noticed"
+        },
+        {
+          "domain": "Positive family history of DMD or Becker MD in a maternal uncle or male sibling?",
+          "question": "Yes – X-linked inheritance: ~65–70% of cases are inherited from a carrier mother; ~30–35% represent de novo DMD variants; maternal family history (affected uncles on mother's side) is a key clinical clue; germline mosaicism can produce multiple affected siblings from a non-carrier mother"
+        },
+        {
+          "domain": "Incidental discovery of markedly elevated CK on routine blood work or pre-surgical screening?",
+          "question": "Yes – serum CK is elevated from birth in DMD (10–100× ULN); many cases are now identified by incidental CK elevation before clinical motor symptoms are noticed; neonatal or childhood CK screening is an increasingly recognized diagnostic pathway; CK may be mildly elevated in carrier females"
+        },
+        {
+          "domain": "Speech delay or cognitive and behavioral concerns prompting neurodevelopmental evaluation?",
+          "question": "Yes – ~30% of boys with DMD have cognitive impairment, language delay, dyslexia, ADHD, or ASD features; these neurodevelopmental comorbidities may precede recognition of motor symptoms; boys referred for speech or developmental delay workup may have DMD identified when CK is checked"
+        }
+      ]
+    },
+    {
+      "heading": "MOTOR FEATURES — WEAKNESS AND GAIT",
+      "questions": [
+        {
+          "domain": "Proximal lower limb weakness — difficulty climbing stairs, rising from the floor, or running?",
+          "question": "Yes – proximal lower extremity muscle weakness is the cardinal presenting motor feature of DMD; climbing stairs requires pulling on a rail or crawling by age 5–6; running is slow and labored; these functional limitations are usually first noticed by parents or nursery school teachers"
+        },
+        {
+          "domain": "Positive Gowers' maneuver — using hands to walk up legs when rising from the floor?",
+          "question": "Yes – the Gowers' maneuver (using hands to push up the thighs when arising from the floor, reflecting hip and proximal leg extensor weakness) is the most clinically recognized sign of DMD; present in virtually all affected boys by age 3–5; highly specific in the appropriate clinical context"
+        },
+        {
+          "domain": "Waddling (Trendelenburg) gait — swaying side to side with each step due to hip abductor weakness?",
+          "question": "Yes – a waddling gait resulting from hip abductor and gluteal weakness is characteristic and nearly universal in ambulatory DMD patients; the pelvis drops toward the swing leg (Trendelenburg sign); waddling becomes more pronounced with disease progression and fatigue"
+        },
+        {
+          "domain": "Lumbar hyperlordosis — exaggerated inward curvature of the lower spine when standing?",
+          "question": "Yes – compensatory lumbar hyperlordosis develops as hip extensor and abdominal muscle weakness progresses; the pelvis tilts forward and the abdomen protrudes; hyperlordosis is often first noted by parents as a postural change and is characteristic of the DMD stance"
+        },
+        {
+          "domain": "Toe walking or equinus posturing — walking on the balls of the feet?",
+          "question": "Yes – equinus gait (toe walking) is common in DMD, initially compensatory (to shift center of gravity forward over weak hip extensors) and later contracture-driven (tight heel cords from gastrocnemius involvement and prolonged equinus positioning); a frequent early parental observation"
+        },
+        {
+          "domain": "Progressive loss of independent ambulation — typically between ages 9–12 years without treatment?",
+          "question": "Yes – without corticosteroid treatment, most boys with DMD lose independent ambulation between ages 9–12 years; with corticosteroids (deflazacort or prednisone), ambulation is typically preserved 2–3 years longer; loss of ambulation is a critical disease milestone with respiratory and orthopedic implications"
+        }
+      ]
+    },
+    {
+      "heading": "CALF PSEUDOHYPERTROPHY AND MUSCLE FINDINGS",
+      "questions": [
+        {
+          "domain": "Calf pseudohypertrophy — enlarged, firm calves despite weakness?",
+          "question": "Yes – calf pseudohypertrophy (enlarged gastrocnemius and soleus muscles that are firm and rubbery on palpation, yet paradoxically weak) is one of the most characteristic and clinically distinctive features of DMD; present in the majority of affected boys; results from replacement of muscle fibers by fat and fibrous connective tissue"
+        },
+        {
+          "domain": "Enlargement of other muscles — tongue, deltoids, or quadriceps (less consistent than calves)?",
+          "question": "Yes – pseudohypertrophy extends beyond the calves in many patients; tongue enlargement (macroglossia), deltoid, quadriceps, and infraspinatus hypertrophy occur; these contribute to the falsely muscular appearance of some DMD boys in early childhood that can delay recognition"
+        },
+        {
+          "domain": "Paradoxical muscle firmness — muscles feel hard or indurated on palpation despite clinical weakness?",
+          "question": "Yes – fibrofatty replacement of dystrophic muscle produces the characteristic firm, indurated texture on palpation; this contrasts with the soft, doughy feel of truly atrophic muscle in neurogenic conditions; the paradox of a firm, large muscle that is functionally weak is clinically distinctive"
+        }
+      ]
+    },
+    {
+      "heading": "UPPER LIMB AND RESPIRATORY FEATURES",
+      "questions": [
+        {
+          "domain": "Progressive proximal upper limb weakness — difficulty raising arms above head or overhead reach?",
+          "question": "Yes – upper limb involvement follows lower limb weakness in DMD; proximal upper extremity muscles (deltoids, biceps, triceps) are affected in middle childhood; difficulty with overhead activities and progressive loss of arm function follows loss of ambulation"
+        },
+        {
+          "domain": "Respiratory compromise — reduced forced vital capacity (FVC) or need for nocturnal ventilatory support?",
+          "question": "Yes – respiratory muscle weakness is progressive and the major driver of morbidity and mortality in DMD; FVC begins to decline after loss of ambulation; nocturnal hypoventilation precedes daytime respiratory failure; NIV (BiPAP) initiation when FVC <50% predicted or nocturnal desaturation confirmed is standard of care"
+        },
+        {
+          "domain": "Ineffective cough — peak cough flow (PCF) reduced, increasing risk of pulmonary complications?",
+          "question": "Yes – expiratory muscle weakness reduces cough effectiveness; PCF <270 L/min indicates increased pneumonia risk; PCF <160 L/min requires assisted cough (mechanical insufflation-exsufflation); monitoring PCF alongside FVC is an essential part of DMD respiratory surveillance"
+        },
+        {
+          "domain": "Scoliosis developing after loss of ambulation?",
+          "question": "Yes – progressive neuromuscular scoliosis is nearly universal once boys with DMD become wheelchair-dependent; results from paraspinal muscle weakness and asymmetric loading; requires annual spinal surveillance; surgical stabilization (posterior spinal fusion) is typically recommended when Cobb angle >20–25° and FVC >30%"
+        }
+      ]
+    },
+    {
+      "heading": "CARDIAC FEATURES",
+      "questions": [
+        {
+          "domain": "Dilated cardiomyopathy identified on echocardiogram or cardiac MRI?",
+          "question": "Yes – dilated cardiomyopathy (DCM) develops in virtually all DMD patients; echocardiographic abnormalities are present in ~25% by age 6, >59% by age 10, and nearly 100% by age 18; left ventricular dilation and systolic dysfunction are the primary findings; cardiac MRI is more sensitive for early detection of fibrosis on late gadolinium enhancement"
+        },
+        {
+          "domain": "Cardiac fibrosis detected on late gadolinium enhancement (LGE) MRI — typically in inferolateral wall?",
+          "question": "Yes – cardiac MRI with LGE is the most sensitive early marker of DMD cardiomyopathy; fibrosis begins characteristically in the inferolateral and posterior left ventricular wall; LGE may be present before echocardiographic systolic dysfunction; annual cardiac MRI from age 10 is recommended by consensus guidelines"
+        },
+        {
+          "domain": "Sinus tachycardia or arrhythmia detected on ECG or Holter monitoring?",
+          "question": "Yes – resting sinus tachycardia (compensatory for reduced stroke volume) and arrhythmias including atrial flutter, atrial fibrillation, ventricular tachycardia, and conduction defects are recognized cardiac complications; ECG shows characteristic tall R waves in V1 and deep Q waves in lateral leads in some patients"
+        },
+        {
+          "domain": "Treatment with ACE inhibitors or beta-blockers for cardiomyopathy management?",
+          "question": "Yes – cardioprotective therapy with ACE inhibitors (enalapril, lisinopril) or ARBs is recommended prophylactically from age 10 regardless of cardiac function; beta-blockers (carvedilol, metoprolol) are added when systolic dysfunction develops; treatment delays progression and reduces mortality"
+        }
+      ]
+    },
+    {
+      "heading": "LABORATORY AND BIOCHEMICAL FINDINGS",
+      "questions": [
+        {
+          "domain": "Markedly elevated serum creatine kinase (CK) — typically 10–100 times the upper limit of normal?",
+          "question": "Yes – serum CK is elevated from birth in DMD; CK levels of 10,000–50,000+ IU/L (10–100× ULN) are characteristic; CK is highest in early childhood and paradoxically declines as muscle mass is lost with disease progression; a CK within normal range in a symptomatic boy effectively excludes DMD"
+        },
+        {
+          "domain": "Elevated serum transaminases (AST, ALT) — often misattributed to liver disease before CK is checked?",
+          "question": "Yes – AST and ALT are markedly elevated in DMD because these enzymes are released from dystrophic muscle (not just liver); this finding has led to unnecessary hepatology workups in many cases; GGT is normal (liver-specific), distinguishing muscular from hepatic origin; CK should always be checked when unexplained transaminase elevation is found in a young male"
+        },
+        {
+          "domain": "Elevated serum aldolase — additional marker of muscle necrosis?",
+          "question": "Yes – aldolase, like CK and transaminases, is markedly elevated from skeletal muscle necrosis in DMD; not routinely checked but may be encountered on broad metabolic panels; consistent with other muscle enzyme elevations"
+        }
+      ]
+    },
+    {
+      "heading": "COGNITIVE AND BEHAVIORAL COMORBIDITIES",
+      "questions": [
+        {
+          "domain": "Intellectual disability or borderline intellect — mean IQ approximately 85, one standard deviation below population mean?",
+          "question": "Yes – the mean IQ in DMD is approximately 85, roughly one standard deviation below the population mean; ~30% have clinically significant cognitive impairment (IQ <70); this reflects the role of brain dystrophin isoforms (Dp71, Dp140) in CNS function; exons 45–55 deletion location correlates with cognitive risk"
+        },
+        {
+          "domain": "Specific learning disabilities — particularly dyslexia and deficits in phonological processing, working memory, or verbal short-term memory?",
+          "question": "Yes – specific learning disabilities, especially dyslexia and phonological processing deficits, are disproportionately prevalent in DMD; working memory and verbal short-term memory weaknesses are neuropsychological signatures; reflect Dp140 isoform disruption in the brain; require early educational intervention"
+        },
+        {
+          "domain": "ADHD — attention deficit hyperactivity disorder, predominantly inattentive or combined type?",
+          "question": "Yes – ADHD (predominantly inattentive subtype) is present in approximately 25–30% of boys with DMD; exacerbated by corticosteroid treatment (methylphenidate may be used but requires titration); significantly impacts school performance; formal neuropsychological testing should be routine at time of diagnosis"
+        },
+        {
+          "domain": "Autism spectrum disorder features or formal ASD diagnosis?",
+          "question": "Yes – ASD is diagnosed in approximately 3–15% of DMD patients, significantly higher than population prevalence (~1–2%); social communication challenges and restricted/repetitive behaviors; associated with distal DMD gene deletions affecting Dp71 and Dp140 brain isoforms; should be screened at diagnosis"
+        },
+        {
+          "domain": "Anxiety and depression — particularly in adolescence and adulthood?",
+          "question": "Yes – anxiety disorders and depression are highly prevalent in DMD across all ages; rates increase in adolescence and adulthood with loss of function and independence; psychological support and mental health services are a standard component of DMD multidisciplinary care"
+        }
+      ]
+    },
+    {
+      "heading": "MUSCULOSKELETAL COMPLICATIONS",
+      "questions": [
+        {
+          "domain": "Joint contractures — ankle equinus, hip flexion, knee flexion, and elbow flexion contractures?",
+          "question": "Yes – joint contractures are nearly universal in DMD; ankle equinus contractures are earliest and most prominent; hip and knee flexion contractures develop with prolonged sitting; contracture management through daily passive stretching, night splinting, and physiotherapy is essential from the ambulatory phase onward"
+        },
+        {
+          "domain": "Low bone mineral density and increased fracture risk from corticosteroid treatment and immobility?",
+          "question": "Yes – osteoporosis is a major DMD complication from combined effects of immobility, reduced weight-bearing, and corticosteroid treatment; vertebral compression fractures and long bone fractures after minor trauma are common; baseline DEXA at corticosteroid initiation; calcium and vitamin D supplementation mandatory"
+        },
+        {
+          "domain": "Short stature and delayed puberty — consequences of chronic corticosteroid treatment?",
+          "question": "Yes – long-term corticosteroid treatment (prednisone or deflazacort) causes significant growth suppression, weight gain, behavioral changes, and pubertal delay; growth hormone deficiency may also occur; monitoring growth velocity and pubertal staging is mandatory during corticosteroid treatment"
+        }
+      ]
+    },
+    {
+      "heading": "ELECTRODIAGNOSTIC AND MUSCLE BIOPSY FINDINGS",
+      "questions": [
+        {
+          "domain": "EMG showing myopathic pattern — small short-duration polyphasic motor units with early full recruitment?",
+          "question": "Yes – EMG in DMD shows a myopathic pattern: small amplitude, short duration, polyphasic MUAPs with early (reduced force) full interference pattern; fibrillations and positive sharp waves reflect muscle fiber necrosis; distinguishes from neurogenic conditions; often deferred if genetic testing is available"
+        },
+        {
+          "domain": "Muscle biopsy showing dystrophic pattern — necrosis, regeneration, fibrofatty replacement, and absent dystrophin on immunostaining?",
+          "question": "Yes – muscle biopsy in DMD shows a diagnostic dystrophic pattern: active muscle fiber necrosis, regenerating fibers, endomysial fibrosis, and fibrofatty infiltration; dystrophin immunostaining shows complete absence (DMD) or markedly reduced and abnormal (BMD); Western blot quantifies dystrophin protein; now usually deferred to confirm ambiguous genetic results"
+        },
+        {
+          "domain": "Absent dystrophin protein on muscle biopsy immunohistochemistry (IHC) or Western blot?",
+          "question": "Yes (DMD) – dystrophin is completely absent on immunostaining and Western blot in classical DMD; truncating out-of-frame variants disrupt the reading frame, producing no functional dystrophin; in BMD, dystrophin is present but reduced in amount or size (in-frame deletions); protein confirmation is required when genetic testing is ambiguous"
+        }
+      ]
+    },
+    {
+      "heading": "GENETIC TESTING — DEFINITIVE DIAGNOSIS",
+      "questions": [
+        {
+          "domain": "Pathogenic DMD gene variant identified — deletion, duplication, or point mutation?",
+          "question": "Yes – a pathogenic DMD variant is identified in >99% of clinically confirmed DMD cases with comprehensive genetic testing; DMD is the largest human gene (2.4 Mb, 79 exons); approximately 65–70% of pathogenic variants are exonic deletions, 5–10% are duplications, and ~25% are point mutations (nonsense, splice site, frameshift)"
+        },
+        {
+          "domain": "Large exonic deletion — out-of-frame deletion disrupting the dystrophin reading frame?",
+          "question": "Yes – exonic deletions account for ~65–70% of DMD mutations; out-of-frame deletions (violating the reading frame rule) produce truncated, unstable dystrophin mRNA subject to nonsense-mediated decay → absent protein → DMD phenotype; in-frame deletions typically produce truncated but partially functional dystrophin → BMD phenotype"
+        },
+        {
+          "domain": "Deletion spanning exons 45–55 region — associated with higher risk of cognitive impairment?",
+          "question": "Yes – deletions extending into the exon 45–55 region disrupt the promoter for the Dp140 brain dystrophin isoform; Dp140 disruption is strongly associated with intellectual disability, ASD features, and learning disabilities; identifying exact deletion boundaries is required to predict cognitive risk and determine exon-skipping eligibility"
+        },
+        {
+          "domain": "Exon duplication — duplications in the proximal (exons 2–20) or central hotspot?",
+          "question": "Yes – duplications account for ~5–10% of DMD variants; predominantly in exons 2–20 (proximal hotspot); out-of-frame duplications cause DMD; in-frame duplications cause BMD; duplications are NOT detected by standard MLPA deletion panels — require a dedicated duplication assay or NGS"
+        },
+        {
+          "domain": "Nonsense (stop codon) mutation — creates premature termination codon (PTC) eligible for ataluren therapy?",
+          "question": "Yes – nonsense mutations creating a premature stop codon (most commonly in exons 23, 24, and 27) account for ~10–13% of DMD cases; these are potentially amenable to ataluren (Translarna/PTC124) read-through therapy approved in Europe for ambulatory patients ≥2 years; mutation class identification is required for treatment eligibility assessment"
+        },
+        {
+          "domain": "Exon deletion amenable to exon-skipping therapy — most commonly exons 45–55 deletable region (exon 51 skip) or multi-exon skip target?",
+          "question": "Yes – exon-skipping antisense oligonucleotides restore the reading frame by inducing skipping of a specific exon: eteplirsen (exon 51 skip, Sarepta), golodirsen (exon 53 skip), viltolarsen (exon 53 skip), and casimersen (exon 45 skip) are FDA-approved; ~43% of DMD patients are amenable to exon 51 skipping; identifying the precise deletion is required to determine exon-skipping eligibility"
+        }
+      ]
+    },
+    {
+      "heading": "DIFFERENTIAL DIAGNOSIS EXCLUSIONS",
+      "questions": [
+        {
+          "domain": "Becker Muscular Dystrophy (BMD) differentiated by in-frame vs. out-of-frame dystrophin variant?",
+          "question": "Yes – BMD is an allelic disorder caused by in-frame DMD deletions or duplications producing a truncated but partially functional dystrophin protein; BMD onset is typically later (adolescence–adulthood), milder weakness, maintained ambulation beyond age 15, and preserved partial dystrophin on biopsy; the reading-frame rule correctly predicts DMD vs. BMD in ~90% of deletion cases"
+        },
+        {
+          "domain": "Limb-Girdle Muscular Dystrophies (LGMD) excluded — sarcoglycan, calpain-3, dysferlin panel negative?",
+          "question": "Yes – LGMDs present with proximal limb weakness and elevated CK but lack calf pseudohypertrophy, have autosomal recessive/dominant inheritance, affect females equally, and show variable dystrophin on biopsy; LGMD panel (sarcoglycanopathies, calpainopathy, dysferlinopathy) or NGS muscular dystrophy panel distinguishes"
+        },
+        {
+          "domain": "Infantile-onset Pompe disease (GSD II) excluded — acid alpha-glucosidase enzyme activity normal?",
+          "question": "Yes – Pompe disease causes proximal myopathy and elevated CK but includes cardiomegaly in infantile form; acid glucosidase enzyme assay distinguishes; late-onset Pompe can mimic LGMD; now on NBS in most US states; ERT (alglucosidase alfa) is available"
+        },
+        {
+          "domain": "Emery-Dreifuss Muscular Dystrophy (EDMD) excluded — early contractures with cardiac conduction defects in a different pattern?",
+          "question": "Yes – EDMD causes early joint contractures (elbows, Achilles, spine), humeroperoneal weakness pattern, and cardiac conduction disease (heart block); X-linked (EMD/emerin) or autosomal (LMNA); lacks calf pseudohypertrophy; CK mildly elevated; emerin immunostaining on biopsy and EMD/LMNA sequencing distinguish"
+        },
+        {
+          "domain": "Spinal Muscular Atrophy (SMA) excluded — SMN1 copy number normal, reflexes absent vs. reduced in SMA?",
+          "question": "Yes – SMA presents with proximal weakness but is a lower motor neuron disease: normal or only mildly elevated CK (<5× ULN), absent reflexes, no calf pseudohypertrophy, tongue fasciculations; SMN1 copy number analysis normal in DMD; CK markedly elevated in DMD distinguishes readily"
+        }
+      ]
+    },
+    {
+      "heading": "Confidence Interpretation",
+      "questions": []
+    },
+    {
+      "heading": "Cost Categories",
+      "questions": []
+    },
+    {
+      "heading": "Clinical History: No additional cost (obtained during patient encounter and parental interview)\nClinical Exam: No additional cost (neurological examination — tone, bulk, reflexes, Gowers, calf inspection and palpation)\nClinical Assessment: $200–500 (formal neuropsychological/cognitive evaluation; ADHD assessment; ASD screening — recommended at diagnosis)\nMedium: $50–1,500 (serum CK $50–150; AST/ALT/aldolase $50–200; ECG $50–100; echocardiogram $500–1,000; cardiac MRI $1,000–2,500; FVC/spirometry $300–600; EMG/NCS $800–1,500; DEXA $200–400)\nLarge: $500–8,000+ (DMD deletion/duplication MLPA $500–1,500; DMD full gene sequencing including point mutations $1,500–3,000; comprehensive neuromuscular NGS panel $2,000–4,000; muscle biopsy with dystrophin IHC + Western blot $3,000–8,000; parental carrier testing $500–2,000)",
+      "questions": []
+    },
+    {
+      "heading": "Key High-Value Findings (≥8 points each)",
+      "questions": []
+    },
+    {
+      "heading": "Pathogenic DMD variant identified — deletion, duplication, or point mutation (25 points) — DEFINITIVE DIAGNOSIS\nMarkedly elevated serum CK 10–100× ULN (12 points) — CARDINAL BIOCHEMICAL HALLMARK; present from birth\nAbsent dystrophin on muscle biopsy IHC and Western blot (8 points) — DEFINITIVE PROTEIN CONFIRMATION\nOut-of-frame exonic deletion on MLPA (8 points) — MOST COMMON MUTATION CLASS (~65–70% of DMD)\nPositive Gowers' maneuver (10 points) — MOST CLINICALLY RECOGNIZED AND DIAGNOSTICALLY SPECIFIC MOTOR SIGN\nCalf pseudohypertrophy — firm enlarged calves paradoxically weak (10 points) — PATHOGNOMONIC PHYSICAL FINDING\nWaddling Trendelenburg gait with hip abductor weakness (8 points) — CARDINAL MOTOR FEATURE\nProgressive loss of ambulation between ages 9–12 years (8 points) — CRITICAL DISEASE MILESTONE\nDilated cardiomyopathy on echocardiography or cardiac MRI (8 points) — UNIVERSAL LONG-TERM COMPLICATION\nRespiratory compromise — declining FVC requiring NIV (8 points) — PRIMARY DRIVER OF MORBIDITY AND MORTALITY\nDystrophic muscle biopsy pattern — necrosis, regeneration, fibrofatty replacement (8 points) — DIAGNOSTIC TISSUE CONFIRMATION\nMale sex with X-linked family history pattern (8 points) — ESSENTIAL INHERITANCE CONTEXT",
+      "questions": []
+    },
+    {
+      "heading": "Diagnostic Strategy by Cost",
+      "questions": []
+    },
+    {
+      "heading": "Phase 1 — Clinical Evaluation (No Cost):\n  • Complete motor milestone history: age of walking, first falls, stair climbing difficulty, running ability, Gowers onset\n  • Developmental and educational history: speech delay, learning difficulties, ADHD symptoms, behavioral concerns\n  • Family history: maternal uncles with muscle disease, carrier females, known DMD in family\n  • Neurological examination: calf bulk and firmness, Gowers test, gait observation, deep tendon reflexes, lumbar lordosis\n  Potential: 40–60 points for $0\n\nPhase 2 — Biochemical Screening ($50–500):\n  • Serum CK: first and most critical test — markedly elevated (10–100× ULN) strongly supports DMD diagnosis; normal CK effectively excludes DMD\n  • AST/ALT: often already elevated and may be the presenting abnormality; check GGT to exclude hepatic origin\n  • ECG: baseline cardiac assessment; characteristic pattern in some patients\n  Additional: 12–18 points for $100–300\n\nPhase 3 — Definitive Genetic Testing ($500–3,000):\n  • Step 1: DMD exon deletion/duplication analysis by MLPA — detects ~75% of DMD mutations (all deletions and duplications)\n    → Deletion or duplication confirmed: apply reading frame rule — out-of-frame = DMD; in-frame = likely BMD\n    → Identify precise exon boundaries for exon-skipping eligibility assessment and Dp140 cognitive risk evaluation\n  • Step 2: If MLPA negative (no deletion/duplication) — DMD full gene sequencing for point mutations (~25% of DMD)\n  • Step 3: If sequencing negative in high-probability case — comprehensive neuromuscular NGS panel; muscle biopsy for dystrophin protein analysis\n  • Maternal carrier testing: essential for family planning, recurrence risk counseling, and cardiac surveillance in carrier females\n  • Formal neuropsychological evaluation at time of diagnosis — establishes cognitive and behavioral baseline\n  Additional: 25–45 points — crosses diagnostic threshold in virtually all true DMD cases",
+      "questions": []
+    },
+    {
+      "heading": "Critical Notes",
+      "questions": []
+    },
+    {
+      "heading": "• CORTICOSTEROIDS ARE THE CURRENT STANDARD OF CARE — deflazacort (Emflaza) and prednisone/prednisolone are the only disease-modifying interventions proven to slow DMD progression in all patients; they extend ambulation by 2–5 years, delay respiratory decline, reduce scoliosis risk, and improve cardiac function; initiation is typically recommended when motor function plateaus (usually age 4–6 years); new once-weekly vamorolone (Agamree, PTC Therapeutics) was FDA-approved in 2023 with a potentially improved side-effect profile\n• MUTATION-SPECIFIC THERAPIES (2025–2026 landscape):\n  – Eteplirsen (Exondys 51, Sarepta): exon 51 skip; IV infusion weekly; FDA-approved 2016; ~13% of patients eligible\n  – Golodirsen (Vyondys 53, Sarepta): exon 53 skip; FDA-approved 2019; ~8% eligible\n  – Viltolarsen (Viltepso, NS Pharma): exon 53 skip; FDA-approved 2020\n  – Casimersen (Amondys 45, Sarepta): exon 45 skip; FDA-approved 2021; ~8% eligible\n  – Delandistrogene moxeparvovec (Elevidys, Sarepta): AAV-micro-dystrophin gene therapy; FDA-approved June 2023 (accelerated) for ambulatory patients 4–5 years; full approval August 2024 expanded to ambulatory and non-ambulatory patients ≥4 years; single IV infusion\n  – Ataluren (Translarna, PTC Therapeutics): read-through of nonsense mutations; conditionally approved in Europe; not FDA-approved in US\n• GENETIC TESTING IS REQUIRED BEFORE MUTATION-SPECIFIC THERAPY — precise exon boundaries of the deletion must be mapped; a single report of \"exon 45–55 deletion\" is insufficient; the exact start and stop exons determine exon-skipping eligibility; next-generation sequencing provides this precision\n• CARDIAC SURVEILLANCE PROTOCOL: echocardiogram (or cardiac MRI) every 2 years until age 10, then annually; ACE inhibitor or ARB prophylaxis recommended from age 10 regardless of cardiac function; cardiology co-management is essential throughout life\n• RESPIRATORY SURVEILLANCE PROTOCOL: spirometry (FVC, FEV1, PEF) every 6 months from age 6 or when ambulatory; overnight pulse oximetry annually from loss of ambulation; BiPAP initiation at FVC <50% or nocturnal desaturation; daytime ventilatory support when FVC <30% or symptoms of respiratory failure\n• READING FRAME RULE — predicts DMD vs. BMD: out-of-frame deletions/duplications (shift the codon reading frame) → absent dystrophin → DMD; in-frame deletions/duplications (preserve the reading frame) → truncated dystrophin → BMD; accurate in ~90% of cases; exceptions occur at extreme 5' and 3' ends and with complex rearrangements\n• CARRIER FEMALES — ~65–70% of DMD cases are inherited from a carrier mother; carrier females have a 25–50× elevated CK; ~8–10% of carriers develop manifest cardiomyopathy requiring monitoring; cardiac surveillance is recommended for all confirmed carriers from early adulthood; psychological impact of carrier status requires support\n• NEWBORN SCREENING — newborn screening for DMD by elevated CK on dried blood spot is implemented in several US states and internationally; NBS enables diagnosis before symptom onset; pre-symptomatic treatment with Elevidys is now being studied; NBS will likely expand significantly given approved gene therapy",
+      "questions": []
+    },
+    {
+      "heading": "DMD Disease Course, Functional Staging, Exon-Skipping Eligibility Map, and Key Differential Diagnoses",
+      "questions": []
+    },
+    {
+      "heading": "Disease Course — Functional Stages:\nPre-symptomatic (Birth–Age 2): CK markedly elevated from birth; normal or near-normal motor development; may be identified by NBS or incidental CK; no clinical symptoms\nEarly Ambulatory (Age 2–7): Motor delays become apparent; Gowers sign present; calf pseudohypertrophy visible; waddling gait; frequent falls; running difficulty; CK peaks; cognitive and behavioral concerns may emerge\nLate Ambulatory (Age 7–12): Progressive proximal weakness; increasing difficulty climbing stairs; scoliosis begins; with corticosteroids ambulation maintained longer; exon-skipping and gene therapy interventions timed to this phase\nEarly Non-Ambulatory (Age 10–15): Loss of ambulation; scoliosis progression; respiratory decline begins; upper extremity weakness advances; wheelchair dependence; NIV initiation; cardiomyopathy increasingly evident\nLate Non-Ambulatory (Age 15+): Progressive respiratory failure requiring full-time ventilation; severe cardiomyopathy; severe upper limb weakness; complete ADL dependence; life expectancy now extending into 30s–40s with modern cardiorespiratory care\n\nExon-Skipping Eligibility Summary:\n  Exon 51 skip (eteplirsen/Exondys 51): deletions amenable exons 45–50, 47–50, 48–50, 49–50, 50, 52 — ~13% of all DMD patients\n  Exon 53 skip (golodirsen/viltolarsen): deletions in exons 43–52, 45–52, 47–52, 48–52, 49–52, 50–52, 52 — ~8% of DMD patients\n  Exon 45 skip (casimersen/Amondys 45): deletions in exons 46–47, 46–48, 46–49, 46–50, 46–51, 46–52, 46–53, 46–55 — ~8% of DMD patients\n  Total exon-skipping eligible: ~30% of DMD patients across approved exon-skip products\n  Elevidys (micro-dystrophin gene therapy): approved for patients ≥4 years with confirmed DMD gene mutation; not eligible if patient has anti-AAVrh74 antibody titers ≥1:400; single IV infusion\n\nKey Differential Diagnoses:\n  • Becker Muscular Dystrophy (BMD) — same gene, in-frame variants; later onset; slower progression; partial dystrophin; CK elevated; cardiac involvement may dominate\n  • Limb-Girdle MD Type 2C–2F (Sarcoglycanopathies) — autosomal recessive; proximal weakness + elevated CK; can mimic DMD closely; dystrophin normal; sarcoglycan IHC panel distinguishes\n  • Pompe Disease (GSD II) — proximal myopathy + CK elevation; cardiomegaly in infantile form; acid glucosidase enzyme assay diagnostic; ERT available\n  • Emery-Dreifuss MD — early contractures + cardiac conduction disease; humeroperoneal weakness; absent calf pseudohypertrophy; emerin/lamin A/C sequencing\n  • SMA (5q) — lower motor neuron; CK normal or mildly elevated; areflexia; tongue fasciculations; no calf pseudohypertrophy; SMN1 copy number analysis\n  • Congenital Muscular Dystrophies (LAMA2/MDC1A, COL6A) — neonatal onset; prominent contractures; white matter changes on MRI; laminin α2 IHC; specific gene panel",
+      "questions": []
+    }
+  ],
+  "confidenceNote": "🔴  85–100 points: High Confidence — DMD highly likely; proceed immediately to DMD gene deletion/duplication analysis (MLPA); initiate corticosteroid counseling and multidisciplinary care referral\n🟡  40–84 points: Moderate Confidence — DMD or related dystrophinopathy probable or possible; MLPA and DMD sequencing indicated urgently; comprehensive neuromuscular gene panel if MLPA negative; refer to neuromuscular specialist; consider muscle biopsy with dystrophin immunostaining\n🟢  <40 points: Low Confidence — DMD less likely; broaden to LGMD panel, Pompe enzyme assay, or comprehensive neuromuscular NGS panel; EMG and muscle biopsy may clarify",
+  "conditionId": 56,
+  "conditionName": "Duchenne Muscular Dystrophy",
+  "specialty": "neurology",
+  "agentType": "diagnosis"
+}

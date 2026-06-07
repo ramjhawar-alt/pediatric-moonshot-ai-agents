@@ -1,0 +1,96 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "Secondary (Adaptive/Hyperfiltration) FSGS  |  100-Point Adverse Prognostic Score  |  KDIGO 2021 Glomerular Disease Guidelines / Obesity-Related Glomerulopathy Consensus  |  Progression Trajectory: Fast / Moderate / Slow",
+  "sections": [
+    {
+      "heading": "Cause Control — Obesity",
+      "sectionPoints": 0,
+      "questions": [
+        {
+          "domain": "Cause Control — Obesity",
+          "question": "In obesity-related FSGS: is BMI still ≥35 or has weight loss achieved <10% from peak weight?",
+          "confirmingAnswer": "Yes — insufficient weight reduction; obesity drive of hyperfiltration persists; proteinuria will not remit without sustained weight loss",
+          "points": 15,
+          "cost": "Small"
+        },
+        {
+          "domain": "Cause Control — Nephron Mass",
+          "question": "In reduced-nephron-mass FSGS: is the solitary/reduced kidney experiencing progressive CKD without compensatory treatment?",
+          "confirmingAnswer": "Yes — nephron mass cannot be restored; lifelong RAS blockade and proteinuria minimization are the primary interventions",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "Cause Control — Sickle Cell / Reflux",
+          "question": "In sickle cell or reflux nephropathy FSGS: is the underlying disease inadequately controlled (active sickling crises or ongoing reflux without surgical correction)?",
+          "confirmingAnswer": "Yes — underlying driver uncontrolled; FSGS progression will continue without disease-specific management",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "RAS Blockade Response",
+          "question": "Is proteinuria >1 g/day (PCR >1.0 mg/mg) despite ≥3 months of maximum-tolerated ACE inhibitor or ARB dose?",
+          "confirmingAnswer": "Yes — inadequate proteinuria response to RAS blockade; add SGLT-2 inhibitor; reassess cause control; consider sparsentan",
+          "points": 15,
+          "cost": "Small"
+        },
+        {
+          "domain": "Proteinuria Trend",
+          "question": "Has proteinuria increased ≥50% from baseline over ≥6 months despite optimized RAS blockade?",
+          "confirmingAnswer": "Yes — worsening proteinuria trajectory on therapy; underlying hyperfiltration burden increasing; escalate cause control urgently",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "eGFR Level",
+          "question": "Is eGFR <45 mL/min/1.73m² (CKD Stage 3b) or declining below estimated nephron reserve for the underlying structural defect?",
+          "confirmingAnswer": "Yes — significant CKD confirmed; nephron reserve critically reduced; transplant planning may be needed",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "eGFR Decline Rate",
+          "question": "Is annualized eGFR decline >3 mL/min/1.73m²/year confirmed on ≥3 serial measurements?",
+          "confirmingAnswer": "Yes — progressive CKD trajectory; secondary FSGS typically progresses more slowly than primary if cause controlled; rate >3 indicates inadequate cause management",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Tubular Atrophy / Fibrosis",
+          "question": "Is there significant tubular atrophy or interstitial fibrosis (>25% of cortex) on renal biopsy?",
+          "confirmingAnswer": "Yes — chronic irreversible nephron loss confirmed; limits benefit from cause control interventions",
+          "points": 8,
+          "cost": "Large"
+        },
+        {
+          "domain": "Global Sclerosis",
+          "question": "Is >30% of glomeruli globally sclerosed on biopsy, reflecting advanced adaptive glomerulosclerosis?",
+          "confirmingAnswer": "Yes — extensive glomerular dropout; functional nephron mass critically reduced; aggressive cause control and BP management required",
+          "points": 7,
+          "cost": "Large"
+        },
+        {
+          "domain": "BP Control",
+          "question": "Is BP persistently ≥140/90 mmHg despite ≥3 antihypertensive agents including RAS blockade?",
+          "confirmingAnswer": "Yes — uncontrolled hypertension; major CKD progression accelerator; target <130/80 mmHg per KDIGO",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Metabolic Syndrome",
+          "question": "Is there coexisting metabolic syndrome (diabetes, hypertriglyceridemia, insulin resistance) amplifying hyperfiltration injury?",
+          "confirmingAnswer": "Yes — metabolic syndrome confirmed; multiple hyperfiltration drivers present; SGLT-2 inhibitor addresses both CKD and metabolic risk",
+          "points": 4,
+          "cost": "Small"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {},
+  "guidelinesCitation": "KDIGO 2021 Glomerular Disease Guidelines  |  Praga et al. JASN 2001 (obesity FSGS)  |  Kambham et al. AJKD 2001 (obesity-related glomerulopathy)  |  Kasiske & Crosson AJKD 1994 (reduced nephron mass and FSGS)  |  Bhathena JASN 2003 (sickle cell nephropathy)  |  El Karoui et al. JASN 2011 (reflux nephropathy and FSGS)  |  Schmieder et al. Hypertension 2014 (RAS blockade in proteinuria)",
+  "conditionId": 3,
+  "conditionName": "FSGS — Secondary",
+  "specialty": "kidney",
+  "agentType": "progression"
+}

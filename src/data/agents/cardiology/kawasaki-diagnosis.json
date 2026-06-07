@@ -1,0 +1,201 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "Each domain question draws from the complete medical record. Points reflect diagnostic weight. Cost:  Small = existing record / clinical exam / standard labs  |  Medium = targeted lab panel or echo ($200-$1,500)  |  Large = advanced imaging or cath ($1,500-$5,000+)  |  Note: Kawasaki is a CLINICAL diagnosis - no single test confirms it. Signal is distributed across fever, exam findings, and labs.",
+  "sections": [
+    {
+      "heading": "FEVER - 15 pts",
+      "sectionPoints": 15,
+      "questions": [
+        {
+          "domain": "Fever",
+          "question": "Is there a documented fever >=38.0 C (100.4 F) lasting >=5 days that is unresponsive to antibiotics?",
+          "confirmingAnswer": "Yes - fever >=5 days is the required anchor criterion for classic Kawasaki diagnosis; antibiotic non-responsiveness rules out bacterial infection",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "Fever",
+          "question": "In incomplete Kawasaki, is there fever >=5 days with only 2-3 classic features but elevated CRP/ESR and supportive echocardiographic or laboratory findings?",
+          "confirmingAnswer": "Yes - incomplete Kawasaki accounts for ~20% of cases and is more common in infants <6 months; carries equal coronary aneurysm risk",
+          "points": 5,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "CLASSIC CLINICAL FEATURES (5 criteria) - 25 pts",
+      "sectionPoints": 25,
+      "questions": [
+        {
+          "domain": "Classic Features",
+          "question": "Is there bilateral non-exudative bulbar conjunctival injection (without discharge or corneal involvement)?",
+          "confirmingAnswer": "Yes - present in ~90% of classic Kawasaki; bulbar pattern without discharge distinguishes from bacterial/viral conjunctivitis",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Classic Features",
+          "question": "Is there oral mucous membrane changes: strawberry tongue, erythema/cracking of lips, or diffuse oropharyngeal erythema?",
+          "confirmingAnswer": "Yes - present in ~90% of cases; strawberry tongue is most specific oral finding",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Classic Features",
+          "question": "Is there a polymorphous non-vesicular skin rash (morbilliform, urticarial, or erythema multiforme-like)?",
+          "confirmingAnswer": "Yes - present in ~80% of cases; perineal accentuation is characteristic and often early",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Classic Features",
+          "question": "Is there peripheral extremity changes: erythema or edema of hands and feet (acute phase) or periungual desquamation (convalescent phase, days 10-21)?",
+          "confirmingAnswer": "Yes - periungual peeling in convalescent phase is highly characteristic; acute edema/erythema in first week",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Classic Features",
+          "question": "Is there unilateral cervical lymphadenopathy >=1.5 cm, typically anterior cervical?",
+          "confirmingAnswer": "Yes - least common classic feature (~50-75%); often the presenting complaint prompting evaluation",
+          "points": 5,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "ECHOCARDIOGRAPHIC FINDINGS - 20 pts",
+      "sectionPoints": 20,
+      "questions": [
+        {
+          "domain": "Echo - Coronary",
+          "question": "Are there coronary artery aneurysms or dilation on echocardiography (Z-score >=2.5 in LAD or RCA, or absolute diameter >4 mm)?",
+          "confirmingAnswer": "Yes - coronary involvement confirms diagnosis; Z-score >=2.5 = dilation, >=10 = giant aneurysm with highest thrombosis risk",
+          "points": 12,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Echo - Coronary",
+          "question": "Is there perivascular coronary brightness or lack of tapering of coronary arteries on echo (early or incomplete Kawasaki sign)?",
+          "confirmingAnswer": "Yes - perivascular brightness may precede measurable dilation; Z-score >=2.0 is supportive in incomplete Kawasaki",
+          "points": 5,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Echo - Cardiac",
+          "question": "Is there pericardial effusion, mitral regurgitation, or reduced LV systolic function on echo during acute phase?",
+          "confirmingAnswer": "Yes - myocarditis and pericarditis occur in ~25-50% of Kawasaki; MR from papillary muscle inflammation",
+          "points": 3,
+          "cost": "Medium"
+        }
+      ]
+    },
+    {
+      "heading": "LABORATORY FINDINGS - 20 pts",
+      "sectionPoints": 20,
+      "questions": [
+        {
+          "domain": "Labs - Inflammatory",
+          "question": "Is the ESR >=40 mm/hr and/or CRP >=3.0 mg/dL during the acute febrile phase?",
+          "confirmingAnswer": "Yes - markedly elevated inflammatory markers are present in virtually all active Kawasaki; ESR/CRP are required supportive criteria in incomplete Kawasaki algorithm",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Labs - Inflammatory",
+          "question": "Is there leukocytosis (WBC >=15,000/mm3) with neutrophil predominance on CBC during acute phase?",
+          "confirmingAnswer": "Yes - neutrophilic leukocytosis reflects systemic vasculitic inflammation",
+          "points": 4,
+          "cost": "Small"
+        },
+        {
+          "domain": "Labs - Supportive",
+          "question": "Is there thrombocytosis (platelets >=450,000/mm3) in the subacute phase (days 7-21)?",
+          "confirmingAnswer": "Yes - thrombocytosis peaks at 2-3 weeks and correlates with coronary aneurysm risk; giant thrombocytosis (>1M) is a high-risk marker",
+          "points": 4,
+          "cost": "Small"
+        },
+        {
+          "domain": "Labs - Supportive",
+          "question": "Is there sterile pyuria (>=10 WBC/hpf on urinalysis) or mildly elevated ALT on metabolic panel?",
+          "confirmingAnswer": "Yes - sterile pyuria in ~80% of Kawasaki; urethral inflammation not UTI; elevated ALT in ~40%; both support diagnosis in incomplete cases",
+          "points": 4,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "EPIDEMIOLOGY / DEMOGRAPHIC RISK - 10 pts",
+      "sectionPoints": 10,
+      "questions": [
+        {
+          "domain": "Demographics",
+          "question": "Is the patient aged 6 months to 5 years? (Peak incidence 1-2 years; rare under 3 months and over 8 years)",
+          "confirmingAnswer": "Yes - 85% of Kawasaki occurs under age 5; very young infants (<6 months) have highest aneurysm risk and most atypical presentations",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Demographics",
+          "question": "Is the patient of East Asian ancestry (Japanese, Korean, Chinese)? (Incidence 10-30x higher than in Caucasian children)",
+          "confirmingAnswer": "Yes - highest absolute risk population; also higher risk of giant aneurysms and IVIG resistance",
+          "points": 3,
+          "cost": "Small"
+        },
+        {
+          "domain": "Demographics",
+          "question": "Does the presentation occur in winter or spring months? (Seasonal clustering suggests infectious or environmental trigger)",
+          "confirmingAnswer": "Yes - seasonal peak January-March in Northern Hemisphere",
+          "points": 2,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "IVIG RESPONSE / TREATMENT COURSE - 10 pts",
+      "sectionPoints": 10,
+      "questions": [
+        {
+          "domain": "Treatment Response",
+          "question": "Was there defervescence (fever resolution) within 36-48 hours of high-dose IVIG (2 g/kg) administration?",
+          "confirmingAnswer": "Yes - prompt IVIG response is strongly supportive of Kawasaki; ~80% respond to first dose; non-response (IVIG resistance) is itself a high-risk marker",
+          "points": 7,
+          "cost": "Small"
+        },
+        {
+          "domain": "Treatment Response",
+          "question": "Was IVIG administered within the first 10 days of fever, and did repeat echo at 2 weeks and 6-8 weeks show stable or regressing coronary dimensions?",
+          "confirmingAnswer": "Yes - coronary outcomes are the measure of treatment success; aneurysm regression within 6-8 weeks occurs in ~50% of small-medium aneurysms",
+          "points": 3,
+          "cost": "Small"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {
+    "high": {
+      "label": "🔴  80–100 High confidence",
+      "action": "Kawasaki confirmed or highly probable; administer IVIG 2 g/kg + aspirin immediately; obtain baseline echo within 24–48 hours; repeat echo at 2 weeks and 6–8 weeks",
+      "min": 80,
+      "max": 100
+    },
+    "moderate": {
+      "label": "🟡  50–79 Moderate confidence",
+      "action": "Incomplete Kawasaki likely; apply AHA incomplete Kawasaki algorithm; echocardiography indicated urgently; low threshold for empiric IVIG if echo shows coronary changes",
+      "min": 50,
+      "max": 79
+    },
+    "low": {
+      "label": "🟢  <50 Low confidence",
+      "action": "Kawasaki possible but alternative diagnoses should be actively pursued (viral syndrome, bacterial adenitis, drug reaction, toxic shock, adenovirus, MIS-C); complete inflammatory workup; fever diary; cardiology consultation; do not delay if fever persists",
+      "max": 49,
+      "min": 0
+    }
+  },
+  "guidelinesCitation": "",
+  "conditionId": 40,
+  "conditionName": "Kawasaki Disease",
+  "specialty": "cardiology",
+  "agentType": "diagnosis"
+}

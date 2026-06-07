@@ -1,0 +1,316 @@
+{
+  "type": "checklist",
+  "preamble": "BEXS Syndrome  |  HNRNPH2-Related Neurodevelopmental Disorder  |  X-Linked Syndromic Intellectual Disability, Bain Type  (OMIM 300986)",
+  "sections": [
+    {
+      "heading": "CLINICAL PRESENTATION AND ONSET",
+      "questions": [
+        {
+          "domain": "Age of symptom onset before 12 months?",
+          "question": "Yes – most individuals show signs of developmental delay before 12 months"
+        },
+        {
+          "domain": "Global developmental delay identified in first year of life?",
+          "question": "Yes – global delay across motor, language, and cognitive domains"
+        },
+        {
+          "domain": "Regression of acquired skills during illness or following seizures?",
+          "question": "Yes – ~1/3 of patients show regression followed by partial recovery"
+        },
+        {
+          "domain": "Previous diagnosis of Rett syndrome or atypical Rett (before genetic testing)?",
+          "question": "Yes – significant phenotypic overlap; HNRNPH2-NDD is a key RTT mimic"
+        }
+      ]
+    },
+    {
+      "heading": "MOTOR DEVELOPMENT",
+      "questions": [
+        {
+          "domain": "Hypotonia (decreased muscle tone) documented on neurological exam?",
+          "question": "Yes – hypotonia is nearly universal; present from early infancy"
+        },
+        {
+          "domain": "Significant delay in motor milestones (sitting, standing, walking)?",
+          "question": "Yes – motor milestones consistently delayed; some non-ambulatory"
+        },
+        {
+          "domain": "Gait abnormality, ataxia, or unsteady walk?",
+          "question": "Yes – ataxic or broad-based gait common in ambulatory patients"
+        },
+        {
+          "domain": "Mixed tone abnormalities (hypertonia/spasticity alongside hypotonia)?",
+          "question": "Yes – mixed tone picture; spasticity and hypertonia seen in subset"
+        }
+      ]
+    },
+    {
+      "heading": "LANGUAGE AND COMMUNICATION",
+      "questions": [
+        {
+          "domain": "Severe language impairment – nonverbal or minimally verbal?",
+          "question": "Yes – severe language impairment is a hallmark major feature"
+        },
+        {
+          "domain": "No meaningful expressive speech by age 3?",
+          "question": "Yes – majority remain nonverbal or have <10 functional words at age 3"
+        },
+        {
+          "domain": "Absent or severely limited receptive language as well?",
+          "question": "Yes – both receptive and expressive language affected"
+        }
+      ]
+    },
+    {
+      "heading": "BEHAVIORAL AND PSYCHIATRIC FEATURES",
+      "questions": [
+        {
+          "domain": "Autism spectrum disorder (ASD) or autistic-like features?",
+          "question": "Yes – ASD features common; some formally diagnosed with ASD"
+        },
+        {
+          "domain": "Stereotypic movements or hand stereotypies (wringing, mouthing)?",
+          "question": "Yes – hand stereotypies present; overlap with Rett syndrome behavior"
+        },
+        {
+          "domain": "Anxiety, self-injurious, or aggressive behavior?",
+          "question": "Yes – behavioral disturbances in majority; anxiety, aggression, OCD features"
+        },
+        {
+          "domain": "Attention difficulties consistent with ADHD features?",
+          "question": "Yes – inattention and hyperactivity observed in subset"
+        }
+      ]
+    },
+    {
+      "heading": "NEUROLOGICAL FEATURES",
+      "questions": [
+        {
+          "domain": "Intellectual disability (mild to severe) on formal neurodevelopmental testing?",
+          "question": "Yes – intellectual disability present across spectrum, often moderate-severe"
+        },
+        {
+          "domain": "Seizures of any type (onset age 3–34 years reported)?",
+          "question": "Yes – seizures in approximately 50% of patients; variable onset age"
+        },
+        {
+          "domain": "Abnormal EEG findings (epileptiform discharges, abnormal background)?",
+          "question": "Yes – epileptiform activity on EEG in those with seizures"
+        }
+      ]
+    },
+    {
+      "heading": "GROWTH AND MUSCULOSKELETAL",
+      "questions": [
+        {
+          "domain": "Short stature or growth restriction below expected family centile?",
+          "question": "Yes – growth abnormalities common; short stature frequent finding"
+        },
+        {
+          "domain": "Scoliosis or spinal curvature on clinical or radiographic examination?",
+          "question": "Yes – scoliosis common; surveillance recommended until skeletal maturity"
+        },
+        {
+          "domain": "Hip dysplasia confirmed on imaging?",
+          "question": "Yes – hip dysplasia seen especially in non-ambulatory patients"
+        },
+        {
+          "domain": "Joint laxity or hypermobility?",
+          "question": "Yes – joint laxity and ligamentous hypermobility noted in cohort"
+        },
+        {
+          "domain": "Pes planus (flat feet)?",
+          "question": "Yes – pes planus frequently documented"
+        },
+        {
+          "domain": "Pectus carinatum or chest wall deformity?",
+          "question": "Yes – pectus carinatum reported in subset of patients"
+        }
+      ]
+    },
+    {
+      "heading": "DYSMORPHIC FACIAL FEATURES",
+      "questions": [
+        {
+          "domain": "Prominent fingertip pads?",
+          "question": "Yes – prominent fingertip pads are a characteristic dysmorphic feature"
+        },
+        {
+          "domain": "Micrognathia (small or recessed jaw)?",
+          "question": "Yes – micrognathia reported as recurrent dysmorphic feature"
+        },
+        {
+          "domain": "Shortened palpebral fissures or concave/arched eyebrows?",
+          "question": "Yes – shortened palpebral fissures and concave eyebrows described"
+        }
+      ]
+    },
+    {
+      "heading": "GASTROINTESTINAL FEATURES",
+      "questions": [
+        {
+          "domain": "Feeding difficulties or failure to thrive in infancy?",
+          "question": "Yes – feeding problems common; many require G-tube or NG tube"
+        },
+        {
+          "domain": "Chronic constipation?",
+          "question": "Yes – constipation is a consistent GI complaint across the cohort"
+        },
+        {
+          "domain": "Gastroesophageal reflux disease (GERD)?",
+          "question": "Yes – GERD documented in multiple patients"
+        },
+        {
+          "domain": "Dysphagia or swallowing difficulties?",
+          "question": "Yes – dysphagia present; some require videofluoroscopic swallow study"
+        }
+      ]
+    },
+    {
+      "heading": "VISUAL AND SENSORY FEATURES",
+      "questions": [
+        {
+          "domain": "Strabismus (crossed eyes or ocular misalignment)?",
+          "question": "Yes – strabismus present in majority of those with visual involvement (~75%)"
+        },
+        {
+          "domain": "Cortical visual impairment (CVI)?",
+          "question": "Yes – CVI present in subset; requires ophthalmologic evaluation"
+        },
+        {
+          "domain": "Sensory processing disorder or sensory hypersensitivity?",
+          "question": "Yes – sensory processing difficulties frequently reported by caregivers"
+        },
+        {
+          "domain": "Sleep disturbance or suspected sleep apnea?",
+          "question": "Yes – sleep disturbances common; sleep study may be warranted"
+        }
+      ]
+    },
+    {
+      "heading": "NEUROIMAGING FINDINGS",
+      "questions": [
+        {
+          "domain": "Brain MRI: cerebellar abnormalities (vermis hypoplasia, cerebellar hypoplasia)?",
+          "question": "Yes – cerebellar anomalies documented (vermis hypoplasia in subset)"
+        },
+        {
+          "domain": "Brain MRI: cortical abnormalities, white matter signal changes, or thin corpus callosum?",
+          "question": "Variable – cortical and white matter abnormalities in minority of patients"
+        }
+      ]
+    },
+    {
+      "heading": "FAMILY HISTORY AND INHERITANCE PATTERN",
+      "questions": [
+        {
+          "domain": "Confirmed de novo mutation (unaffected parents, no family history)?",
+          "question": "Yes – >95% of pathogenic HNRNPH2 variants arise de novo"
+        },
+        {
+          "domain": "Female sex at birth (historically higher phenotypic identification)?",
+          "question": "Yes – initially identified predominantly in females; male cases now confirmed"
+        },
+        {
+          "domain": "No family history of similar neurodevelopmental disorder?",
+          "question": "Yes – sporadic occurrence; negative family history typical for de novo"
+        }
+      ]
+    },
+    {
+      "heading": "GENETIC TESTING",
+      "questions": [
+        {
+          "domain": "Pathogenic or likely pathogenic variant in HNRNPH2 (Xq22.1) identified?",
+          "question": "Yes – heterozygous (females) or hemizygous (males) HNRNPH2 variant confirmed"
+        },
+        {
+          "domain": "Variant located within or adjacent to nuclear localization signal (NLS/PY-NLS)?",
+          "question": "Yes – NLS variants (e.g., R206W, R206G, P209L) most common and most severe"
+        },
+        {
+          "domain": "De novo origin confirmed by parental trio exome/genome sequencing?",
+          "question": "Yes – trio testing confirms de novo mutation; not inherited from either parent"
+        },
+        {
+          "domain": "Variant predicted to disrupt Kapβ2 (karyopherin β2) nuclear transport interaction?",
+          "question": "Yes – NLS mutations reduce Kapβ2 binding, causing cytoplasmic protein mislocation"
+        }
+      ]
+    },
+    {
+      "heading": "DIFFERENTIAL DIAGNOSIS EXCLUSIONS",
+      "questions": [
+        {
+          "domain": "No pathogenic MECP2 variant (excludes classic Rett syndrome)?",
+          "question": "Yes – MECP2 negative; HNRNPH2-NDD is a key RTT phenocopy"
+        },
+        {
+          "domain": "No pathogenic FOXG1 or CDKL5 variant (excludes atypical Rett)?",
+          "question": "Yes – negative for atypical RTT genes; further supports HNRNPH2 diagnosis"
+        },
+        {
+          "domain": "No pathogenic ANKRD11 variant (excludes KBG syndrome)?",
+          "question": "Yes – KBG syndrome shares dysmorphic and ID features; excluded"
+        },
+        {
+          "domain": "No features of Angelman syndrome (normal UBE3A/chromosome 15)?",
+          "question": "Yes – Angelman excluded; normal methylation and UBE3A on 15q11-q13"
+        },
+        {
+          "domain": "No pathogenic HNRNPH1 variant (close paralog, overlapping phenotype)?",
+          "question": "Yes – HNRNPH1-related NDD is the closest mimic; excluded by sequencing"
+        }
+      ]
+    },
+    {
+      "heading": "Confidence Interpretation",
+      "questions": []
+    },
+    {
+      "heading": "Cost Categories",
+      "questions": []
+    },
+    {
+      "heading": "Clinical History: No additional cost (obtained during patient encounter and caregiver interview)\nClinical Assessment: $200–500 (formal developmental/psychological/behavioral evaluation — e.g., ADOS-2, Vineland)\nClinical Exam: No additional cost (physical and dysmorphology examination by clinician)\nMedium: $300–1,500 (EEG, plain radiographs for scoliosis/hips, ophthalmology visit, modified barium swallow)\nLarge: $3,000–15,000+ (brain MRI with sedation, clinical exome sequencing trio, functional variant studies)",
+      "questions": []
+    },
+    {
+      "heading": "Key High-Value Findings (≥8 points each)",
+      "questions": []
+    },
+    {
+      "heading": "Pathogenic HNRNPH2 variant identified (25 points) — DEFINITIVE\nVariant in nuclear localization signal/PY-NLS region (15 points) — PATHOGNOMONIC LOCATION\nDe novo origin confirmed by trio sequencing (8 points) — CONFIRMATORY\nGlobal developmental delay (10 points) — ESSENTIAL MAJOR FEATURE\nSevere language impairment/nonverbal (10 points) — ESSENTIAL MAJOR FEATURE\nHypotonia (8 points) — NEARLY UNIVERSAL FINDING\nDelayed motor milestones (8 points) — MAJOR FEATURE\nIntellectual disability on formal testing (8 points) — MAJOR FEATURE\nSeizures in ~50% of patients (8 points) — SIGNIFICANT MINOR FEATURE\nSymptom onset before 12 months (8 points) — CRITICAL EARLY RED FLAG",
+      "questions": []
+    },
+    {
+      "heading": "Diagnostic Strategy by Cost",
+      "questions": []
+    },
+    {
+      "heading": "Phase 1 — Clinical Evaluation (No/Low Cost):\n  • Comprehensive developmental history and caregiver interview\n  • Full neurological and dysmorphology physical examination\n  • Developmental milestone review and early regression timeline\n  • Behavioral assessment (ASD screening, ADHD features, stereotypies)\n  Potential: 50–70 points for $0–500\n\nPhase 2 — Targeted Investigations ($300–1,500):\n  • EEG if seizures suspected or confirmed\n  • Formal neurodevelopmental/psychological testing (ADOS-2, Vineland, IQ)\n  • Ophthalmologic evaluation (strabismus, CVI)\n  • Skeletal X-rays for scoliosis and hip dysplasia surveillance\n  Additional: 10–20 points for $500–1,500\n\nPhase 3 — Definitive Genetic Testing ($3,000–15,000+):\n  • Clinical whole exome sequencing (WES) — proband + parent trio preferred\n  • If WES nondiagnostic: whole genome sequencing (WGS)\n  • Brain MRI with sedation for neuroimaging characterization\n  • Functional variant studies if variant of uncertain significance (VUS) found\n  Additional: 40–55 points — crossing diagnostic threshold",
+      "questions": []
+    },
+    {
+      "heading": "Critical Notes",
+      "questions": []
+    },
+    {
+      "heading": "• GENETIC TESTING IS REQUIRED for definitive diagnosis — no clinical biomarker or imaging finding is pathognomonic without a confirmed HNRNPH2 pathogenic variant\n• Ultra-rare disease: as of 2025, approximately 67 individuals identified worldwide; high index of suspicion required in any child with unexplained global DD + hypotonia + severe language impairment\n• BEXS (Bain type X-linked syndromic) is the eponymous name; also referred to as HNRNPH2-NDD (OMIM 300986)\n• X-linked condition (Xq22.1): affects females (heterozygous) and males (hemizygous); males with NLS variants tend to have more severe phenotype\n• >90% of pathogenic variants are missense mutations within or adjacent to the nuclear localization signal (PY-NLS); R206W and R206G are the most recurrent variants\n• Rett Syndrome overlap: HNRNPH2-NDD should be included in the RTT/atypical RTT differential — 12 of 26 patients in one cohort met criteria for atypical RTT\n• Surveillance at every visit: growth parameters, feeding safety, seizure review, developmental progress, behavioral status, scoliosis, sleep disturbance\n• No disease-modifying treatment exists; management is supportive (PT, OT, speech therapy, anti-seizure medications, GI management, orthopedic care)\n• Genetic counseling essential: de novo in most cases means low recurrence risk (<1%), but germline mosaicism has been documented",
+      "questions": []
+    },
+    {
+      "heading": "Phenotypic Spectrum and Variant-Phenotype Correlations",
+      "questions": []
+    },
+    {
+      "heading": "NLS/PY-NLS Variants (e.g., R206W, R206G, P209L) — Most Severe:\n  • Profound intellectual disability, minimal or absent speech, severe motor impairment\n  • Highest seizure burden; more likely to require wheelchair and G-tube\n  • Males with NLS variants: very severe to potentially lethal phenotype\n\nNon-NLS Missense Variants — Milder Spectrum:\n  • Mild developmental delay, autistic features, psychiatric diagnoses\n  • Males with non-NLS variants (e.g., R29C, nonsense/frameshift): mild DD + autism\n\nHNRNPH1 Paralogue: Variants in HNRNPH1 produce nearly identical clinical phenotype — distinguish only by sequencing\n\nDifferential Diagnoses to Exclude:\n  • Classic Rett Syndrome (MECP2) — most important mimic\n  • Atypical Rett (FOXG1, CDKL5)\n  • Angelman Syndrome (UBE3A, 15q11-q13)\n  • KBG Syndrome (ANKRD11)\n  • HNRNPH1-related NDD\n  • Other X-linked intellectual disability syndromes",
+      "questions": []
+    }
+  ],
+  "confidenceNote": "🔴  85–100 points: High Confidence — BEXS Syndrome/HNRNPH2-NDD highly likely; genetic confirmation required; proceed to HNRNPH2 sequencing (trio WES preferred)\n🟡  40–84 points: Moderate Confidence — HNRNPH2-NDD probable or possible; whole exome sequencing strongly indicated; clinical genetics referral\n🟢  <40 points: Low Confidence — HNRNPH2-NDD less likely; broaden differential to other X-linked or autosomal neurodevelopmental disorders",
+  "conditionId": 54,
+  "conditionName": "BEXS Syndrome",
+  "specialty": "neurology",
+  "agentType": "diagnosis"
+}

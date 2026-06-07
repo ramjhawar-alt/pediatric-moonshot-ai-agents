@@ -1,0 +1,110 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "Pulmonary Arterial Hypertension  |  100-Point Adverse Prognostic Score  |  ESC/ERS 2022 PH Guidelines / AHA/ATS 2022 PAH Scientific Statement / REVEAL 2.0 Risk Score  |  Progression Trajectory: Fast / Moderate / Slow",
+  "sections": [
+    {
+      "heading": "RV Failure / Dysfunction",
+      "sectionPoints": 0,
+      "questions": [
+        {
+          "domain": "RV Failure / Dysfunction",
+          "question": "Is there RV systolic dysfunction (TAPSE <18 mm or RV S' <9.5 cm/s on echo) or clinical right heart failure (elevated JVP, ascites, peripheral edema)?",
+          "confirmingAnswer": "Yes — RV failure confirmed; the single strongest predictor of mortality in PAH; parenteral prostacyclin therapy (epoprostenol or treprostinil) required; lung transplant evaluation",
+          "points": 15,
+          "cost": "Small"
+        },
+        {
+          "domain": "Elevated PVR on RHC",
+          "question": "Is pulmonary vascular resistance (PVR) ≥5 Wood units on right heart catheterization?",
+          "confirmingAnswer": "Yes — severely elevated PVR confirmed; high-risk hemodynamic profile per ESC/ERS; associated with poor response to oral therapy alone; combination therapy + prostacyclin pathway agent required",
+          "points": 10,
+          "cost": "Large"
+        },
+        {
+          "domain": "Low Cardiac Index",
+          "question": "Is cardiac index <2.0 L/min/m² on RHC or estimated severely reduced by echo (IVC dilation, poor CO)?",
+          "confirmingAnswer": "Yes — critically reduced cardiac output confirmed; high-risk marker per REVEAL 2.0; IV/SC prostacyclin escalation required; urgent transplant evaluation if refractory",
+          "points": 5,
+          "cost": "Large"
+        },
+        {
+          "domain": "WHO Functional Class",
+          "question": "Is the patient in WHO Functional Class III or IV despite PAH-targeted therapy?",
+          "confirmingAnswer": "Yes — WHO FC III/IV on therapy confirmed; high-risk marker per ESC/ERS and REVEAL 2.0; therapy escalation to triple combination or prostacyclin analog mandatory",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "6-Minute Walk Distance",
+          "question": "Is 6MWD <165 meters (high risk) or <440 meters (intermediate risk) on serial testing, or declining >15% between visits?",
+          "confirmingAnswer": "Yes — significantly reduced or declining 6MWD confirmed; strong independent predictor of mortality; goal is 6MWD >440 m and stable/improving trajectory on therapy",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Exertional Syncope",
+          "question": "Is there a history of syncope or pre-syncope with exertion or at rest?",
+          "confirmingAnswer": "Yes — exertional syncope confirmed; reflects critically reduced cardiac output reserve; high-risk classification; immediate therapy escalation and hospitalization consideration",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "NT-proBNP / BNP Elevation",
+          "question": "Is NT-proBNP >1100 pg/mL (high risk) or >300 pg/mL (intermediate risk) on therapy, or rising on serial measurement?",
+          "confirmingAnswer": "Yes — elevated NT-proBNP on therapy confirmed; ESC/ERS high-risk threshold >1100 pg/mL; rising BNP/NT-proBNP despite therapy is an urgent indicator for escalation",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "Uric Acid / End-Organ Dysfunction",
+          "question": "Is uric acid >7 mg/dL, creatinine rising, or are there signs of hepatic congestion (elevated bilirubin, ascites) on labs?",
+          "confirmingAnswer": "Yes — end-organ dysfunction from chronic low cardiac output confirmed; indicates advanced RV failure and systemic venous hypertension; high-risk per REVEAL 2.0",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "RV Dilation and D-Shaped LV",
+          "question": "Is RV:LV end-diastolic area ratio >1.0, or is there persistent D-shaped LV (eccentricity index >1.1) on echo?",
+          "confirmingAnswer": "Yes — severe RV dilation with LV compression confirmed; indicates markedly elevated RV afterload; associated with rapid clinical deterioration if untreated",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Pericardial Effusion",
+          "question": "Is there any pericardial effusion (even small) on echocardiography?",
+          "confirmingAnswer": "Yes — pericardial effusion in PAH confirmed; present in ~28% of PAH patients; strong independent predictor of mortality; high-risk classification regardless of size",
+          "points": 7,
+          "cost": "Small"
+        },
+        {
+          "domain": "BMPR2 Pathogenic Variant",
+          "question": "Is there a confirmed pathogenic variant in BMPR2, ALK1, ENG, SMAD9, CAV1, or KCNK3 on genetic testing?",
+          "confirmingAnswer": "Yes — heritable PAH (HPAH) confirmed; BMPR2 variants associated with younger onset, worse hemodynamics, lower vasoreactivity response rate, and higher mortality than idiopathic PAH",
+          "points": 4,
+          "cost": "Medium"
+        },
+        {
+          "domain": "High-Risk Associated Condition",
+          "question": "Is PAH associated with systemic sclerosis (SSc-PAH), congenital heart disease (Eisenmenger), or portal hypertension?",
+          "confirmingAnswer": "Yes — high-risk PAH association confirmed; SSc-PAH has worst prognosis among CTD-PAH subtypes; Eisenmenger requires specialized management; portopulmonary PAH limits transplant eligibility",
+          "points": 3,
+          "cost": "Small"
+        },
+        {
+          "domain": "Failure to Achieve Low-Risk Status",
+          "question": "Has the patient failed to achieve low-risk status (NT-proBNP <300 pg/mL, 6MWD >440 m, WHO FC I–II) after ≥3 months of optimized combination therapy?",
+          "confirmingAnswer": "Yes — failure to reach treatment goals confirmed; treat-to-target strategy requires escalation; sotatercept (Winrevair) consideration; lung transplant referral if triple therapy fails",
+          "points": 3,
+          "cost": "Small"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {},
+  "guidelinesCitation": "ESC/ERS 2022 Pulmonary Hypertension Guidelines (Humbert et al.)  |  AHA/ATS 2022 PAH Scientific Statement  |  REVEAL 2.0 Risk Score (Benza et al. 2019)  |  STELLAR Trial: sotatercept in PAH (Hoeper et al. NEJM 2023)  |  Sitbon et al. JACC 2016 (combination therapy targets)  |  Galiè et al. NEJM 2015 (AMBITION trial)  |  Barst et al. NEJM 1996 (epoprostenol landmark)",
+  "conditionId": 56,
+  "conditionName": "Pulmonary Arterial Hypertension",
+  "specialty": "cardiology",
+  "agentType": "progression"
+}

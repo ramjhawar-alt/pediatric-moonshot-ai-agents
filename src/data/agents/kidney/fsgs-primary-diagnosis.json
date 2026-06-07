@@ -1,0 +1,136 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "Primary FSGS  |  Podocyte-intrinsic injury from immune dysregulation, circulating permeability factor, or germline podocyte gene mutation  |  Points reflect diagnostic weight. Cost: Small = standard labs/exam  |  Medium = genetic panel ($200–$1,500)  |  Large = renal biopsy ($3,000–$10,000+)",
+  "sections": [
+    {
+      "heading": "Clinical Presentation",
+      "sectionPoints": 0,
+      "questions": [
+        {
+          "domain": "Clinical Presentation",
+          "question": "Is proteinuria in the full nephrotic range (urine PCR >3.0 mg/mg or 24-hr protein >3.5 g/day)?",
+          "confirmingAnswer": "Yes — nephrotic-range proteinuria confirmed; hallmark of primary FSGS with diffuse podocyte injury",
+          "points": 14,
+          "cost": "Small"
+        },
+        {
+          "domain": "Clinical Presentation",
+          "question": "Is there hypoalbuminemia (<3.0 g/dL) with peripheral or generalized edema on physical exam?",
+          "confirmingAnswer": "Yes — nephrotic syndrome confirmed: heavy proteinuria + hypoalbuminemia + edema triad",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Clinical Presentation",
+          "question": "Is onset acute or subacute (weeks to months) in a child or young adult without an identifiable secondary cause?",
+          "confirmingAnswer": "Yes — age-appropriate abrupt onset consistent with primary podocyte injury or circulating permeability factor",
+          "points": 4,
+          "cost": "Small"
+        },
+        {
+          "domain": "Clinical Presentation",
+          "question": "Is gross hematuria absent? (absence supports FSGS over nephritis; microscopic hematuria may be present)",
+          "confirmingAnswer": "Confirmed absent — no gross hematuria; supports nephrotic rather than nephritic pattern",
+          "points": 2,
+          "cost": "Small"
+        },
+        {
+          "domain": "Biopsy — LM",
+          "question": "Is focal segmental glomerulosclerosis confirmed on light microscopy (segmental sclerosis in <50% of glomeruli)?",
+          "confirmingAnswer": "Yes — FSGS pattern confirmed by pathologist; DEFINITIVE histologic diagnosis",
+          "points": 12,
+          "cost": "Large"
+        },
+        {
+          "domain": "Biopsy — Variant",
+          "question": "Is the FSGS variant tip, NOS (not otherwise specified), or cellular on light microscopy? (these variants favor primary over secondary FSGS)",
+          "confirmingAnswer": "Yes — tip or NOS/cellular variant confirmed; strongly associated with primary immune-mediated FSGS; steroid responsiveness higher in tip variant",
+          "points": 8,
+          "cost": "Large"
+        },
+        {
+          "domain": "Biopsy — EM",
+          "question": "Is foot process effacement diffuse (>80% of the glomerular capillary surface) on electron microscopy?",
+          "confirmingAnswer": "Yes — extensive diffuse foot process effacement confirmed; pathognomonic for primary podocyte injury or circulating permeability factor",
+          "points": 18,
+          "cost": "Large"
+        },
+        {
+          "domain": "Biopsy — IF",
+          "question": "Is immunofluorescence negative or shows only nonspecific IgM/C3 in sclerotic segments (no dominant immune deposits)?",
+          "confirmingAnswer": "Yes — IF negative or nonspecific; confirms primary FSGS and excludes immune-mediated GN (lupus, IgAN, MPGN)",
+          "points": 6,
+          "cost": "Large"
+        },
+        {
+          "domain": "Genetic Testing",
+          "question": "Has genetic testing identified a pathogenic or likely pathogenic variant in a podocyte gene (NPHS1/nephrin, NPHS2/podocin, CD2AP, WT1, TRPC6, INF2, ACTN4)?",
+          "confirmingAnswer": "Yes — P/LP podocyte gene variant confirmed; genetic FSGS; steroid resistance expected; cascade family screening indicated",
+          "points": 10,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Genetic Testing",
+          "question": "Are two APOL1 high-risk alleles (G1/G1, G1/G2, or G2/G2) confirmed in a patient of African ancestry? (collapsing variant association)",
+          "confirmingAnswer": "Yes — APOL1 high-risk genotype confirmed; strongly associated with collapsing or NOS variant of primary FSGS",
+          "points": 4,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Labs",
+          "question": "Are serum C3 and C4 complement levels normal? (normal complement excludes immune-complex GN; supports primary FSGS)",
+          "confirmingAnswer": "Yes — C3 and C4 normal; complement-mediated GN excluded",
+          "points": 3,
+          "cost": "Small"
+        },
+        {
+          "domain": "Labs",
+          "question": "Are oval fat bodies or fatty casts present on urine microscopy (lipiduria)?",
+          "confirmingAnswer": "Yes — oval fat bodies or fatty casts confirmed; reflects heavy urinary lipid loss in nephrotic syndrome",
+          "points": 3,
+          "cost": "Small"
+        },
+        {
+          "domain": "Labs",
+          "question": "Is serum albumin <2.5 g/dL (severe hypoalbuminemia from urinary losses)?",
+          "confirmingAnswer": "Yes — severe hypoalbuminemia confirmed; reflects massive urinary protein loss characteristic of primary FSGS",
+          "points": 2,
+          "cost": "Small"
+        },
+        {
+          "domain": "Treatment Response",
+          "question": "Has the patient been trialed on corticosteroids (prednisone 1 mg/kg/day x 4 weeks minimum) and is the response (complete, partial, or steroid-resistant) documented?",
+          "confirmingAnswer": "Yes — steroid trial documented; steroid resistance (no remission after 4 weeks) is a defining feature of primary genetic FSGS; steroid sensitivity supports MCD vs. FSGS distinction",
+          "points": 6,
+          "cost": "Small"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {
+    "high": {
+      "label": "🔴  80–100 High confidence",
+      "action": "Primary FSGS confirmed; initiate corticosteroid trial if not done; steroid-resistant cases: add calcineurin inhibitor (tacrolimus or cyclosporine) ± MMF; consider rituximab for steroid/CNI-resistant disease; sparsentan (FDA approved 2023) for persistent proteinuria; genetic testing mandatory in all pediatric and young-adult cases",
+      "min": 80,
+      "max": 100
+    },
+    "moderate": {
+      "label": "🟡  50–79 Moderate confidence",
+      "action": "Probable primary FSGS; renal biopsy required for confirmation and variant classification; avoid immunosuppression until histology confirmed; rule out minimal change disease (diffuse FPE without segmental sclerosis on LM) which may precede or mimic FSGS",
+      "min": 50,
+      "max": 79
+    },
+    "low": {
+      "label": "🟢  <50 Low confidence",
+      "action": "Primary FSGS insufficiently supported; consider secondary FSGS (perihilar variant, sub-nephrotic proteinuria, BMI >30, prior nephron loss) or alternative glomerular disease; ensure EM is performed to assess foot process effacement extent before concluding",
+      "max": 49,
+      "min": 0
+    }
+  },
+  "guidelinesCitation": "",
+  "conditionId": 2,
+  "conditionName": "FSGS — Primary/Idiopathic",
+  "specialty": "kidney",
+  "agentType": "diagnosis"
+}

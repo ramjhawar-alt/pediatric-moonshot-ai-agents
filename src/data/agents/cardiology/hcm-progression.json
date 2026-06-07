@@ -1,0 +1,124 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "Hypertrophic Cardiomyopathy  |  100-Point Adverse Prognostic Score  |  ACC/AHA 2020 HCM Guidelines / ESC 2014 HCM Guidelines / HCM Risk-SCD Model  |  Progression Trajectory: Fast / Moderate / Slow",
+  "sections": [
+    {
+      "heading": "Massive Hypertrophy",
+      "sectionPoints": 0,
+      "questions": [
+        {
+          "domain": "Massive Hypertrophy",
+          "question": "Is maximum LV wall thickness ≥30 mm on echo or CMR?",
+          "confirmingAnswer": "Yes — massive hypertrophy; major SCD risk factor; strongly supports ICD implantation per ACC/AHA",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "LGE Fibrosis Burden",
+          "question": "Does CMR show late gadolinium enhancement (LGE) involving >15% of LV mass?",
+          "confirmingAnswer": "Yes — extensive fibrosis confirmed; >15% LGE is a major independent SCD risk factor; ICD implantation recommended",
+          "points": 10,
+          "cost": "Large"
+        },
+        {
+          "domain": "NSVT on Monitoring",
+          "question": "Is there documented non-sustained ventricular tachycardia (NSVT ≥3 beats, ≥120 bpm) on Holter or event monitor?",
+          "confirmingAnswer": "Yes — NSVT confirmed; major SCD risk factor in HCM Risk-SCD calculator; prompts ICD discussion",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Abnormal BP Response",
+          "question": "Is there an abnormal blood pressure response to exercise (failure to rise ≥20 mmHg or a drop) on stress test?",
+          "confirmingAnswer": "Yes — inability to augment cardiac output; predicts SCD particularly in patients <40 years",
+          "points": 4,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Resting LVOT Gradient",
+          "question": "Is the resting LVOT gradient ≥50 mmHg on Doppler echo (severe obstruction)?",
+          "confirmingAnswer": "Yes — severe resting obstruction; symptomatic HOCM; septal reduction therapy (myectomy or alcohol ablation) indicated per ACC/AHA Class I",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "Provoked LVOT Gradient",
+          "question": "Does LVOT gradient rise to ≥50 mmHg with Valsalva or exercise provocation?",
+          "confirmingAnswer": "Yes — labile obstruction confirmed; physiologic stress unmasks severe gradient; equivalent to resting obstruction for intervention eligibility",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "LV Systolic Dysfunction",
+          "question": "Is LVEF <50% on echo or CMR (HCM burned-out phase with systolic dysfunction)?",
+          "confirmingAnswer": "Yes — end-stage/burned-out HCM with systolic dysfunction; worst prognosis subgroup; heart failure hospitalization and transplant listing risk elevated",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "LV Dilation",
+          "question": "Is LV end-diastolic diameter >54 mm (men) / >50 mm (women) on echo?",
+          "confirmingAnswer": "Yes — LV dilation in HCM indicates transition to dilated phase; associated with progressive heart failure and higher mortality",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Severe Diastolic Dysfunction",
+          "question": "Is there Grade III diastolic dysfunction (restrictive filling: E/A >2, deceleration time <150 ms, E/e' >14)?",
+          "confirmingAnswer": "Yes — restrictive diastolic pattern; elevated LA pressures; high heart failure hospitalization risk",
+          "points": 3,
+          "cost": "Small"
+        },
+        {
+          "domain": "Atrial Fibrillation",
+          "question": "Is there documented paroxysmal, persistent, or permanent atrial fibrillation on ECG or monitor?",
+          "confirmingAnswer": "Yes — AF present in ~20–25% of HCM; major cause of heart failure progression and stroke; anticoagulation mandatory; rhythm control challenging",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "LA Severe Dilation",
+          "question": "Is LA diameter >45 mm or LA volume index >34 mL/m² on echo?",
+          "confirmingAnswer": "Yes — severe LA dilation; strong predictor of AF development and stroke risk in HCM; associated with worse symptom burden and outcomes",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "High-Risk Genotype",
+          "question": "Is there a pathogenic variant in MYH7 or TNNT2 (associated with early-onset severe phenotype and high SCD risk)?",
+          "confirmingAnswer": "Yes — high-risk sarcomere variant confirmed; MYH7 and TNNT2 variants associated with more severe hypertrophy, earlier onset, and higher SCD rates than MYBPC3",
+          "points": 6,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Family SCD History",
+          "question": "Is there sudden cardiac death in a first- or second-degree relative under age 50?",
+          "confirmingAnswer": "Yes — family SCD history; independent risk factor in HCM Risk-SCD calculator; lowers ICD threshold",
+          "points": 4,
+          "cost": "Small"
+        },
+        {
+          "domain": "NYHA Class",
+          "question": "Is the patient NYHA Class III or IV despite optimal medical therapy (beta-blocker, verapamil, disopyramide)?",
+          "confirmingAnswer": "Yes — refractory symptoms on maximal medical therapy; septal reduction therapy or advanced heart failure management indicated",
+          "points": 3,
+          "cost": "Small"
+        },
+        {
+          "domain": "Exercise Syncope",
+          "question": "Is there a history of unexplained syncope or near-syncope during or immediately after exertion?",
+          "confirmingAnswer": "Yes — exercise-induced syncope in HCM; high SCD risk marker; ICD implantation strongly considered",
+          "points": 2,
+          "cost": "Small"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {},
+  "guidelinesCitation": "ACC/AHA 2020 HCM Guidelines (Ommen et al.)  |  ESC 2014 HCM Guidelines (Elliott et al.)  |  HCM Risk-SCD Calculator (O'Mahony et al. 2014)  |  Maron et al. NEJM 2003  |  Olivotto et al. JAMA 2001 (AF in HCM)  |  Chan et al. JACC 2014 (LGE and SCD)  |  Rowin et al. Circulation 2017 (end-stage HCM)",
+  "conditionId": 25,
+  "conditionName": "Hypertrophic Cardiomyopathy",
+  "specialty": "cardiology",
+  "agentType": "progression"
+}

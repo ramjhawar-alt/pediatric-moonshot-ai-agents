@@ -1,0 +1,136 @@
+{
+  "type": "scored",
+  "totalPoints": 143,
+  "preamble": "Each domain question draws from the complete medical record. Points reflect diagnostic weight. Cost reflects typical test burden: Small = existing record / standard labs  |  Medium = targeted test or genetic panel ($200–$1,500)  |  Large = biopsy or advanced testing ($1,500–$10,000+)",
+  "sections": [
+    {
+      "heading": "Clinical Presentation",
+      "sectionPoints": 0,
+      "questions": [
+        {
+          "domain": "Clinical Presentation",
+          "question": "Is there episodic gross hematuria (cola/dark urine) concurrent with or within 1–3 days of an upper respiratory infection (synpharyngitic pattern)?",
+          "confirmingAnswer": "Yes — synpharyngitic hematuria confirmed; onset during or within 1–3 days of URI",
+          "points": 15,
+          "cost": "Small"
+        },
+        {
+          "domain": "Clinical Presentation",
+          "question": "Is persistent microscopic hematuria (≥3 RBC/HPF) documented on ≥2 separate urinalysis reports?",
+          "confirmingAnswer": "Yes — persistent glomerular hematuria confirmed on serial UA",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "Clinical Presentation",
+          "question": "Is there sub-nephrotic proteinuria (0.5–3.5 g/24hr or PCR 0.5–3.0 mg/mg)?",
+          "confirmingAnswer": "Yes — sub-nephrotic proteinuria in typical IgAN range",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Timing / Triggers",
+          "question": "Does temporal documentation confirm hematuria onset within 1–3 days of URI (distinguishing IgAN from post-strep GN at 2–4 weeks)?",
+          "confirmingAnswer": "Yes — interval ≤3 days confirmed in clinical notes; IgAN-consistent timing",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "Timing / Triggers",
+          "question": "Are there ≥2 documented episodes of URI-triggered hematuria in the clinical record?",
+          "confirmingAnswer": "Yes — recurrent URI-triggered hematuria pattern confirmed",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Demographics",
+          "question": "Is the patient a young adult (age 15–35 years at onset), with male predominance?",
+          "confirmingAnswer": "Yes — age 15–35 at first presentation; high-probability IgAN demographic",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Labs",
+          "question": "Is serum IgA level elevated (>400 mg/dL on immunoglobulin panel)?",
+          "confirmingAnswer": "Yes — serum IgA elevated; present in 30–50% of IgAN patients",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Labs",
+          "question": "Are serum C3 and C4 complement levels both normal? (normal complement distinguishes IgAN from post-infectious GN and MPGN)",
+          "confirmingAnswer": "Yes — C3 and C4 normal; supports IgAN over post-infectious or complement-mediated GN",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Labs",
+          "question": "Are RBC casts and/or dysmorphic RBCs confirmed on manual urine microscopy?",
+          "confirmingAnswer": "Yes — dysmorphic RBCs or RBC casts confirm glomerular origin of hematuria",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "Serology / Exclusion",
+          "question": "Are ANCA (MPO/PR3) and anti-GBM antibodies both negative?",
+          "confirmingAnswer": "Yes — ANCA-vasculitis and Goodpasture's disease excluded",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Serology / Exclusion",
+          "question": "Are ANA and anti-dsDNA negative (excludes lupus nephritis)?",
+          "confirmingAnswer": "Yes — lupus nephritis excluded; ANA <1:80 and anti-dsDNA negative",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Serology / Exclusion",
+          "question": "Is ASO titer normal with no recent group A streptococcal infection ≥3 weeks prior?",
+          "confirmingAnswer": "Yes — post-streptococcal GN excluded; ASO normal and URI timing ≤3 days supports IgAN",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Renal Biopsy",
+          "question": "Is there dominant or codominant IgA staining (≥2+ brighter than all other immunoglobulins) in the mesangium on immunofluorescence?",
+          "confirmingAnswer": "Yes — dominant mesangial IgA confirmed on IF; DEFINITIVE for IgAN diagnosis",
+          "points": 25,
+          "cost": "Large"
+        },
+        {
+          "domain": "Renal Biopsy",
+          "question": "Is there mesangial hypercellularity on light microscopy (Oxford M1 score) and documented Oxford MEST-C score?",
+          "confirmingAnswer": "Yes — mesangial proliferation confirmed; Oxford MEST-C score available for prognostication",
+          "points": 15,
+          "cost": "Large"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {
+    "high": {
+      "label": "🔴  80–100 High confidence",
+      "action": "IgAN confirmed or highly probable; initiate RAS blockade (ACE/ARB) targeting BP <130/80 mmHg and proteinuria <0.5 g/day; consider sparsentan (FDA approved 2023) for high-risk proteinuria; biopsy confirmation recommended for Oxford MEST-C prognostication and treatment decisions",
+      "min": 80,
+      "max": 100
+    },
+    "moderate": {
+      "label": "🟡  50–79 Moderate confidence",
+      "action": "Probable IgAN; biopsy strongly recommended; begin RAS blockade and SGLT-2 inhibitor while awaiting histology; complete complement, ANCA, and ASO workup if not done",
+      "min": 50,
+      "max": 79
+    },
+    "low": {
+      "label": "🟢  <50 Low confidence",
+      "action": "IgAN unlikely or insufficient data; evaluate other causes of hematuria and proteinuria (post-infectious GN, ANCA vasculitis, thin basement membrane disease); complete serology and urinalysis workup",
+      "max": 49,
+      "min": 0
+    }
+  },
+  "guidelinesCitation": "",
+  "conditionId": 6,
+  "conditionName": "IgA Nephropathy",
+  "specialty": "kidney",
+  "agentType": "diagnosis"
+}

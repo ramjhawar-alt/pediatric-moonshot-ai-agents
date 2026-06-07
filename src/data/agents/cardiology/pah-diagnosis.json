@@ -1,0 +1,187 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "Each domain question draws from the complete medical record. Points reflect diagnostic weight. Cost reflects typical test burden: Small = existing record / standard echo  |  Medium = targeted test or genetic panel ($200–$1,500)  |  Large = advanced imaging CT/MRI/RHC ($1,500–$5,000+)",
+  "sections": [
+    {
+      "heading": "ECHOCARDIOGRAPHIC / IMAGING — 30 pts",
+      "sectionPoints": 30,
+      "questions": [
+        {
+          "domain": "Echo / Imaging",
+          "question": "Is RV systolic pressure (RVSP) estimated >35 mmHg via peak TR jet velocity on Doppler (using Bernoulli equation)?",
+          "confirmingAnswer": "Yes — RVSP >35 mmHg is the primary echo screening criterion for pulmonary hypertension; velocity >3.4 m/s = intermediate-high probability per ESC/ERS guidelines",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "Echo / Imaging",
+          "question": "Is the right ventricle dilated (RV:LV end-diastolic area ratio >1.0 on apical 4-chamber view)?",
+          "confirmingAnswer": "Yes — RV dilation reflects chronic pressure/volume overload from elevated PVR; RV:LV ratio >1.0 is a key severity marker",
+          "points": 7,
+          "cost": "Small"
+        },
+        {
+          "domain": "Echo / Imaging",
+          "question": "Is there interventricular septal flattening or D-shaped LV on parasternal short axis echo?",
+          "confirmingAnswer": "Yes — septal flattening with eccentricity index >1.0 indicates RV pressure or volume overload exceeding LV; D-shaped LV is a hallmark of significant PAH",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Echo / Imaging",
+          "question": "Is the main pulmonary artery diameter ≥25 mm on echo or CT (dilated PA)?",
+          "confirmingAnswer": "Yes — dilated PA is a marker of chronically elevated PA pressures; PA:aorta ratio >1.0 is an independent predictor of PAH",
+          "points": 5,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "RIGHT HEART CATHETERIZATION — 25 pts",
+      "sectionPoints": 25,
+      "questions": [
+        {
+          "domain": "RHC",
+          "question": "Does right heart catheterization confirm mean pulmonary artery pressure (mPAP) ≥20 mmHg at rest?",
+          "confirmingAnswer": "Yes — mPAP ≥20 mmHg is the 2022 ESC/ERS updated hemodynamic threshold for pulmonary hypertension; replaces the older ≥25 mmHg criterion",
+          "points": 12,
+          "cost": "Large"
+        },
+        {
+          "domain": "RHC",
+          "question": "Is pulmonary vascular resistance (PVR) ≥2 Wood units (WU) on RHC with normal PAWP (≤15 mmHg)?",
+          "confirmingAnswer": "Yes — PVR ≥2 WU + PAWP ≤15 mmHg confirms pre-capillary PAH and distinguishes it from left heart disease (Group 2 PH)",
+          "points": 8,
+          "cost": "Large"
+        },
+        {
+          "domain": "RHC",
+          "question": "Was vasoreactivity testing performed (inhaled NO or IV adenosine) and did the patient respond (mPAP decrease ≥10 mmHg to ≤40 mmHg)?",
+          "confirmingAnswer": "Yes — acute vasoreactivity response identifies the ~10% of idiopathic PAH patients who may respond to high-dose calcium channel blockers; critical for therapy selection",
+          "points": 5,
+          "cost": "Large"
+        }
+      ]
+    },
+    {
+      "heading": "LABORATORY / BIOMARKERS — 15 pts",
+      "sectionPoints": 15,
+      "questions": [
+        {
+          "domain": "Biomarkers",
+          "question": "Is NT-proBNP >300 pg/mL (or BNP >50 pg/mL) elevated at diagnosis or follow-up?",
+          "confirmingAnswer": "Yes — NT-proBNP reflects RV wall stress; >300 pg/mL predicts worse outcomes and is a component of ESC/ERS risk stratification scoring",
+          "points": 7,
+          "cost": "Small"
+        },
+        {
+          "domain": "Biomarkers",
+          "question": "Is uric acid elevated (>7 mg/dL) or is there evidence of systemic venous congestion (elevated creatinine, hepatic congestion on labs)?",
+          "confirmingAnswer": "Yes — elevated uric acid reflects tissue hypoxia and low cardiac output; hepatic/renal dysfunction indicates advanced RV failure and high-risk profile",
+          "points": 4,
+          "cost": "Small"
+        },
+        {
+          "domain": "Biomarkers",
+          "question": "Are connective tissue disease antibodies (ANA, anti-Scl-70, anti-centromere, anti-SSA/SSB, anti-dsDNA) present on serologic workup?",
+          "confirmingAnswer": "Yes — CTD-PAH (especially scleroderma-associated) is the most common associated form; serologic screening is mandatory at PAH diagnosis",
+          "points": 4,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "GENETICS — 10 pts",
+      "sectionPoints": 10,
+      "questions": [
+        {
+          "domain": "Genetics",
+          "question": "Has genetic testing identified a pathogenic or likely pathogenic variant in BMPR2 (most common), ALK1, ENG, SMAD9, CAV1, KCNK3, or ATP13A3?",
+          "confirmingAnswer": "Yes — BMPR2 mutations account for ~70% of heritable PAH and ~15% of idiopathic PAH; confirms heritable PAH (HPAH) and enables cascade genetic screening of family members",
+          "points": 7,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Genetics",
+          "question": "Is there a first-degree relative with confirmed PAH or known BMPR2/ALK1 pathogenic variant?",
+          "confirmingAnswer": "Yes — family history of PAH carries ~10–20% lifetime penetrance for BMPR2 carriers; triggers mandatory surveillance echocardiography in carriers",
+          "points": 3,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "FUNCTIONAL STATUS / SYMPTOMS — 12 pts",
+      "sectionPoints": 12,
+      "questions": [
+        {
+          "domain": "Functional Status",
+          "question": "Is 6-minute walk distance (6MWD) <440 meters at baseline or declining on serial testing?",
+          "confirmingAnswer": "Yes — 6MWD <440 m is an intermediate-risk marker per ESC/ERS PAH risk stratification; decline of >15% between visits predicts clinical worsening",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Symptoms",
+          "question": "Is the patient in WHO functional class III or IV (symptomatic with mild exertion or at rest)?",
+          "confirmingAnswer": "Yes — WHO FC III/IV is an intermediate-to-high risk marker; FC II at diagnosis indicates earlier disease; FC guides treatment escalation decisions",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Symptoms",
+          "question": "Is there a history of syncope or pre-syncope with exertion?",
+          "confirmingAnswer": "Yes — exertional syncope in PAH reflects inability to augment cardiac output; associated with high mortality risk and triggers urgent therapy escalation",
+          "points": 2,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "TREATMENT RESPONSE MARKERS — 8 pts",
+      "sectionPoints": 8,
+      "questions": [
+        {
+          "domain": "Treatment Response",
+          "question": "Is the patient on combination PAH-targeted therapy (PDE5 inhibitor + ERA ± prostacyclin analog) with a low-risk profile at follow-up?",
+          "confirmingAnswer": "Yes — achieving low-risk status (NT-proBNP <300 pg/mL, 6MWD >440 m, WHO FC I-II) on combination therapy is the treat-to-target goal per ESC/ERS 2022 guidelines",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Treatment Response",
+          "question": "Has sotatercept (Winrevair) been initiated for inadequate response to background oral therapy, with improvement in 6MWD or PVR?",
+          "confirmingAnswer": "Yes — sotatercept (FDA approved March 2024) is the first activin signaling inhibitor for PAH; STELLAR trial showed 40.8-meter 6MWD improvement over placebo on background therapy",
+          "points": 3,
+          "cost": "Small"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {
+    "high": {
+      "label": "🔴  80–100 High confidence",
+      "action": "PAH confirmed or highly probable; initiate combination PAH therapy (ERA + PDE5i); refer to PAH center of excellence; risk stratify with ESC/ERS risk score; consider sotatercept for insufficient response",
+      "min": 80,
+      "max": 100
+    },
+    "moderate": {
+      "label": "🟡  50–79 Moderate confidence",
+      "action": "RHC mandatory to confirm hemodynamics and PVR; complete PAH association workup (CTD serology, HIV, porto-pulmonary, genetic testing); echocardiographic follow-up in 3 months",
+      "min": 50,
+      "max": 79
+    },
+    "low": {
+      "label": "🟢  <50 Low confidence",
+      "action": "insufficient evidence for PAH; investigate secondary causes (sleep apnea, CTEPH, LHD); consider exercise echo challenge if exertional dyspnea present; reassess with complete cardiopulmonary workup if symptoms progress",
+      "max": 49,
+      "min": 0
+    }
+  },
+  "guidelinesCitation": "",
+  "conditionId": 56,
+  "conditionName": "Pulmonary Arterial Hypertension",
+  "specialty": "cardiology",
+  "agentType": "diagnosis"
+}

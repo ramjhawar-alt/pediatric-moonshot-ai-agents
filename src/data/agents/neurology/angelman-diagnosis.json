@@ -1,0 +1,365 @@
+{
+  "type": "checklist",
+  "preamble": "Angelman Syndrome  |  UBE3A / Chromosome 15q11.2-q13 Imprinting Disorder  |  Maternal UBE3A Loss of Function  (OMIM 105830)",
+  "sections": [
+    {
+      "heading": "EARLY DEVELOPMENTAL HISTORY",
+      "questions": [
+        {
+          "domain": "Developmental delay first noted between ages 3–6 months?",
+          "question": "Yes – subtle developmental delay first apparent by age 3–6 months; unique features emerge after age 1 year"
+        },
+        {
+          "domain": "No clear regression period (developmental plateau, not regression)?",
+          "question": "Yes – AS shows global delay from early life, NOT a regression after normal development (distinguishes AS from RTT)"
+        },
+        {
+          "domain": "Normal prenatal history and unremarkable newborn exam?",
+          "question": "Yes – neonatal period typically normal; no obvious dysmorphic features at birth"
+        },
+        {
+          "domain": "Feeding difficulties in infancy (poor suck, difficulty latching)?",
+          "question": "Yes – feeding difficulties common in infancy; poor suck, hypotonia affecting feeding"
+        },
+        {
+          "domain": "Hypotonia in infancy?",
+          "question": "Yes – generalized hypotonia in early infancy; improves somewhat over time"
+        }
+      ]
+    },
+    {
+      "heading": "BEHAVIORAL PHENOTYPE — HAPPY DEMEANOR (Highly Disease-Specific)",
+      "questions": [
+        {
+          "domain": "Frequent and apparently unprovoked laughing, smiling, and happy affect?",
+          "question": "Yes – excessively happy demeanor with frequent, unprovoked laughing is the most characteristic and pathognomonic behavioral feature of AS"
+        },
+        {
+          "domain": "Excitability and hyperactivity — easily excited by stimuli?",
+          "question": "Yes – high excitability, hyperactivity, and short attention span are core behavioral features"
+        },
+        {
+          "domain": "Hand-flapping or hand-waving movements during excitable states?",
+          "question": "Yes – hand flapping commonly accompanies excitable behavior; present in majority"
+        },
+        {
+          "domain": "Fascination with or attraction to water?",
+          "question": "Yes – unusual attraction to water (pools, baths, puddles) is a well-recognized specific behavioral feature"
+        },
+        {
+          "domain": "Sociable, friendly temperament despite severe cognitive impairment?",
+          "question": "Yes – paradoxically sociable and friendly given severity of intellectual disability"
+        },
+        {
+          "domain": "Decreased need for sleep (reduced total sleep hours)?",
+          "question": "Yes – AS patients often require less sleep; frequent night waking, early morning waking"
+        }
+      ]
+    },
+    {
+      "heading": "SPEECH AND COMMUNICATION",
+      "questions": [
+        {
+          "domain": "Absent or minimal speech — fewer than 2–3 functional words?",
+          "question": "Yes – absent or near-absent expressive speech is a hallmark; appropriate use of even 1–2 words is rare"
+        },
+        {
+          "domain": "Receptive language skills clearly exceed expressive language skills?",
+          "question": "Yes – receptive > expressive language gap is characteristic; comprehension better than expression"
+        },
+        {
+          "domain": "Non-verbal communication preserved (eye gaze, pointing, gestures)?",
+          "question": "Yes – non-verbal communication more preserved; eye pointing, gestures, picture boards used"
+        },
+        {
+          "domain": "No use of sign language or augmentative communication without intervention?",
+          "question": "Yes – spontaneous signing absent but can be learned with intervention"
+        }
+      ]
+    },
+    {
+      "heading": "MOTOR AND GAIT FEATURES",
+      "questions": [
+        {
+          "domain": "Gait ataxia — wide-based, unsteady, jerky gait?",
+          "question": "Yes – ataxic gait with wide base and jerky movements; uplifted, flexed arm posture while walking"
+        },
+        {
+          "domain": "Tremulousness or tremor of limbs (especially upper extremities)?",
+          "question": "Yes – limb tremulousness is a characteristic motor feature; jerky, puppet-like movements"
+        },
+        {
+          "domain": "Delayed walking (most do not walk until after age 3 years)?",
+          "question": "Yes – ambulation delayed; majority walk by age 3–4 years, some remain non-ambulatory"
+        },
+        {
+          "domain": "Tongue thrusting, drooling, or protruding tongue?",
+          "question": "Yes – tongue thrusting and drooling are common; wide mouth with wide-spaced teeth"
+        },
+        {
+          "domain": "Uplifted, flexed arms held away from body during movement?",
+          "question": "Yes – characteristic 'puppet-like' arm posturing during ambulation"
+        }
+      ]
+    },
+    {
+      "heading": "NEUROLOGICAL FEATURES — SEIZURES",
+      "questions": [
+        {
+          "domain": "Seizures of any type?",
+          "question": "Yes – seizures in approximately 80% of AS patients; onset typically 18 months–5 years"
+        },
+        {
+          "domain": "Multiple seizure types (myoclonic, atonic, absence, GTC)?",
+          "question": "Yes – AS associated with multiple seizure types; myoclonic and atonic most common"
+        },
+        {
+          "domain": "Seizures triggered by fever or illness?",
+          "question": "Yes – fever-triggered seizures common, especially in deletion subtype"
+        },
+        {
+          "domain": "Seizures difficult to control with standard anti-seizure medications?",
+          "question": "Yes – seizure management often challenging; polypharmacy frequently required"
+        }
+      ]
+    },
+    {
+      "heading": "EEG FINDINGS (Highly Characteristic in AS)",
+      "questions": [
+        {
+          "domain": "Abnormal EEG with high-amplitude delta activity (2–3 Hz) with notched or triphasic morphology?",
+          "question": "Yes – characteristic AS EEG pattern: high-amplitude slow waves, often anteriorly predominant with triphasic morphology"
+        },
+        {
+          "domain": "EEG abnormalities present even without clinical seizures?",
+          "question": "Yes – AS EEG pattern can be detected before any clinical seizures manifest; abnormal background in majority"
+        },
+        {
+          "domain": "EEG pattern facilitated by eye closure (delta activity increases with eye closure)?",
+          "question": "Yes – eye closure-induced or eye closure-facilitated rhythmic delta is characteristic of AS"
+        },
+        {
+          "domain": "Normal EEG in early infancy (EEG abnormalities develop over time)?",
+          "question": "Yes – EEG may be normal in first months; abnormalities emerge with age"
+        }
+      ]
+    },
+    {
+      "heading": "GROWTH AND PHYSICAL FEATURES",
+      "questions": [
+        {
+          "domain": "Acquired microcephaly (normal head circumference at birth, deceleration after birth)?",
+          "question": "Yes – postnatal microcephaly in majority; most common before age 3; more frequent in deletion subtype"
+        },
+        {
+          "domain": "Oculocutaneous hypopigmentation — lighter skin, hair, and eye color than parents (deletion subtype)?",
+          "question": "Yes (deletion subtype only) – haploinsufficiency of OCA2 gene adjacent to UBE3A causes relative hypopigmentation"
+        },
+        {
+          "domain": "Wide mouth, widely-spaced teeth, prognathism in older patients?",
+          "question": "Yes – facial features including wide mouth, protruding jaw in older patients"
+        },
+        {
+          "domain": "Scoliosis?",
+          "question": "Yes – scoliosis in subset; requires surveillance especially in non-ambulatory patients"
+        },
+        {
+          "domain": "Short stature?",
+          "question": "Yes – mild short stature common; not severe"
+        },
+        {
+          "domain": "Tendency to overheat (heat sensitivity)?",
+          "question": "Yes – temperature regulation issues; heat sensitivity documented"
+        }
+      ]
+    },
+    {
+      "heading": "GASTROINTESTINAL FEATURES",
+      "questions": [
+        {
+          "domain": "Chronic constipation?",
+          "question": "Yes – constipation very common; often requiring ongoing management"
+        },
+        {
+          "domain": "Gastroesophageal reflux (GERD)?",
+          "question": "Yes – GERD documented especially in infancy; feeding difficulties related"
+        },
+        {
+          "domain": "Excessive mouthing of objects?",
+          "question": "Yes – oral hypersensitivity and mouthing of objects noted"
+        }
+      ]
+    },
+    {
+      "heading": "SLEEP DISTURBANCES",
+      "questions": [
+        {
+          "domain": "Reduced total sleep time — waking 2–3 hours earlier than peers?",
+          "question": "Yes – reduced sleep requirement; early morning wakening characteristic"
+        },
+        {
+          "domain": "Night waking, night laughing, or night activity?",
+          "question": "Yes – nighttime awakening with apparent good humor; laughing, playing at night"
+        }
+      ]
+    },
+    {
+      "heading": "VISION AND SENSORY FEATURES",
+      "questions": [
+        {
+          "domain": "Strabismus (ocular misalignment)?",
+          "question": "Yes – strabismus present in a significant proportion of patients"
+        },
+        {
+          "domain": "Hyperreflexia (brisk deep tendon reflexes)?",
+          "question": "Yes – hyperreflexia common, especially in older patients"
+        }
+      ]
+    },
+    {
+      "heading": "FAMILY HISTORY AND INHERITANCE PATTERN",
+      "questions": [
+        {
+          "domain": "No family history of AS (sporadic, de novo — for deletion and UPD subtypes)?",
+          "question": "Yes (deletion/UPD) – deletion and UPD cases are essentially always de novo; recurrence risk <1%"
+        },
+        {
+          "domain": "Family history of AS or related features in maternal relatives (UBE3A mutation or imprinting defect subtype)?",
+          "question": "Variable – UBE3A mutations and imprinting center deletions can be maternally inherited; recurrence risk up to 50%"
+        },
+        {
+          "domain": "Normal maternal phenotype despite being a UBE3A mutation carrier?",
+          "question": "Yes – carrier mothers of UBE3A mutations are clinically unaffected (paternal imprinting silences their copy)"
+        }
+      ]
+    },
+    {
+      "heading": "MOLECULAR GENETIC TESTING — STEP 1: METHYLATION ANALYSIS",
+      "questions": [
+        {
+          "domain": "Abnormal parent-specific DNA methylation at 15q11.2-q13 (loss of maternal methylation pattern)?",
+          "question": "Yes – abnormal methylation (only paternal/unmethylated pattern) detects ~80–85% of AS cases (deletion, UPD, imprinting defect)"
+        },
+        {
+          "domain": "Chromosomal microarray (CMA/SNP array): deletion of maternal 15q11.2-q13 (5–7 Mb)?",
+          "question": "Yes – maternal deletion confirmed in ~68–70% of AS; class 1 deletion (larger) associated with most severe phenotype"
+        },
+        {
+          "domain": "Paternal uniparental disomy (UPD) of chromosome 15 confirmed by microsatellite or SNP analysis?",
+          "question": "Yes (UPD subtype) – both chromosome 15 copies from father; ~5–10% of AS; milder phenotype, lower seizure burden"
+        },
+        {
+          "domain": "Imprinting defect confirmed (abnormal methylation with normal chromosome structure)?",
+          "question": "Yes (imprinting defect subtype) – imprinting center defect ~5–10%; can be inherited; methylation abnormal without deletion"
+        }
+      ]
+    },
+    {
+      "heading": "MOLECULAR GENETIC TESTING — STEP 2: UBE3A SEQUENCING",
+      "questions": [
+        {
+          "domain": "Pathogenic or likely pathogenic variant in UBE3A (maternally derived allele) identified?",
+          "question": "Yes – UBE3A sequence variant in ~11% of AS; maternally inherited or de novo; methylation pattern normal in this subtype"
+        },
+        {
+          "domain": "Confirmed maternal origin of UBE3A pathogenic variant by parental testing?",
+          "question": "Yes – maternal origin confirmation is essential; paternal UBE3A variants do NOT cause AS due to imprinting"
+        },
+        {
+          "domain": "UBE3A deletion/duplication analysis (MLPA) if sequencing negative?",
+          "question": "Yes – exon-level deletions in UBE3A not detected by sequencing alone; MLPA detects additional cases"
+        }
+      ]
+    },
+    {
+      "heading": "DIFFERENTIAL DIAGNOSIS EXCLUSIONS",
+      "questions": [
+        {
+          "domain": "No evidence of Rett syndrome — no regression period, no hand stereotypies, MECP2 negative?",
+          "question": "Yes – RTT excluded: AS has no normal period followed by regression; hand stereotypies absent; happy affect unique to AS"
+        },
+        {
+          "domain": "No Phelan-McDermid syndrome features (normal chromosome 22q13 / SHANK3)?",
+          "question": "Yes – Phelan-McDermid shares absent speech and hypotonia; distinguished by chromosome 22q13 deletion"
+        },
+        {
+          "domain": "No Mowat-Wilson syndrome features (normal ZEB2)?",
+          "question": "Yes – Mowat-Wilson has happy affect, seizures, and constipation overlap; ZEB2 testing distinguishes"
+        },
+        {
+          "domain": "No Pitt-Hopkins syndrome features (normal TCF4)?",
+          "question": "Yes – Pitt-Hopkins has breathing dysregulation and happy affect overlap; TCF4 testing distinguishes"
+        },
+        {
+          "domain": "No Christianson syndrome features (normal SLC9A6)?",
+          "question": "Yes – Christianson syndrome (X-linked) has significant AS overlap including happy affect; distinguished by sequencing"
+        },
+        {
+          "domain": "No BEXS/HNRNPH2 variant (excludes RTT mimic with overlapping features)?",
+          "question": "Yes – BEXS/HNRNPH2-NDD excluded; does not have happy demeanor or characteristic AS EEG"
+        },
+        {
+          "domain": "No Prader-Willi syndrome features (normal paternal 15q11-q13)?",
+          "question": "Yes – PWS also involves 15q11-q13 but affects paternal allele; methylation analysis distinguishes PWS from AS"
+        }
+      ]
+    },
+    {
+      "heading": "Confidence Interpretation",
+      "questions": []
+    },
+    {
+      "heading": "Cost Categories",
+      "questions": []
+    },
+    {
+      "heading": "Clinical History: No additional cost (obtained during patient encounter and caregiver interview)\nClinical Exam: No additional cost (physical and dysmorphology examination by clinician)\nMedium: $300–1,500 (EEG — essential, characteristic pattern; spine X-ray; ophthalmology)\nLarge: $3,000–12,000+ (DNA methylation analysis at 15q11.2-q13; chromosomal microarray/SNP array for deletion characterization; UBE3A sequencing + MLPA; UPD testing by microsatellite or SNP; parental confirmation studies)",
+      "questions": []
+    },
+    {
+      "heading": "Key High-Value Findings (≥8 points each)",
+      "questions": []
+    },
+    {
+      "heading": "Abnormal methylation at 15q11.2-q13 (25 points) — DEFINITIVE MOLECULAR DIAGNOSIS (80–85% of AS)\nMaternal 15q11.2-q13 deletion on CMA/SNP array (15 points) — CONFIRMS DELETION SUBTYPE (~68–70% of AS)\nPathogenic UBE3A variant (maternally derived) (20 points) — DEFINITIVE for UBE3A mutation subtype (~11%)\nFrequent and unprovoked laughing/happy affect (14 points) — PATHOGNOMONIC BEHAVIORAL FEATURE\nMaternal UBE3A variant confirmed by parental testing (8 points) — ESSENTIAL CONFIRMATION\nPaternal UPD chromosome 15 confirmed (8 points) — CONFIRMS UPD SUBTYPE (~5–10%)\nImprinting center defect confirmed (8 points) — CONFIRMS IMPRINTING DEFECT SUBTYPE (~5–10%)\nAbsent/minimal speech (<2 functional words) (12 points) — ESSENTIAL CLINICAL FEATURE\nSeizures in ~80% of patients (10 points) — MAJOR FEATURE\nGait ataxia with puppet-like tremulousness (10 points) — ESSENTIAL CLINICAL FEATURE\nCharacteristic high-amplitude delta EEG with triphasic pattern (12 points) — HIGHLY SPECIFIC FINDING\nNo prior regression period (unlike RTT) (8 points) — KEY DIFFERENTIATOR\nAcquired microcephaly (8 points) — IMPORTANT SUPPORTING FEATURE",
+      "questions": []
+    },
+    {
+      "heading": "Consensus Clinical Diagnostic Criteria (Williams et al. 2006 / Angelman Syndrome Foundation)",
+      "questions": []
+    },
+    {
+      "heading": "CONSISTENT FEATURES (100% of AS patients — all should be present):\n  1. Developmental delay — functionally severe\n  2. Speech impairment — absent or minimal; nonverbal communication better than verbal\n  3. Movement/balance disorder — gait ataxia, tremulous limb movements, or both\n  4. Behavioral uniqueness — happy demeanor; frequent laughing/smiling; easily excited; hand flapping; hyperactive; short attention span\n\nFREQUENT FEATURES (>80% of AS patients):\n  • Delayed, disproportionate growth in head circumference → microcephaly (usually by age 2)\n  • Seizures — onset before age 3 in most; multiple types\n  • Abnormal EEG — characteristic large amplitude slow-spike waves\n\nASSOCIATED FEATURES (20–80% of AS patients):\n  • Flat occiput; occipital groove\n  • Protruding tongue, tongue thrusting, drooling, wide mouth\n  • Wide-spaced teeth\n  • Hypopigmented skin/eyes/hair relative to family members (deletion subtype)\n  • Strabismus\n  • Hyperreflexia; uplifted, flexed arm posture during ambulation\n  • Increased sensitivity to heat\n  • Abnormal sleep-wake cycles; decreased need for sleep\n  • Fascination with water\n  • Abnormal food-related behaviors; obesity in adults",
+      "questions": []
+    },
+    {
+      "heading": "Diagnostic Strategy by Cost — Recommended Testing Sequence",
+      "questions": []
+    },
+    {
+      "heading": "Phase 1 — Clinical Evaluation (No Cost):\n  • Apply Williams 2006 criteria: confirm all 4 consistent features (DD, absent speech, movement disorder, happy demeanor)\n  • Careful exclusion of regression history (absence of regression distinguishes AS from RTT)\n  • Behavioral observation: laughing, excitability, water attraction, hand flapping\n  • Family history: maternal relatives for UBE3A carriers; any AS history\n  Potential: 50–70 points for $0\n\nPhase 2 — EEG (Essential, $300–800):\n  • EEG with eye-open/eye-closure protocol — characteristic high-amplitude delta with triphasic morphology\n  • Abnormal EEG pattern present even without clinical seizures; positive EEG adds 12–22 points\n\nPhase 3 — Molecular Genetic Testing ($3,000–12,000+):\n  • STEP 1: DNA methylation analysis at 15q11.2-q13 (first-line; detects ~80–85%)\n    → If abnormal: chromosomal microarray/SNP array to characterize deletion vs. UPD vs. imprinting defect\n    → If deletion confirmed: classify class 1 vs. class 2 (severity correlation)\n  • STEP 2: If methylation NORMAL → UBE3A sequence analysis + MLPA deletion analysis (~11% of AS)\n  • STEP 3: If UBE3A negative → Rett/Angelman multigene panel or whole exome sequencing\n  • Parental testing: maternal UBE3A carrier testing essential when UBE3A mutation or imprinting defect found\n  Adding: 40–60 points — crosses diagnostic threshold in nearly all true AS cases",
+      "questions": []
+    },
+    {
+      "heading": "Critical Notes",
+      "questions": []
+    },
+    {
+      "heading": "• AS is caused by loss of function of the MATERNALLY derived UBE3A allele ONLY — the paternal UBE3A copy is silenced by genomic imprinting in neurons; this explains why only maternal deletions/mutations cause AS\n• Prevalence: 1 in 12,000–20,000; affects males and females equally (unlike RTT)\n• Four genetic subtypes with different recurrence risks:\n   - Deletion (~68–70%): recurrence <1%; most severe phenotype; seizure burden highest; hypopigmentation present\n   - UPD (~5–10%): recurrence <1%; milder phenotype; less severe seizures; normal pigmentation\n   - Imprinting defect (~5–10%): recurrence UP TO 50% if imprinting center deletion inherited; milder phenotype\n   - UBE3A point mutation (~11%): recurrence UP TO 50% if maternally inherited; carrier mothers unaffected\n   - Unknown mechanism (~10%): cannot be confirmed by standard testing\n• The HAPPY AFFECT is the most disease-specific clinical feature — not seen in RTT, BEXS, or most other NDDs; its presence should immediately prompt AS evaluation\n• EEG is a highly valuable and under-utilized diagnostic tool in AS — the characteristic pattern should prompt methylation testing even before clinical seizures develop\n• MANAGEMENT: no disease-modifying treatment approved; active UBE3A reinstatement gene therapy trials ongoing (antisense oligonucleotides, CRISPR unsilencing of paternal UBE3A)\n• Genetic counseling complexity: recurrence risk varies from <1% (deletion/UPD) to 50% (UBE3A mutation/imprinting defect) — subtype identification is essential for counseling\n• MECP2 testing should be obtained early to exclude RTT in girls with absent speech and apparent regression",
+      "questions": []
+    },
+    {
+      "heading": "Genotype-Phenotype Correlations and Subtype Comparison",
+      "questions": []
+    },
+    {
+      "heading": "Class 1 Deletion (larger, BP1-BP3, ~6 Mb) — Most Severe:\n  • Earlier and more severe seizures; highest seizure frequency; most behavioral features\n  • Lowest developmental attainment; most hypopigmentation; most consistent microcephaly\n  • OCA2 and NIPA1 haploinsufficiency contribute to pigmentation and additional features\n\nClass 2 Deletion (BP2-BP3, ~5 Mb) — Moderately Severe:\n  • Slightly milder than Class 1; all consistent features still present\n\nPaternal UPD — Milder Phenotype:\n  • Less severe seizures; better prognosis for ambulation; normal pigmentation\n  • May have Prader-Willi features transiently in infancy (hypotonia, feeding difficulties)\n\nImprinting Defect — Milder Phenotype:\n  • Least severe seizures; better language acquisition; some develop limited speech\n  • Can be inherited — imprinting center (IC) deletion may be maternally transmitted\n\nUBE3A Point Mutation — Variable Phenotype:\n  • Variable severity; may be milder than deletion subtype\n  • Can be inherited from phenotypically normal carrier mother\n\nKey Differential Diagnoses:\n  • Rett Syndrome (MECP2) — regression + hand stereotypies; no happy affect; girls predominantly\n  • Phelan-McDermid (22q13/SHANK3) — absent speech + hypotonia; no happy affect; absent seizures early\n  • Mowat-Wilson (ZEB2) — happy affect overlap + seizures; distinct dysmorphic features\n  • Christianson Syndrome (SLC9A6) — X-linked; happy affect + ataxia + absent speech; truncal ataxia\n  • Pitt-Hopkins (TCF4) — breathing pattern overlap; more prominent dysmorphic features\n  • Prader-Willi Syndrome (paternal 15q11-q13) — same locus, opposite imprinting; obesity, hyperphagia",
+      "questions": []
+    }
+  ],
+  "confidenceNote": "🔴  85–100 points: High Confidence — Angelman Syndrome highly likely; molecular confirmation strongly recommended to identify subtype; initiate methylation analysis at 15q11.2-q13 and UBE3A sequencing\n🟡  40–84 points: Moderate Confidence — AS probable or possible; methylation analysis at 15q11.2-q13 and UBE3A sequencing indicated; clinical genetics referral; Rett/Angelman/epilepsy multigene panel if initial testing negative\n🟢  <40 points: Low Confidence — AS less likely; broaden differential to Phelan-McDermid, Mowat-Wilson, Christianson, Pitt-Hopkins, or RTT",
+  "conditionId": 35,
+  "conditionName": "Angelman Syndrome",
+  "specialty": "neurology",
+  "agentType": "diagnosis"
+}

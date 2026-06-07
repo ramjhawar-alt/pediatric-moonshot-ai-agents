@@ -1,0 +1,282 @@
+{
+  "type": "checklist",
+  "preamble": "MPS IIIA — Sanfilippo Syndrome Type A  |  SGSH-Related Mucopolysaccharidosis Type III  |  Severe Neuronopathic Lysosomal Storage Disorder  (OMIM 252900)",
+  "sections": [
+    {
+      "heading": "CLINICAL PRESENTATION AND ONSET",
+      "questions": [
+        {
+          "domain": "Apparently normal development in the first 1–3 years of life before regression begins?",
+          "question": "Yes – MPS IIIA (Sanfilippo syndrome Type A) is characterized by a period of apparently normal or mildly delayed development in the first 1–3 years before progressive neurological regression becomes evident; this pre-regression period of normalcy is a critical distinguishing feature from congenital static encephalopathies and most structural brain disorders; the trajectory from normal → plateau → regression is pathognomonic"
+        },
+        {
+          "domain": "Onset of behavioral and developmental concerns typically between ages 2–6 years?",
+          "question": "Yes – clinical recognition of MPS IIIA typically occurs between ages 2–6 years when behavioral disturbances, speech delay, and developmental regression become apparent to caregivers and pediatricians; the median age at diagnosis has historically been 4–5 years with a diagnostic delay of 2–3 years from first clinical concern; NBS programs are beginning to reduce this delay significantly"
+        },
+        {
+          "domain": "Speech and language delay — often the first developmental concern noted by parents?",
+          "question": "Yes – delayed or regressing speech and language development is typically the first clinical concern in MPS IIIA and the most common reason for initial pediatric or speech therapy referral; expressive language is more severely affected than receptive early in the disease; vocabulary acquisition is slow, then plateaus, then regresses; total language loss occurs in most patients by school age in the severe form"
+        },
+        {
+          "domain": "Recurrent otitis media and upper respiratory infections in early childhood?",
+          "question": "Yes – recurrent otitis media and chronic upper respiratory infections are near-universal early features of MPS IIIA, typically beginning in the first 1–2 years of life; they often precede the neurodevelopmental concerns and represent the first clinical contact with the healthcare system; conductive hearing loss from chronic otitis compounds the speech and language difficulties"
+        },
+        {
+          "domain": "Mild coarsening of facial features — less pronounced than MPS I or II?",
+          "question": "Yes – mild coarsening of facial features occurs in MPS IIIA from heparan sulfate deposition in soft tissues; the facial phenotype is subtler than MPS I (Hurler) or MPS II (Hunter) — thicker eyebrows, slightly prominent supraorbital ridges, full lips, and a broad nasal bridge; the relative mildness of somatic features compared to the severity of neurological disease is a characteristic and diagnostically important observation in MPS IIIA"
+        },
+        {
+          "domain": "Mild hepatomegaly — liver enlargement present but less prominent than other MPS types?",
+          "question": "Yes – mild to moderate hepatomegaly is present in MPS IIIA from heparan sulfate accumulation in hepatic macrophages; the degree of hepatosplenomegaly is substantially milder than in MPS I, II, VI, or VII; the discrepancy between the severity of neurological disease and the relative mildness of somatic findings (hepatomegaly, skeletal changes, dysmorphia) is a hallmark of MPS IIIA"
+        }
+      ]
+    },
+    {
+      "heading": "BEHAVIORAL AND PSYCHIATRIC FEATURES — THE DOMINANT CLINICAL PHENOTYPE",
+      "questions": [
+        {
+          "domain": "Severe hyperactivity — uncontrollable, relentless, and exhausting for caregivers?",
+          "question": "Yes – severe, unremitting hyperactivity is the most disabling behavioral feature of MPS IIIA and the single most common presenting complaint that leads to diagnosis; the hyperactivity of Sanfilippo syndrome is characteristically more severe and less medication-responsive than ADHD; children run constantly, cannot sit still, require 24-hour supervision, and physically exhaust caregivers; this behavioral profile in combination with speech delay should immediately trigger MPS IIIA evaluation"
+        },
+        {
+          "domain": "Aggression — hitting, biting, scratching, or destructive behavior directed at caregivers or objects?",
+          "question": "Yes – aggressive behavior (hitting, biting, scratching, hair-pulling, and destruction of objects) is present in approximately 60–80% of MPS IIIA patients and begins in the 3–6 year range; the aggression is not goal-directed but reflects neurological disinhibition from progressive frontal and subcortical degeneration; combined with hyperactivity, this behavioral complex is the most common reason families describe MPS IIIA as their greatest burden"
+        },
+        {
+          "domain": "Sleep-cycle inversion or severe sleep disturbance — awake and active at night, lethargic during the day?",
+          "question": "Yes – profound disruption of the sleep-wake cycle is a cardinal feature of MPS IIIA and one of the most diagnostically specific behavioral findings; children may be awake and hyperactive for large portions of the night; sleep inversion is thought to reflect heparan sulfate accumulation disrupting hypothalamic circadian regulation; it is one of the most devastating features for family functioning and is often treatment-refractory"
+        },
+        {
+          "domain": "Behavioral regression — previously learned behavioral inhibition and social skills deteriorating over time?",
+          "question": "Yes – progressive behavioral regression (loss of previously acquired behavioral inhibition, social reciprocity, and adaptive skills) is characteristic of MPS IIIA; the child who was manageable at age 3 becomes increasingly difficult by age 5–6; caregivers describe a progressive loss of the child they knew; this trajectory distinguishes MPS IIIA behavioral features from static neurodevelopmental disorders like ADHD or ASD"
+        },
+        {
+          "domain": "Misdiagnosis as ADHD, autism spectrum disorder, or behavioral disorder before MPS IIIA recognized?",
+          "question": "Yes – ADHD misdiagnosis is the single most common reason for delayed MPS IIIA diagnosis; the combination of severe hyperactivity, speech delay, and behavioral disturbance in a young child is almost universally attributed to ADHD or ASD before MPS is considered; in a boy with apparent ADHD who is not responding to stimulant medication and shows progressive deterioration, MPS IIIA should be high on the differential; urine GAG screening should be routine in any child with unexplained hyperactivity + developmental regression"
+        }
+      ]
+    },
+    {
+      "heading": "NEURODEVELOPMENTAL REGRESSION",
+      "questions": [
+        {
+          "domain": "Progressive cognitive deterioration — IQ declining on serial formal testing?",
+          "question": "Yes – progressive intellectual decline is universal in MPS IIIA; serial formal developmental or IQ testing (Bayley-III, Mullen Scales, Vineland Adaptive Behavior Scales) documents the regression trajectory; the rate of cognitive decline is variable but inexorable without disease-modifying treatment; early-stage patients may have borderline IQ while late-stage patients progress to profound intellectual disability"
+        },
+        {
+          "domain": "Loss of previously acquired language — progressive reduction in vocabulary and communication ability?",
+          "question": "Yes – progressive language regression after an initial period of acquisition is characteristic; vocabulary that was developing plateaus and then regresses; dysarthria and word-finding difficulty emerge; most patients lose functional speech by age 8–12 in the severe form; language loss is one of the most emotionally devastating aspects of the disease for families and is a key milestone in disease staging"
+        },
+        {
+          "domain": "Loss of motor skills — progressive deterioration in gait, coordination, and fine motor abilities?",
+          "question": "Yes – motor regression follows cognitive and behavioral decline; gait becomes unsteady and ataxic; falls become frequent; fine motor skills (drawing, self-care, feeding) deteriorate; progressive motor decline leads to loss of independent ambulation typically in the second decade; motor regression signals transition to the advanced phase of the disease"
+        },
+        {
+          "domain": "Loss of self-care skills — toilet training regressing, feeding skills declining?",
+          "question": "Yes – regression of self-care skills (toilet training, dressing, feeding) is characteristic of the transitional phase of MPS IIIA; toilet training achieved in early childhood is typically lost by age 6–10; this regression combined with increasing physical size creates enormous caregiving burden; regression of self-care is a key milestone in disease progression tracking"
+        }
+      ]
+    },
+    {
+      "heading": "LATE NEUROLOGICAL FEATURES",
+      "questions": [
+        {
+          "domain": "Seizures — emerging in mid-to-late childhood as neurological disease advances?",
+          "question": "Yes – seizures develop in approximately 50–80% of MPS IIIA patients, typically emerging between ages 8–15 years as neurological degeneration advances; seizure types are variable including focal, generalized tonic-clonic, myoclonic, and absence; seizures may be difficult to control with standard anti-epileptic medications; their emergence marks an important disease stage transition"
+        },
+        {
+          "domain": "Progressive spasticity and rigidity — increasing muscle tone in later disease stages?",
+          "question": "Yes – progressive spasticity (increased muscle tone, hyperreflexia, extensor plantar responses) and rigidity develop in the advanced phase of MPS IIIA as cortical and subcortical degeneration progresses; these upper motor neuron signs contrast with the earlier hypotonic-hyperactive presentation; increasing spasticity accompanies loss of ambulation"
+        },
+        {
+          "domain": "Swallowing difficulties — dysphagia requiring dietary modifications or gastrostomy tube?",
+          "question": "Yes – progressive bulbar dysfunction causing dysphagia develops in the advanced phase; begins as difficulty with solid foods and progresses to liquids; aspiration pneumonia becomes a major morbidity risk; videofluoroscopic swallow study assessment is important; gastrostomy tube placement is eventually required in most patients; dysphagia typically emerges after loss of ambulation"
+        },
+        {
+          "domain": "Parkinsonian-like features — rigidity, bradykinesia, and postural instability in advanced disease?",
+          "question": "Yes – Parkinsonian features (rigidity, bradykinesia, shuffling gait, postural instability) develop in the advanced stage of MPS IIIA; reflect progressive degeneration of basal ganglia circuits from heparan sulfate accumulation; may respond partially to levodopa in some patients; these features contribute to the profound loss of mobility in the later disease stages"
+        },
+        {
+          "domain": "Deafness — progressive sensorineural hearing loss in later disease stages?",
+          "question": "Yes – progressive sensorineural hearing loss develops in the majority of MPS IIIA patients; it combines with the mixed conductive hearing loss from early otitis media; hearing loss compounds communication difficulties and behavioral challenges; audiological evaluation is recommended at diagnosis and annually"
+        }
+      ]
+    },
+    {
+      "heading": "SOMATIC FEATURES — MILD RELATIVE TO NEUROLOGICAL DISEASE",
+      "questions": [
+        {
+          "domain": "Mild dysostosis multiplex on skeletal survey — much less severe than MPS I or II?",
+          "question": "Yes – mild dysostosis multiplex is present in MPS IIIA; the skeletal changes (mild vertebral body irregularity, mild rib changes) are substantially less prominent than in MPS I, II, IV, or VI; the discrepancy between the severity of neurological devastation and the mildness of skeletal findings is a characteristic and diagnostically useful feature of MPS IIIA; skeletal survey is part of the baseline workup to confirm the MPS diagnosis and assess somatic involvement"
+        },
+        {
+          "domain": "Mild joint stiffness — less prominent than MPS I or II?",
+          "question": "Yes – mild joint stiffness is present but substantially less pronounced than in MPS I, II, or VI; claw-hand contracture is not a prominent feature; joint laxity is not present (distinguishing from MPS IV); mild limitation of shoulder or hip range of motion may be noted on careful examination but rarely causes functional limitation"
+        },
+        {
+          "domain": "Thick hair and eyebrows — hypertrichosis?",
+          "question": "Yes – hypertrichosis (excess hair growth) including thick, coarse scalp hair and prominent eyebrows is a recognized somatic feature of MPS IIIA; contributes to the mild coarsening of facial appearance; the hypertrichosis of MPS IIIA is milder than MPS I and II but is a useful clinical clue in the appropriate context"
+        },
+        {
+          "domain": "Diarrhea — chronic loose stools or diarrhea from intestinal GAG accumulation?",
+          "question": "Yes – chronic diarrhea is a recognized and underappreciated feature of MPS IIIA; results from heparan sulfate accumulation in intestinal wall cells and autonomic nervous system dysfunction; reported in approximately 40–60% of patients; its cause is often misattributed to dietary factors or infection before the underlying MPS IIIA diagnosis is made"
+        }
+      ]
+    },
+    {
+      "heading": "URINE GAG SCREENING AND BIOCHEMICAL MARKERS",
+      "questions": [
+        {
+          "domain": "Elevated total urinary glycosaminoglycans on quantitative urine GAG assay (DMB)?",
+          "question": "Yes – elevated total urine GAGs by dimethylmethylene blue (DMB) assay is the first-line biochemical screening test; sensitivity is approximately 85–90% for MPS IIIA but may be normal or borderline in older patients and attenuated forms; importantly, the degree of urine GAG elevation is often LESS dramatic in MPS IIIA than in MPS I or II, potentially leading to false reassurance from a borderline-elevated result; when clinical suspicion is high, a borderline result should be followed by fractionation and enzyme assay"
+        },
+        {
+          "domain": "Urine GAG fractionation showing ISOLATED heparan sulfate (HS) elevation — the defining GAG pattern of MPS III?",
+          "question": "Yes – urine GAG fractionation by TLC or tandem mass spectrometry showing isolated heparan sulfate (HS) elevation with NORMAL dermatan sulfate and keratan sulfate is the defining biochemical pattern of MPS III (all subtypes A, B, C, D); HS-only elevation narrows the diagnosis specifically to MPS III and immediately directs the four-enzyme assay panel (SGSH, NAGLU, HGSNAT, GNS); this pattern is pathognomonic for MPS III in the appropriate clinical context"
+        },
+        {
+          "domain": "Heparan sulfate measured in CSF — elevated CSF-HS as primary CNS biomarker for disease activity and treatment response?",
+          "question": "Yes – CSF heparan sulfate is the critical CNS biomarker for MPS IIIA; CSF-HS elevation reflects active CNS storage; substantial and sustained reduction in CSF-HS (approximately 70–90% reduction) is the primary pharmacodynamic endpoint for UX111 (rebisufligene etisparvovec) gene therapy; CSF-HS measurement requires lumbar puncture; baseline CSF-HS is required before any gene therapy or CNS-targeted treatment; serial CSF-HS is a key treatment response monitoring tool"
+        }
+      ]
+    },
+    {
+      "heading": "ENZYME ASSAY — DEFINITIVE BIOCHEMICAL DIAGNOSIS",
+      "questions": [
+        {
+          "domain": "Deficient heparan sulfamidase (SGSH) enzyme activity in leukocytes or dried blood spot — confirming MPS IIIA specifically?",
+          "question": "Yes – severely reduced or absent heparan sulfamidase (SGSH) enzyme activity is the definitive biochemical diagnosis for MPS IIIA; enzyme assay on leukocytes is the gold standard; DBS assay available at specialized laboratories; distinguishes MPS IIIA from IIIB (NAGLU deficiency), IIIC (HGSNAT deficiency), and IIID (GNS deficiency) — all four subtypes have identical clinical phenotypes and HS-only urine GAG pattern but require different enzyme assays; SGSH, NAGLU, HGSNAT, and GNS panel should be sent simultaneously when HS-only pattern confirmed"
+        },
+        {
+          "domain": "Normal NAGLU, HGSNAT, and GNS enzyme activities — confirming MPS IIIA rather than IIIB, IIIC, or IIID?",
+          "question": "Yes – because all four MPS III subtypes are clinically indistinguishable, the complete four-enzyme MPS III panel must be performed to identify the specific subtype; a panel showing isolated SGSH deficiency with normal NAGLU, HGSNAT, and GNS activities confirms MPS IIIA specifically; subtype identification is required for clinical trial eligibility (UX111 gene therapy is specifically for IIIA; other subtypes require different programs)"
+        },
+        {
+          "domain": "Residual SGSH enzyme activity — very low or undetectable activity correlates with severe phenotype?",
+          "question": "Yes – residual SGSH enzyme activity is very low or undetectable in the severe form of MPS IIIA; higher residual activity (>1–2% of normal) is associated with attenuated phenotypes with slower progression; however, genotype-phenotype correlation based on residual enzyme activity alone is imprecise; SGSH gene sequencing and natural history monitoring are required for accurate prognostic assessment"
+        }
+      ]
+    },
+    {
+      "heading": "GENETIC CONFIRMATION — SGSH GENE SEQUENCING",
+      "questions": [
+        {
+          "domain": "Biallelic pathogenic variants in SGSH (17q25.3) identified on gene sequencing?",
+          "question": "Yes – biallelic SGSH pathogenic variants confirm the genetic diagnosis of MPS IIIA; MPS IIIA is autosomal recessive; >200 pathogenic SGSH variants have been reported; missense variants are most common (approximately 70%); some missense variants (particularly p.R245H, the most common European variant) are associated with attenuated phenotypes; frameshift and nonsense variants typically produce severe phenotypes; genotype is important for prognostic counseling and trial eligibility"
+        },
+        {
+          "domain": "Common SGSH variant p.R245H (c.734G>A) — associated with attenuated MPS IIIA phenotype with slower progression?",
+          "question": "Yes – p.R245H is the most prevalent pathogenic SGSH variant in European populations; homozygous p.R245H patients and compound heterozygotes with one R245H allele tend to have a slower progression rate (attenuated phenotype) compared to patients with two severe loss-of-function variants; this variant is important for prognostic counseling and clinical trial eligibility stratification; targeted genotyping for R245H is appropriate in European-ancestry patients"
+        },
+        {
+          "domain": "Comprehensive LSD NGS panel used when MPS IIIA subtype uncertain after urine HS fractionation?",
+          "question": "Yes – when the clinical picture is consistent with MPS III and HS-only pattern confirmed but enzyme assay results are ambiguous, a comprehensive LSD gene panel (including SGSH, NAGLU, HGSNAT, GNS, and other MPS/LSD genes) efficiently identifies the causative variant and subtype; NGS panel is particularly valuable when multiple MPS III subtypes need to be excluded simultaneously or when enzyme assay quality is uncertain"
+        }
+      ]
+    },
+    {
+      "heading": "NEWBORN SCREENING AND PRE-SYMPTOMATIC IDENTIFICATION",
+      "questions": [
+        {
+          "domain": "Positive newborn screening result identifying elevated heparan sulfate on DBS (pilot NBS programs)?",
+          "question": "Yes – MPS IIIA is not yet on the US RUSP but pilot NBS programs using urine HS/DS ratio or DBS enzyme assay are underway in several US states and internationally; the urgency of pre-symptomatic identification is extremely high given that UX111 gene therapy data show dramatically better outcomes when treated before significant neurodegeneration — younger patients and those at earlier disease stage show the greatest clinical benefit; NBS expansion for MPS IIIA is a clinical priority given the Q3 2026 PDUFA deadline"
+        },
+        {
+          "domain": "Pre-symptomatic identification enabling gene therapy before irreversible neuronal loss?",
+          "question": "Yes – the fundamental lesson from UX111 clinical data is that earlier treatment = dramatically better outcomes; children treated before age 2 or at earlier disease stage show +23 point Bayley-III cognitive advantage over natural history; the window for optimal neurological protection is narrow — neuronal loss begins before clinical symptoms are evident; any NBS-positive or high-risk family member identification should be treated as a medical urgency requiring immediate specialist referral"
+        }
+      ]
+    },
+    {
+      "heading": "NEUROIMAGING",
+      "questions": [
+        {
+          "domain": "Brain MRI showing progressive cerebral atrophy on serial imaging — cortical and subcortical?",
+          "question": "Yes – progressive cerebral atrophy (cortical thinning, white matter volume loss, caudate and putamen atrophy) is present on brain MRI in MPS IIIA; atrophy is typically absent or subtle in early disease and becomes increasingly prominent with advancing neurodegeneration; serial MRI documents the rate of neurological progression and is used as a structural endpoint in clinical trials"
+        },
+        {
+          "domain": "Perivascular space dilatation — cribriform or \"Swiss cheese\" pattern on T2-weighted MRI?",
+          "question": "Yes – dilated perivascular spaces (Virchow-Robin spaces) with a cribriform pattern on T2-weighted MRI are present in MPS IIIA, as in other MPS types; reflects perivascular heparan sulfate deposition; may be early and subtle; correlates with CNS disease burden; used as an MRI biomarker of treatment response in UX111 trials alongside CSF-HS"
+        },
+        {
+          "domain": "White matter signal abnormalities on T2/FLAIR — diffuse or patchy periventricular changes?",
+          "question": "Yes – white matter signal abnormalities (increased T2/FLAIR signal in periventricular and subcortical white matter) develop with advancing MPS IIIA; reflect demyelination and axonal loss from progressive heparan sulfate accumulation in oligodendrocytes and neurons; more prominent in advanced disease; may be subtle or absent early in the disease course"
+        }
+      ]
+    },
+    {
+      "heading": "DIFFERENTIAL DIAGNOSIS EXCLUSIONS",
+      "questions": [
+        {
+          "domain": "ADHD excluded as primary diagnosis — progressive course, worsening beyond stimulant treatment response, and regression distinguish MPS IIIA from ADHD?",
+          "question": "Yes – ADHD is the most common MPS IIIA misdiagnosis; distinguished by: (1) MPS IIIA hyperactivity is progressive and worsening, not stable; (2) prior speech milestones were present then regressed; (3) stimulant medications have minimal or no effect; (4) sleep disturbance is severe and atypical for ADHD; (5) urine GAG screen elevated in MPS IIIA; any child diagnosed with ADHD who shows progressive developmental regression and treatment-refractory hyperactivity requires urgent metabolic evaluation including urine GAG screening"
+        },
+        {
+          "domain": "Autism Spectrum Disorder (ASD) excluded as primary diagnosis — progressive regression, somatic features, and urine GAG distinguish MPS IIIA from ASD?",
+          "question": "Yes – ASD features in MPS IIIA (social withdrawal, communication regression, repetitive behaviors) can lead to ASD misdiagnosis; distinguished by: (1) regression occurs after a period of development (regressive autism can overlap); (2) somatic features (hepatomegaly, coarse hair, recurrent otitis) are present; (3) urine GAG elevated; (4) the aggressive and hyperactive behavioral phenotype is atypical for most ASD presentations; metabolic screening including urine GAG should be considered in any child with unexplained regressive autism"
+        },
+        {
+          "domain": "MPS IIIB, IIIC, IIID excluded — same clinical phenotype but different enzyme deficiency; enzyme panel distinguishes?",
+          "question": "Yes – all four MPS III subtypes (IIIA–IIID) are clinically indistinguishable by phenotype, onset, urine GAG pattern, or imaging; distinguished exclusively by enzyme assay or gene sequencing; MPS IIIA: SGSH deficiency; IIIB: NAGLU deficiency; IIIC: HGSNAT deficiency; IIID: GNS deficiency; CRITICAL: subtype identification is required because UX111 gene therapy (Ultragenyx) is specifically targeted to MPS IIIA only — IIIB/C/D patients are not eligible"
+        },
+        {
+          "domain": "Other neurodegenerative conditions excluded — neuronal ceroid lipofuscinoses (NCL), Rett syndrome, angelman syndrome?",
+          "question": "Yes – NCL (Batten disease) is an important differential: progressive neurodegeneration + seizures + visual failure + regression; distinguished by ERG abnormalities, characteristic storage material on electron microscopy, and CLN gene panel; Rett syndrome (MECP2): primarily affects females, hand stereotypies, characteristic breathing pattern; Angelman syndrome: happy demeanor, 15q11-q13 abnormality; urine GAG normal in all these conditions"
+        },
+        {
+          "domain": "Normal urine GAG does NOT exclude MPS IIIA — enzyme assay required in high-suspicion cases?",
+          "question": "Yes — CRITICAL DIAGNOSTIC PITFALL: urine GAG quantification can be normal or only borderline elevated in MPS IIIA, particularly in older patients and attenuated forms; a normal urine GAG screen in a child with progressive behavioral regression + speech deterioration + sleep inversion DOES NOT exclude MPS IIIA; enzyme assay (SGSH activity) should be sent directly when clinical suspicion is high, regardless of urine GAG result"
+        }
+      ]
+    },
+    {
+      "heading": "Confidence Interpretation",
+      "questions": []
+    },
+    {
+      "heading": "Cost Categories",
+      "questions": []
+    },
+    {
+      "heading": "Clinical History: No additional cost (obtained during patient encounter and caregiver interview)\nClinical Exam: No additional cost (neurological examination — tone, reflexes, gait, behavior observation, facial features, abdominal exam)\nClinical Assessment: $200–500 (formal developmental evaluation: Bayley-III scales, Mullen Scales of Early Learning, Vineland Adaptive Behavior Scales; serial assessments critical for regression documentation)\nMedium: $100–2,500 (urine GAG quantification + HS fractionation $100–400; peripheral blood smear for Alder-Reilly bodies $50–100; skeletal survey X-ray series $400–800; audiological evaluation $200–400; sleep study if sleep disturbance prominent $1,000–2,500)\nLarge: $500–12,000+ (SGSH enzyme assay on leukocytes $500–1,500; full MPS III enzyme panel (SGSH+NAGLU+HGSNAT+GNS) $1,500–3,000; SGSH gene sequencing $1,000–2,500; comprehensive LSD NGS panel $2,000–5,000; brain MRI with sedation $2,000–5,000; lumbar puncture + CSF-HS measurement $1,000–3,000; ERG if NCL differential $500–1,500)",
+      "questions": []
+    },
+    {
+      "heading": "Key High-Value Findings (≥8 points each)",
+      "questions": []
+    },
+    {
+      "heading": "Deficient SGSH enzyme activity confirmed (25 points) — DEFINITIVE BIOCHEMICAL DIAGNOSIS for MPS IIIA specifically\nBiallelic pathogenic SGSH variants identified by gene sequencing (15 points) — DEFINITIVE GENETIC CONFIRMATION\nIsolated heparan sulfate (HS) elevation on urine GAG fractionation (12 points) — DEFINING BIOCHEMICAL PATTERN for all MPS III subtypes\nSevere unremitting hyperactivity — exhausting, 24-hour supervision required (12 points) — DOMINANT AND MOST RECOGNIZABLE CLINICAL FEATURE\nProgressive cognitive deterioration on serial developmental testing (10 points) — CARDINAL NEURODEGENERATIVE HALLMARK\nApparently normal development for first 1–3 years then progressive regression (10 points) — KEY CLINICAL TRAJECTORY DISTINGUISHING MPS IIIA\nAggression — hitting, biting, scratching caregivers (10 points) — CHARACTERISTIC BEHAVIORAL FEATURE OF MPS IIIA\nSleep-cycle inversion — awake and hyperactive at night (10 points) — HIGHLY SPECIFIC SLEEP PHENOTYPE; near pathognomonic for Sanfilippo syndrome\nSpeech and language regression after initial development (8 points) — CRITICAL EARLY NEURODEVELOPMENTAL WARNING SIGN\nProgressive loss of motor skills and ambulation (8 points) — INDICATES DISEASE STAGE TRANSITION\nNormal MPS III enzyme panel (NAGLU, HGSNAT, GNS) confirming MPS IIIA subtype (8 points) — REQUIRED FOR GENE THERAPY (UX111) ELIGIBILITY\nCSF heparan sulfate elevated (8 points) — PRIMARY CNS BIOMARKER; UX111 treatment response endpoint\nPositive newborn screening or pre-symptomatic identification (8 points) — OPTIMAL TREATMENT WINDOW FOR GENE THERAPY",
+      "questions": []
+    },
+    {
+      "heading": "Diagnostic Strategy by Cost",
+      "questions": []
+    },
+    {
+      "heading": "Phase 1 — Clinical Evaluation (No Cost):\n  • Detailed developmental trajectory: document the normal → plateau → regression arc; obtain serial photographs, home videos, school reports\n  • Behavioral profile: characterize hyperactivity severity, aggression pattern, sleep architecture, and caregiver burden\n  • Speech history: age of first words, vocabulary peak, onset of regression\n  • ENT history: otitis media frequency, grommet insertions, hearing aid use\n  • Medical history: diarrhea, hernia repair, upper respiratory infections in infancy\n  • Facial and somatic examination: mild coarsening, hepatomegaly, hypertrichosis, joint mobility\n  • CRITICAL FLAG: any child diagnosed with ADHD + progressive speech regression + treatment-refractory hyperactivity + sleep inversion → immediate urine GAG and SGSH enzyme assay\n  Potential: 50–70 points for $0\n\nPhase 2 — Biochemical Screening ($100–800):\n  • Urine GAG quantification (DMB assay): first-line screen; NOTE — may be normal or borderline in MPS IIIA; a normal result does NOT exclude MPS IIIA in a high-suspicion case\n  • Urine GAG fractionation: HS-only elevation is the defining MPS III pattern; confirms MPS III and directs four-enzyme panel\n  • Peripheral blood smear: Alder-Reilly bodies supportive but less reliably present in MPS IIIA than other MPS types\n  • Skeletal survey: mild dysostosis multiplex present; confirms MPS diagnosis and documents skeletal involvement\n  Additional: 15–25 points for $200–600\n\nPhase 3 — Enzyme Assay and Genetic Confirmation ($1,500–4,000):\n  • MPS III four-enzyme panel: SGSH + NAGLU + HGSNAT + GNS simultaneously — never send single enzyme alone\n    → Isolated SGSH deficiency: MPS IIIA confirmed biochemically\n    → Isolated NAGLU deficiency: MPS IIIB\n    → Isolated HGSNAT deficiency: MPS IIIC\n    → Isolated GNS deficiency: MPS IIID\n  • SGSH gene sequencing: identifies specific variants; essential for prognosis, genotype-phenotype correlation, family testing, and clinical trial eligibility\n  • Parental carrier testing once proband confirmed\n  Additional: 30–45 points — crosses diagnostic threshold in virtually all true MPS IIIA cases\n\nPhase 4 — CNS Staging for Gene Therapy Eligibility ($3,000–8,000):\n  • Formal developmental evaluation: Bayley-III or equivalent — establishes baseline and disease stage at diagnosis\n  • Brain MRI: cortical atrophy, white matter changes, perivascular spaces — structural disease burden\n  • Lumbar puncture for CSF-HS measurement: baseline CNS biomarker before UX111 treatment\n  • Ophthalmological evaluation including ERG: retinal degeneration assessment; also excludes NCL\n  • Earlier stage and younger age at treatment initiation → dramatically better UX111 outcomes",
+      "questions": []
+    },
+    {
+      "heading": "Critical Notes — Treatment Landscape 2026",
+      "questions": []
+    },
+    {
+      "heading": "• UX111 (REBISUFLIGENE ETISPARVOVEC, Ultragenyx) — BLA UNDER FDA REVIEW, PDUFA Q3 2026: Intravenous AAV9 gene therapy delivering functional SGSH gene to brain cells; single IV infusion; if approved, will be the FIRST EVER treatment for Sanfilippo syndrome Type A; Priority Review granted by FDA; BLA resubmitted January 30, 2026 after initial CRL for CMC (manufacturing) observations; long-term data (up to 8+ years follow-up) presented at WORLDSymposium 2026 show +23.2 point Bayley-III cognitive advantage vs. natural history in younger/earlier-stage patients with high statistical significance (p<0.0001); safety profile favorable\n• TREATMENT TIMING IS CRITICAL — the most important clinical lesson from UX111 data: children under 2 years of age or at earlier disease stage at treatment show dramatically greater benefit; neuronal loss that has already occurred cannot be reversed; this creates extreme urgency for pre-symptomatic identification via NBS and early diagnosis programs; every month of diagnostic delay represents irreversible neuronal loss\n• NO APPROVED ERT FOR MPS III — unlike MPS I, II, IVA, VI, and VII, there is currently no approved enzyme replacement therapy for any MPS III subtype; standard IV ERT does not cross the blood-brain barrier and would have minimal benefit given the pure CNS nature of MPS IIIA; gene therapy is the primary therapeutic strategy; substrate reduction therapy (miglustat) has been studied but lacks convincing efficacy data\n• SUBTYPE IDENTIFICATION IS TREATMENT-CRITICAL — UX111 is specifically for MPS IIIA (SGSH deficiency); patients with MPS IIIB, IIIC, or IIID are NOT eligible for UX111 and require different gene therapy programs (JCR JR-446 for IIIB is in early trials); full four-enzyme panel is non-negotiable before any gene therapy referral\n• BEHAVIORAL MANAGEMENT IS A FAMILY SURVIVAL ISSUE — in the absence of disease-modifying therapy, management of severe hyperactivity, aggression, and sleep inversion is the most urgent clinical priority; melatonin (high doses, up to 10–15 mg) for sleep; risperidone or other antipsychotics for aggression with careful monitoring; stimulants generally ineffective and may worsen behavior; caregiver respite services are a medical necessity, not a luxury\n• BEVELCLOUD POSITIONING — MPS IIIA is the highest-urgency BevelCloud opportunity in the current workbook: (1) UX111 PDUFA Q3 2026 means Ultragenyx needs patient identification infrastructure NOW before approval; (2) natural history data collection across pediatric hospital networks is essential for ongoing trial support; (3) pre-symptomatic NBS-positive patient routing is a perfect federated data use case; (4) CSF-HS biomarker tracking across sites is a key post-market commitment Ultragenyx will need to fulfill",
+      "questions": []
+    },
+    {
+      "heading": "MPS IIIA Disease Staging, MPS III Subtype Map, and Key Differential Diagnoses",
+      "questions": []
+    },
+    {
+      "heading": "MPS IIIA Disease Staging (Hamburg Staging System):\nStage 1 — Pre-symptomatic / Early Symptomatic: Normal or mildly delayed development; behavioral concerns emerging; CSF-HS elevated; MRI may be normal; OPTIMAL WINDOW FOR UX111 TREATMENT\nStage 2 — Behavioral Phase: Severe hyperactivity, aggression, sleep inversion, speech plateau/regression; cognitive decline measurable on serial testing; MRI shows early atrophy; TREATMENT URGENCY HIGH\nStage 3 — Neurological Decline Phase: Progressive cognitive and motor regression; seizures emerging; gait unsteady; language substantially reduced; MRI progressive atrophy; TREATMENT WINDOW NARROWING\nStage 4 — Advanced Phase: Loss of ambulation; severe spasticity; swallowing dysfunction requiring G-tube; minimal communication; profound neurological deterioration; palliative focus\nStage 5 — Terminal Phase: Bedridden; complete loss of voluntary function; total care required; death typically from aspiration pneumonia or seizure complications\n\nMPS III Subtype Map (all four subtypes clinically indistinguishable):\n  MPS IIIA | Gene: SGSH  | Enzyme: Heparan sulfamidase       | Prevalence: Most common in Northern Europe (~1/100,000) | Gene therapy: UX111 (Ultragenyx, PDUFA Q3 2026)\n  MPS IIIB | Gene: NAGLU | Enzyme: α-N-acetylglucosaminidase | Prevalence: Most common in Southern Europe and Middle East | Gene therapy: JR-446 (JCR Pharma, early trials)\n  MPS IIIC | Gene: HGSNAT| Enzyme: Acetyl-CoA:glucosaminide N-acetyltransferase | Prevalence: Rare globally | No approved therapy; research stage\n  MPS IIID | Gene: GNS   | Enzyme: N-acetylglucosamine-6-sulfatase | Prevalence: Extremely rare | No approved therapy; research stage\n  All subtypes: HS-only urine GAG pattern; pure neuronopathic disease; identical behavioral and cognitive phenotype; diagnosed by enzyme panel\n\nKey Differential Diagnoses:\n  • ADHD — MOST COMMON MISDIAGNOSIS: static hyperactivity; responds to stimulants; no cognitive regression; no somatic features; normal urine GAG\n  • Autism Spectrum Disorder — social regression can overlap; distinguished by progressive course, somatic features, elevated urine HS\n  • Neuronal Ceroid Lipofuscinosis (Batten disease, NCL) — progressive neurodegeneration + seizures + visual failure + ERG abnormalities; CLN gene panel distinguishes; urine GAG normal\n  • Rett Syndrome (MECP2) — primarily females; characteristic hand stereotypies; breathing irregularities; MECP2 sequencing; urine GAG normal\n  • Angelman Syndrome — happy affect; ataxic gait; seizures; 15q11-q13 methylation/UBE3A; urine GAG normal\n  • MPS II (Hunter syndrome) — DS+HS both elevated (not HS alone); X-linked males only; more prominent somatic disease; IDS enzyme deficiency\n  • GM1/GM2 Gangliosidosis — progressive neurodegeneration; cherry-red spot; specific enzyme assays; urine GAG normal or mildly abnormal\n  • Fragile X syndrome — intellectual disability + behavioral features in males; FMR1 CGG repeat expansion; urine GAG normal",
+      "questions": []
+    }
+  ],
+  "confidenceNote": "🔴  85–100 points: High Confidence — MPS IIIA highly likely; send SGSH enzyme assay (with full MPS III panel: NAGLU, HGSNAT, GNS simultaneously) and SGSH gene sequencing urgently; metabolic/LSD specialist referral immediately; do not delay awaiting urine GAG if clinical picture is compelling\n🟡  40–84 points: Moderate Confidence — MPS IIIA probable or possible; urine GAG quantification + HS fractionation and MPS III enzyme panel indicated urgently; brain MRI and formal developmental evaluation; comprehensive LSD NGS panel alongside enzyme assay; clinical genetics referral; NCL panel (CLN genes) if visual symptoms or ERG abnormalities\n🟢  <40 points: Low Confidence — MPS IIIA less likely; broaden differential to ADHD, ASD, NCL (Batten disease), Rett syndrome, Angelman syndrome, and other neuronal storage disorders",
+  "conditionId": 87,
+  "conditionName": "MPS IIIA (Sanfilippo)",
+  "specialty": "neurology",
+  "agentType": "diagnosis"
+}

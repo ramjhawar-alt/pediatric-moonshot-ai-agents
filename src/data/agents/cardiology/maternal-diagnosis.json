@@ -1,0 +1,202 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "Each domain question draws from the complete maternal medical record. Points reflect diagnostic weight for fetal CHD. Cost reflects typical test burden: Small = existing record / standard prenatal ultrasound  |  Medium = targeted genetic panel or fetal echo ($200–$1,500)  |  Large = advanced imaging, amniocentesis, or MFM consultation ($1,500–$5,000+)",
+  "sections": [
+    {
+      "heading": "FETAL ULTRASOUND / IMAGING — 30 pts",
+      "sectionPoints": 30,
+      "questions": [
+        {
+          "domain": "Fetal Ultrasound",
+          "question": "Was the 4-chamber view abnormal (asymmetric chambers, hypoplastic ventricle, or atrioventricular discordance) on anatomic ultrasound at 18–22 weeks?",
+          "confirmingAnswer": "Yes — 4-chamber abnormality carries ~70–80% PPV for structural CHD and is the primary screening signal",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "Fetal Ultrasound",
+          "question": "Were the outflow tracts (LVOT/RVOT) absent, overriding, or in a transposition pattern on targeted fetal echo?",
+          "confirmingAnswer": "Yes — outflow tract views combined with 4-chamber view raise diagnostic sensitivity to >90%",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Fetal Ultrasound",
+          "question": "Is there nuchal translucency (NT) ≥3.5 mm at 11–14 weeks on first-trimester ultrasound?",
+          "confirmingAnswer": "Yes — NT ≥3.5 mm is associated with CHD independent of chromosomal anomaly",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Fetal Ultrasound",
+          "question": "Is there evidence of hydrops fetalis (ascites, pleural effusion, skin edema, or pericardial effusion)?",
+          "confirmingAnswer": "Yes — hydrops signals severe cardiac compromise or structural CHD with high-output failure",
+          "points": 4,
+          "cost": "Small"
+        },
+        {
+          "domain": "Fetal Ultrasound",
+          "question": "Is fetal cardiac axis outside the normal 30–60° range (dextrocardia or axis deviation)?",
+          "confirmingAnswer": "Yes — abnormal cardiac axis is an independent ultrasound marker for structural CHD",
+          "points": 3,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "GENETIC & FAMILY HISTORY — 25 pts",
+      "sectionPoints": 25,
+      "questions": [
+        {
+          "domain": "Family Hx / Genetics",
+          "question": "Does the mother or father have a confirmed CHD diagnosis?",
+          "confirmingAnswer": "Yes — parental CHD confers 3–10× recurrence risk over population baseline of ~1%",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Family Hx / Genetics",
+          "question": "Is there a known genetic syndrome in the family (Down, DiGeorge/22q11, Turner, Noonan, Williams, CHARGE)?",
+          "confirmingAnswer": "Yes — syndrome-linked CHD risk ranges from 25% (Noonan) to 75% (DiGeorge/22q11)",
+          "points": 7,
+          "cost": "Small"
+        },
+        {
+          "domain": "Family Hx / Genetics",
+          "question": "Is there a first-degree sibling with a confirmed CHD?",
+          "confirmingAnswer": "Yes — sibling CHD recurrence risk is 2–3% vs. ~1% population baseline",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Family Hx / Genetics",
+          "question": "Was a prior pregnancy affected by CHD?",
+          "confirmingAnswer": "Yes — prior affected pregnancy elevates recurrence risk, especially for left-sided obstructive lesions",
+          "points": 4,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "PRENATAL GENETIC TESTING — 20 pts",
+      "sectionPoints": 20,
+      "questions": [
+        {
+          "domain": "Prenatal Genetics",
+          "question": "Does cell-free fetal DNA (cfDNA / NIPT) flag Trisomy 21, 18, 13, or 22q11.2 deletion?",
+          "confirmingAnswer": "Yes — Trisomy 21: 40–50% CHD rate; Trisomy 18: >90%; 22q11 deletion: ~75% CHD rate",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Prenatal Genetics",
+          "question": "Does amniocentesis or CVS karyotype confirm a chromosomal abnormality?",
+          "confirmingAnswer": "Yes — confirms cfDNA signal and defines the specific aneuploidy for recurrence counseling",
+          "points": 8,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Prenatal Genetics",
+          "question": "Does chromosomal microarray identify a pathogenic CNV in a cardiac developmental gene (TBX1, GATA4, NKX2-5, or 22q11.2 locus)?",
+          "confirmingAnswer": "Yes — CNVs in these loci directly implicate cardiac morphogenesis",
+          "points": 4,
+          "cost": "Medium"
+        }
+      ]
+    },
+    {
+      "heading": "MATERNAL EXPOSURES / TERATOGENS — 15 pts",
+      "sectionPoints": 15,
+      "questions": [
+        {
+          "domain": "Teratogen Exposure",
+          "question": "Was lithium used in the first trimester?",
+          "confirmingAnswer": "Yes — lithium is associated with Ebstein's anomaly of the tricuspid valve",
+          "points": 4,
+          "cost": "Small"
+        },
+        {
+          "domain": "Teratogen Exposure",
+          "question": "Was isotretinoin (Accutane) or another retinoic acid derivative used in the first trimester?",
+          "confirmingAnswer": "Yes — retinoic acid derivatives are among the highest-risk cardiac teratogens (conotruncal defects, aortic arch anomalies)",
+          "points": 3,
+          "cost": "Small"
+        },
+        {
+          "domain": "Teratogen Exposure",
+          "question": "Was there rubella infection or confirmed inadequate rubella immunity in the first trimester?",
+          "confirmingAnswer": "Yes — first-trimester rubella causes pulmonary artery stenosis and patent ductus arteriosus",
+          "points": 3,
+          "cost": "Small"
+        },
+        {
+          "domain": "Teratogen Exposure",
+          "question": "Was there significant alcohol or cocaine use documented in the social history (first trimester)?",
+          "confirmingAnswer": "Yes — alcohol is associated with VSD and septal defects; cocaine with aortic coarctation",
+          "points": 3,
+          "cost": "Small"
+        },
+        {
+          "domain": "Teratogen Exposure",
+          "question": "Was paroxetine (Paxil) or another SSRI used consistently in the first trimester?",
+          "confirmingAnswer": "Yes — paroxetine carries a modest but consistent signal for VSD and right-heart defects",
+          "points": 2,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "MATERNAL CHRONIC DISEASE — 10 pts",
+      "sectionPoints": 10,
+      "questions": [
+        {
+          "domain": "Maternal Disease",
+          "question": "Is there pregestational Type 1 or Type 2 diabetes with HbA1c >8% in the first trimester?",
+          "confirmingAnswer": "Yes — pregestational diabetes increases CHD risk 3–5× over baseline; transposition, VSD, and heterotaxy are most common",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Maternal Disease",
+          "question": "Is there maternal SLE with positive anti-Ro/SSA or anti-La/SSB antibodies?",
+          "confirmingAnswer": "Yes — anti-Ro/SSA antibodies cause congenital complete heart block in 2–3% of exposed fetuses",
+          "points": 3,
+          "cost": "Small"
+        },
+        {
+          "domain": "Maternal Disease",
+          "question": "Is there maternal obesity (BMI ≥40) limiting ultrasound anatomic survey quality?",
+          "confirmingAnswer": "Yes — severe obesity is an independent modest risk factor and significantly compromises fetal echo sensitivity",
+          "points": 2,
+          "cost": "Small"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {
+    "high": {
+      "label": "🔴  80–100 High confidence",
+      "action": "fetal structural CHD highly probable; immediate referral to pediatric cardiologist and maternal-fetal medicine (MFM); delivery planning at CCHD-capable center with cardiac surgery on site",
+      "min": 80,
+      "max": 100
+    },
+    "moderate": {
+      "label": "🟡  50–79 Moderate confidence",
+      "action": "targeted fetal echocardiogram mandatory; MFM consultation indicated; genetic counseling if chromosomal or syndromic CHD suspected",
+      "min": 50,
+      "max": 79
+    },
+    "low": {
+      "label": "🟢  <50 Low confidence",
+      "action": "background or mildly elevated CHD risk; routine anatomic survey at 18–22 weeks adequate; fetal echo warranted if genetic testing or ultrasound findings evolve during pregnancy",
+      "min": 18,
+      "max": 22
+    }
+  },
+  "guidelinesCitation": "",
+  "conditionId": 0,
+  "conditionName": "Maternal Cardiac Risk",
+  "specialty": "cardiology",
+  "agentType": "diagnosis"
+}

@@ -1,0 +1,269 @@
+{
+  "type": "checklist",
+  "preamble": "Tuberous Sclerosis Complex  |  TSC1/TSC2-Related mTOR Pathway Disorder  |  Tuberous Sclerosis / Bourneville Disease  (OMIM 191100 / 613254)",
+  "sections": [
+    {
+      "heading": "CLINICAL PRESENTATION AND ONSET",
+      "questions": [
+        {
+          "domain": "Infantile spasms (West syndrome) presenting in the first year of life — often the first clinical manifestation?",
+          "question": "Yes – infantile spasms are the presenting feature of TSC in approximately 30–40% of cases; onset typically between ages 3–12 months; TSC is the single most common identifiable cause of infantile spasms, accounting for approximately 25% of all cases; characteristic EEG shows hypsarrhythmia; TSC should be actively excluded in any infant presenting with infantile spasms, including MRI brain and skin examination under Wood's lamp"
+        },
+        {
+          "domain": "Seizure onset in the first year of life — TSC is associated with early-onset drug-resistant epilepsy?",
+          "question": "Yes – seizures occur in approximately 85–90% of individuals with TSC; onset is typically in the first year of life (>70% by age 1 year); multiple seizure types occur including infantile spasms, focal aware, focal impaired awareness, and generalized tonic-clonic; TSC-associated epilepsy is frequently drug-resistant (refractory in approximately 60–70% of cases)"
+        },
+        {
+          "domain": "Positive family history of TSC in a parent — autosomal dominant inheritance?",
+          "question": "Yes – TSC is autosomal dominant; however, approximately 65–70% of cases are de novo variants with no family history; family history of TSC, seizures, intellectual disability, renal angiomyolipomas, or pulmonary LAM in a first-degree relative should prompt evaluation; variable expressivity means an affected parent may have only mild skin findings or asymptomatic renal lesions"
+        },
+        {
+          "domain": "Incidental discovery of cardiac rhabdomyoma on fetal echocardiogram or neonatal echo?",
+          "question": "Yes – cardiac rhabdomyomas are present in approximately 50–65% of newborns with TSC and are often the first diagnostic finding, identified on routine fetal ultrasound or neonatal echocardiography; cardiac rhabdomyomas are almost pathognomonic for TSC in a fetus or neonate — approximately 75–80% of fetal/neonatal cardiac rhabdomyomas are caused by TSC; spontaneous regression is common after infancy"
+        },
+        {
+          "domain": "Pre-natal or neonatal MRI showing cortical tubers or subependymal nodules — incidental pre-symptomatic diagnosis?",
+          "question": "Yes – cortical tubers and subependymal nodules (SENs) are detectable on fetal or neonatal MRI; TSC is increasingly diagnosed pre-natally or in the neonatal period through brain MRI triggered by cardiac rhabdomyoma identified on fetal echo; pre-symptomatic identification enables early seizure surveillance and prompt treatment of infantile spasms, dramatically improving neurodevelopmental outcomes"
+        }
+      ]
+    },
+    {
+      "heading": "CUTANEOUS FEATURES — MAJOR AND MINOR DIAGNOSTIC CRITERIA",
+      "questions": [
+        {
+          "domain": "Hypomelanotic macules (ash-leaf spots) — ≥3 lesions, ≥5mm diameter, on Wood's lamp examination?",
+          "question": "Yes – hypomelanotic macules (ash-leaf spots) are present in approximately 90% of TSC patients and are the most common and earliest skin finding; ≥3 hypomelanotic macules ≥5mm diameter is a MAJOR diagnostic criterion; best visualized under Wood's lamp (ultraviolet light) in fair-skinned individuals; may be present at birth; isolated hypomelanotic macules in an infant with seizures should prompt immediate TSC evaluation including MRI brain"
+        },
+        {
+          "domain": "Angiofibromas (adenoma sebaceum) — red-brown papules in a butterfly distribution across the central face?",
+          "question": "Yes – facial angiofibromas (previously misnamed adenoma sebaceum) are present in approximately 75% of TSC patients; a MAJOR diagnostic criterion; typically appear between ages 2–5 years and become more prominent with age; distributed symmetrically across the nose, cheeks, and chin in a butterfly pattern; may be confused with acne in adolescents; their presence in a child with seizures is virtually diagnostic of TSC"
+        },
+        {
+          "domain": "Shagreen patch — flesh-colored, irregular, slightly raised leathery skin plaque typically over the lower back?",
+          "question": "Yes – shagreen patches (connective tissue hamartomas with a cobblestone or orange-peel texture) are present in approximately 50% of TSC patients; a MAJOR diagnostic criterion; typically located over the lumbar or sacral region; present from birth or early childhood; often missed on routine examination unless specifically sought; may be subtle in infants"
+        },
+        {
+          "domain": "Forehead plaque — raised fibrous plaque on the forehead or scalp?",
+          "question": "Yes – fibrous plaques on the forehead or scalp are a MAJOR diagnostic criterion for TSC; present in approximately 25% of patients; may be flesh-colored to yellowish-brown; typically present from birth or early infancy; a single forehead plaque in a child with any other TSC feature is strongly supportive of the diagnosis"
+        },
+        {
+          "domain": "Ungual or periungual fibromas — fibrous outgrowths at the nail fold of fingers or toes (Koenen tumors)?",
+          "question": "Yes – ungual fibromas (also called Koenen tumors) are flesh-colored fibrous growths emerging from beneath or around finger or toenails; a MAJOR diagnostic criterion; present in approximately 20–30% of TSC patients; typically appear after puberty and increase in number with age; rare in childhood; may be painful or cause nail distortion; their presence in an adult should prompt TSC evaluation if diagnosis not already established"
+        },
+        {
+          "domain": "Confetti skin lesions — multiple small (1–3mm) hypopigmented macules on the extremities?",
+          "question": "Yes – confetti-like hypopigmented macules (multiple small 1–3mm white spots distributed over the forearms, shins, and other extremities) are a MINOR diagnostic criterion for TSC; present in approximately 30–40% of patients; they are distinct from the larger hypomelanotic macules and are pathologically distinct; recognition requires careful examination of the extremities"
+        }
+      ]
+    },
+    {
+      "heading": "NEUROLOGICAL FEATURES — BRAIN TUBERS, SEGA, AND EPILEPSY",
+      "questions": [
+        {
+          "domain": "Cortical tubers on brain MRI — multiple T2-hyperintense cortical/subcortical lesions with cortical dysplasia?",
+          "question": "Yes – cortical tubers are present in approximately 80–90% of TSC patients; a MAJOR diagnostic criterion; appear as focal areas of cortical thickening with loss of the normal gray-white matter differentiation, T2/FLAIR hyperintensity, and often T1 hypointensity; the primary epileptogenic substrate in TSC; number and location of tubers correlates with epilepsy severity and neurodevelopmental outcome; serial MRI monitoring for tuber evolution and cyst formation is standard care"
+        },
+        {
+          "domain": "Subependymal nodules (SENs) on brain MRI — calcified nodules lining the walls of the lateral ventricles?",
+          "question": "Yes – subependymal nodules (SENs) are present in approximately 80–90% of TSC patients; a MAJOR diagnostic criterion; appear as calcified nodules projecting into the lateral ventricles (\"candle-guttering\" appearance on CT); may calcify with age; must be monitored for growth as any enlarging SEN >1cm warrants consideration of SEGA; SENs alone are benign and do not require treatment"
+        },
+        {
+          "domain": "Subependymal giant cell astrocytoma (SEGA) — enlarging tumor at the foramen of Monro causing obstructive hydrocephalus?",
+          "question": "Yes – SEGAs develop in approximately 15–20% of TSC patients, typically during childhood and adolescence; a MAJOR diagnostic criterion; located at or near the caudothalamic groove and foramen of Monro; distinguished from SENs by size (>1cm), growth on serial imaging, and enhancement on contrast MRI; SEGA can cause obstructive hydrocephalus with raised ICP if untreated; management is everolimus (first-line) or surgical resection; annual or biannual MRI surveillance is mandatory throughout childhood"
+        },
+        {
+          "domain": "Drug-resistant epilepsy — failure of ≥2 appropriate anti-seizure medications?",
+          "question": "Yes – drug-resistant epilepsy affects approximately 60–70% of TSC patients; multiple seizure types occur simultaneously; first-line treatment is vigabatrin (particularly for infantile spasms in TSC — UKISS trial demonstrated superiority); everolimus (mTOR inhibitor) has demonstrated efficacy as adjunctive therapy for TSC-associated refractory focal seizures (EXIST-3 trial); cannabidiol (Epidiolex) is FDA-approved as adjunctive therapy for seizures associated with TSC (2020 indication expansion)"
+        },
+        {
+          "domain": "TSC-associated neuropsychiatric disorders (TAND) — intellectual disability, autism, ADHD, anxiety, or behavioral problems?",
+          "question": "Yes – TSC-associated neuropsychiatric disorders (TAND) affect approximately 90% of TSC patients to some degree; intellectual disability in approximately 50% (range from mild to profound); autism spectrum disorder in approximately 40–50%; ADHD features in approximately 30–40%; anxiety disorders common; TAND severity correlates with TSC2 variants, tuber count, early infantile spasms, and drug-resistant epilepsy; formal neuropsychological evaluation at diagnosis and at key developmental transitions is recommended"
+        },
+        {
+          "domain": "White matter radial migration lines on brain MRI — T2-hyperintense radial lines from ventricle to cortex?",
+          "question": "Yes – radial migration lines (curvilinear T2-hyperintense bands extending from the periventricular region to the cortex along the path of neuronal migration) are present in approximately 30–40% of TSC patients; a MINOR diagnostic criterion; reflect abnormal myelination along radial glial fibers disrupted by mTOR pathway dysregulation; their presence alongside cortical tubers and SENs strongly supports the TSC diagnosis"
+        }
+      ]
+    },
+    {
+      "heading": "RENAL FEATURES — ANGIOMYOLIPOMAS AND CYSTS",
+      "questions": [
+        {
+          "domain": "Renal angiomyolipomas (AMLs) on abdominal MRI or ultrasound — bilateral, multiple fat-containing lesions?",
+          "question": "Yes – renal angiomyolipomas are present in approximately 75–80% of TSC patients; a MAJOR diagnostic criterion; benign hamartomas composed of abnormal blood vessels, smooth muscle, and fat; typically bilateral and multiple; fat content visible on CT (negative Hounsfield units) or MRI (T1 fat saturation); risk of spontaneous hemorrhage (Wunderlich syndrome) increases with size >3cm; everolimus or embolization for AMLs >3cm; annual renal ultrasound surveillance recommended"
+        },
+        {
+          "domain": "Renal cysts — multiple bilateral renal cysts, sometimes mimicking polycystic kidney disease?",
+          "question": "Yes – renal cysts occur in approximately 30–45% of TSC patients; a MINOR diagnostic criterion; may be isolated or associated with polycystic kidney disease when TSC2 and PKD1 genes are contiguously deleted (TSC2/PKD1 contiguous gene syndrome); bilateral multiple cysts in a child should prompt consideration of TSC, particularly if other TSC features present; renal function monitoring is required as cysts can cause progressive kidney disease"
+        },
+        {
+          "domain": "Renal cell carcinoma — increased risk (approximately 2–3%) in TSC patients, often at younger age than sporadic?",
+          "question": "Yes – renal cell carcinoma (RCC) occurs in approximately 2–3% of TSC patients, at a younger age than sporadic RCC; both clear cell and non-clear cell histologies occur; AMLs may rarely contain epithelioid components with malignant potential; enhanced surveillance with MRI (preferred over CT to avoid radiation) is recommended; any complex or lipid-poor renal lesion in TSC warrants careful evaluation for malignant transformation"
+        }
+      ]
+    },
+    {
+      "heading": "PULMONARY FEATURES — LYMPHANGIOLEIOMYOMATOSIS (LAM)",
+      "questions": [
+        {
+          "domain": "Lymphangioleiomyomatosis (LAM) on chest CT — bilateral, diffuse, thin-walled cysts throughout lung parenchyma?",
+          "question": "Yes – pulmonary LAM occurs in approximately 30–40% of adult females with TSC (TSC-LAM); a MAJOR diagnostic criterion; rare in males and prepubertal females; characteristic CT appearance: bilateral diffuse thin-walled round cysts uniformly distributed throughout all lung zones; presents clinically with progressive dyspnea, recurrent pneumothorax, or chylothorax; estrogen-driven; baseline chest CT recommended in all females with TSC at age 18 or onset of symptoms; sirolimus/everolimus stabilizes LAM progression"
+        },
+        {
+          "domain": "Recurrent spontaneous pneumothorax — in an adolescent or young adult female with TSC?",
+          "question": "Yes – spontaneous pneumothorax is a presenting complication of TSC-LAM in approximately 50–70% of LAM patients; recurrent pneumothorax (two or more episodes) in a young woman should always prompt consideration of TSC-LAM; pleurodesis may be required but complicates future lung transplant candidacy; diagnosis of LAM by CT avoids the need for lung biopsy in TSC patients"
+        },
+        {
+          "domain": "Multifocal micronodular pneumocyte hyperplasia (MMPH) on chest CT — ground-glass nodules in non-smoking patient?",
+          "question": "Yes – multifocal micronodular pneumocyte hyperplasia (MMPH) is a benign pulmonary lesion (type II pneumocyte proliferation) that occurs in both males and females with TSC; appears as bilateral ground-glass nodules on chest CT; a MINOR diagnostic criterion; MMPH is distinct from LAM and does not progress to respiratory failure; its presence alongside other TSC features supports the diagnosis"
+        }
+      ]
+    },
+    {
+      "heading": "OPHTHALMOLOGICAL FEATURES",
+      "questions": [
+        {
+          "domain": "Retinal hamartomas — astrocytic hamartomas or nodular calcified lesions on fundoscopic examination?",
+          "question": "Yes – retinal hamartomas (astrocytic hamartomas of the retina) are present in approximately 40–50% of TSC patients; a MAJOR diagnostic criterion; appear as flat or slightly elevated, grey-white or calcified lesions at or near the optic disc; typically non-progressive and rarely affect vision; three morphological types (flat, elevated, calcified); ophthalmological examination under anesthesia or formal fundoscopy is part of the baseline TSC evaluation"
+        },
+        {
+          "domain": "Hypopigmented iris or fundus lesions — achromic patches of the iris or retinal hypopigmented patches?",
+          "question": "Yes – hypopigmented iris patches and retinal achromic patches (hypopigmentation of the retinal pigment epithelium) are MINOR diagnostic criteria for TSC; less common than retinal hamartomas; identified on careful slit-lamp and fundoscopic examination; do not typically affect vision; their presence alongside retinal hamartomas supports the TSC diagnosis"
+        }
+      ]
+    },
+    {
+      "heading": "BIOMARKERS AND LABORATORY FINDINGS",
+      "questions": [
+        {
+          "domain": "mTORC1 pathway biomarkers — elevated phospho-S6K1 or phospho-4EBP1 in tissue or blood mononuclear cells?",
+          "question": "Yes – TSC1/TSC2 loss-of-function leads to constitutive mTORC1 activation; phosphorylated downstream targets (p-S6K1, p-S6, p-4EBP1) are elevated in TSC tissue and circulating mononuclear cells; measurement is primarily a research tool and pharmacodynamic biomarker for everolimus/sirolimus response monitoring; not required for clinical diagnosis but increasingly used in clinical trial settings and treatment monitoring"
+        },
+        {
+          "domain": "VEGF-D (vascular endothelial growth factor-D) elevated in serum — diagnostic biomarker for LAM?",
+          "question": "Yes – serum VEGF-D >800 pg/mL has high specificity for LAM diagnosis and can replace CT-based diagnosis in appropriate clinical context; measured by ELISA; useful for LAM diagnosis and for monitoring sirolimus/everolimus response in TSC-LAM patients; VEGF-D measurement is part of the recommended workup for TSC females being evaluated for LAM"
+        },
+        {
+          "domain": "Urine heparan sulfate — normal (distinguishes TSC from MPS); not a TSC biomarker?",
+          "question": "Normal — urine GAG screen is not a TSC diagnostic tool; TSC does not involve lysosomal storage and does not produce elevated urine GAGs; a normal urine GAG result is an expected finding in TSC and does not contribute to or detract from the diagnosis; this is a useful exclusionary check when MPS III is in the differential"
+        }
+      ]
+    },
+    {
+      "heading": "GENETIC TESTING — TSC1 AND TSC2",
+      "questions": [
+        {
+          "domain": "Pathogenic variant in TSC1 (9q34.13) or TSC2 (16p13.3) identified on sequencing or deletion/duplication analysis?",
+          "question": "Yes – a pathogenic or likely pathogenic TSC1 or TSC2 variant is identified in approximately 85–90% of TSC patients with comprehensive genetic testing; TSC1 encodes hamartin; TSC2 encodes tuberin; together they form the TSC1-TSC2 complex that inhibits mTORC1; TSC2 variants are more common (~70% of genetically confirmed cases) and associated with more severe phenotype than TSC1 variants (~30%); negative genetic testing in a clinically diagnosed TSC patient does not exclude the diagnosis"
+        },
+        {
+          "domain": "TSC2 variant — associated with more severe neurological phenotype, higher tuber count, and more severe epilepsy?",
+          "question": "Yes – TSC2 variants produce a more severe phenotype than TSC1 variants: higher cortical tuber burden, earlier seizure onset, more severe intellectual disability, higher rates of autism, more prominent renal involvement, and higher risk of LAM; TSC1 variants are associated with milder neurological phenotype, preserved intellect in many cases, and lower tuber count; variant type is important prognostic information and may inform intensity of surveillance protocols"
+        },
+        {
+          "domain": "De novo variant confirmed — no family history; ~65–70% of TSC cases are de novo?",
+          "question": "Yes – approximately 65–70% of TSC variants arise de novo; negative family history is typical and does NOT reduce the probability of TSC when clinical features are present; parental testing is important to distinguish de novo from inherited variants for recurrence risk counseling (de novo → ~2% recurrence risk from germline mosaicism; inherited → 50% recurrence risk per pregnancy)"
+        },
+        {
+          "domain": "Somatic mosaicism — TSC variant present at low allele frequency; detected by next-generation sequencing with adequate depth?",
+          "question": "Yes – somatic mosaicism accounts for approximately 10–15% of TSC cases that are TSC1/TSC2-negative on standard Sanger sequencing; the mosaic variant is present in only a fraction of cells; high-depth NGS (>500× depth) or droplet digital PCR is required for detection; mosaic TSC is typically associated with a milder phenotype; blood-based sequencing may miss mosaicism — skin fibroblasts or affected tissue may be required"
+        }
+      ]
+    },
+    {
+      "heading": "MULTI-SPECIALTY SURVEILLANCE — THE TSC MULTI-ORGAN MONITORING FRAMEWORK",
+      "questions": [
+        {
+          "domain": "Annual or biannual brain MRI for SEGA surveillance — monitoring SEN growth throughout childhood?",
+          "question": "Yes – annual or biannual brain MRI is standard care for all TSC patients during childhood and adolescence to monitor for SEGA development and growth; frequency can be reduced (every 1–3 years) in adults over age 25 with no known SEN; any enlarging SEN >1cm or new symptoms (headache, vomiting, papilledema) warrants urgent assessment; early detection of growing SEGA enables everolimus initiation before obstructive hydrocephalus develops"
+        },
+        {
+          "domain": "Annual renal imaging (MRI preferred) for AML surveillance throughout life?",
+          "question": "Yes – annual renal MRI (preferred over ultrasound or CT for characterization and radiation avoidance) is recommended for all TSC patients; monitors AML growth, new lesion development, hemorrhage risk assessment, and renal function; AMLs >3cm or with aneurysm formation warrant everolimus or embolization; renal function (eGFR, blood pressure) monitored alongside imaging"
+        },
+        {
+          "domain": "Electroencephalogram (EEG) for seizure characterization and epilepsy management?",
+          "question": "Yes – EEG (and video-EEG) is essential for seizure type classification, epilepsy monitoring, and surgical candidacy evaluation; TSC produces complex multifocal epilepsy; EEG findings include focal epileptiform discharges over tuber locations, hypsarrhythmia (infantile spasms), and ictal recordings; epilepsy surgery evaluation (tuberectomy) should be considered early in drug-resistant TSC epilepsy"
+        },
+        {
+          "domain": "Formal neuropsychological evaluation at diagnosis and at developmental transitions — TAND assessment?",
+          "question": "Yes – formal evaluation of the full TAND spectrum (intellectual ability, adaptive behavior, autism features, ADHD, anxiety, behavioral problems) is recommended at diagnosis, before school entry, and at other key developmental transitions; early identification of TAND enables timely educational, behavioral, and psychological intervention; TAND assessment should be conducted by a multidisciplinary team including neuropsychology, developmental pediatrics, and behavioral support"
+        }
+      ]
+    },
+    {
+      "heading": "DIFFERENTIAL DIAGNOSIS EXCLUSIONS",
+      "questions": [
+        {
+          "domain": "Neurofibromatosis type 1 (NF1) excluded — NF1 café-au-lait macules, Lisch nodules, neurofibromas; TSC lacks these features?",
+          "question": "Yes – NF1 and TSC both cause neurocutaneous features, seizures, and cognitive difficulties but are distinct; NF1: café-au-lait macules (>6, >5mm prepuberty), axillary/inguinal freckling, Lisch nodules on iris, neurofibromas, optic pathway gliomas, NF1 variants; TSC: hypomelanotic macules (not café-au-lait), angiofibromas, cortical tubers, SENs, AMLs; NF1 sequencing and TSC1/TSC2 panel distinguish definitively"
+        },
+        {
+          "domain": "Focal cortical dysplasia (FCD) excluded — isolated MRI lesion without other TSC features; TSC2 somatic mosaicism may overlap?",
+          "question": "Yes – isolated focal cortical dysplasia can resemble a single cortical tuber on MRI; distinguished by: (1) absence of other TSC major/minor criteria; (2) no SENs or rhabdomyomas; (3) normal skin examination; (4) negative blood TSC1/TSC2; however, somatic mosaicism with a second-hit mechanism in the brain can produce isolated cortical dysplasia-like lesions; brain tissue sequencing may reveal low-frequency somatic TSC2 variants in apparent FCD"
+        },
+        {
+          "domain": "Isolated infantile spasms from other causes excluded — TSC accounts for approximately 25% of infantile spasms cases?",
+          "question": "Yes – infantile spasms have multiple etiologies; TSC is the single most common identifiable cause (~25%); other causes include perinatal hypoxic-ischemic injury, chromosomal abnormalities (trisomy 21, del1p36), metabolic disorders (pyridoxine dependency, biotin disorders), structural brain anomalies, and CDKL5/ARX/STXBP1 variants; brain MRI, skin examination, metabolic screening, and chromosomal microarray are required in all infantile spasms cases to identify TSC and other etiologies"
+        },
+        {
+          "domain": "Polycystic kidney disease (PKD) excluded when renal cysts are prominent — PKD1 contiguous gene deletion syndrome?",
+          "question": "Yes – severe renal cystic disease in a TSC patient may reflect contiguous deletion of TSC2 and the adjacent PKD1 gene on chromosome 16p13.3; this TSC2/PKD1 contiguous gene deletion syndrome causes early-onset severe polycystic kidney disease; array CGH or chromosomal microarray identifies the deletion extent; PKD1 sequencing distinguishes isolated PKD from TSC-PKD contiguous deletion"
+        },
+        {
+          "domain": "Sporadic renal angiomyolipoma excluded — TSC evaluation required in all patients with bilateral or multiple AMLs?",
+          "question": "Yes – sporadic (non-TSC) AMLs occur in the general population but are almost always solitary and unilateral; bilateral or multiple AMLs carry approximately 80% probability of underlying TSC; any patient with multiple or bilateral AMLs should undergo thorough TSC clinical evaluation (skin, eyes, brain MRI) and TSC1/TSC2 genetic testing regardless of other features"
+        }
+      ]
+    },
+    {
+      "heading": "Confidence Interpretation",
+      "questions": []
+    },
+    {
+      "heading": "Cost Categories and TSC Diagnostic Criteria Summary",
+      "questions": []
+    },
+    {
+      "heading": "Clinical History: No additional cost (seizure onset, family history, cardiac rhabdomyoma history, NBS/fetal findings)\nClinical Exam: No additional cost (skin examination under Wood's lamp — ash-leaf spots, angiofibromas, shagreen patch, forehead plaque, ungual fibromas; fundoscopy — retinal hamartomas; abdominal palpation)\nClinical Assessment: $200–500 (formal neuropsychological/TAND evaluation; developmental assessment; ADHD/ASD screening)\nMedium: $100–2,500 (EEG with video $500–1,500; echocardiogram $500–1,000; renal ultrasound $200–500; renal MRI $800–2,000; serum VEGF-D $200–400; chest CT for LAM $300–600; audiological evaluation $200–400)\nLarge: $1,000–6,000+ (brain MRI with and without contrast $2,000–4,000; TSC1/TSC2 sequencing + deletion/duplication analysis $1,500–3,500; high-depth somatic mosaicism panel $2,000–5,000; retinal hamartoma evaluation under anesthesia $500–2,000; lumbar puncture for CSF biomarkers in trial settings $1,000–2,500)\n\nTSC DIAGNOSTIC CRITERIA (2012 International TSC Consensus — updated):\nMAJOR criteria: (1) ≥3 hypomelanotic macules ≥5mm; (2) ≥3 angiofibromas OR ≥1 fibrous cephalic plaque; (3) ≥2 ungual fibromas; (4) Shagreen patch; (5) Multiple retinal hamartomas; (6) Cortical dysplasias (tubers or radial migration lines); (7) ≥2 subependymal nodules; (8) Subependymal giant cell astrocytoma; (9) Cardiac rhabdomyoma; (10) Lymphangioleiomyomatosis; (11) ≥2 angiomyolipomas\nMINOR criteria: (1) ≥3 confetti skin lesions; (2) ≥3 dental enamel pits; (3) ≥2 intraoral fibromas; (4) Retinal achromic patch; (5) Multiple renal cysts; (6) Nonrenal hamartomas; (7) MMPH on CT\nDEFINITE diagnosis: ≥2 major criteria OR 1 major + ≥2 minor criteria\nPROBABLE diagnosis: 1 major criterion OR ≥2 minor criteria\nPOSSIBLE diagnosis: 1 major OR ≥2 minor criteria\nPATHOGENIC TSC1/TSC2 VARIANT alone = definite diagnosis regardless of clinical criteria",
+      "questions": []
+    },
+    {
+      "heading": "Key High-Value Findings (≥8 points each)",
+      "questions": []
+    },
+    {
+      "heading": "Pathogenic TSC1 or TSC2 variant identified (20 points) — DEFINITIVE GENETIC DIAGNOSIS; equivalent to definite clinical diagnosis regardless of features\nCortical tubers on brain MRI (12 points) — MAJOR criterion; primary epileptogenic substrate; present in ~85% of TSC patients\n≥3 Hypomelanotic macules ≥5mm on Wood's lamp examination (10 points) — MAJOR criterion; most common and earliest skin finding; present in ~90%\nFacial angiofibromas in butterfly distribution (10 points) — MAJOR criterion; virtually diagnostic in the correct clinical context\nSubependymal nodules (SENs) on brain MRI (10 points) — MAJOR criterion; \"candle-guttering\" on CT; monitor for SEGA transformation\nRenal angiomyolipomas — bilateral or multiple on MRI (10 points) — MAJOR criterion; present in ~75%; bilateral multiplicity virtually diagnostic\nSubependymal giant cell astrocytoma (SEGA) — enlarging lesion at foramen of Monro (10 points) — MAJOR criterion; requires urgent treatment decision\nInfantile spasms presenting in first year of life (10 points) — most common initial presentation; TSC is #1 identifiable cause of infantile spasms\nCardiac rhabdomyoma on echo — fetal or neonatal (8 points) — MAJOR criterion; ~75–80% of fetal rhabdomyomas caused by TSC\nTSC-associated neuropsychiatric disorders (TAND) — ASD, intellectual disability (8 points) — affects ~90% of TSC patients\nDrug-resistant epilepsy — failure of ≥2 appropriate ASMs (8 points) — affects ~60–70%; key driver of neurodevelopmental outcome\nShagreen patch over lumbar region (8 points) — MAJOR criterion; present in ~50%; frequently missed\nLAM on chest CT — bilateral thin-walled lung cysts in adult female (8 points) — MAJOR criterion; TSC-LAM in ~30–40% of adult females\nRetinal hamartomas on fundoscopy (8 points) — MAJOR criterion; present in ~40–50%",
+      "questions": []
+    },
+    {
+      "heading": "Diagnostic Strategy by Cost",
+      "questions": []
+    },
+    {
+      "heading": "Phase 1 — Clinical Evaluation (No Cost):\n  • Thorough skin examination under Wood's lamp: systematically inspect entire body surface for hypomelanotic macules (ash-leaf spots), confetti lesions, forehead plaque, shagreen patch, ungual fibromas, angiofibromas\n  • Ophthalmological examination: retinal hamartomas, iris hypopigmentation\n  • Seizure history: onset age, type (infantile spasms are particularly important), frequency, drug-response\n  • Neurodevelopmental history: cognitive level, autism features, ADHD, behavioral problems\n  • Family history: three generations; ask specifically about seizures, kidney lesions, skin lesions, intellectual disability\n  • Oral examination: dental enamel pits (best with dental mirror), intraoral fibromas\n  Potential: 40–60 points for $0 in a phenotypically evident case; skin + fundoscopy alone may satisfy 2 MAJOR criteria\n\nPhase 2 — Imaging and EEG ($500–3,000):\n  • Brain MRI with and without contrast: cortical tubers, SENs, SEGA, white matter radial migration lines — most diagnostically powerful single test\n  • Renal MRI (preferred) or ultrasound: AMLs, cysts, lesion characterization\n  • Echocardiogram: cardiac rhabdomyomas (particularly important in infants and children)\n  • EEG with video: seizure type characterization, hypsarrhythmia documentation\n  • Chest CT (adult females): LAM assessment; serum VEGF-D\n  Additional: 30–50 points for $1,000–3,000 — likely crosses diagnostic threshold\n\nPhase 3 — Genetic Confirmation ($1,500–4,000):\n  • TSC1/TSC2 sequencing + deletion/duplication analysis (MLPA or microarray): identifies causative variant in ~85–90%\n  • High-depth NGS for somatic mosaicism if standard sequencing negative in clinically convincing case: detects ~10–15% of additional cases\n  • Parental testing once proband confirmed: de novo (2% recurrence) vs. inherited (50% recurrence)\n  Additional: 20 points — pathogenic variant alone = definite diagnosis\n\nOngoing Surveillance (all confirmed TSC patients — lifetime commitment):\n  • Brain MRI: annual or biannual (childhood/adolescence) → every 1–3 years (adult) for SEGA surveillance\n  • Renal MRI: annual\n  • EEG: as clinically indicated for seizure management\n  • TAND assessment: at diagnosis, school entry, adolescence, adulthood transitions\n  • Chest CT / VEGF-D: adult females at age 18, then every 5–10 years if normal\n  • Blood pressure and renal function: annually",
+      "questions": []
+    },
+    {
+      "heading": "Critical Notes — Treatment Landscape 2026",
+      "questions": []
+    },
+    {
+      "heading": "• EVEROLIMUS (Afinitor/Votubia, Novartis) — THE CORNERSTONE mTOR INHIBITOR FOR TSC: FDA-approved for three TSC indications: (1) SEGA in patients not amenable to surgery; (2) renal angiomyolipomas not requiring immediate surgery; (3) adjunctive treatment of TSC-associated refractory focal seizures (EXIST-3 trial); oral daily dosing; trough level monitoring (5–15 ng/mL); dramatically reduces SEGA volume (>50% reduction in majority), stabilizes AML progression, and reduces seizure frequency; common side effects: stomatitis, infections, metabolic effects, impaired wound healing; stomatitis managed with steroid mouthwash\n• SIROLIMUS (rapamycin) — first-generation mTOR inhibitor; approved for TSC-LAM (stabilizes pulmonary function, reduces VEGF-D); used off-label in some TSC AML cases; similar mechanism to everolimus; lung transplant for end-stage LAM\n• CANNABIDIOL (Epidiolex, Jazz Pharmaceuticals) — FDA APPROVED 2020 FOR TSC-ASSOCIATED SEIZURES: the first FDA approval of cannabidiol specifically for TSC seizures as a distinct indication; adjunctive therapy for seizures associated with TSC in patients ≥1 year; GWPCARE6 trial demonstrated 49% median seizure reduction vs. placebo; particularly effective for TSC-associated seizures not previously amenable to existing ASMs\n• RADIPRODIL (GRIN Therapeutics) — ACTIVELY ENROLLING: GluN2B-containing NMDA receptor antagonist; targets seizure mechanisms distinct from the mTOR pathway; Phase 2/3 study actively enrolling in TSC-associated drug-resistant epilepsy; represents a non-mTOR approach to TSC seizures; watch for interim data in 2026\n• VIGABATRIN — FIRST-LINE FOR TSC INFANTILE SPASMS: vigabatrin is the treatment of choice for infantile spasms in TSC (UKISS trial); more effective than ACTH/steroids in TSC-specific infantile spasms; should be started urgently when TSC-associated infantile spasms diagnosed; visual field constriction is the primary long-term safety concern requiring ophthalmological monitoring\n• EPILEPSY SURGERY: should be considered early in drug-resistant TSC epilepsy; tuberectomy, laser interstitial thermal therapy (LITT), and responsive neurostimulation (RNS) are all used; careful tuber-seizure concordance evaluation required; seizure-free rates of 50–60% in carefully selected patients; early surgery prevents seizure-related neurodevelopmental harm\n• PREVENTIVE ANTI-EPILEPTIC TREATMENT: the EPISTOP trial demonstrated that prophylactic vigabatrin started before seizure onset in NBS/pre-symptomatically identified TSC infants (guided by EEG) may prevent or delay seizure onset and improve neurodevelopmental outcomes — a paradigm shift toward pre-emptive treatment\n• BEVELCLOUD MULTI-SPECIALTY VALUE: TSC is uniquely positioned for BevelCloud — it is the only disease in this atlas where a single patient generates clinically actionable federated data across NEUROLOGY (cortical tubers, SEGA, epilepsy), NEPHROLOGY (AML surveillance, renal function, cysts), and ONCOLOGY (SEGA, epithelioid AML risk); cross-specialty federated query for TSC natural history is a compelling demonstration case for the BevelCloud platform across hospital network specialty silos",
+      "questions": []
+    },
+    {
+      "heading": "TSC Phenotypic Spectrum by Genotype, Multi-Organ Involvement Summary, and Key Differential Diagnoses",
+      "questions": []
+    },
+    {
+      "heading": "Genotype-Phenotype Correlation:\nTSC2 variants (~70% of genetically confirmed cases):\n  • More severe neurological phenotype; higher cortical tuber count; earlier seizure onset\n  • Intellectual disability in ~60–70%; autism in ~50–60%; more severe TAND\n  • More prominent renal involvement (AML, cysts); higher LAM frequency in females\n  • Shorter diagnostic delay (more obvious features)\nTSC1 variants (~30% of genetically confirmed cases):\n  • Milder neurological phenotype; lower tuber count; later seizure onset in many\n  • Normal intelligence in majority; lower TAND burden\n  • Less severe renal involvement; lower LAM frequency\n  • May be diagnosed incidentally in adulthood (renal AML, skin lesions)\nSomatic mosaicism (~10–15% of total TSC cases):\n  • Typically milder phenotype; fewer affected organ systems\n  • May have isolated brain involvement (focal cortical dysplasia-like) without renal or skin features\n  • Requires high-depth sequencing; may be missed on blood-based standard panel\n\nMulti-Organ Involvement at a Glance:\n  Brain: Cortical tubers (85%), SENs (80–90%), SEGA (15–20%), white matter lesions (30–40%)\n  Skin: Hypomelanotic macules (90%), angiofibromas (75%), shagreen patch (50%), ungual fibromas (20–30%)\n  Kidney: AMLs (75–80%), cysts (30–45%), RCC (~2–3%)\n  Heart: Rhabdomyomas (50–65% in infancy; regress spontaneously)\n  Lung: LAM (30–40% adult females), MMPH (both sexes)\n  Eye: Retinal hamartomas (40–50%), iris/retinal hypopigmentation\n  Teeth: Dental enamel pits (>90% — most common finding not used as criterion due to low specificity)\n\nKey Differential Diagnoses:\n  • Neurofibromatosis Type 1 (NF1) — café-au-lait macules (not hypomelanotic), Lisch nodules, neurofibromas, NF1 gene; optic gliomas\n  • Focal Cortical Dysplasia — isolated MRI lesion without other TSC features; TSC somatic mosaicism may overlap; brain tissue sequencing\n  • Isolated infantile spasms from other causes — perinatal HIE, chromosomal disorders, metabolic (pyridoxine, biotin), CDKL5/ARX/STXBP1\n  • Sporadic renal AML — typically unilateral and solitary; bilateral/multiple → 80% TSC probability\n  • Polycystic kidney disease (ADPKD) — dominant inheritance, progressive bilateral cysts, PKD1/PKD2; TSC2/PKD1 contiguous deletion overlap\n  • Birt-Hogg-Dubé syndrome — pulmonary cysts + fibrofolliculomas + renal tumors; FLCN gene; cyst pattern differs from LAM\n  • Sturge-Weber syndrome — port-wine birthmark, seizures, leptomeningeal angiomatosis on MRI; GNAQ somatic variant; no mTOR pathway",
+      "questions": []
+    }
+  ],
+  "confidenceNote": "🔴  85–100 points: High Confidence — TSC highly likely (two MAJOR criteria OR one MAJOR + ≥2 MINOR); proceed to TSC1/TSC2 sequencing and deletion/duplication analysis; full multi-organ evaluation and specialist referral\n🟡  40–84 points: Moderate Confidence — TSC probable or possible; genetic testing and MRI brain indicated; complete the diagnostic criteria checklist with renal imaging, ophthalmology, and skin examination; multidisciplinary TSC clinic referral; consider TSC1/TSC2 panel\n🟢  <40 points: Low Confidence — TSC unlikely; broaden differential to NF1, isolated focal cortical dysplasia, sporadic AML, or other neurocutaneous syndromes; review diagnostic criteria carefully before proceeding",
+  "conditionId": 20,
+  "conditionName": "Tuberous Sclerosis Complex",
+  "specialty": "neurology",
+  "agentType": "diagnosis"
+}

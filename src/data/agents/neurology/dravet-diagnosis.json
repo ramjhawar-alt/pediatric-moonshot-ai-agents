@@ -1,0 +1,316 @@
+{
+  "type": "checklist",
+  "preamble": "Dravet Syndrome  |  SCN1A-Related Developmental and Epileptic Encephalopathy  |  Severe Myoclonic Epilepsy of Infancy (SMEI)  (OMIM 607208)",
+  "sections": [
+    {
+      "heading": "CLINICAL PRESENTATION AND ONSET",
+      "questions": [
+        {
+          "domain": "First seizure onset within the first year of life (typically age 4–12 months)?",
+          "question": "Yes – Dravet syndrome characteristically presents with the first seizure between 4–12 months (median 5–8 months); onset before 6 months in >50% of cases; onset outside the first year is atypical and should prompt reconsideration"
+        },
+        {
+          "domain": "Normal psychomotor development prior to seizure onset?",
+          "question": "Yes – children with Dravet syndrome have normal developmental milestones before the first seizure; this pre-seizure normal period distinguishes Dravet from structural epilepsies, many metabolic encephalopathies, and congenital brain malformations"
+        },
+        {
+          "domain": "First seizure occurring in the context of fever or elevated body temperature?",
+          "question": "Yes – the inaugural seizure occurs in the context of fever in the majority of Dravet patients; fever from any cause (infection, vaccination, overheating) serves as the initial trigger; fever-triggered onset is the single most characteristic early feature"
+        },
+        {
+          "domain": "First febrile seizure following vaccination — particularly after DTP/DTaP administration?",
+          "question": "Yes – approximately 30–50% of first Dravet seizures follow vaccination (DTP/DTaP most commonly); this temporal association historically led to erroneous vaccine injury attribution; vaccination is a fever trigger, not a cause of Dravet syndrome"
+        },
+        {
+          "domain": "Prolonged first seizure — duration >15 minutes, or first seizure presenting as status epilepticus?",
+          "question": "Yes – prolonged hemiclonic seizures or febrile status epilepticus at the first presentation are characteristic of Dravet syndrome; hospitalization for the initial seizure event is extremely common; brief first febrile seizures are less typical"
+        },
+        {
+          "domain": "Male sex — Dravet syndrome has a slight male predominance (~60% male)?",
+          "question": "Yes – Dravet syndrome affects males slightly more commonly than females (approximately 60:40); this male predominance distinguishes it from PCDH19 epilepsy (its most important clinical mimic), which predominantly affects females"
+        }
+      ]
+    },
+    {
+      "heading": "SEIZURE CHARACTERISTICS — FEBRILE AND FEVER-SENSITIVE",
+      "questions": [
+        {
+          "domain": "Recurrent prolonged febrile seizures or febrile status epilepticus across multiple febrile illnesses?",
+          "question": "Yes – recurrent prolonged febrile seizures with every subsequent febrile illness are a hallmark early feature of Dravet syndrome; the pattern of repeated prolonged febrile events over the first 1–2 years is highly characteristic and should trigger urgent evaluation"
+        },
+        {
+          "domain": "Hemiclonic seizures — unilateral clonic seizures alternating sides across different episodes?",
+          "question": "Yes – hemiclonic seizures (clonic movements confined to one side of the body, alternating between left and right across separate seizure events) are virtually pathognomonic for Dravet syndrome; this alternating laterality pattern is one of the most diagnostically specific features"
+        },
+        {
+          "domain": "Seizures exquisitely sensitive to even low-grade fever — temperature threshold as low as 38°C?",
+          "question": "Yes – temperature sensitivity is a defining feature of Dravet syndrome; seizures may be triggered by fevers as low as 38°C; warm bath water, hot weather, physical exertion, and emotional excitement can precipitate seizures through temperature elevation mechanisms"
+        },
+        {
+          "domain": "Seizure duration typically prolonged (>5 minutes) with recurring risk of status epilepticus?",
+          "question": "Yes – prolonged seizures lasting minutes to hours and true convulsive status epilepticus are hallmarks of Dravet syndrome throughout the disease course; status epilepticus is experienced by the majority of patients and is a major source of morbidity and emergency hospitalization"
+        }
+      ]
+    },
+    {
+      "heading": "SEIZURE TYPES AND EVOLUTION",
+      "questions": [
+        {
+          "domain": "Development of multiple distinct seizure types after age 1–2 years?",
+          "question": "Yes – after the initial febrile-onset phase, Dravet syndrome evolves into a multi-seizure-type disorder including myoclonic, atypical absence, focal with/without bilateral spread, and tonic-clonic seizures; this evolution of seizure types is diagnostically important"
+        },
+        {
+          "domain": "Myoclonic seizures — brief, irregular, arrhythmic jerks of limbs or whole body?",
+          "question": "Yes – myoclonic seizures emerge after the first year in most patients; may range from subtle head nods and finger jerks to massive whole-body myoclonus; the emergence of myoclonus alongside febrile seizures was central to the original SMEI nomenclature"
+        },
+        {
+          "domain": "Atypical absence seizures — staring spells with variable onset/offset, possibly with automatisms or myoclonic components?",
+          "question": "Yes – atypical absence seizures (less well-defined clinically than typical childhood absences) occur in the majority of Dravet patients; may be subtle, brief, and easily missed without video EEG; they contribute to cognitive and behavioral burden"
+        },
+        {
+          "domain": "Nocturnal generalized tonic-clonic seizures (GTCS) occurring from sleep or awakening transitions?",
+          "question": "Yes – nocturnal GTCS are common in Dravet syndrome from the second year of life onward; occurring predominantly from NREM sleep or at sleep-wake transitions; nocturnal GTCS are a major SUDEP risk factor and source of sleep disruption"
+        },
+        {
+          "domain": "Pharmacoresistance — failure of multiple standard anti-seizure medications (ASMs)?",
+          "question": "Yes – medical refractoriness to multiple standard ASMs is a cardinal feature of Dravet syndrome; furthermore, sodium channel blockers (carbamazepine, phenytoin, lamotrigine, oxcarbazepine) WORSEN seizures in Dravet syndrome due to further Nav1.1 inhibition; treatment failure history is diagnostically informative"
+        }
+      ]
+    },
+    {
+      "heading": "TEMPERATURE AND ENVIRONMENTAL TRIGGERS",
+      "questions": [
+        {
+          "domain": "Hot bath or warm water exposure consistently triggering seizures?",
+          "question": "Yes – warm bath water is one of the most reliable and reproducible seizure triggers in Dravet syndrome; caregivers learn to use lukewarm or cool water; the hot bath trigger has very high specificity for Dravet syndrome and SCN1A-related epilepsies among all epilepsy syndromes"
+        },
+        {
+          "domain": "Physical exertion or exercise triggering seizures through temperature elevation?",
+          "question": "Yes – physical exertion and the associated rise in core body temperature is a reliable seizure trigger in Dravet syndrome; limits participation in physical activity and sport; cooling strategies (cooling vests, air-conditioned environments) are used prophylactically"
+        },
+        {
+          "domain": "Photosensitivity — flickering lights or visual stimuli triggering seizures or EEG discharges?",
+          "question": "Yes – photosensitivity (photic-induced EEG paroxysmal responses or clinical seizures) is present in approximately 40–50% of Dravet patients; more prominent in early childhood; photosensitive spectacles and screen-use modifications may be recommended"
+        },
+        {
+          "domain": "Pattern sensitivity — geometric patterns, stripes, or specific visual environments triggering symptoms?",
+          "question": "Yes – pattern sensitivity beyond general photosensitivity is present in a subset of Dravet patients; contributes to caregiver vigilance and avoidance behaviors around certain visual environments"
+        }
+      ]
+    },
+    {
+      "heading": "NEURODEVELOPMENTAL FEATURES",
+      "questions": [
+        {
+          "domain": "Developmental plateau or regression following seizure onset — especially after first prolonged event?",
+          "question": "Yes – most children with Dravet syndrome have relatively normal development until seizure onset, then show developmental plateau or frank regression particularly after the first episode of febrile status epilepticus; regression often becomes clinically apparent between ages 2–5"
+        },
+        {
+          "domain": "Intellectual disability — mild to severe — confirmed on formal developmental or neuropsychological testing?",
+          "question": "Yes – intellectual disability is present in the vast majority of Dravet patients by school age; severity ranges from borderline to profound; correlates with total seizure burden, frequency of status epilepticus, and SCN1A variant class"
+        },
+        {
+          "domain": "Language delay — expressive language more severely impaired than receptive language?",
+          "question": "Yes – language delay is near-universal in Dravet syndrome; expressive language is disproportionately affected relative to receptive understanding; vocabulary acquisition is slow and some patients remain minimally verbal; augmentative communication is often beneficial"
+        },
+        {
+          "domain": "Hyperactivity, impulsivity, and attention difficulties consistent with ADHD features?",
+          "question": "Yes – ADHD-like features (impulsivity, hyperactivity, inattention) are extremely prevalent in Dravet syndrome; present in the majority; these features significantly complicate school performance and behavioral management alongside seizure control"
+        }
+      ]
+    },
+    {
+      "heading": "BEHAVIORAL AND PSYCHIATRIC FEATURES",
+      "questions": [
+        {
+          "domain": "Autism spectrum disorder (ASD) features or formal ASD diagnosis?",
+          "question": "Yes – ASD or significant autistic features are reported in 15–30% of Dravet patients; social communication difficulties, restricted interests, and repetitive behaviors; may precede or emerge alongside developmental regression"
+        },
+        {
+          "domain": "Oppositional behavior, emotional dysregulation, or dysexecutive features?",
+          "question": "Yes – oppositional, stubborn, and emotionally dysregulated behavior is a characteristic part of the Dravet behavioral phenotype; likely intrinsic to SCN1A-related disruption of prefrontal inhibitory circuits; not solely secondary to frustration with disability"
+        },
+        {
+          "domain": "Anxiety, compulsive behaviors, or rigid adherence to routines?",
+          "question": "Yes – anxiety disorders and compulsive or ritualized behaviors are well-documented in Dravet syndrome; may manifest as food selectivity, rigid routines, separation anxiety, and obsessive-compulsive features; require behavioral and psychological management"
+        }
+      ]
+    },
+    {
+      "heading": "GAIT AND MOTOR FEATURES",
+      "questions": [
+        {
+          "domain": "Characteristic \"crouched gait\" — stooped posture, bent knees, wide base when walking?",
+          "question": "Yes – a distinctive crouched, stooped gait with flexed knees and a wide base is highly characteristic of older children and adults with Dravet syndrome; described as Parkinsonian-like or squatting in quality; a specific and underappreciated clinical sign in established Dravet syndrome"
+        },
+        {
+          "domain": "Unsteady or ataxic gait that is not fully explained by postictal state?",
+          "question": "Yes – cerebellar ataxia and persistent gait unsteadiness are documented as intrinsic features of Dravet syndrome, not solely postictal; progressive worsening of gait coordination occurs in some patients over adolescence and adulthood"
+        },
+        {
+          "domain": "Hypotonia — reduced muscle tone on neurological examination?",
+          "question": "Yes – hypotonia is present in the majority of Dravet patients by middle childhood; contributes to gait abnormality, postural instability, and fatigue; reflects progressive neuromotor involvement beyond the epilepsy itself"
+        }
+      ]
+    },
+    {
+      "heading": "AUTONOMIC AND SYSTEMIC FEATURES",
+      "questions": [
+        {
+          "domain": "Elevated risk of sudden unexpected death in epilepsy (SUDEP) — among the highest risk of any epilepsy syndrome?",
+          "question": "Yes – SUDEP risk in Dravet syndrome is estimated at 1–2% per year (15–20× background epilepsy population risk); driven by postictal respiratory suppression and cardiac dysrhythmia from SCN1A disruption in autonomic and cardiac conduction neurons; SUDEP counseling is mandatory"
+        },
+        {
+          "domain": "Autonomic features during seizures — perioral cyanosis, pallor, diaphoresis, or pupillary changes?",
+          "question": "Yes – autonomic manifestations during seizures are common in Dravet syndrome including perioral cyanosis, pallor, diaphoresis, and pupillary abnormalities; reflect seizure propagation through autonomic circuits from widespread Nav1.1 dysfunction"
+        },
+        {
+          "domain": "Sleep disturbance — frequent night waking, difficulty initiating sleep, or nocturnal seizure-related arousals?",
+          "question": "Yes – sleep disturbance is nearly universal in Dravet syndrome; nocturnal seizures disrupt sleep architecture; insomnia, delayed sleep phase, and frequent night waking also occur independently; nighttime monitoring is essential for SUDEP prevention"
+        }
+      ]
+    },
+    {
+      "heading": "EEG FINDINGS",
+      "questions": [
+        {
+          "domain": "EEG normal or non-specifically abnormal in the first year of life — early normal EEG does NOT exclude Dravet?",
+          "question": "Yes – the EEG is frequently normal or shows only non-specific slowing during the first year of Dravet syndrome; this is a critical diagnostic pitfall; a normal early EEG should not be used to exclude Dravet when the clinical history is suggestive"
+        },
+        {
+          "domain": "Generalized spike-wave or polyspike-wave discharges emerging after the first year?",
+          "question": "Yes – generalized or multifocal spike-wave and polyspike-wave discharges become evident on EEG after the first year of life; may initially appear only during drowsiness or sleep; progressive evolution of EEG abnormalities parallels clinical progression"
+        },
+        {
+          "domain": "Photoparoxysmal response — photic-induced generalized discharges on EEG with intermittent photic stimulation (IPS)?",
+          "question": "Yes – photoparoxysmal response to IPS is present in approximately 40–50% of Dravet patients; more common in early and middle childhood; EEG photosensitivity may be detected before clinical photosensitive seizures manifest"
+        },
+        {
+          "domain": "Multifocal independent epileptiform discharges from multiple cortical regions?",
+          "question": "Yes – multifocal independent spike foci (temporal, frontal, occipital, parietal) coexisting with generalized discharges are characteristic of Dravet syndrome EEG; reflects widespread cortical hyperexcitability from Nav1.1 haploinsufficiency in inhibitory interneurons"
+        }
+      ]
+    },
+    {
+      "heading": "NEUROIMAGING",
+      "questions": [
+        {
+          "domain": "Brain MRI normal at disease onset (essential to exclude structural epilepsies)?",
+          "question": "Yes – brain MRI is typically normal in Dravet syndrome at presentation; MRI is essential to exclude structural causes (cortical dysplasia, tuberous sclerosis, hippocampal pathology); normal structural MRI in a febrile-onset refractory epilepsy should increase clinical suspicion for Dravet"
+        },
+        {
+          "domain": "Progressive hippocampal abnormalities or mild cerebral atrophy on serial MRI in older patients?",
+          "question": "Variable – serial MRI may show mild hippocampal signal changes, volume loss, or subtle cerebral atrophy in older Dravet patients with high cumulative seizure burden; these findings are not present at onset and are not required for diagnosis"
+        }
+      ]
+    },
+    {
+      "heading": "FAMILY HISTORY AND INHERITANCE PATTERN",
+      "questions": [
+        {
+          "domain": "De novo SCN1A pathogenic variant — no family history of Dravet syndrome?",
+          "question": "Yes – approximately 85–90% of Dravet-causing SCN1A variants arise de novo in the proband; negative family history is typical and does NOT reduce pre-test probability for Dravet; both parents should still undergo targeted testing when proband result is available"
+        },
+        {
+          "domain": "Family history of febrile seizures, febrile seizures plus (GEFS+), or milder SCN1A-related phenotype in a parent or relative?",
+          "question": "Yes – approximately 10–15% of Dravet SCN1A variants are inherited from a parent with GEFS+ or febrile seizures alone; SCN1A variants show highly variable expressivity; careful history of febrile seizures in all first-degree relatives is diagnostically essential"
+        }
+      ]
+    },
+    {
+      "heading": "GENETIC TESTING — DEFINITIVE DIAGNOSIS",
+      "questions": [
+        {
+          "domain": "Pathogenic or likely pathogenic SCN1A variant identified on sequencing?",
+          "question": "Yes – a pathogenic SCN1A variant is identified in approximately 80–85% of clinically confirmed Dravet syndrome; SCN1A encodes the Nav1.1 voltage-gated sodium channel subunit expressed predominantly in inhibitory interneurons; haploinsufficiency → cortical hyperexcitability → Dravet phenotype"
+        },
+        {
+          "domain": "Truncating SCN1A variant — nonsense, frameshift, or canonical splice site mutation (loss-of-function)?",
+          "question": "Yes – truncating SCN1A variants (nonsense, frameshift, canonical splice site) produce loss-of-function (LOF) and are most strongly associated with Dravet syndrome; LOF of Nav1.1 in inhibitory interneurons disinhibits excitatory circuits; truncating variants predict the most severe phenotype"
+        },
+        {
+          "domain": "Missense SCN1A variant in a functionally critical domain (transmembrane segments S4–S6, voltage-sensing domain, pore region)?",
+          "question": "Yes – missense variants in functionally critical SCN1A domains are associated with Dravet syndrome; pathogenicity depends on variant location, conservation, and functional data; missense variants in less conserved linker regions may have uncertain significance and require careful interpretation"
+        },
+        {
+          "domain": "Large SCN1A deletion or duplication identified by chromosomal microarray or MLPA (when sequencing is negative)?",
+          "question": "Yes – approximately 3–5% of Dravet-causing SCN1A abnormalities are large intragenic deletions or exonic rearrangements not detectable by sequencing; chromosomal microarray or MLPA is required in high-probability clinical cases where point mutation sequencing is negative"
+        }
+      ]
+    },
+    {
+      "heading": "DIFFERENTIAL DIAGNOSIS EXCLUSIONS",
+      "questions": [
+        {
+          "domain": "PCDH19 variant excluded — PCDH19 epilepsy is the most important clinical mimic of Dravet syndrome?",
+          "question": "Yes (especially in females) – PCDH19 epilepsy closely mimics Dravet: cluster seizures in context of fever, social regression, and female predominance; distinguished by X-linked transmission affecting females; PCDH19 sequencing should be sent simultaneously with SCN1A in phenotypically appropriate female patients"
+        },
+        {
+          "domain": "No structural brain lesion on MRI — focal cortical dysplasia, tuberous sclerosis, and hippocampal pathology excluded?",
+          "question": "Yes – structural causes of febrile-onset refractory epilepsy must be excluded by high-quality brain MRI; focal cortical dysplasia, TSC, and other cortical malformations may present with fever-sensitive seizures and require different management"
+        },
+        {
+          "domain": "Lennox-Gastaut Syndrome excluded — not primarily tonic seizures with slow spike-wave (<2.5 Hz) EEG?",
+          "question": "Yes – LGS may co-occur with or evolve from Dravet but has distinct features: predominantly tonic seizures, slow spike-wave <2.5 Hz, structural or metabolic causes in many cases; Dravet has different EEG and earlier febrile onset"
+        },
+        {
+          "domain": "No glucose transporter deficiency (GLUT1) — CSF/plasma glucose ratio normal?",
+          "question": "Yes – GLUT1 deficiency can cause early-onset epilepsy with fever sensitivity; CSF glucose ratio <0.45 and low CSF lactate distinguish it; ketogenic diet is beneficial in GLUT1 (also used in Dravet); GLUT2/SLC2A1 sequencing if suspected"
+        },
+        {
+          "domain": "No pathogenic KCNT1 variant — malignant migrating focal seizures of infancy (MMFSI) excluded?",
+          "question": "Yes – KCNT1-related epilepsy (MMFSI) has fever sensitivity and refractory seizures but shows migratory focal seizure pattern on EEG; onset typically neonatal to early infancy; quinidine has treatment relevance; epilepsy gene panel distinguishes"
+        }
+      ]
+    },
+    {
+      "heading": "Confidence Interpretation",
+      "questions": []
+    },
+    {
+      "heading": "Cost Categories",
+      "questions": []
+    },
+    {
+      "heading": "Clinical History: No additional cost (obtained during patient encounter and caregiver interview)\nClinical Assessment: $200–500 (formal developmental/neuropsychological evaluation; ADOS-2 for ASD features; Vineland Adaptive Behavior Scales)\nClinical Exam: No additional cost (neurological and behavioral examination)\nMedium: $500–1,500 (EEG with photic stimulation and sleep recording $500–1,000; prolonged/video EEG $800–1,500; metabolic laboratories including lactate, amino acids, organic acids $200–500)\nLarge: $500–5,000+ (SCN1A sequencing + deletion/duplication analysis by MLPA $500–2,000; PCDH19 sequencing $500–1,500; epilepsy gene panel if SCN1A negative $1,500–3,000; brain MRI with sedation $2,000–5,000)",
+      "questions": []
+    },
+    {
+      "heading": "Key High-Value Findings (≥8 points each)",
+      "questions": []
+    },
+    {
+      "heading": "Pathogenic SCN1A variant identified (25 points) — DEFINITIVE DIAGNOSIS\nHemiclonic seizures alternating sides across separate seizure events (10 points) — VIRTUALLY PATHOGNOMONIC SEIZURE TYPE\nFever / temperature sensitivity as reliable seizure trigger (10 points) — CARDINAL FEATURE OF DRAVET SYNDROME\nHot bath / warm water consistently triggering seizures (10 points) — HIGH SPECIFICITY TEMPERATURE TRIGGER\nRecurrent prolonged febrile seizures or febrile status epilepticus (10 points) — HALLMARK EARLY DISEASE FEATURE\nFirst seizure in first year of life in context of fever (10 points) — CRITICAL ONSET DEFINITION\nDevelopmental plateau or regression after seizure onset (10 points) — KEY NEURODEVELOPMENTAL FEATURE\nTruncating SCN1A variant — loss-of-function (8 points) — HIGHEST SEVERITY GENOTYPE CLASS\nMultiple drug failure / pharmacoresistance (8 points) — CARDINAL CLINICAL BEHAVIOR IN ESTABLISHED DRAVET\nMyoclonic seizures emerging after first year (8 points) — EVOLVING SEIZURE TYPE HALLMARK\nIntellectual disability confirmed on formal testing (8 points) — MAJOR NEURODEVELOPMENTAL COMORBIDITY\nCrouched gait — stooped posture with flexed knees (8 points) — CHARACTERISTIC MOTOR PHENOTYPE IN OLDER PATIENTS\nProlonged first seizure / first-event status epilepticus (8 points) — ALARM FEATURE AT ONSET",
+      "questions": []
+    },
+    {
+      "heading": "Diagnostic Strategy by Cost",
+      "questions": []
+    },
+    {
+      "heading": "Phase 1 — Clinical Evaluation (No Cost):\n  • Detailed seizure onset history: exact age, precipitant (fever, vaccination, bath, illness), semiology, duration, laterality\n  • Map temperature sensitivity precisely: fever threshold, hot bath response, exercise tolerance, seasonal pattern\n  • Developmental history: normal milestones before onset; document plateau or regression timeline post-onset\n  • Complete seizure type inventory: hemiclonic, myoclonic, absence, nocturnal GTCS, focal features\n  • Prior ASM trial history: specific medications, responses, and any medication-induced worsening (sodium channel blocker history crucial)\n  • Family history: febrile seizures, GEFS+, epilepsy in any first- or second-degree relatives\n  Potential: 60–80 points for $0 in a typical Dravet presentation\n\nPhase 2 — EEG and Metabolic Screening ($200–1,500):\n  • EEG with photic stimulation (IPS) and sleep recording — photoparoxysmal response, multifocal discharges, generalized spike-wave\n  • Note: normal EEG in the first year does NOT exclude Dravet — repeat EEG if clinical suspicion high\n  • Metabolic screening when indicated: plasma lactate, amino acids, urine organic acids (exclude mitochondrial, organic acidemia)\n  • Fasting glucose and CSF/plasma glucose ratio if GLUT1 deficiency considered\n  Additional: 10–25 points for $200–1,500\n\nPhase 3 — Definitive Genetic Testing ($500–3,000):\n  • Step 1: SCN1A sequencing + deletion/duplication analysis (MLPA or microarray) — detects ~85% of Dravet cases\n  • In all female patients: send PCDH19 sequencing simultaneously with SCN1A (critical — PCDH19 epilepsy is the primary mimic)\n  • Step 2: If SCN1A negative in high-probability case — comprehensive epilepsy gene panel (SCN1A, SCN2A, SCN8A, PCDH19, KCNT1, HCN1, GABRA1, GABRG2, CDKL5)\n  • Brain MRI: high-quality 3T protocol to exclude structural causes; may be normal — normal MRI does not exclude Dravet\n  • Parental testing: both parents should be tested for SCN1A variant when proband result available (10–15% are inherited)\n  Additional: 25–45 points — crosses diagnostic threshold in the large majority of true Dravet cases",
+      "questions": []
+    },
+    {
+      "heading": "Critical Notes",
+      "questions": []
+    },
+    {
+      "heading": "• SODIUM CHANNEL BLOCKERS ARE ABSOLUTELY CONTRAINDICATED — carbamazepine (Tegretol), phenytoin (Dilantin), lamotrigine (Lamictal), and oxcarbazepine WORSEN seizures in Dravet syndrome by further inhibiting Nav1.1 in inhibitory interneurons; administering these before diagnosis is confirmed can precipitate life-threatening seizure escalation\n• FOUR KEY TREATMENT OPTIONS: (1) Epidiolex/cannabidiol — FDA approved 2018 (Jazz Pharmaceuticals); first specific approval for Dravet; (2) Fintepla/fenfluramine — FDA approved 2020 (UCB); reduces convulsive seizure frequency; (3) Diacomit/stiripentol — used in combination with clobazam; approved in EU/Canada, available under orphan drug in US; (4) Clobazam/Onfi — first-line benzodiazepine adjunct; valproic acid also used first-line\n• EMERGING THERAPIES: Zorevunersen/STK-001 (Stoke Therapeutics) — antisense oligonucleotide upregulating SCN1A mRNA from the functional allele; in Phase 3 trials (EMPEROR study) as of 2025; ETX101 (Encoded Therapeutics) — AAV9-based gene regulation therapy targeting SCN1A expression in GABAergic interneurons; received FDA Breakthrough Therapy Designation early 2026\n• VACCINATION — Dravet patients should continue to receive all standard vaccinations; the vaccine-induced fever is the trigger, not the vaccine itself; pre-vaccination protocol: antipyretics 30 minutes before vaccination, emergency benzodiazepine prescription available, observation period post-vaccination\n• RESCUE MEDICATION — every Dravet family must have a prescribed emergency seizure protocol and adequate supply: intranasal midazolam (Nayzilam), buccal clonazepam, or rectal diazepam (Diastat) for seizures lasting >5 minutes; families should be trained in administration and when to call emergency services\n• SUDEP PREVENTION — nocturnal supervision, seizure detection monitoring devices (mattress sensors, wearable monitors), safe sleep environment, and avoidance of prone sleeping position; SUDEP counseling must be documented and revisited annually\n• HEAT MANAGEMENT is a clinical priority — air-conditioned home and school environments, cooling vests for physical activity, avoidance of hot baths (use lukewarm water), antipyretics at first sign of fever regardless of temperature level; these behavioral interventions significantly reduce seizure frequency\n• SCN1A MOSAICISM — in approximately 1–3% of cases, the SCN1A pathogenic variant is somatic mosaic in the proband or a parent; standard clinical sequencing may miss low-level mosaicism; high-depth next-generation sequencing is required for detection; mosaic parents may have minimal symptoms while child has full Dravet\n• KETOGENIC DIET — the classic ketogenic diet and modified Atkins diet are effective adjunctive treatments in Dravet syndrome with seizure reduction in 50–70% of patients; should be considered after two failed appropriate ASMs",
+      "questions": []
+    },
+    {
+      "heading": "Dravet Syndrome Disease Course, SCN1A Phenotypic Spectrum, and Key Differential Diagnoses",
+      "questions": []
+    },
+    {
+      "heading": "Disease Course — Temporal Evolution:\nYear 1 (Febrile Phase): Prolonged hemiclonic or generalized febrile seizures; apparently normal development; EEG often normal; temperature the sole recognized trigger\nYears 1–5 (Transitional/Worsening Phase): Multiple seizure types emerge (myoclonic, absence, nocturnal GTCS); developmental plateau or regression; pharmacoresistance established; EEG shows generalized and multifocal discharges; behavioral comorbidities appear\nSchool Age: Intellectual disability clinically apparent; crouched gait develops; ADHD, ASD features, and behavioral challenges prominent; ongoing seizure burden; disrupted sleep; SUDEP risk ongoing\nAdolescence and Adulthood: Convulsive seizure frequency often decreases somewhat; nonconvulsive seizures may persist; cognitive impairment and behavioral challenges continue; gait and motor features may worsen; supported living typically required in adulthood\n\nSCN1A Phenotypic Spectrum (same gene, dramatically different severity):\n  • Febrile Seizures (FS) — mildest; brief febrile seizures in childhood; complete resolution\n  • Febrile Seizures Plus (GEFS+) — febrile and afebrile seizures persisting beyond age 6; outgrown in most; SCN1A variant in ~10%\n  • Dravet Syndrome (SMEI) — most severe SCN1A phenotype; predominantly truncating/LOF variants; lifetime disease; developmental encephalopathy\n  • Borderline SMEI (SMEB) — Dravet features without myoclonus; similar prognosis to Dravet\n\nKey Differential Diagnoses:\n  • PCDH19 Epilepsy — MOST IMPORTANT MIMIC; cluster febrile seizures; female predominance; social regression; X-linked; PCDH19 sequencing distinguishes; SCN1A negative\n  • GEFS+ (SCN1A, GABRG2, GABRD) — milder spectrum; seizures outgrown in most; no developmental regression; family history common\n  • Lennox-Gastaut Syndrome — overlapping refractory epilepsy but different onset; tonic seizures predominant; slow spike-wave (<2.5 Hz); structural causes more common\n  • Doose Syndrome (MAE — Myoclonic-Atonic Epilepsy) — myoclonic-atonic (\"drop\") seizures; less temperature sensitivity; ESES on sleep EEG; often better prognosis\n  • KCNT1-Related Epilepsy (MMFSI) — migratory focal seizures on EEG; very early neonatal to infantile onset; quinidine responsive in some; SCN1A negative\n  • Angelman Syndrome — seizures with developmental regression but happy demeanor; 15q11.2-q13 methylation distinguishes\n  • GLUT1 Deficiency — fever-sensitive seizures + movement disorder; low CSF glucose; responds to ketogenic diet; SLC2A1 sequencing",
+      "questions": []
+    }
+  ],
+  "confidenceNote": "🔴  85–100 points: High Confidence — Dravet syndrome highly likely; proceed to SCN1A sequencing urgently; implement fever/seizure emergency plan immediately; avoid sodium channel blockers (carbamazepine, phenytoin, lamotrigine, oxcarbazepine)\n🟡  40–84 points: Moderate Confidence — Dravet syndrome probable or possible; SCN1A sequencing (with MLPA) and PCDH19 sequencing (in females) indicated; epilepsy gene panel and video EEG recommended; clinical genetics/epileptology referral; avoid sodium channel blockers until diagnosis confirmed\n🟢  <40 points: Low Confidence — Dravet syndrome less likely; broaden differential to PCDH19 epilepsy, structural epilepsy, GEFS+, Doose syndrome, or metabolic encephalopathy",
+  "conditionId": 1,
+  "conditionName": "Dravet Syndrome",
+  "specialty": "neurology",
+  "agentType": "diagnosis"
+}

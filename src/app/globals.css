@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-900 antialiased;
+  }
+}
+
+@layer utilities {
+  .treatment-soc {
+    @apply border-l-4 border-blue-600 bg-blue-50 pl-4 py-3 pr-3 rounded-r;
+  }
+  .treatment-emerging {
+    @apply border-l-4 border-amber-500 bg-amber-50 pl-4 py-3 pr-3 rounded-r;
+  }
+}

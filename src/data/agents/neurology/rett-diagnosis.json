@@ -1,0 +1,362 @@
+{
+  "type": "checklist",
+  "preamble": "Rett Syndrome  |  MECP2-Related Neurodevelopmental Disorder  |  Classic RTT (Neul 2010 Criteria)  (OMIM 312750)",
+  "sections": [
+    {
+      "heading": "EARLY DEVELOPMENTAL HISTORY (Stage 1: Age 6–18 Months)",
+      "questions": [
+        {
+          "domain": "Apparently normal psychomotor development in the first 6–18 months of life?",
+          "question": "Yes – early development appears normal; parents may note subtle differences retrospectively"
+        },
+        {
+          "domain": "Subtle developmental stagnation or slowing noted before overt regression?",
+          "question": "Yes – early Stage 1 stagnation; reduced eye contact, social disengagement, hand interest decline"
+        },
+        {
+          "domain": "Deceleration of head circumference growth (acquired microcephaly) after birth?",
+          "question": "Yes – postnatal head circumference deceleration; acquired microcephaly in majority"
+        },
+        {
+          "domain": "Female sex (classic RTT affects females almost exclusively)?",
+          "question": "Yes – classic RTT occurs predominantly in females; 1 in 10,000–20,000 live female births"
+        }
+      ]
+    },
+    {
+      "heading": "REGRESSION PHASE — REQUIRED CRITERION (Stage 2: Age 1–4 Years)",
+      "questions": [
+        {
+          "domain": "Clear period of regression — loss of skills after a period of normal development?",
+          "question": "Yes – regression is the cardinal required criterion; must follow demonstrated normal period"
+        },
+        {
+          "domain": "Regression onset between ages 1–4 years (typically 12–36 months)?",
+          "question": "Yes – regression most commonly begins in second year of life"
+        },
+        {
+          "domain": "Loss of purposeful hand skills (REQUIRED criterion)?",
+          "question": "Yes – loss of intentional hand use (reaching, grasping, object manipulation) is required"
+        },
+        {
+          "domain": "Loss of spoken language (REQUIRED criterion)?",
+          "question": "Yes – loss of words previously acquired; regression to babbling or silence is required"
+        },
+        {
+          "domain": "Regression followed by stabilization or partial recovery of skills?",
+          "question": "Yes – plateau/pseudo-stationary phase (Stage 3) follows regression in classic RTT"
+        }
+      ]
+    },
+    {
+      "heading": "HAND STEREOTYPIES — REQUIRED CRITERION",
+      "questions": [
+        {
+          "domain": "Stereotypic hand movements replacing purposeful hand use (REQUIRED criterion)?",
+          "question": "Yes – hand stereotypies required; wringing, squeezing, clapping, tapping, mouthing, or washing/rubbing automatisms"
+        },
+        {
+          "domain": "Stereotypies present midline (in front of body) rather than at sides?",
+          "question": "Yes – characteristic midline hand stereotypies; wringing/squeezing most classic pattern"
+        },
+        {
+          "domain": "Stereotypies present during waking hours and suppressed during sleep?",
+          "question": "Yes – stereotypies reduce during sleep; persist during most waking hours"
+        }
+      ]
+    },
+    {
+      "heading": "GAIT AND MOTOR FEATURES — REQUIRED CRITERION",
+      "questions": [
+        {
+          "domain": "Gait dyspraxia or apraxia (REQUIRED criterion for classic RTT)?",
+          "question": "Yes – gait abnormality required; dyspraxic/apraxic wide-based gait in ambulatory patients"
+        },
+        {
+          "domain": "Unsteady or toe-walking gait?",
+          "question": "Yes – toe-walking, wide-based, or ataxic gait common"
+        },
+        {
+          "domain": "Progressive loss of ambulation over time (Stage 4)?",
+          "question": "Yes – many patients lose ambulation in Stage 4 (late motor deterioration)"
+        },
+        {
+          "domain": "Hypotonia evolving to spasticity in older patients?",
+          "question": "Yes – early hypotonia followed by progressive spasticity and rigidity in later stages"
+        }
+      ]
+    },
+    {
+      "heading": "BREATHING IRREGULARITIES (Highly Specific Supporting Feature)",
+      "questions": [
+        {
+          "domain": "Breathing dysregulation during wakefulness (hyperventilation, breath-holding, air swallowing)?",
+          "question": "Yes – breathing irregularities during wakefulness are a hallmark supportive feature of RTT"
+        },
+        {
+          "domain": "Periods of hyperventilation alternating with apnea (Valsalva-type breathing)?",
+          "question": "Yes – characteristic episodic hyperventilation/apnea pattern; normal breathing during sleep"
+        },
+        {
+          "domain": "Forced air expulsion or aerophagia (air swallowing with abdominal distension)?",
+          "question": "Yes – aerophagia producing abdominal bloating; unique to RTT in this clinical context"
+        }
+      ]
+    },
+    {
+      "heading": "NEUROLOGICAL FEATURES",
+      "questions": [
+        {
+          "domain": "Seizures or epilepsy (any type)?",
+          "question": "Yes – seizures in approximately 60–80% of patients; peak in Stage 2–3"
+        },
+        {
+          "domain": "Abnormal EEG findings (slowing, epileptiform discharges, loss of sleep spindles)?",
+          "question": "Yes – EEG abnormalities characteristic; progressive slowing and epileptiform activity"
+        },
+        {
+          "domain": "Bruxism (teeth grinding)?",
+          "question": "Yes – bruxism is a frequent supportive feature; often nocturnal"
+        },
+        {
+          "domain": "Screaming or laughing episodes without apparent cause?",
+          "question": "Yes – unexplained screaming/laughing spells; may mimic epileptic events"
+        },
+        {
+          "domain": "Decreased pain sensitivity?",
+          "question": "Yes – altered pain perception documented in RTT patients"
+        }
+      ]
+    },
+    {
+      "heading": "AUTONOMIC AND CARDIAC FEATURES",
+      "questions": [
+        {
+          "domain": "Prolonged QTc interval on ECG?",
+          "question": "Yes – long QT syndrome documented; increases risk of sudden unexplained death"
+        },
+        {
+          "domain": "Vasomotor disturbances (cold or mottled lower extremities)?",
+          "question": "Yes – peripheral vasomotor abnormalities common; cold, blue/purple discolored feet"
+        },
+        {
+          "domain": "Cardiac rhythm abnormalities or documented arrhythmia?",
+          "question": "Yes – arrhythmias related to autonomic dysfunction and QT prolongation"
+        }
+      ]
+    },
+    {
+      "heading": "GROWTH AND MUSCULOSKELETAL",
+      "questions": [
+        {
+          "domain": "Scoliosis (spinal curvature)?",
+          "question": "Yes – scoliosis in majority; progressive; key surveillance target"
+        },
+        {
+          "domain": "Short stature and low body weight?",
+          "question": "Yes – growth failure common; low weight, short stature"
+        },
+        {
+          "domain": "Small hands and feet relative to body size?",
+          "question": "Yes – small hands and feet are a supportive feature of RTT"
+        },
+        {
+          "domain": "Peripheral edema or poor peripheral circulation?",
+          "question": "Yes – lower limb edema and poor circulation observed in older patients"
+        }
+      ]
+    },
+    {
+      "heading": "GASTROINTESTINAL FEATURES",
+      "questions": [
+        {
+          "domain": "Chronic constipation?",
+          "question": "Yes – constipation is highly prevalent; often severe and requiring treatment"
+        },
+        {
+          "domain": "Gastroesophageal reflux or feeding difficulties?",
+          "question": "Yes – GERD and feeding issues common; some require G-tube placement"
+        },
+        {
+          "domain": "Abdominal distension (often from aerophagia)?",
+          "question": "Yes – bloating related to air swallowing behavioral pattern"
+        }
+      ]
+    },
+    {
+      "heading": "SLEEP DISTURBANCES",
+      "questions": [
+        {
+          "domain": "Disturbed sleep-wake cycle (night laughing, screaming, agitation)?",
+          "question": "Yes – sleep disturbances very common; night wakening, nocturnal behavioral episodes"
+        },
+        {
+          "domain": "Daytime sleeping and night-time wakefulness reversal?",
+          "question": "Yes – circadian rhythm disruption; reversed sleep-wake pattern in subset"
+        }
+      ]
+    },
+    {
+      "heading": "VISUAL AND SENSORY FEATURES",
+      "questions": [
+        {
+          "domain": "Intense eye gaze or eye pointing used as primary communication tool?",
+          "question": "Yes – preserved eye contact and eye pointing is characteristic of RTT; key communication channel"
+        },
+        {
+          "domain": "Reduced response to pain?",
+          "question": "Yes – decreased pain sensitivity is a recognized supportive feature"
+        }
+      ]
+    },
+    {
+      "heading": "NEUROIMAGING FINDINGS",
+      "questions": [
+        {
+          "domain": "Brain MRI: diffuse cerebral atrophy or reduced brain volume?",
+          "question": "Yes – generalized cerebral atrophy on MRI; brain weight reduced vs age-matched controls"
+        },
+        {
+          "domain": "Brain MRI: reduced caudate nucleus volume or basal ganglia changes?",
+          "question": "Variable – subcortical changes in subset; substantia nigra melanin reduction described"
+        },
+        {
+          "domain": "Normal MRI early in disease course (does not exclude RTT)?",
+          "question": "Yes – MRI may appear normal in early stages; atrophy becomes apparent over time"
+        }
+      ]
+    },
+    {
+      "heading": "FAMILY HISTORY AND INHERITANCE PATTERN",
+      "questions": [
+        {
+          "domain": "De novo MECP2 mutation (no affected parent)?",
+          "question": "Yes – >99% of classic RTT cases arise de novo; familial cases extremely rare"
+        },
+        {
+          "domain": "No family history of Rett syndrome or similar condition?",
+          "question": "Yes – negative family history expected; consistent with de novo etiology"
+        },
+        {
+          "domain": "Maternal carrier testing negative (or not applicable)?",
+          "question": "Yes – MECP2 maternal carrier variants are possible but rare; most fathers have unaffected daughters"
+        }
+      ]
+    },
+    {
+      "heading": "GENETIC TESTING",
+      "questions": [
+        {
+          "domain": "Pathogenic or likely pathogenic MECP2 variant identified on Xq28?",
+          "question": "Yes – MECP2 mutation found in ~95% of classic RTT; definitive diagnosis"
+        },
+        {
+          "domain": "Variant in methyl-CpG binding domain (MBD) — exons 3–4?",
+          "question": "Yes – MBD mutations (e.g., T158M, R133C, R106W) among most common and well-characterized"
+        },
+        {
+          "domain": "Variant in transcriptional repression domain (TRD/NID) — exon 4?",
+          "question": "Yes – TRD mutations (e.g., R270X, R255X, R306C) account for large proportion of cases"
+        },
+        {
+          "domain": "Truncating mutation (nonsense or frameshift) — generally more severe phenotype?",
+          "question": "Yes – truncating mutations (R168X, R270X) correlate with more severe clinical phenotype"
+        },
+        {
+          "domain": "MECP2 large deletion identified by MLPA/CGH array (if sequencing negative)?",
+          "question": "Yes – large deletions in 1–3% of RTT; requires deletion/duplication analysis beyond sequencing"
+        },
+        {
+          "domain": "X-chromosome inactivation (XCI) pattern assessed — skewed vs. random?",
+          "question": "Variable – skewed XCI toward mutant allele associated with more severe phenotype"
+        }
+      ]
+    },
+    {
+      "heading": "DIFFERENTIAL DIAGNOSIS EXCLUSIONS (Classic RTT Requires Exclusion of)",
+      "questions": [
+        {
+          "domain": "No brain injury from perinatal trauma, infection, or neurometabolic disease?",
+          "question": "Yes – acquired causes of regression excluded; no hypoxic-ischemic encephalopathy"
+        },
+        {
+          "domain": "No grossly abnormal psychomotor development in first 6 months (excludes congenital variant)?",
+          "question": "Yes – early development was normal; congenital onset variant RTT excluded"
+        },
+        {
+          "domain": "No pathogenic HNRNPH2 variant (excludes BEXS Syndrome, key RTT mimic)?",
+          "question": "Yes – HNRNPH2-NDD excluded; BEXS is clinically indistinguishable without sequencing"
+        },
+        {
+          "domain": "No pathogenic CDKL5 variant (excludes early-onset seizure variant RTT)?",
+          "question": "Yes – CDKL5 excluded; presents earlier with infantile spasms before regression"
+        },
+        {
+          "domain": "No pathogenic FOXG1 variant (excludes congenital Rett variant)?",
+          "question": "Yes – FOXG1 excluded; congenital variant has no normal period and earlier onset"
+        },
+        {
+          "domain": "No Angelman syndrome features (normal UBE3A and 15q11-q13 methylation)?",
+          "question": "Yes – Angelman excluded; Angelman has prominent happy affect and lacks RTT regression pattern"
+        }
+      ]
+    },
+    {
+      "heading": "Confidence Interpretation",
+      "questions": []
+    },
+    {
+      "heading": "Cost Categories",
+      "questions": []
+    },
+    {
+      "heading": "Clinical History: No additional cost (obtained during patient encounter and caregiver interview)\nMedium: $300–1,500 (EEG, ECG/Holter for QTc, spine X-ray for scoliosis, ophthalmology, swallow study)\nLarge: $3,000–12,000+ (brain MRI with sedation, MECP2 sequencing + MLPA deletion analysis, XCI testing, trio WES if MECP2 negative)",
+      "questions": []
+    },
+    {
+      "heading": "Key High-Value Findings (≥8 points each)",
+      "questions": []
+    },
+    {
+      "heading": "Pathogenic MECP2 variant identified (25 points) — DEFINITIVE\nLoss of purposeful hand skills after normal period (15 points) — REQUIRED CRITERION\nStereotypic hand movements replacing purposeful hand use (15 points) — REQUIRED CRITERION\nPeriod of regression following normal development (15 points) — REQUIRED CRITERION\nLoss of spoken language after normal period (12 points) — REQUIRED CRITERION\nGait dyspraxia/apraxia (10 points) — REQUIRED CRITERION\nBreathing dysregulation during wakefulness (10 points) — HIGHLY SPECIFIC SUPPORTING FEATURE\nMBD-domain MECP2 variant (8 points) — COMMON PATHOGENIC LOCATION\nTRD/NID-domain MECP2 variant (8 points) — COMMON PATHOGENIC LOCATION\nNormal early development before 6–18 months (10 points) — ESSENTIAL CRITERION\nAcquired microcephaly (8 points) — IMPORTANT SUPPORTING FEATURE\nSeizures in 60–80% of patients (8 points) — MAJOR SUPPORTING FEATURE",
+      "questions": []
+    },
+    {
+      "heading": "Classic RTT Diagnostic Criteria (Neul 2010 / RettSearch Consortium)",
+      "questions": []
+    },
+    {
+      "heading": "REQUIRED for Classic RTT (all 4 must be present):\n  1. Period of regression followed by stabilization or recovery\n  2. Loss of purposeful hand skills\n  3. Loss of spoken language\n  4. Gait abnormalities — dyspraxia or apraxia\n\nSUPPORTIVE CRITERIA (not required but increase confidence):\n  • Breathing irregularities during wakefulness (hyperventilation, breath-holding, air swallowing)\n  • Bruxism, screaming/laughing spells without apparent cause\n  • Impaired (not absent) communication\n  • Acquired microcephaly\n  • Spasticity, dystonia, scoliosis\n  • Peripheral vasomotor disturbances (cold, mottled feet)\n  • Sleep disturbances\n\nEXCLUSION CRITERIA for Classic RTT:\n  • Brain injury from perinatal trauma, neurometabolic disease, or severe infection\n  • Grossly abnormal psychomotor development in first 6 months\n  • Neurological disorder caused by identified gene mutation other than MECP2\n  (Note: MECP2 mutation alone does not make the diagnosis — clinical criteria must be met)",
+      "questions": []
+    },
+    {
+      "heading": "Diagnostic Strategy by Cost",
+      "questions": []
+    },
+    {
+      "heading": "Phase 1 — Clinical Evaluation (No Cost):\n  • Comprehensive neurodevelopmental history with milestone timeline and regression documentation\n  • Neurological and dysmorphology examination\n  • Apply Neul 2010 criteria: confirm all 4 required criteria are met\n  • Breathing pattern observation (hyperventilation, breath-holding, air swallowing during wakefulness)\n  • Potential: 60–80 points for $0 if all 4 required criteria + breathing irregularities present\n\nPhase 2 — Targeted Investigations ($300–1,500):\n  • EEG — epileptiform discharges, background slowing, loss of sleep spindles\n  • ECG/Holter — QTc interval assessment (long QT risk)\n  • Spine X-ray — scoliosis baseline and surveillance\n  • Ophthalmology evaluation\n  • Additional: 10–20 points for $500–1,500\n\nPhase 3 — Definitive Genetic Testing ($3,000–12,000+):\n  • Step 1: MECP2 sequence analysis (detects ~97% of MECP2 point mutations)\n  • Step 2: MECP2 MLPA/deletion analysis if sequencing negative (detects large deletions)\n  • Step 3: If MECP2 negative — CDKL5, FOXG1, HNRNPH2 sequencing (RTT/Rett-mimic panel)\n  • Step 4: Whole exome sequencing trio if panel negative\n  • Brain MRI: cerebral atrophy, basal ganglia assessment\n  • X-chromosome inactivation study if VUS identified\n  • Additional: 40–55 points — crossing diagnostic threshold",
+      "questions": []
+    },
+    {
+      "heading": "Critical Notes",
+      "questions": []
+    },
+    {
+      "heading": "• RTT IS PRIMARILY A CLINICAL DIAGNOSIS based on Neul 2010 criteria — MECP2 genetic confirmation is strongly recommended but RTT can be diagnosed clinically when all 4 required criteria are met\n• Prevalence: approximately 1 in 10,000–20,000 live female births; one of the most common causes of severe intellectual disability in females\n• MECP2 mutations found in ~95% of classic RTT; ~5% are MECP2-negative classic RTT — these require Rett panel or WES\n• Disease stage is critical context: Stage 1 (stagnation, 6–18 mo) → Stage 2 (rapid regression, 1–4 yr) → Stage 3 (pseudo-stationary, 2–10 yr) → Stage 4 (late motor deterioration)\n• Breathing irregularities (hyperventilation/breath-holding during wakefulness) are among the most disease-specific features and help distinguish RTT from HNRNPH2-NDD and Angelman\n• TREATMENT MILESTONE: Trofinetide (Daybue™) received FDA approval in March 2023 — first disease-specific treatment for RTT; targets IGF-1 pathway\n• Cardiac surveillance mandatory: QTc prolongation increases risk of sudden unexplained death; annual ECG recommended\n• Genetic counseling: de novo in >99% of cases; recurrence risk is very low (<1%) for subsequent pregnancies; germline mosaicism possible in rare cases\n• HNRNPH2-NDD (BEXS Syndrome) is the most clinically similar mimic — impossible to distinguish without sequencing; both are X-linked, both present with regression, stereotypies, and language loss",
+      "questions": []
+    },
+    {
+      "heading": "Phenotypic Spectrum, Variant-Phenotype Correlations, and RTT Variants",
+      "questions": []
+    },
+    {
+      "heading": "Common Pathogenic MECP2 Variants (account for ~70% of cases):\n  R168X, R270X (truncating, typically severe) | T158M, R133C, R106W (MBD missense, variable) | R255X, R294X, R306C\n\nGenotype-Phenotype Correlations:\n  • Truncating mutations in N-terminal region → more severe: earlier seizures, more profound DD\n  • C-terminal truncations (R294X, R306C) → milder phenotype; better preserved speech/ambulation\n  • T158M → intermediate severity; frequent in preserved speech variant\n  • Skewed XCI toward mutant allele → more severe; toward wild-type → milder\n\nRecognized RTT Variant Forms:\n  • Preserved Speech Variant (PSV/Zappella) — milder; partial recovery of speech in Stage 3 (MECP2)\n  • Early-Onset Seizure Variant — infantile spasms before regression (CDKL5 gene, Xp22)\n  • Congenital Variant — no normal period; onset from birth (FOXG1 gene, 14q12)\n  • Late Regression Variant — regression after age 3.5 years\n\nKey Differential Diagnoses:\n  • BEXS Syndrome (HNRNPH2) — closest clinical mimic; lacks breathing irregularities; no prior normal period required\n  • Angelman Syndrome — happy affect, distinctive EEG, chromosome 15 abnormality\n  • CDKL5-related disorder — earlier epilepsy onset, infantile spasms before regression period\n  • FOXG1-related disorder — no normal period, more severe DD from birth\n  • Pitt-Hopkins Syndrome (TCF4) — breathing pattern overlap (episodic hyperventilation)\n  • Autism Spectrum Disorder — regression can mimic but hand stereotypies and breathing pattern distinguish RTT",
+      "questions": []
+    }
+  ],
+  "confidenceNote": "🔴  85–100 points: High Confidence — Classic Rett Syndrome highly likely; genetic confirmation strongly recommended; proceed to MECP2 sequencing and deletion/duplication analysis\n🟡  40–84 points: Moderate Confidence — RTT probable or possible; MECP2 sequencing + deletion/duplication analysis indicated; Rett/Angelman panel and clinical genetics referral if MECP2 negative\n🟢  <40 points: Low Confidence — Classic RTT unlikely; consider atypical RTT variants (CDKL5, FOXG1) or RTT mimics (HNRNPH2, Angelman)",
+  "conditionId": 33,
+  "conditionName": "Rett Syndrome",
+  "specialty": "neurology",
+  "agentType": "diagnosis"
+}

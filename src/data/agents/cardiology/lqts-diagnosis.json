@@ -1,0 +1,160 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "Each domain question draws from the complete medical record. Points reflect diagnostic weight. Cost reflects typical test burden: Small = existing record / standard echo  |  Medium = targeted test or genetic panel ($200–$1,500)  |  Large = advanced imaging CT/MRI/RHC ($1,500–$5,000+)",
+  "sections": [
+    {
+      "heading": "ECG FINDINGS — 40 pts",
+      "sectionPoints": 40,
+      "questions": [
+        {
+          "domain": "ECG",
+          "question": "Is QTc ≥480 ms (females) or ≥460 ms (males) on resting 12-lead ECG (Bazett correction; average 3–5 beats)?",
+          "confirmingAnswer": "Yes — QTc ≥480 ms confers high diagnostic probability (Schwartz score ≥3.5 = LQTS); QTc ≥500 ms carries >10-fold SCD risk and is a Class I ICD indication in symptomatic patients",
+          "points": 20,
+          "cost": "Small"
+        },
+        {
+          "domain": "ECG",
+          "question": "Is QTc 460–479 ms (females) or 440–459 ms (males) on resting ECG with other supporting features?",
+          "confirmingAnswer": "Yes — borderline QTc combined with T-wave morphology abnormality, syncope history, or family history raises Schwartz score to probable LQTS range; warrants exercise test and genetic testing",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "ECG",
+          "question": "Is there abnormal T-wave morphology: broad-based T waves (LQT1), late-onset bifid T waves (LQT2), or small biphasic/late T waves with prominent U waves (LQT3)?",
+          "confirmingAnswer": "Yes — T-wave morphology is genotype-specific: LQT1 = broad smooth T wave (KCNQ1); LQT2 = bifid/notched T (KCNH2); LQT3 = small late T wave + long isoelectric segment (SCN5A). Aids genotype prediction before genetic results",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "ECG",
+          "question": "Is there documented torsades de pointes (TdP) or polymorphic VT on telemetry, Holter, or event monitor, especially with QT prolongation?",
+          "confirmingAnswer": "Yes — documented TdP confirms malignant arrhythmia and is the direct mechanism of syncope/SCA in LQTS; establishes high-risk phenotype requiring ICD + beta-blocker",
+          "points": 4,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "GENETICS — 25 pts",
+      "sectionPoints": 25,
+      "questions": [
+        {
+          "domain": "Genetics",
+          "question": "Has genetic testing identified a pathogenic or likely pathogenic variant in KCNQ1 (LQT1, ~35%), KCNH2 (LQT2, ~30%), or SCN5A (LQT3, ~10%)?",
+          "confirmingAnswer": "Yes — LQT1/2/3 account for ~75% of genotype-positive LQTS; pathogenic KCNQ1 or KCNH2 variant establishes genotype-specific management (LQT1: beta-blocker highly protective; LQT2: avoid QT-prolonging drugs strictly; LQT3: consider mexiletine or ranolazine)",
+          "points": 15,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Genetics",
+          "question": "Has genetic testing identified a rarer LQTS gene variant: KCNE1 (LQT5), KCNE2 (LQT6), KCNJ2 (LQT7/Andersen-Tawil), CACNA1C (LQT8/Timothy syndrome), or others?",
+          "confirmingAnswer": "Yes — Timothy syndrome (LQT8/CACNA1C) is rare but severe with ASD/VSD, autism, and syndactyly; Andersen-Tawil (LQT7/KCNJ2) has distinctive facial features; these diagnoses have strong gene–phenotype correlations requiring specialist management",
+          "points": 6,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Genetics",
+          "question": "Is there a first-degree relative with confirmed LQTS or known pathogenic LQTS gene variant?",
+          "confirmingAnswer": "Yes — LQTS is autosomal dominant; ~50% penetrance for most variants; cascade ECG and genetic screening of all first-degree relatives is mandatory",
+          "points": 4,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "SYMPTOMS / SCD HISTORY — 15 pts",
+      "sectionPoints": 15,
+      "questions": [
+        {
+          "domain": "Symptoms",
+          "question": "Is there a history of unexplained syncope, especially: exercise-related (LQT1), auditory-trigger/arousal-related (LQT2), or during sleep/rest (LQT3)?",
+          "confirmingAnswer": "Yes — syncope in LQTS represents aborted TdP; genotype-specific triggers: LQT1 = swimming/exercise; LQT2 = sudden noise (alarm, doorbell), emotional stress; LQT3 = sleep. Syncope is a major SCD risk factor",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Symptoms",
+          "question": "Is there a family history of unexplained sudden cardiac death at age <40 years or unexplained drowning in a first- or second-degree relative?",
+          "confirmingAnswer": "Yes — unexplained SCD <40 years or drowning in family raises suspicion for LQTS; mandatory ECG screening of all family members; unexplained drowning should trigger genetic autopsy",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Symptoms",
+          "question": "Is there a history of unexplained neonatal seizures, or an unexplained SIDS death in the family?",
+          "confirmingAnswer": "Yes — neonatal LQTS (especially LQT3) may present with 2:1 AV block or bradycardia-related seizures; SIDS deaths may represent lethal arrhythmia in LQTS-affected infants; triggers family screening",
+          "points": 2,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "PROVOCATION / EXERCISE TESTING — 10 pts",
+      "sectionPoints": 10,
+      "questions": [
+        {
+          "domain": "Exercise Testing",
+          "question": "Does exercise stress testing show QTc ≥470 ms at 4-minute recovery (failure to shorten QT with increased heart rate)?",
+          "confirmingAnswer": "Yes — paradoxical QT prolongation during recovery (≥470 ms at 4 min) is a highly specific marker for LQT1 (KCNQ1 loss-of-function); QT shortening impairment during peak exercise supports LQT1/2 diagnoses",
+          "points": 7,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Exercise Testing",
+          "question": "Does epinephrine QT stress test provoke QTc prolongation or T-wave morphology change (particularly useful for LQT1)?",
+          "confirmingAnswer": "Yes — epinephrine infusion (Joel-Tanel protocol) unmasks latent LQT1 in borderline cases; specific for KCNQ1 dysfunction; used when resting ECG is borderline and genetic testing is pending or uninformative",
+          "points": 3,
+          "cost": "Medium"
+        }
+      ]
+    },
+    {
+      "heading": "SCHWARTZ SCORE / CLINICAL CRITERIA — 10 pts",
+      "sectionPoints": 10,
+      "questions": [
+        {
+          "domain": "Clinical Scoring",
+          "question": "Does the patient have a Schwartz score ≥3.5 (high probability of LQTS: QTc ≥480 ms + syncope + family history combination)?",
+          "confirmingAnswer": "Yes — Schwartz score ≥3.5 = high probability LQTS; 2.0–3.0 = intermediate; <1.0 = low. Basis of pre-genetic-era diagnosis; still used to guide genetic testing prioritization and clinical decision-making",
+          "points": 7,
+          "cost": "Small"
+        },
+        {
+          "domain": "Clinical Scoring",
+          "question": "Is there congenital sensorineural deafness in the patient (suggesting autosomal recessive Jervell and Lange-Nielsen syndrome, biallelic KCNQ1)?",
+          "confirmingAnswer": "Yes — JLN syndrome (biallelic KCNQ1 loss-of-function) causes severe LQTS + deafness; extremely high arrhythmia risk; almost universally requires ICD; distinct from Romano-Ward autosomal dominant LQTS",
+          "points": 3,
+          "cost": "Small"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {
+    "high": {
+      "label": "🔴  80–100 High confidence",
+      "action": "LQTS confirmed; initiate beta-blocker (nadolol preferred, propranolol alternative for LQT1/LQT2); strict avoidance of QT-prolonging medications (CredibleMeds database); ICD for prior SCA, recurrent syncope on beta-blocker, or QTc ≥500 ms; consider LCSD for LQT1/LQT2 with breakthrough symptoms",
+      "min": 80,
+      "max": 100
+    },
+    "moderate": {
+      "label": "🟡  50–79 Moderate confidence",
+      "action": "genetic testing mandatory (KCNQ1/KCNH2/SCN5A panel); exercise stress test; cascade family ECG screening; avoid QT-prolonging drugs prophylactically pending results; electrophysiology consultation",
+      "min": 50,
+      "max": 79
+    },
+    "low": {
+      "label": "🟢  <50 Low confidence",
+      "action": "borderline QTc with no other features; rule out acquired causes (electrolyte abnormalities, drug-induced, hypothyroidism); 24-hour Holter; repeat ECG in multiple settings; inherited arrhythmia clinic referral if index of suspicion persists",
+      "max": 49,
+      "min": 0
+    }
+  },
+  "guidelinesCitation": "",
+  "conditionId": 59,
+  "conditionName": "Long QT Syndrome",
+  "specialty": "cardiology",
+  "agentType": "diagnosis"
+}

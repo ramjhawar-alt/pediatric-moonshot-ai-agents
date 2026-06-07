@@ -1,0 +1,117 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "Dilated Cardiomyopathy  |  100-Point Adverse Prognostic Score  |  ACC/AHA 2022 Heart Failure Guidelines / ESC 2021 Heart Failure Guidelines / HFSA 2022  |  Progression Trajectory: Fast / Moderate / Slow",
+  "sections": [
+    {
+      "heading": "LVEF — Severity",
+      "sectionPoints": 0,
+      "questions": [
+        {
+          "domain": "LVEF — Severity",
+          "question": "Is LVEF ≤35% on echo or cardiac MRI (severe systolic dysfunction)?",
+          "confirmingAnswer": "Yes — LVEF ≤35% confirmed; threshold for ICD implantation (Class I, ≥3 months GDMT); highest heart failure mortality risk subgroup",
+          "points": 15,
+          "cost": "Small"
+        },
+        {
+          "domain": "LV Dilation",
+          "question": "Is LV end-diastolic diameter >65 mm (men) / >60 mm (women), or Z-score >3 in pediatric patients?",
+          "confirmingAnswer": "Yes — severe LV dilation confirmed; associated with higher wall stress, functional MR, and adverse remodeling despite GDMT",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "Functional Mitral Regurgitation",
+          "question": "Is there moderate-to-severe functional MR (vena contracta ≥4 mm or regurgitant fraction >30%) from annular dilation?",
+          "confirmingAnswer": "Yes — significant FMR confirmed; amplifies volume overload; worsens LA dilation and AF risk; MitraClip or surgical repair may be considered",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Mid-wall LGE Pattern",
+          "question": "Is there mid-wall septal late gadolinium enhancement (LGE) on CMR indicating myocardial fibrosis?",
+          "confirmingAnswer": "Yes — mid-wall LGE present; independent predictor of SCD, VT, and adverse outcomes in DCM; supports ICD implantation even with LVEF 36–45%",
+          "points": 12,
+          "cost": "Large"
+        },
+        {
+          "domain": "Extent of LGE",
+          "question": "Does LGE involve ≥3 myocardial segments or >10% of LV mass on CMR?",
+          "confirmingAnswer": "Yes — extensive fibrosis burden; strongly associated with VT storm, SCD, and non-response to GDMT",
+          "points": 8,
+          "cost": "Large"
+        },
+        {
+          "domain": "LMNA Pathogenic Variant",
+          "question": "Is there a confirmed pathogenic variant in LMNA (lamin A/C) on genetic testing?",
+          "confirmingAnswer": "Yes — LMNA cardiomyopathy confirmed; highest SCD/VT risk among all DCM genotypes; ICD recommended when ≥2 risk factors present (NSVT, LVEF <45%, male sex, non-missense mutation)",
+          "points": 10,
+          "cost": "Medium"
+        },
+        {
+          "domain": "NSVT / Ventricular Arrhythmia",
+          "question": "Is there documented NSVT (≥3 beats, ≥120 bpm) or sustained VT on Holter or event monitor?",
+          "confirmingAnswer": "Yes — ventricular arrhythmia confirmed; major ICD indication in LVEF ≤35%; LMNA + NSVT combination carries especially high SCD risk",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Advanced Conduction Disease",
+          "question": "Is there LBBB (QRS ≥150 ms) or high-degree AV block (≥2nd degree) on ECG?",
+          "confirmingAnswer": "Yes — LBBB ≥150 ms is the strongest CRT predictor; AV block in DCM suggests LMNA etiology; both indicate dyssynchrony and accelerated progression",
+          "points": 4,
+          "cost": "Small"
+        },
+        {
+          "domain": "NT-proBNP / BNP Elevation",
+          "question": "Is NT-proBNP >3000 pg/mL (or BNP >400 pg/mL) despite ≥3 months of optimized GDMT?",
+          "confirmingAnswer": "Yes — persistently elevated natriuretic peptide on GDMT; indicates refractory wall stress; associated with higher HF hospitalization and mortality; consider LVAD evaluation",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "Persistently Elevated Troponin",
+          "question": "Is high-sensitivity troponin persistently elevated (above ULN on ≥2 measurements ≥2 weeks apart)?",
+          "confirmingAnswer": "Yes — ongoing myocyte injury confirmed; suggests active inflammatory or infiltrative process; prompts CMR for myocarditis/sarcoidosis pattern; worse prognosis",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "High-Risk Genetic Variant",
+          "question": "Is there a pathogenic variant in TTN (truncating), SCN5A, RBM20, or PLN in addition to LMNA?",
+          "confirmingAnswer": "Yes — high-risk DCM genotype confirmed; TTN truncating variants in ~20% of familial DCM; RBM20 and PLN associated with aggressive early-onset phenotype and high arrhythmia burden",
+          "points": 6,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Syndromic / Neuromuscular Association",
+          "question": "Is there Duchenne/Becker muscular dystrophy, Barth syndrome, or Emery-Dreifuss MD as the underlying etiology?",
+          "confirmingAnswer": "Yes — syndromic DCM confirmed; Duchenne DCM near-universal by age 18; Barth syndrome carries infant mortality risk; specialized multidisciplinary management required",
+          "points": 4,
+          "cost": "Small"
+        },
+        {
+          "domain": "NYHA Functional Class",
+          "question": "Is the patient NYHA Class III or IV despite ≥3 months of optimized GDMT (ACEi/ARNi + beta-blocker + MRA + SGLT2i)?",
+          "confirmingAnswer": "Yes — refractory heart failure symptoms on maximally tolerated GDMT; CRT-D, LVAD, or transplant evaluation indicated",
+          "points": 3,
+          "cost": "Small"
+        },
+        {
+          "domain": "HF Hospitalization History",
+          "question": "Has the patient had ≥1 heart failure hospitalization in the past 12 months?",
+          "confirmingAnswer": "Yes — prior HF hospitalization is the single strongest predictor of subsequent HF death; triggers advanced therapy referral pathway",
+          "points": 2,
+          "cost": "Small"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {},
+  "guidelinesCitation": "ACC/AHA 2022 Heart Failure Guidelines (Heidenreich et al.)  |  ESC 2021 HF Guidelines (McDonagh et al.)  |  HFSA 2022 Guidelines  |  Halliday et al. Lancet 2019 (LGE and outcomes in DCM)  |  Merlo et al. JACC 2014 (LMNA risk model)  |  Schultheiss et al. Nature Rev 2019 (DCM etiology)  |  Mann et al. NEJM 2020 (ARNI in DCM)",
+  "conditionId": 36,
+  "conditionName": "Dilated Cardiomyopathy",
+  "specialty": "cardiology",
+  "agentType": "progression"
+}

@@ -1,0 +1,194 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "Each domain question draws from the complete medical record. Points reflect diagnostic weight. Cost reflects typical test burden: Small = existing record / standard echo  |  Medium = targeted test or genetic panel ($200–$1,500)  |  Large = advanced imaging CT/MRI ($1,500–$5,000+)",
+  "sections": [
+    {
+      "heading": "ECHOCARDIOGRAPHIC / IMAGING — 45 pts",
+      "sectionPoints": 45,
+      "questions": [
+        {
+          "domain": "Echo / Imaging",
+          "question": "Does 2D echo show bicuspid aortic valve morphology (2 cusps, raphe visible on parasternal short axis)?",
+          "confirmingAnswer": "Yes — clearly bicuspid",
+          "points": 25,
+          "cost": "Small"
+        },
+        {
+          "domain": "Echo / Imaging",
+          "question": "Is there doming or restricted cusp opening on echo?",
+          "confirmingAnswer": "Yes",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Echo / Imaging",
+          "question": "Is there aortic root or ascending aorta dilation (Z-score >2 in children; >4.0 cm in adults)?",
+          "confirmingAnswer": "Yes",
+          "points": 7,
+          "cost": "Small"
+        },
+        {
+          "domain": "Echo / Imaging",
+          "question": "Does CT/MRI angiography confirm bicuspid morphology and aortic dimensions?",
+          "confirmingAnswer": "Yes — gold standard confirmation",
+          "points": 8,
+          "cost": "Large"
+        }
+      ]
+    },
+    {
+      "heading": "PHYSICAL EXAM / AUSCULTATION — 15 pts",
+      "sectionPoints": 15,
+      "questions": [
+        {
+          "domain": "Physical Exam",
+          "question": "Is there a systolic ejection murmur at the right upper sternal border?",
+          "confirmingAnswer": "Yes, grade II–IV/VI",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Physical Exam",
+          "question": "Is there an ejection click (early systolic click at apex or base)?",
+          "confirmingAnswer": "Yes — highly specific for BAV",
+          "points": 7,
+          "cost": "Small"
+        },
+        {
+          "domain": "Physical Exam",
+          "question": "Is there a diastolic murmur suggesting aortic regurgitation?",
+          "confirmingAnswer": "Yes",
+          "points": 2,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "FAMILY HISTORY / GENETICS — 15 pts",
+      "sectionPoints": 15,
+      "questions": [
+        {
+          "domain": "Family Hx / Genetics",
+          "question": "Is there a first-degree relative with confirmed BAV?",
+          "confirmingAnswer": "Yes",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Family Hx / Genetics",
+          "question": "Is there a family history of aortic aneurysm or dissection?",
+          "confirmingAnswer": "Yes",
+          "points": 4,
+          "cost": "Small"
+        },
+        {
+          "domain": "Family Hx / Genetics",
+          "question": "Is there a known associated genetic condition (Turner syndrome, Williams syndrome, coarctation family history)?",
+          "confirmingAnswer": "Yes",
+          "points": 3,
+          "cost": "Medium"
+        }
+      ]
+    },
+    {
+      "heading": "HEMODYNAMIC / DOPPLER — 12 pts",
+      "sectionPoints": 12,
+      "questions": [
+        {
+          "domain": "Hemodynamic / Doppler",
+          "question": "Is there an elevated peak aortic valve gradient on Doppler (>20 mmHg mild; >40 mmHg moderate)?",
+          "confirmingAnswer": "Yes",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Hemodynamic / Doppler",
+          "question": "Is there an aortic regurgitation jet on color Doppler?",
+          "confirmingAnswer": "Yes — any severity",
+          "points": 4,
+          "cost": "Small"
+        },
+        {
+          "domain": "Hemodynamic / Doppler",
+          "question": "Is there LV hypertrophy on echo (from chronic pressure overload)?",
+          "confirmingAnswer": "Yes",
+          "points": 3,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "ASSOCIATED CONDITIONS — 8 pts",
+      "sectionPoints": 8,
+      "questions": [
+        {
+          "domain": "Associated Conditions",
+          "question": "Is there a confirmed coarctation of the aorta? (BAV coexists in 50–70% of coarctation cases)",
+          "confirmingAnswer": "Yes",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Associated Conditions",
+          "question": "Is there Turner syndrome (45,X karyotype)?",
+          "confirmingAnswer": "Yes",
+          "points": 2,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Associated Conditions",
+          "question": "Is there a history of endocarditis? (BAV is #1 risk factor for native valve endocarditis)",
+          "confirmingAnswer": "Yes",
+          "points": 1,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "SYMPTOMS — 5 pts",
+      "sectionPoints": 5,
+      "questions": [
+        {
+          "domain": "Symptoms",
+          "question": "Is there exertional dyspnea, chest pain, or syncope?",
+          "confirmingAnswer": "Yes",
+          "points": 3,
+          "cost": "Small"
+        },
+        {
+          "domain": "Symptoms",
+          "question": "Is there reduced exercise tolerance documented on stress test?",
+          "confirmingAnswer": "Yes",
+          "points": 2,
+          "cost": "Medium"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {
+    "high": {
+      "label": "🔴  80–100 High confidence",
+      "action": "BAV confirmed or highly probable; proceed to surveillance protocol with serial echo; referral to cardiology for aortic root monitoring; genetic counseling for first-degree relatives",
+      "min": 80,
+      "max": 100
+    },
+    "moderate": {
+      "label": "🟡  50–79 Moderate confidence",
+      "action": "diagnostic echo indicated if not yet completed; screening of first-degree relatives warranted given autosomal dominant inheritance pattern",
+      "min": 50,
+      "max": 79
+    },
+    "low": {
+      "label": "🟢  <50 Low confidence",
+      "action": "insufficient evidence; screening echo warranted if family history or associated findings present; reassess if new clinical findings emerge",
+      "max": 49,
+      "min": 0
+    }
+  },
+  "guidelinesCitation": "",
+  "conditionId": 1,
+  "conditionName": "Bicuspid Aortic Valve",
+  "specialty": "cardiology",
+  "agentType": "diagnosis"
+}

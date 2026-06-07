@@ -1,0 +1,166 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "Each domain question draws from the complete medical record. Points reflect diagnostic weight. Cost reflects typical test burden: Small = existing record / standard echo  |  Medium = targeted test or genetic panel ($200–$1,500)  |  Large = advanced imaging CT/MRI/RHC ($1,500–$5,000+)",
+  "sections": [
+    {
+      "heading": "ECHOCARDIOGRAPHIC / IMAGING FINDINGS — 35 pts",
+      "sectionPoints": 35,
+      "questions": [
+        {
+          "domain": "Echo / Imaging",
+          "question": "Is the peak instantaneous pulmonary valve gradient >36 mmHg (peak Doppler velocity >3.0 m/s) indicating at least moderate pulmonary stenosis?",
+          "confirmingAnswer": "Yes — peak gradient >36 mmHg = moderate PS; >64 mmHg = severe PS per ACC/AHA criteria; catheter intervention threshold is peak gradient >40 mmHg in symptomatic children or >50 mmHg in asymptomatic children",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "Echo / Imaging",
+          "question": "Is there RV dilation (RV:LV end-diastolic area ratio >1.0 or RVEDVi >150 mL/m² on CMR) from chronic pulmonary regurgitation (PR)?",
+          "confirmingAnswer": "Yes — RV dilation is the primary driver of PV replacement decisions in repaired TOF and other RVOT conditions; RVEDVi >150 mL/m² or RVESVi >80 mL/m² is the conventional pulmonary valve replacement threshold",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "Echo / Imaging",
+          "question": "Is there free or severe pulmonary regurgitation (PR fraction >40% on CMR or dense PR jet without end-diastolic flow reversal on echo)?",
+          "confirmingAnswer": "Yes — severe PR from prior pulmonary valvotomy, RVOT patch repair, or congenital PV absence causes progressive RV dilation and dysfunction; PR fraction >40% by CMR phase-contrast is a criterion for PVR/TPVR referral",
+          "points": 8,
+          "cost": "Small"
+        },
+        {
+          "domain": "Echo / Imaging",
+          "question": "Is the RVOT anatomy suitable for transcatheter pulmonary valve replacement (TPVR): conduit or native RVOT diameter 16–30 mm, without excessive calcification impeding landing zone?",
+          "confirmingAnswer": "Yes — TPVR candidacy (Melody valve: conduits 14–28 mm; SAPIEN 3: 19–29 mm; Harmony TPV: native RVOT >20 mm) determines interventional approach; coronary compression testing mandatory before implantation",
+          "points": 5,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "CARDIAC MRI (CMR) — 20 pts",
+      "sectionPoints": 20,
+      "questions": [
+        {
+          "domain": "Cardiac MRI",
+          "question": "Does CMR confirm RV volumes: RVEDVi >150 mL/m² or RVESVi >80 mL/m² indicative of severe RV dilation from chronic PR?",
+          "confirmingAnswer": "Yes — CMR is gold standard for RV volumetry; RVEDVi >150 mL/m² is the most validated threshold for PVR timing in repaired TOF; early PVR (before RVEDVi >160 mL/m²) improves RV remodeling",
+          "points": 10,
+          "cost": "Large"
+        },
+        {
+          "domain": "Cardiac MRI",
+          "question": "Is RVEF <45% on CMR (RV systolic dysfunction from chronic volume or pressure overload)?",
+          "confirmingAnswer": "Yes — RVEF <45% is an independent criterion for pulmonary valve intervention; RVEF <40% predicts irreversible RV dysfunction if PVR is delayed; late gadolinium enhancement in RV indicates fibrosis and predicts arrhythmia risk",
+          "points": 10,
+          "cost": "Large"
+        }
+      ]
+    },
+    {
+      "heading": "CATHETERIZATION / HEMODYNAMICS — 15 pts",
+      "sectionPoints": 15,
+      "questions": [
+        {
+          "domain": "Cath",
+          "question": "Does cardiac catheterization confirm peak RV-to-PA gradient >40 mmHg for isolated pulmonary stenosis in symptomatic patients?",
+          "confirmingAnswer": "Yes — catheterization confirms echo Doppler gradient; therapeutic balloon pulmonary valvuloplasty (BPV) indicated for peak gradient >40 mmHg; BPV achieves >85% acute success for valvar PS; conduit interventions may require TPVR",
+          "points": 8,
+          "cost": "Large"
+        },
+        {
+          "domain": "Cath",
+          "question": "Is the RV systolic pressure ≥2/3 systemic (suprasystemic or near-systemic RV pressure), indicating severe obstruction or associated pulmonary hypertension?",
+          "confirmingAnswer": "Yes — suprasystemic RV pressure indicates critical PS or dynamic RVOT obstruction (infundibular component); near-systemic pressure predicts faster RV failure and elevates SCD risk from RV hypertrophy and fibrosis",
+          "points": 7,
+          "cost": "Large"
+        }
+      ]
+    },
+    {
+      "heading": "GENETICS / ASSOCIATED CONDITIONS — 10 pts",
+      "sectionPoints": 10,
+      "questions": [
+        {
+          "domain": "Genetics",
+          "question": "Is there Noonan syndrome (PTPN11, SOS1, RAF1, RIT1 variants) — the most common genetic cause of pulmonary stenosis (present in ~50–80% of Noonan patients)?",
+          "confirmingAnswer": "Yes — Noonan-associated PS is typically valvar with dysplastic, thickened, immobile leaflets; responds poorly to balloon valvuloplasty (success <50%); surgical valvotomy or replacement often required; co-existing HCM in ~30% of Noonan",
+          "points": 6,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Genetics",
+          "question": "Is there Tetralogy of Fallot (prior surgical repair), Williams syndrome, Alagille syndrome, or CHARGE syndrome contributing to RVOT/PA anatomy?",
+          "confirmingAnswer": "Yes — syndromic RVOT disease dictates natural history; repaired TOF is the most common indication for PVR in adolescents/adults; Williams and Alagille cause supravalvar/branch PA stenosis requiring serial catheter interventions",
+          "points": 4,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "SYMPTOMS / CLINICAL HISTORY — 10 pts",
+      "sectionPoints": 10,
+      "questions": [
+        {
+          "domain": "Symptoms",
+          "question": "Is there exertional dyspnea, exercise intolerance (≥2 MET limitation), or new-onset heart failure symptoms (edema, hepatomegaly)?",
+          "confirmingAnswer": "Yes — symptoms in RVOT disease indicate RV decompensation; exertional intolerance is the primary driver of intervention decisions; VO2max <65% predicted on CPET is an additional objective criterion for PVR",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Symptoms",
+          "question": "Is there documented sustained ventricular tachycardia, syncope, or a history of resuscitated cardiac arrest — particularly in repaired TOF?",
+          "confirmingAnswer": "Yes — VT/syncope in repaired TOF indicates significant RV pathology; QRS >180 ms on ECG + RV dilation is a major SCD risk combination; VT ablation ± ICD implantation required in addition to PVR",
+          "points": 4,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "DEVICE / INTERVENTION READINESS — 10 pts",
+      "sectionPoints": 10,
+      "questions": [
+        {
+          "domain": "Intervention",
+          "question": "Is coronary compression testing negative (no coronary compromise with test balloon inflation in RVOT/conduit position), confirming TPVR safety?",
+          "confirmingAnswer": "Yes — coronary compression occurs in ~5% of TPVR candidates; negative test is required before proceeding; positive result mandates surgical PVR instead of TPVR; CT coronary anatomy pre-procedure is mandatory",
+          "points": 6,
+          "cost": "Large"
+        },
+        {
+          "domain": "Intervention",
+          "question": "Is the conduit or native RVOT calcified or obstructed in a pattern requiring prestenting before TPVR valve deployment?",
+          "confirmingAnswer": "Yes — calcified conduits benefit from bare-metal prestenting to reduce fracture risk and optimize landing zone; Melody valve fracture rate without prestenting is ~10%; prestenting reduces to <1%",
+          "points": 4,
+          "cost": "Medium"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {
+    "high": {
+      "label": "🔴  80–100 High confidence",
+      "action": "PV disease with RV dilation/dysfunction confirmed; refer to interventional pediatric cardiologist for TPVR candidacy assessment (coronary CT, sizing); Melody or SAPIEN 3 for conduit disease; Harmony TPV for dilated native RVOT; surgical PVR for anatomy unsuitable for TPVR",
+      "min": 80,
+      "max": 100
+    },
+    "moderate": {
+      "label": "🟡  50–79 Moderate confidence",
+      "action": "CMR mandatory for RV volumetry (RVEDVi, RVEF, PR fraction) and RVOT anatomy; exercise test for functional capacity; annual surveillance if below intervention threshold; ICD/electrophysiology evaluation if QRS >160 ms or NSVT present",
+      "min": 50,
+      "max": 79
+    },
+    "low": {
+      "label": "🟢  <50 Low confidence",
+      "action": "mild PS or residual PR; surveillance echo every 1–2 years; if prior RVOT surgery, annual echo surveillance mandatory regardless of score; rule out dynamic RVOT obstruction with exercise echo; activity restrictions per ACC CHD guidelines",
+      "min": 1,
+      "max": 2
+    }
+  },
+  "guidelinesCitation": "",
+  "conditionId": 80,
+  "conditionName": "Pulmonary Valve / RVOT Disease",
+  "specialty": "cardiology",
+  "agentType": "diagnosis"
+}

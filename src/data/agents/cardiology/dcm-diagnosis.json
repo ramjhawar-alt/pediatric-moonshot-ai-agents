@@ -1,0 +1,173 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "Each domain question draws from the complete medical record. Points reflect diagnostic weight. Cost reflects typical test burden: Small = existing record / standard echo  |  Medium = targeted test or genetic panel ($200–$1,500)  |  Large = advanced imaging CT/MRI/RHC ($1,500–$5,000+)",
+  "sections": [
+    {
+      "heading": "ECHOCARDIOGRAPHIC FINDINGS — 30 pts",
+      "sectionPoints": 30,
+      "questions": [
+        {
+          "domain": "Echo / Imaging",
+          "question": "Is there LV dilation (LVEDd Z-score >2 in children; >5.5 cm in adults) with global systolic dysfunction on 2D echo?",
+          "confirmingAnswer": "Yes — LV dilation + reduced EF is the primary diagnostic criterion for DCM; Z-score >2 corrects for body surface area in pediatric patients",
+          "points": 15,
+          "cost": "Small"
+        },
+        {
+          "domain": "Echo / Imaging",
+          "question": "Is LV ejection fraction (LVEF) <45% (or <50% by biplane Simpson in symptomatic patients) on echo or cardiac MRI?",
+          "confirmingAnswer": "Yes — LVEF <45% with dilation defines DCM in the absence of another cause; distinguishes from HFpEF; <35% triggers ICD consideration",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "Echo / Imaging",
+          "question": "Is there functional mitral regurgitation (FMR) from annular dilation and papillary muscle displacement?",
+          "confirmingAnswer": "Yes — FMR is present in ~50% of DCM and contributes to hemodynamic deterioration; severity worsens with progressive LV dilation",
+          "points": 5,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "CARDIAC MRI (CMR) — 18 pts",
+      "sectionPoints": 18,
+      "questions": [
+        {
+          "domain": "Cardiac MRI",
+          "question": "Does CMR confirm LV dilation, EF, and distinguish DCM from ischemic cardiomyopathy (subendocardial vs. mid-wall fibrosis pattern)?",
+          "confirmingAnswer": "Yes — CMR is gold standard for DCM phenotyping; ischemic LGE (subendocardial/transmural) vs. DCM pattern (mid-wall septal stripe or diffuse) guides etiology and prognosis",
+          "points": 8,
+          "cost": "Large"
+        },
+        {
+          "domain": "Cardiac MRI",
+          "question": "Is there mid-wall late gadolinium enhancement (LGE) on CMR indicating myocardial fibrosis (present in ~30% of DCM)?",
+          "confirmingAnswer": "Yes — mid-wall septal LGE in DCM is an independent predictor of SCD, arrhythmia, and adverse outcome; presence supports prophylactic ICD implantation",
+          "points": 10,
+          "cost": "Large"
+        }
+      ]
+    },
+    {
+      "heading": "GENETICS / FAMILY HISTORY — 20 pts",
+      "sectionPoints": 20,
+      "questions": [
+        {
+          "domain": "Genetics",
+          "question": "Has genetic testing identified a pathogenic variant in TTN (most common: ~20–25% of familial DCM), LMNA, SCN5A, MYH7, MYBPC3, RBM20, FLNC, or PLN?",
+          "confirmingAnswer": "Yes — TTN truncating variants are most common; LMNA mutations carry highest arrhythmia/SCD risk requiring early ICD; confirms genetic DCM and enables cascade family screening",
+          "points": 12,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Genetics",
+          "question": "Is there a first-degree relative with confirmed DCM (familial DCM present in 20–50% of cases when systematic family screening performed)?",
+          "confirmingAnswer": "Yes — family history changes classification to familial DCM; triggers echo screening of all first-degree relatives; increases likelihood of identifying a causative gene",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Genetics",
+          "question": "Is there an associated genetic syndrome or systemic condition (Duchenne/Becker MD, Barth syndrome, Emery-Dreifuss MD, Friedrich's ataxia, hemochromatosis)?",
+          "confirmingAnswer": "Yes — syndromic DCM carries distinct prognosis and management (e.g., Barth: 3-methylglutaconic aciduria, neutropenia; Duchenne: corticosteroid benefit, respiratory monitoring)",
+          "points": 2,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "ECG FINDINGS — 12 pts",
+      "sectionPoints": 12,
+      "questions": [
+        {
+          "domain": "ECG",
+          "question": "Is there LBBB (QRS ≥120 ms with left bundle morphology) or non-specific intraventricular conduction delay (IVCD) on ECG?",
+          "confirmingAnswer": "Yes — LBBB in DCM predicts poor mechanical coordination and LV dyssynchrony; QRS ≥150 ms with LBBB is the strongest predictor of CRT response",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "ECG",
+          "question": "Is there PR prolongation (first-degree AV block) or advanced AV block, particularly in LMNA-positive DCM?",
+          "confirmingAnswer": "Yes — LMNA cardiomyopathy has a classic phenotype: AV block + DCM + arrhythmia; PR prolongation is often the earliest LMNA manifestation and prompts prophylactic ICD",
+          "points": 4,
+          "cost": "Small"
+        },
+        {
+          "domain": "ECG",
+          "question": "Is there non-sustained ventricular tachycardia (NSVT) on Holter or prolonged event monitor?",
+          "confirmingAnswer": "Yes — NSVT in DCM with LVEF <35% is a major ICD indication; LMNA-positive patients with NSVT have especially high SCD risk even at higher EF",
+          "points": 2,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "BIOMARKERS — 10 pts",
+      "sectionPoints": 10,
+      "questions": [
+        {
+          "domain": "Biomarkers",
+          "question": "Is NT-proBNP >1000 pg/mL (or BNP >200 pg/mL) significantly elevated reflecting LV wall stress?",
+          "confirmingAnswer": "Yes — NT-proBNP elevation in DCM correlates with NYHA class, LVEF, and prognosis; serial monitoring guides therapy titration and guides heart failure hospitalization risk",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Biomarkers",
+          "question": "Is troponin (hs-TnI or hs-TnT) persistently elevated indicating ongoing myocyte injury (myocarditis etiology possible)?",
+          "confirmingAnswer": "Yes — troponin elevation in new-onset DCM suggests active myocarditis or inflammatory cardiomyopathy; triggers CMR for myocarditis LGE pattern (epicardial/mid-wall) and immunosuppression consideration",
+          "points": 4,
+          "cost": "Small"
+        }
+      ]
+    },
+    {
+      "heading": "SYMPTOMS / CLINICAL HISTORY — 10 pts",
+      "sectionPoints": 10,
+      "questions": [
+        {
+          "domain": "Symptoms",
+          "question": "Is there progressive dyspnea, orthopnea, exercise intolerance, or fluid retention (NYHA class II–IV)?",
+          "confirmingAnswer": "Yes — heart failure symptoms drive functional classification; NYHA III/IV is a high-risk marker and guides device therapy (ICD, CRT, LVAD) and transplant evaluation",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Symptoms",
+          "question": "Is there a history of recent viral illness (within 4–6 weeks) preceding onset, or documented SARS-CoV-2 infection (post-COVID cardiomyopathy)?",
+          "confirmingAnswer": "Yes — viral myocarditis is the most common cause of new-onset DCM in children and young adults; post-COVID cardiomyopathy is an emerging etiology with partially reversible phenotype",
+          "points": 4,
+          "cost": "Small"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {
+    "high": {
+      "label": "🔴  80–100 High confidence",
+      "action": "DCM confirmed; initiate GDMT (ACEi/ARB/ARNI + beta-blocker + MRA + SGLT2i); genetic testing and family screening mandatory; assess for ICD (LVEF <35%) or CRT-D (LVEF <35% + LBBB); refer for transplant evaluation if refractory",
+      "min": 80,
+      "max": 100
+    },
+    "moderate": {
+      "label": "🟡  50–79 Moderate confidence",
+      "action": "CMR indicated to confirm etiology, quantify EF, and assess fibrosis; troponin + inflammatory markers; genetic panel; rhythm monitoring (Holter); co-manage with pediatric heart failure specialist",
+      "min": 50,
+      "max": 79
+    },
+    "low": {
+      "label": "🟢  <50 Low confidence",
+      "action": "echo with speckle-tracking strain analysis; exclude secondary causes (thyroid, tachycardia-induced, toxic, alcohol, nutritional); rule out physiologic LV dilation (athlete's heart), HCM phenocopy, or storage disease; repeat echo in 3 months",
+      "max": 49,
+      "min": 0
+    }
+  },
+  "guidelinesCitation": "",
+  "conditionId": 36,
+  "conditionName": "Dilated Cardiomyopathy",
+  "specialty": "cardiology",
+  "agentType": "diagnosis"
+}

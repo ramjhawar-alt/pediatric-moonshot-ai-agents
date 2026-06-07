@@ -17,9 +17,18 @@ env/
 dist/
 build/
 
-# Node
+# Node / Next.js
 node_modules/
+.next/
 npm-debug.log*
+next-env.d.ts
+
+# Source materials (confidential — not needed for deployment)
+/atlases/
+/agents/
+/research/
+/bevelcloud copy/
+/docs/
 
 # Environment variables
 .env

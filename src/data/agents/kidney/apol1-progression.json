@@ -1,0 +1,89 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "APOL1-Associated Kidney Disease  |  100-Point Adverse Prognostic Score  |  KDIGO 2021 CKD Guidelines / AASK Trial / APOL1 Long-term Kidney Transplantation Outcomes (APOLLO) Study  |  Progression Trajectory: Fast / Moderate / Slow",
+  "sections": [
+    {
+      "heading": "APOL1 High-Risk Genotype",
+      "sectionPoints": 0,
+      "questions": [
+        {
+          "domain": "APOL1 High-Risk Genotype",
+          "question": "Are two APOL1 high-risk alleles (G1/G1, G1/G2, or G2/G2) confirmed? (Prerequisite: required for all prognostic scoring in this agent)",
+          "confirmingAnswer": "Yes — APOL1 high-risk genotype confirmed; foundational risk marker; penetrance ~20–30% lifetime",
+          "points": 10,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Active Second-Hit Trigger",
+          "question": "Is there an active inflammatory or viral trigger known to amplify APOL1 nephrotoxicity? (HIV viremia, active SLE, interferon therapy, SARS-CoV-2 infection)",
+          "confirmingAnswer": "Yes — second-hit trigger present and active; APOL1 channel opening accelerated; rapid CKD progression expected",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "Cardiovascular Risk Burden",
+          "question": "Is there established atherosclerotic cardiovascular disease, diabetes, or metabolic syndrome coexisting with APOL1 nephropathy?",
+          "confirmingAnswer": "Yes — high cardiovascular-renal risk burden confirmed; synergistic CKD accelerators beyond APOL1 alone",
+          "points": 5,
+          "cost": "Small"
+        },
+        {
+          "domain": "Proteinuria Level",
+          "question": "Is proteinuria ≥1 g/day (urine PCR ≥1.0 mg/mg) at current assessment?",
+          "confirmingAnswer": "Yes — significant proteinuria confirmed; reflects active podocyte injury; strongest modifiable progression driver",
+          "points": 15,
+          "cost": "Small"
+        },
+        {
+          "domain": "Proteinuria Trend",
+          "question": "Has proteinuria worsened ≥50% from baseline over ≥6 months despite RAS blockade?",
+          "confirmingAnswer": "Yes — rising proteinuria on therapy; treatment-resistant disease activity; consider APOL1-specific trial enrollment",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "eGFR Level",
+          "question": "Is eGFR <30 mL/min/1.73m² (CKD Stage 4) at current assessment?",
+          "confirmingAnswer": "Yes — severely reduced eGFR; ESRD within 3–5 years at median APOL1 progression rate; transplant planning indicated",
+          "points": 15,
+          "cost": "Small"
+        },
+        {
+          "domain": "eGFR Decline Rate",
+          "question": "Is annualized eGFR decline >5 mL/min/1.73m²/year confirmed on ≥3 serial measurements over ≥12 months?",
+          "confirmingAnswer": "Yes — rapid progression confirmed; APOL1 nephropathy median decline 5–7 mL/min/year vs. 1–2 for typical CKD",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "Collapsing FSGS",
+          "question": "Is collapsing focal segmental glomerulosclerosis confirmed on kidney biopsy? (strongest APOL1-associated histologic pattern)",
+          "confirmingAnswer": "Yes — collapsing FSGS confirmed; 50–70% ESRD risk within 3 years; APOL1-mediated podocyte collapse",
+          "points": 10,
+          "cost": "Large"
+        },
+        {
+          "domain": "Tubular Atrophy / Interstitial Fibrosis",
+          "question": "Is there moderate-to-severe tubular atrophy or interstitial fibrosis (>25% of cortex) on biopsy?",
+          "confirmingAnswer": "Yes — significant chronic injury confirmed; irreversible nephron loss; limits renoprotective treatment response",
+          "points": 5,
+          "cost": "Large"
+        },
+        {
+          "domain": "Hypertension Control",
+          "question": "Is BP persistently ≥140/90 mmHg despite ≥3 antihypertensive agents including ACE inhibitor or ARB (uncontrolled hypertension)?",
+          "confirmingAnswer": "Yes — refractory hypertension confirmed; APOL1 nephropathy has disproportionate hypertension burden and is ACE/ARB-resistant in severe cases",
+          "points": 10,
+          "cost": "Small"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {},
+  "guidelinesCitation": "Kopp et al. JASN 2011 (APOL1 and FSGS/CKD)  |  Parsa et al. NEJM 2013 (APOL1 and CKD in AASK/CRIC)  |  Dummer et al. JASN 2015 (APOL1 and CKD progression)  |  APOLLO Study: Freedman et al. JASN 2021  |  KDIGO 2021 CKD Guidelines  |  Beckerman et al. Nat Med 2017 (APOL1 channel mechanism)  |  inaxaplin Phase 2: Toto et al. NEJM 2023",
+  "conditionId": 4,
+  "conditionName": "APOL1-Mediated Nephropathy",
+  "specialty": "kidney",
+  "agentType": "progression"
+}

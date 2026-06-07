@@ -1,0 +1,124 @@
+{
+  "type": "scored",
+  "totalPoints": 100,
+  "preamble": "Bicuspid Aortic Valve  |  100-Point Adverse Prognostic Score  |  ACC/AHA 2021 BAV Guidelines / ESC 2021 VHD  |  Progression Trajectory: Fast / Moderate / Slow",
+  "sections": [
+    {
+      "heading": "Aortic Stenosis",
+      "sectionPoints": 0,
+      "questions": [
+        {
+          "domain": "Aortic Stenosis",
+          "question": "Is peak aortic jet velocity ≥4.0 m/s (severe AS) or mean gradient ≥40 mmHg on Doppler echo?",
+          "confirmingAnswer": "Yes — severe AS confirmed (Vmax ≥4.0 m/s or mean gradient ≥40 mmHg)",
+          "points": 15,
+          "cost": "Small"
+        },
+        {
+          "domain": "Aortic Regurgitation",
+          "question": "Is aortic regurgitation severe (vena contracta >6 mm, regurgitant fraction >50%, or LVEDD >65 mm)?",
+          "confirmingAnswer": "Yes — severe AR confirmed",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "Aortic Dilation",
+          "question": "Is aortic root or ascending aorta ≥4.5 cm (adults) or Z-score ≥4 (pediatric) on echo or CT/MRI?",
+          "confirmingAnswer": "Yes — aortic dilation at or above surgical threshold",
+          "points": 12,
+          "cost": "Small"
+        },
+        {
+          "domain": "Rate of Growth",
+          "question": "Has aortic diameter increased ≥0.5 cm/year on serial imaging over ≥2 measurement intervals?",
+          "confirmingAnswer": "Yes — rapid growth confirmed; surgical repair indicated regardless of absolute size",
+          "points": 8,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Multi-segment Involvement",
+          "question": "Does CT/MRI show aortic arch or descending aorta involvement beyond the sino-tubular junction?",
+          "confirmingAnswer": "Yes — pan-aortic disease phenotype; annual full-aorta imaging required",
+          "points": 5,
+          "cost": "Large"
+        },
+        {
+          "domain": "LV Ejection Fraction",
+          "question": "Is LVEF <50% on echo or cardiac MRI (systolic dysfunction)?",
+          "confirmingAnswer": "Yes — LV systolic dysfunction confirmed; Class I surgical indication",
+          "points": 10,
+          "cost": "Small"
+        },
+        {
+          "domain": "LV Hypertrophy",
+          "question": "Is LV mass index >115 g/m² (men) / >95 g/m² (women) or septal thickness >13 mm on echo?",
+          "confirmingAnswer": "Yes — significant LVH confirmed; pressure overload from AS",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Diastolic Dysfunction",
+          "question": "Is there Grade II or III diastolic dysfunction (E/e' ratio >14, LA dilation, elevated filling pressures)?",
+          "confirmingAnswer": "Yes — elevated LV filling pressures confirmed",
+          "points": 4,
+          "cost": "Small"
+        },
+        {
+          "domain": "High-Risk Genetic Syndrome",
+          "question": "Is there confirmed Turner syndrome (45,X), Loeys-Dietz, or ACTA2/MYH11/TGFBR1/2 pathogenic variant?",
+          "confirmingAnswer": "Yes — high-risk connective tissue syndrome; lower surgical threshold applies",
+          "points": 8,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Family History",
+          "question": "Is there a first-degree relative with aortic dissection, aneurysm ≥5 cm, or confirmed BAV?",
+          "confirmingAnswer": "Yes — familial BAV or dissection history confirmed",
+          "points": 4,
+          "cost": "Small"
+        },
+        {
+          "domain": "Coarctation of the Aorta",
+          "question": "Is there a confirmed or repaired coarctation of the aorta (gradient >20 mmHg or prior repair)?",
+          "confirmingAnswer": "Yes — BAV + CoA co-occurrence; higher risk of LV dysfunction and hypertension",
+          "points": 3,
+          "cost": "Small"
+        },
+        {
+          "domain": "Symptomatic Status",
+          "question": "Is the patient symptomatic from BAV disease (NYHA Class II–IV dyspnea, angina, or syncope)?",
+          "confirmingAnswer": "Yes — symptoms present; Class I trigger for surgical intervention",
+          "points": 6,
+          "cost": "Small"
+        },
+        {
+          "domain": "Exercise Capacity",
+          "question": "Does exercise testing show reduced functional capacity (<80% predicted METs) or abnormal BP response?",
+          "confirmingAnswer": "Yes — reduced exercise capacity confirms symptomatic reclassification",
+          "points": 4,
+          "cost": "Medium"
+        },
+        {
+          "domain": "Infective Endocarditis",
+          "question": "Is there a prior episode of infective endocarditis on the BAV?",
+          "confirmingAnswer": "Yes — prior IE confirmed; accelerated valvular destruction risk",
+          "points": 3,
+          "cost": "Small"
+        },
+        {
+          "domain": "Prior BAV Intervention",
+          "question": "Has the patient had prior balloon valvuloplasty, surgical AVR, or TAVI?",
+          "confirmingAnswer": "Yes — structural valve deterioration or prosthesis mismatch risk",
+          "points": 2,
+          "cost": "Small"
+        }
+      ]
+    }
+  ],
+  "confidenceThresholds": {},
+  "guidelinesCitation": "ACC/AHA 2021 VHD Guidelines (Otto et al.)  |  ESC/EACTS 2021 VHD Guidelines  |  BAVS Registry  |  Michelena et al. JAMA 2011  |  Tzemos et al. JAMA 2008  |  Siu & Silversides JACC 2010  |  Evangelista et al. JACC 2013",
+  "conditionId": 1,
+  "conditionName": "Bicuspid Aortic Valve",
+  "specialty": "cardiology",
+  "agentType": "progression"
+}

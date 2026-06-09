@@ -8,13 +8,14 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['var(--font-inter)', 'system-ui', 'sans-serif'],
+      },
       colors: {
-        brand: {
-          50:  '#eff6ff',
-          100: '#dbeafe',
-          600: '#1d4ed8',
-          700: '#1e40af',
-          900: '#1e3a5f',
+        clinical: {
+          navy:   '#0F1B35',
+          blue:   '#1E40AF',
+          accent: '#2563EB',
         },
       },
     },

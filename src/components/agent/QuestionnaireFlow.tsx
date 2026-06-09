@@ -4,8 +4,7 @@ import { useState, useMemo } from 'react'
 import type { ScoredAgent } from '@/lib/types'
 import { buildTestOptions, flattenQuestions, isEligible, computeScore } from '@/lib/scoring'
 import TestSelectionStep from './TestSelectionStep'
-import DomainSection from './DomainSection'
-import LiveScoreWidget from './LiveScoreWidget'
+import SingleQuestionView from './SingleQuestionView'
 import ResultsPanel from './ResultsPanel'
 
 interface Props {
@@ -18,6 +17,7 @@ export default function QuestionnaireFlow({ agent }: Props) {
   const [step, setStep]                     = useState<1 | 2 | 3>(1)
   const [completedTests, setCompletedTests] = useState<Set<string>>(new Set())
   const [answers, setAnswers]               = useState<Record<string, boolean | null>>({})
+  const [currentIdx, setCurrentIdx]         = useState(0)
 
   function toggleTest(id: string) {
     setCompletedTests(prev => {
@@ -35,118 +35,120 @@ export default function QuestionnaireFlow({ agent }: Props) {
     setStep(1)
     setCompletedTests(new Set())
     setAnswers({})
+    setCurrentIdx(0)
   }
 
-  const allQuestions = useMemo(() => flattenQuestions(agent), [agent])
+  function beginAssessment() {
+    setCurrentIdx(0)
+    setStep(2)
+  }
+
   const eligibleQuestions = useMemo(
-    () => allQuestions.filter(q => isEligible(q, completedTests)),
-    [allQuestions, completedTests],
+    () => flattenQuestions(agent).filter(q => isEligible(q, completedTests)),
+    [agent, completedTests],
   )
-  const answeredCount = useMemo(
-    () => eligibleQuestions.filter(q => answers[q.key] !== null && answers[q.key] !== undefined).length,
-    [eligibleQuestions, answers],
-  )
+
   const score = useMemo(
     () => computeScore(agent, completedTests, answers),
     [agent, completedTests, answers],
   )
 
+  // Navigation
+  function goNext() {
+    if (currentIdx >= eligibleQuestions.length - 1) {
+      setStep(3)
+    } else {
+      setCurrentIdx(i => i + 1)
+    }
+  }
+
+  function goPrev() {
+    if (currentIdx > 0) setCurrentIdx(i => i - 1)
+  }
+
   // Step indicator
-  const steps = ['Test Selection', 'Questions', 'Results']
+  const STEPS = [
+    { n: 1, label: 'Test Selection' },
+    { n: 2, label: 'Questions' },
+    { n: 3, label: 'Results' },
+  ]
 
   return (
     <div>
       {/* Step progress */}
-      <div className="flex items-center gap-2 mb-8">
-        {steps.map((label, i) => {
-          const n = i + 1
+      <div className="flex items-center gap-3 mb-8">
+        {STEPS.map(({ n, label }, i) => {
           const active = step === n
           const done   = step > n
           return (
             <div key={n} className="flex items-center gap-2">
-              <div className={`flex items-center justify-center w-7 h-7 rounded-full text-xs font-bold transition-colors ${
+              <div className={`flex items-center justify-center w-7 h-7 rounded-full text-xs font-bold transition-all ${
                 done   ? 'bg-blue-600 text-white' :
-                active ? 'bg-blue-700 text-white ring-2 ring-blue-300' :
-                         'bg-slate-200 text-slate-500'
+                active ? 'bg-blue-700 text-white ring-2 ring-blue-200' :
+                         'bg-slate-100 text-slate-400'
               }`}>
                 {done ? '✓' : n}
               </div>
-              <span className={`text-sm hidden sm:inline ${active ? 'font-semibold text-slate-800' : 'text-slate-400'}`}>
+              <span className={`text-sm hidden sm:inline transition-colors ${
+                active ? 'font-semibold text-slate-800' : 'text-slate-400'
+              }`}>
                 {label}
               </span>
-              {i < steps.length - 1 && <span className="text-slate-200 ml-2">—</span>}
+              {i < STEPS.length - 1 && (
+                <span className="text-slate-200 text-xs ml-1">—</span>
+              )}
             </div>
           )
         })}
       </div>
 
+      {/* Step 1: Test selection */}
       {step === 1 && (
         <TestSelectionStep
           agent={agent}
           testOptions={testOptions}
           completedTests={completedTests}
           onToggle={toggleTest}
-          onBegin={() => setStep(2)}
+          onBegin={beginAssessment}
         />
       )}
 
-      {step === 2 && (
-        <div className="flex gap-8 items-start">
-          {/* Questions */}
-          <div className="flex-1 min-w-0">
-            <div className="flex items-center justify-between mb-6">
-              <h2 className="text-xl font-bold text-slate-800">Assessment Questions</h2>
-              <button
-                onClick={() => setStep(3)}
-                className="px-5 py-2 bg-blue-700 text-white rounded-lg text-sm font-semibold hover:bg-blue-800 transition-colors"
-              >
-                View Results →
-              </button>
-            </div>
-            {agent.sections.map((section, si) => (
-              <DomainSection
-                key={si}
-                section={section}
-                sectionIndex={si}
-                completedTests={completedTests}
-                answers={answers}
-                onAnswer={setAnswer}
-              />
-            ))}
-            <div className="mt-6 pt-4 border-t border-slate-200 flex justify-between">
-              <button
-                onClick={() => setStep(1)}
-                className="px-4 py-2 text-sm text-slate-500 hover:text-slate-700 transition-colors"
-              >
-                ← Change Tests
-              </button>
-              <button
-                onClick={() => setStep(3)}
-                className="px-6 py-2.5 bg-blue-700 text-white rounded-lg text-sm font-semibold hover:bg-blue-800 transition-colors"
-              >
-                View Results →
-              </button>
-            </div>
-          </div>
+      {/* Step 2: Questions — one at a time */}
+      {step === 2 && eligibleQuestions.length > 0 && (
+        <SingleQuestionView
+          question={eligibleQuestions[currentIdx]}
+          questionNumber={currentIdx + 1}
+          totalQuestions={eligibleQuestions.length}
+          sectionName={
+            // Find which section heading this question belongs to
+            agent.sections.find(s =>
+              s.questions.some((_, qi) => {
+                const si = agent.sections.indexOf(s)
+                return `${si}-${qi}` === eligibleQuestions[currentIdx].key
+              })
+            )?.heading ?? 'Assessment'
+          }
+          answer={answers[eligibleQuestions[currentIdx].key] ?? null}
+          onAnswer={setAnswer}
+          onPrevious={goPrev}
+          onNext={goNext}
+          isFirst={currentIdx === 0}
+          isLast={currentIdx === eligibleQuestions.length - 1}
+          score={score}
+        />
+      )}
 
-          {/* Sticky score widget */}
-          <div className="w-64 shrink-0 sticky top-20">
-            <LiveScoreWidget
-              score={score}
-              agent={agent}
-              answeredCount={answeredCount}
-              totalEligible={eligibleQuestions.length}
-            />
-            <button
-              onClick={() => setStep(3)}
-              className="mt-3 w-full py-2 bg-blue-700 text-white rounded-lg text-sm font-semibold hover:bg-blue-800 transition-colors"
-            >
-              View Results →
-            </button>
-          </div>
+      {/* Fallback: no eligible questions */}
+      {step === 2 && eligibleQuestions.length === 0 && (
+        <div className="text-center py-16 text-slate-400 text-sm">
+          <p>No questions available for the selected tests.</p>
+          <button onClick={() => setStep(1)} className="mt-4 text-blue-600 hover:text-blue-800 underline text-sm">
+            Go back to test selection
+          </button>
         </div>
       )}
 
+      {/* Step 3: Results */}
       {step === 3 && (
         <ResultsPanel agent={agent} score={score} onRestart={restart} />
       )}
